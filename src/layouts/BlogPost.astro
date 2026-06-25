@@ -868,7 +868,11 @@ if (tocHeadings.length < 2) {
     const a    = document.createElement('a');
     const text = document.createElement('span');
     text.className = 'toc-item-text';
-    text.textContent = h.textContent ?? '';
+    // Strip leading "1." numbering from headings, then keep first 5 words
+    const raw = (h.textContent ?? '').replace(/^\d+\.\s*/, '').trim();
+    const words = raw.split(' ');
+    text.textContent = words.slice(0, 5).join(' ') + (words.length > 5 ? '…' : '');
+    text.title = raw; // full text on hover tooltip
     a.href = `#${h.id}`;
     a.appendChild(text);
     li.appendChild(a);
