@@ -102,11 +102,18 @@ const catClass: Record<string, string> = {
           <p class="post-description">{description}</p>
 
           <div class="post-meta">
-            <span class="post-author">{author}</span>
-            <span class="meta-dot" aria-hidden="true">·</span>
-            <time datetime={datePublished}>{formattedDate}</time>
-            <span class="meta-dot" aria-hidden="true">·</span>
-            <span>{readTime} min read</span>
+            <span class="meta-item">
+              <span class="meta-label">Date :</span>
+              <time datetime={datePublished}>{formattedDate}</time>
+            </span>
+            <span class="meta-item">
+              <span class="meta-label">Category :</span>
+              <span>{category}</span>
+            </span>
+            <span class="meta-item">
+              <span class="meta-label">Read</span>
+              <span>{readTime} min</span>
+            </span>
           </div>
         </div>
       </header>
@@ -171,8 +178,13 @@ const catClass: Record<string, string> = {
           <!-- SIDEBAR -->
           <aside class="post-sidebar" aria-label="Article sidebar">
             <div class="sidebar-toc" id="sidebar-toc">
-              <p class="sidebar-toc-heading">In this article</p>
-              <ol class="sidebar-toc-list" id="sidebar-toc-list"></ol>
+              <div class="toc-header" id="toc-header">
+                <span class="toc-title">Table of Contents</span>
+                <button class="toc-toggle" id="toc-toggle" aria-label="Collapse table of contents">&#x2303;</button>
+              </div>
+              <div class="toc-body" id="toc-body">
+                <ol class="sidebar-toc-list" id="sidebar-toc-list"></ol>
+              </div>
             </div>
             <div class="sidebar-cta">
               <p class="sidebar-cta-label">More ideas</p>
@@ -299,12 +311,21 @@ const catClass: Record<string, string> = {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8px;
-  font-size: 0.82rem;
-  color: var(--color-text-faint);
+  gap: 24px;
+  font-size: 0.85rem;
+  color: var(--color-text);
+  border-top: 1px solid var(--color-border);
+  padding-top: 20px;
 }
-.meta-dot { color: var(--color-border); }
-.post-author { color: var(--color-ink); font-weight: 500; }
+.meta-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.meta-label {
+  font-weight: 700;
+  color: var(--color-ink);
+}
 
 /* ══════════════════════════════════════════
    ③ ARTICLE LAYOUT
@@ -411,12 +432,20 @@ const catClass: Record<string, string> = {
   font-style: italic;
 }
 
-/* Tables */
+/* Tables — mobile scroll wrapper added via JS */
+:global(.table-scroll-wrap) {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 2rem 0;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
 .post-body :global(table) {
   width: 100%;
+  min-width: 480px;
   border-collapse: collapse;
   font-size: 0.9rem;
-  margin: 2rem 0;
+  margin: 0;
 }
 .post-body :global(th) {
   background: var(--color-surface);
@@ -562,41 +591,87 @@ const catClass: Record<string, string> = {
   gap: 36px;
 }
 
-/* TOC */
-.sidebar-toc { border-top: 2px solid var(--color-ink); padding-top: 18px; }
-.sidebar-toc-heading {
-  font-size: 0.62rem;
-  font-weight: 600;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--color-ink);
-  margin: 0 0 16px;
+/* TOC — dark navy header card matching screenshot */
+.sidebar-toc {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #d4d8e8;
+  box-shadow: 0 2px 12px rgba(27,43,128,0.08);
 }
+.toc-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #1B2B80;
+  padding: 15px 18px;
+}
+.toc-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 0.01em;
+}
+.toc-toggle {
+  all: unset;
+  color: #fff;
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  transition: background 0.18s ease, transform 0.25s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.toc-toggle:hover { background: rgba(255,255,255,0.12); }
+.toc-toggle.is-collapsed { transform: rotate(180deg); }
+.toc-body {
+  background: #fff;
+  overflow: hidden;
+  max-height: 600px;
+  transition: max-height 0.3s ease;
+}
+.toc-body.is-collapsed { max-height: 0; }
 .sidebar-toc-list {
   list-style: none;
-  padding: 0;
+  padding: 6px 0;
   margin: 0;
-  display: flex;
-  flex-direction: column;
+  counter-reset: toc-item;
 }
+.sidebar-toc-list li { counter-increment: toc-item; }
 .sidebar-toc-list li a {
-  display: block;
-  font-size: 0.82rem;
-  color: var(--color-text-muted);
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 0.83rem;
+  color: #444;
   text-decoration: none;
-  padding: 8px 0;
-  border-bottom: 1px solid var(--color-border);
+  padding: 9px 16px;
+  border-bottom: 1px solid #eef0f5;
   line-height: 1.45;
-  transition: color var(--transition), padding-left var(--transition);
+  transition: color 0.18s, background 0.18s;
+}
+.sidebar-toc-list li a::before {
+  content: counter(toc-item) ".";
+  flex-shrink: 0;
+  color: #aaa;
+  font-size: 0.78rem;
+  min-width: 18px;
+  padding-top: 1px;
 }
 .sidebar-toc-list li:last-child a { border-bottom: none; }
-.sidebar-toc-list li a:hover { color: var(--color-ink); }
-.sidebar-toc-list li a.toc-active {
-  color: var(--color-ink);
-  font-weight: 500;
-  padding-left: 8px;
-  border-left: 2px solid var(--color-accent-dark);
+.sidebar-toc-list li a:hover {
+  color: #1B2B80;
+  background: rgba(27,43,128,0.04);
 }
+.sidebar-toc-list li a.toc-active {
+  color: #1B2B80;
+  font-weight: 600;
+  background: rgba(27,43,128,0.06);
+}
+.sidebar-toc-list li a.toc-active::before { color: #1B2B80; }
 
 /* Sidebar CTA */
 .sidebar-cta {
@@ -681,6 +756,15 @@ const catClass: Record<string, string> = {
 </style>
 
 <script>
+// ── Table mobile scroll wrap ──────────────────────────────
+document.querySelectorAll<HTMLTableElement>('.post-body table').forEach(table => {
+  const wrap = document.createElement('div');
+  wrap.className = 'table-scroll-wrap';
+  table.parentNode?.insertBefore(wrap, table);
+  wrap.appendChild(table);
+});
+
+// ── TOC build + scroll spy ────────────────────────────────
 const headings   = document.querySelectorAll<HTMLHeadingElement>('.post-body h2');
 const tocList    = document.getElementById('sidebar-toc-list');
 const sidebarToc = document.getElementById('sidebar-toc');
@@ -710,5 +794,14 @@ if (headings.length < 2) {
   }, { rootMargin: '-15% 0px -70% 0px' });
 
   headings.forEach(h => observer.observe(h));
+
+  // ── TOC collapse toggle ──
+  const tocToggle = document.getElementById('toc-toggle');
+  const tocBody   = document.getElementById('toc-body');
+  const tocHeader = document.getElementById('toc-header');
+  tocHeader?.addEventListener('click', () => {
+    tocBody?.classList.toggle('is-collapsed');
+    tocToggle?.classList.toggle('is-collapsed');
+  });
 }
 </script>

@@ -1,4 +1,5 @@
 ---
+import Analytics from '@vercel/analytics/astro';
 const year = new Date().getFullYear();
 ---
 
@@ -276,3 +277,5 @@ const year = new Date().getFullYear();
   .footer-tagline      { max-width: 100%; }
 }
 </style>
+
+<Analytics />

@@ -1,6 +1,6 @@
 ---
-title: "17 Small Apartment Organization Ideas on a Budget"
-description: "Transform your small apartment with these 17 budget-friendly organization ideas. Renter-friendly storage solutions that actually work in Canadian apartments."
+title: "17 Small Apartment Organization Ideas That Actually Work in Canada"
+description: "17 practical organization ideas for small Canadian apartments — tested in a real 520 sq ft Toronto apartment. Renter-friendly, no drilling, covers every room."
 image: "/images/studio-apartment-living.jpg"
 datePublished: "2026-01-15"
 dateModified: "2026-01-15"
