@@ -38,7 +38,7 @@ These 15 ideas use IKEA products the way they're meant to be used — no cutting
 
 Place the KALLAX 2×4 vertically between the sleeping and living zones in a studio apartment. It creates a visual divider without blocking all the light, and both sides of the bookcase can be used for storage and display.
 
-Add plants on top of the divider to make the transition feel designed, not improvised.
+Add plants on top of the divider to make the transition feel designed, not improvised. For more configurations and hacks specific to this unit, see [IKEA KALLAX hacks for small spaces](/blog/ikea-kallax-hacks-small-spaces/).
 
 **Cost:** KALLAX 2×4 ~$159 CAD.
 

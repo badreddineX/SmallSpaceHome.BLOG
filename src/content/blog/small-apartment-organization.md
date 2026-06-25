@@ -99,6 +99,8 @@ The bedroom serves two purposes: sleep and storage. Most small apartment bedroom
 - Second tension rod below the existing one for shirts and jackets
 - Over-door organizer on the closet door for shoes and accessories (~$25–$35 CAD)
 
+If you're working with a tight budget, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the highest-impact moves for under $50 CAD total.
+
 **Under the bed:**
 The biggest untapped storage in the bedroom. Flat lidded bins for seasonal clothes, extra bedding, and shoes. IKEA SKUBB under-bed bags ~$14 CAD for a 2-pack. Bed risers add clearance if needed (~$25 CAD).
 
@@ -127,6 +129,8 @@ Getting organized is one thing. Staying organized is the real challenge.
 **10-minute evening reset** — every surface cleared, dishes done, clothes hung or in laundry, nothing on the floor. Takes 10 minutes when done consistently.
 
 **Weekly zone check** — one zone per week, 15 minutes. Check that things are in their right place and nothing has accumulated that should not be there.
+
+For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places/) — it covers every room including the entryway and kitchen.
 
 ## Best Organization Products in Canada
 

@@ -138,7 +138,7 @@ Before spending a dollar on decor:
 - Remove anything that doesn't belong in the room
 - Find storage for items that need to stay but shouldn't be visible
 
-Once you can see your actual space — the furniture, the proportions, the light — you'll make much better decor decisions.
+Once you can see your actual space — the furniture, the proportions, the light — you'll make much better decor decisions. If decluttering feels overwhelming, the [complete small apartment organization guide](/blog/small-apartment-organization/) walks through it room by room.
 
 ## 10. Scent Is Part of the Atmosphere
 
@@ -191,6 +191,8 @@ The best apartment decor isn't from a catalogue — it has things in it that are
 Generic decor makes a space look like a showroom. Personal objects make it feel like a home.
 
 ---
+
+If your budget is tight, start with the free and under-$50 moves in our guide to [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/) before buying anything. And if you want specifically renter-focused ideas, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) goes deeper on deposit-safe upgrades.
 
 ## The Rental Apartment Decor Priority Order
 

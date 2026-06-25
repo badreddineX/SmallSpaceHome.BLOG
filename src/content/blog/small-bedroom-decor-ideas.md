@@ -116,6 +116,8 @@ When floor space is limited, walls become the main design canvas. Floating shelv
 - A wall-mounted reading light instead of a bedside lamp (frees nightstand space)
 - A tall piece of art rather than a wide one
 
+If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/) prioritizes the highest-impact moves first.
+
 ## 10. One Plant, Deliberately Placed
 
 A single well-chosen plant adds life and softness to a small bedroom without taking much space. A tall snake plant in the corner draws the eye up. A trailing pothos on a shelf adds texture.

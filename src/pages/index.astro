@@ -115,7 +115,7 @@ const latest   = sorted.slice(0, 6);
               <!-- Primary large card -->
               {featured[0] && (
                 <article class="feat-primary">
-                  <a href={`/blog/${featured[0].slug}`} class="feat-primary-img-link pin-wrap">
+                  <a href={`/blog/${featured[0].slug}`} class="feat-primary-img-link">
                     <div class="feat-primary-img img-placeholder" role="img" aria-label={featured[0].data.title}>
                       <img
                         src={featured[0].data.image}
@@ -124,11 +124,6 @@ const latest   = sorted.slice(0, 6);
                         onerror="this.style.display='none'"
                       />
                     </div>
-                    <a
-                      href={`https://pinterest.com/pin/create/button/?url=https://smallspacehome.ca/blog/${featured[0].slug}&media=https://smallspacehome.ca${featured[0].data.image}&description=${encodeURIComponent(featured[0].data.title)}`}
-                      class="pin-btn" target="_blank" rel="noopener noreferrer"
-                      aria-label="Save to Pinterest" onclick="event.stopPropagation();"
-                    >P</a>
                   </a>
                   <div class="feat-primary-body">
                     <span class={`category-pill cat-${featured[0].data.category.toLowerCase().replace(' ','-')}`}>
@@ -147,7 +142,7 @@ const latest   = sorted.slice(0, 6);
               <div class="feat-side">
                 {featured.slice(1).map(post => (
                   <article class="feat-side-card">
-                    <a href={`/blog/${post.slug}`} class="feat-side-img-link pin-wrap">
+                    <a href={`/blog/${post.slug}`} class="feat-side-img-link">
                       <div class="feat-side-img img-placeholder" role="img" aria-label={post.data.title}>
                         <img
                           src={post.data.image}
@@ -156,11 +151,6 @@ const latest   = sorted.slice(0, 6);
                           onerror="this.style.display='none'"
                         />
                       </div>
-                      <a
-                        href={`https://pinterest.com/pin/create/button/?url=https://smallspacehome.ca/blog/${post.slug}&media=https://smallspacehome.ca${post.data.image}&description=${encodeURIComponent(post.data.title)}`}
-                        class="pin-btn" target="_blank" rel="noopener noreferrer"
-                        aria-label="Save to Pinterest" onclick="event.stopPropagation();"
-                      >P</a>
                     </a>
                     <div class="feat-side-body">
                       <span class={`category-pill cat-${post.data.category.toLowerCase().replace(' ','-')}`}>

@@ -179,6 +179,8 @@ Some Canadian apartments — especially older ones in Montreal and Toronto — h
 
 ---
 
+For a deeper look at storage solutions organized by room — including the kitchen, bathroom, and entryway — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/).
+
 ## The Storage Priority Order for Canadian Renters
 
 If you're starting from zero, tackle this order for maximum impact per dollar:
