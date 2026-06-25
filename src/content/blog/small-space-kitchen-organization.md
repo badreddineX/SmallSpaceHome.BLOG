@@ -1,0 +1,151 @@
+---
+title: "Small Space Kitchen Organization: 14 Ideas for Canadian Apartment Kitchens"
+description: "14 kitchen organization ideas for small Canadian apartments — pantry, counters, cabinets, and drawers. Renter-friendly, real CAD prices, and what actually works."
+image: "/images/kitchen-organized-white.jpg"
+datePublished: "2026-03-29"
+dateModified: "2026-03-29"
+author: "Sarah Mitchell"
+tags: ["kitchen organization", "small kitchen", "Canada", "apartment kitchen", "pantry"]
+featured: false
+category: "Organization"
+readTime: 7
+faqs:
+  - q: "How do I organize a small apartment kitchen in Canada?"
+    a: "Zone your kitchen first — prep zone, cooking zone, pantry zone, and cleaning zone. Everything lives near where it's used. Then go vertical: pegboard, floating shelves, and over-cabinet storage. Clear counters of everything except daily-use items. The single biggest improvement is usually adding clear pantry bins and drawer dividers."
+  - q: "How do I create more counter space in a small kitchen?"
+    a: "Move everything off the counter that isn't used daily. Use a pegboard or magnetic strip on the wall for knives and utensils. A rolling cart (IKEA RASKOG) acts as an extra counter surface during cooking and tucks away afterward. Under-cabinet hooks for mugs free up cabinet space. Over-door organizers on the pantry cabinet door."
+  - q: "What are the best kitchen organization products for small apartments in Canada?"
+    a: "Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca), bamboo drawer dividers (~$22–$32 CAD, Amazon.ca), IKEA SKADIS pegboard (~$15 CAD), IKEA RASKOG rolling cart (~$39 CAD), over-door cabinet organizers (~$15–$22 CAD, Amazon.ca). These five together solve most small apartment kitchen problems for under $100 CAD total."
+  - q: "How do I store pots and pans in a small apartment kitchen?"
+    a: "Vertical storage is the answer. A pegboard on the wall or inside a deep cabinet holds pans flat. A pot lid organizer in a drawer keeps lids from rolling around. Stackable pot racks allow smaller pans to nest inside larger ones. If cabinet space is tight, a rolling cart acts as a pot storage solution you can keep in the kitchen or roll to a closet."
+---
+
+## TL;DR
+- 14 kitchen organization ideas for small Canadian apartments
+- Zone the kitchen first — organization follows the workflow
+- All renter-friendly, no modifications required
+- Total cost under $100 CAD for the most impactful changes
+
+---
+
+A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every day.
+
+I have a galley kitchen in my 510 sq ft Toronto apartment. Here's what has made the most difference.
+
+## Start With Zones
+
+Before buying a single organizer, decide where each type of task happens. Then make sure everything needed for that task lives nearby.
+
+**The four kitchen zones:**
+- **Prep zone** — cutting boards, knives, bowls, and mixing tools near the main counter space
+- **Cooking zone** — pots, pans, spatulas, and oils near the stove
+- **Pantry zone** — dry goods and canned goods grouped by category
+- **Cleaning zone** — dish soap, sponges, and drying rack near the sink
+
+Once you know the zones, reorganize what you have to match them. You'll find many things are in the wrong place.
+
+## 1. Clear the Counters Completely
+
+This is the most impactful thing you can do in a small kitchen. Move everything off the counter except: the coffee maker (if you use it daily), the knife block or magnetic strip, and one plant.
+
+Everything else — toaster, blender, mixer, spice rack, fruit bowl — goes in a cabinet. Pull them out when you need them.
+
+A clear counter makes a small kitchen look and feel significantly larger.
+
+## 2. Clear Stackable Pantry Bins (~$5–$8 CAD Each)
+
+Loose pantry shelves with bags and boxes in random piles hide things at the back and cause duplicate purchases. Clear, stackable bins with labels mean you can see everything at a glance.
+
+Group by category:
+- Grains and pasta
+- Canned goods
+- Baking supplies
+- Snacks
+- Breakfast items
+
+**Where to buy:** Amazon.ca, ~$5–$8 CAD each. Buy 6–8 for a complete pantry.
+
+## 3. Bamboo Drawer Dividers (~$22–$32 CAD)
+
+The kitchen junk drawer is a small apartment problem. Adjustable bamboo dividers create lanes for utensils, tools, and small items — and they fit any drawer size.
+
+**Where to buy:** Amazon.ca, expandable bamboo set of 5–6 dividers, ~$22–$32 CAD.
+
+## 4. IKEA SKADIS Pegboard for Utensils (~$15 CAD)
+
+A pegboard mounted on the kitchen wall (or hung on Command strips) stores pots, pans, utensils, and spice jars without taking any counter space. The IKEA SKADIS system works with compatible hooks and containers.
+
+**Cost:** IKEA SKADIS 56 × 56 cm ~$15 CAD. Hooks and containers: ~$5–$15 additional.
+
+## 5. Over-Door Cabinet Organizers (~$15–$22 CAD)
+
+The inside of pantry cabinet doors is unused surface. Wire racks or adhesive over-door organizers store spice jars, foil rolls, and plastic wrap cleanly.
+
+**Where to buy:** Amazon.ca, ~$15–$22 CAD for a set of 2–3 organizers.
+
+## 6. IKEA RASKOG Rolling Cart as Extra Storage (~$39 CAD)
+
+The RASKOG 3-tier rolling cart adds a full extra work and storage surface that rolls out when needed and tucks away after. Use it as a kitchen island extension during cooking, or as a pantry overflow for items that don't fit in cabinets.
+
+**Cost:** IKEA RASKOG ~$39 CAD.
+
+## 7. Magnetic Knife Strip to Clear the Counter (~$18–$28 CAD)
+
+A knife block takes up a full 30 × 20 cm of counter space. A magnetic strip mounted on the wall above the counter stores knives vertically — zero counter footprint, everything visible and accessible.
+
+**Where to buy:** Amazon.ca, ~$18–$28 CAD.
+
+## 8. Under-Cabinet Hooks for Mugs
+
+Install Command hooks on the underside of upper cabinets to hang mugs. This frees an entire shelf in a small kitchen for other storage.
+
+**Cost:** Command medium hooks, 4-pack ~$10 CAD at Canadian Tire.
+
+## 9. Turntable in the Corner Cabinet (~$8–$15 CAD)
+
+Corner cabinets in apartment kitchens are notorious for hiding things in the back where they never get used. A lazy Susan turntable brings everything to the front with a spin.
+
+**Where to buy:** Amazon.ca, ~$8–$15 CAD for a 2-tier set.
+
+## 10. Stackable Pot Lids Organizer (~$15–$20 CAD)
+
+Loose pot lids take up enormous space in a small kitchen. A vertical lid organizer stores 5–6 lids in the space of one, standing upright in a drawer or cabinet.
+
+**Where to buy:** Amazon.ca, ~$15–$20 CAD.
+
+## 11. Refrigerator Door Organizers
+
+The inside of the fridge door has fixed shelving that rarely uses vertical space efficiently. Small stackable organizers and can dispensers add tiers inside the same space.
+
+**Where to buy:** Amazon.ca fridge organizer set, ~$20–$30 CAD.
+
+## 12. A Fruit Basket Instead of a Fruit Bowl
+
+A hanging fruit basket or a tiered wire basket takes items off the counter and onto the wall — vertical storage for produce.
+
+**Cost:** Amazon.ca hanging basket, ~$15–$22 CAD.
+
+## 13. Spice Drawer Insert (~$18–$25 CAD)
+
+A tiered spice drawer insert angles spice jars so you can read all the labels at once without stacking. Transforms a chaotic spice drawer into a fully functional system.
+
+**Where to buy:** Amazon.ca, ~$18–$25 CAD.
+
+## 14. Use the Space Above the Cabinets
+
+Most apartment kitchens have space between the top of the cabinets and the ceiling. This is ideal for items used rarely — large serving platters, seasonal tools, extra appliances. Use matching baskets to keep it looking intentional.
+
+---
+
+## The Kitchen Organization Budget
+
+| Product | Cost (CAD) | Where |
+|---------|-----------|-------|
+| Clear pantry bins (6-pack) | ~$30–$48 | Amazon.ca |
+| Bamboo drawer dividers (set) | ~$22–$32 | Amazon.ca |
+| SKADIS pegboard | ~$15 | IKEA |
+| Over-door cabinet organizer (2-pack) | ~$18–$22 | Amazon.ca |
+| RASKOG cart | ~$39 | IKEA |
+| **Total** | **~$124–$156** | |
+
+This combination tackles pantry shelves, kitchen drawers, wall storage, cabinet doors, and extra surface area — the complete small kitchen organization overhaul for under $160 CAD.
