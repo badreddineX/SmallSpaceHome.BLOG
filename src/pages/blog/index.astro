@@ -455,8 +455,13 @@ const POSTS_PER_PAGE = 6;
   justify-content: center;
 }
 
-/* Numbered page buttons */
-.page-num {
+/* :global because these are created dynamically via JS — Astro scoping won't reach them */
+:global(.page-num) {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 44px;
   height: 44px;
   border-radius: 50%;
@@ -464,13 +469,16 @@ const POSTS_PER_PAGE = 6;
   font-size: 1.1rem;
   font-weight: 500;
   color: rgba(0,0,0,0.75);
-  position: relative;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  transition: background-color 180ms ease, color 180ms ease;
 }
-.page-num:hover:not(.active) {
+:global(.page-num:hover:not(.active)) {
   background-color: rgba(0,0,0,0.06);
   color: rgba(0,0,0,0.9);
 }
-.page-num.active {
+:global(.page-num.active) {
   background-color: var(--color-accent-dark);
   color: #fff;
   font-weight: 700;
@@ -482,7 +490,7 @@ const POSTS_PER_PAGE = 6;
   to   { transform: scale(1);   opacity: 1; }
 }
 
-.page-ellipsis {
+:global(.page-ellipsis) {
   display: inline-flex;
   align-items: center;
   justify-content: center;
