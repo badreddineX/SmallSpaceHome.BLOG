@@ -1,0 +1,94 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  slug?: string;
+  image?: string;
+  datePublished?: string;
+  dateModified?: string;
+  authorName?: string;
+  type?: 'website' | 'article';
+}
+
+const {
+  title,
+  description,
+  slug,
+  image = '/images/hero-living-room.jpg',
+  datePublished,
+  dateModified,
+  authorName = 'Sarah Mitchell',
+  type = 'website',
+} = Astro.props;
+
+const siteUrl   = 'https://smallspacehome.ca';
+const fullUrl   = slug ? `${siteUrl}/blog/${slug}` : siteUrl;
+const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
+const fullTitle = `${title} | SmallSpace Home`;
+
+const isArticle    = type === 'article';
+const hasPublished = isArticle && Boolean(datePublished);
+const hasModified  = isArticle && Boolean(dateModified);
+const modOrPub     = dateModified || datePublished || '';
+
+const articleJsonLd = isArticle ? JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "image": fullImage,
+  "datePublished": datePublished,
+  "dateModified": modOrPub,
+  "author": {
+    "@type": "Person",
+    "name": authorName,
+    "url": `${siteUrl}/about`
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "SmallSpace Home",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${siteUrl}/images/logo.png`
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": fullUrl
+  }
+}) : null;
+---
+
+<!-- Primary -->
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href={fullUrl} />
+
+<!-- Open Graph -->
+<meta property="og:type"         content={type} />
+<meta property="og:title"        content={fullTitle} />
+<meta property="og:description"  content={description} />
+<meta property="og:url"          content={fullUrl} />
+<meta property="og:image"        content={fullImage} />
+<meta property="og:image:width"  content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale"       content="en_CA" />
+<meta property="og:site_name"    content="SmallSpace Home" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card"        content="summary_large_image" />
+<meta name="twitter:title"       content={fullTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image"       content={fullImage} />
+
+<!-- Article meta (only rendered when type="article") -->
+{hasPublished && <meta property="article:published_time" content={datePublished} />}
+{hasModified  && <meta property="article:modified_time"  content={dateModified} />}
+{isArticle    && <meta property="article:author"         content={authorName} />}
+
+<!-- Article JSON-LD -->
+{isArticle && articleJsonLd && <script type="application/ld+json" set:html={articleJsonLd} />}
+
+<!-- Pinterest domain verification — add your code from Pinterest Business settings -->
+<!-- <meta name="p:domain_verify" content="YOUR_CODE_HERE" /> -->

@@ -1,0 +1,587 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+
+const pillars = [
+  {
+    title: 'Organization Tips',
+    desc: 'Practical systems for small apartments — drawers, closets, kitchens, and everything in between.',
+    img: '/images/kitchen-organized-white.jpg',
+    imgAlt: 'Organized white kitchen with open shelving in a small apartment',
+  },
+  {
+    title: 'Budget Decor',
+    desc: 'Making a rental feel like home without spending a fortune or violating your lease.',
+    img: '/images/decor-bookcase-scandi.jpg',
+    imgAlt: 'Scandi-style bookcase styled with warm neutral decor objects',
+  },
+  {
+    title: 'Storage Solutions',
+    desc: 'Every hidden centimetre counts. I test real products from IKEA Canada, Amazon.ca, and beyond.',
+    img: '/images/closet-walkin.jpg',
+    imgAlt: 'Neatly organized walk-in closet with efficient storage',
+  },
+];
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="About — SmallSpace Home"
+      description="The story behind SmallSpace Home — a Canadian apartment organization and decor blog for renters who want to love their space."
+      type="website"
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main class="about-page">
+      <!-- Hero -->
+      <section class="about-hero">
+        <div class="about-hero-bg">
+          <img
+            src="/images/about-hero-apartment.jpg"
+            alt="Warm cozy apartment living room with natural light"
+            class="about-hero-bg-img"
+            loading="eager"
+            width="1800"
+            height="900"
+          />
+          <div class="about-hero-overlay"></div>
+        </div>
+        <div class="content-width about-hero-inner">
+          <div class="about-hero-profile">
+            <!-- Logo in place of the circle photo -->
+            <div class="about-logo-circle">
+              <img src="/images/logo.png" alt="SmallSpace Home" class="about-logo-circle-img" width="120" height="40" loading="eager" />
+            </div>
+            <div class="about-hero-text">
+              <p class="section-label">Hi, I'm</p>
+              <h1>Sarah Mitchell</h1>
+              <p class="about-tagline">Toronto renter. Organization nerd. Making 520 sq ft feel like home since 2021.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Story -->
+      <section class="about-section content-width">
+        <h2>Why I Started This Blog</h2>
+        <p>
+          When I moved into my first Toronto apartment, I had a lot of stuff and almost no space. I spent months falling for Pinterest boards full of gorgeous minimalist homes that required either a renovation budget I didn't have or walls I wasn't allowed to touch.
+        </p>
+        <p>
+          I started testing real solutions — things you can actually buy at IKEA Canada or Amazon.ca, things that mount with Command strips, things that fold and stack and do double-duty. Some of them worked brilliantly. A lot of them didn't. This blog is the honest record of both.
+        </p>
+        <p>
+          If you're renting in Toronto, Vancouver, Montreal, or anywhere in Canada where apartments are expensive and small, this site is for you. No drilling required, no ridiculous budgets, no staged perfection.
+        </p>
+      </section>
+
+      <!-- Pillars -->
+      <section class="about-pillars">
+        <div class="container">
+          <div class="pillars-header">
+            <h2 class="pillars-heading">What You'll Find Here</h2>
+          </div>
+          <div class="pillars-list">
+            {pillars.map((p, i) => (
+              <div class="pillar-row">
+                <div class="pillar-img-col">
+                  <img
+                    src={p.img}
+                    alt={p.imgAlt}
+                    class="pillar-img"
+                    loading="lazy"
+                    width="480"
+                    height="360"
+                  />
+                </div>
+                <div class="pillar-num-col">
+                  <span class="pillar-num">//{String(i + 1).padStart(2, '0')}</span>
+                  <span class="pillar-num-label">/{p.title}</span>
+                </div>
+                <div class="pillar-body-col">
+                  <h3 class="pillar-title">{p.title}</h3>
+                  <p class="pillar-desc">{p.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <!-- Contact Section -->
+      <section class="contact-section" id="contact">
+        <div class="container">
+          <div class="contact-grid">
+
+            <!-- Left: info + steps -->
+            <div class="contact-left">
+              <span class="eyebrow">Get In Touch</span>
+              <h2 class="contact-heading">Let's Connect</h2>
+              <p class="contact-desc">
+                Have a small space question, a product you want me to test, or just want to say hello? I read every message and reply within a few days.
+              </p>
+
+              <ol class="contact-steps">
+                <li>
+                  <span class="step-num">01</span>
+                  <span>Fill in your name and email address</span>
+                </li>
+                <li>
+                  <span class="step-num">02</span>
+                  <span>Tell me what's on your mind — questions, collabs, or just a hello</span>
+                </li>
+                <li>
+                  <span class="step-num">03</span>
+                  <span>I'll get back to you within 2–3 business days</span>
+                </li>
+              </ol>
+
+              <a
+                href="https://pinterest.ca"
+                class="contact-pinterest"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Follow on Pinterest &rarr;
+              </a>
+            </div>
+
+            <!-- Right: form -->
+            <div class="contact-right">
+              <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you">
+                <input type="hidden" name="form-name" value="contact" />
+                <p style="display:none"><label>Don't fill this out: <input name="bot-field" /></label></p>
+                <div class="form-row">
+                  <div class="form-field">
+                    <label for="cf-name">Full Name</label>
+                    <input
+                      type="text"
+                      id="cf-name"
+                      name="name"
+                      placeholder="Your name"
+                      autocomplete="name"
+                      required
+                    />
+                  </div>
+                  <div class="form-field">
+                    <label for="cf-email">Email Address</label>
+                    <input
+                      type="email"
+                      id="cf-email"
+                      name="email"
+                      placeholder="your@email.com"
+                      autocomplete="email"
+                      required
+                    />
+                  </div>
+                </div>
+
+                <div class="form-field">
+                  <label for="cf-city">City / Province <span class="optional">(optional)</span></label>
+                  <input
+                    type="text"
+                    id="cf-city"
+                    name="city"
+                    placeholder="e.g. Toronto, ON"
+                    autocomplete="address-level2"
+                  />
+                </div>
+
+                <div class="form-field">
+                  <label for="cf-message">Message</label>
+                  <textarea
+                    id="cf-message"
+                    name="message"
+                    rows="5"
+                    placeholder="What's on your mind?"
+                    required
+                  ></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary form-submit">
+                  Send Message
+                </button>
+              </form>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.about-page { padding-bottom: 0; }
+
+/* ── Hero ── */
+.about-hero {
+  position: relative;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.about-hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+}
+.about-hero-bg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+}
+.about-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(250, 250, 247, 0.82);
+}
+
+.about-hero-inner {
+  position: relative;
+  z-index: 1;
+  padding: 72px var(--gutter);
+}
+
+/* Author profile row */
+.about-hero-profile {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+/* Text block inside profile */
+.about-hero-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+
+.about-logo-circle {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background: #FAFAF7;
+  border: 3px solid var(--color-white);
+  box-shadow: var(--shadow-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.about-logo-circle-img {
+  width: 78px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+.about-hero h1 { font-size: 2.2rem; margin-bottom: 10px; margin-top: 6px; }
+.about-tagline {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ── Story section ── */
+.about-section {
+  padding: 48px 24px;
+  max-width: 720px;
+  margin: 0 auto;
+}
+.about-section h2 { margin-top: 0; }
+
+/* ── Pillars — Decorist editorial style ── */
+.about-pillars {
+  padding: 72px 0 80px;
+  background: var(--color-bg);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.pillars-header {
+  max-width: var(--wide-width);
+  margin: 0 auto 48px;
+  padding: 0 var(--gutter);
+}
+
+.pillars-heading {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-heading);
+  margin: 0;
+}
+
+.pillars-list {
+  max-width: var(--wide-width);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.pillar-row {
+  display: grid;
+  grid-template-columns: 240px 160px 1fr;
+  gap: 40px;
+  align-items: center;
+  padding: 36px 0;
+  border-top: 1px solid var(--color-border);
+}
+.pillar-row:last-child { border-bottom: 1px solid var(--color-border); }
+
+.pillar-img-col {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.pillar-img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.pillar-num-col {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-top: 4px;
+}
+
+.pillar-num {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: var(--color-text-faint);
+}
+
+.pillar-num-label {
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  color: var(--color-text-faint);
+  font-style: italic;
+}
+
+.pillar-body-col { display: flex; flex-direction: column; gap: 10px; }
+
+.pillar-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.15rem, 2.5vw, 1.5rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-heading);
+  margin: 0;
+  line-height: 1.2;
+}
+
+.pillar-desc {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin: 0;
+  line-height: 1.8;
+  max-width: 560px;
+}
+
+@media (max-width: 860px) {
+  .pillar-row { grid-template-columns: 1fr 120px; gap: 24px; }
+  .pillar-img-col { display: none; }
+  .pillar-num-col { order: -1; grid-column: 2; }
+  .pillar-body-col { grid-column: 1 / 3; }
+}
+
+@media (max-width: 640px) {
+  .pillar-row { grid-template-columns: 1fr; gap: 12px; }
+  .pillar-num-col { flex-direction: row; gap: 16px; order: 0; grid-column: auto; }
+  .pillar-body-col { grid-column: auto; }
+  .pillar-img-col { display: block; margin-top: 8px; }
+}
+
+/* ── Contact Section ── */
+.contact-section {
+  padding: 80px 0 100px;
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: start;
+  max-width: var(--wide-width);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* Left column */
+.contact-left { padding-top: 8px; }
+
+.contact-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  font-weight: 400;
+  color: var(--color-heading);
+  margin: 0 0 20px;
+  line-height: 1.1;
+}
+
+.contact-desc {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  margin-bottom: 36px;
+  max-width: 400px;
+}
+
+.contact-steps {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.contact-steps li {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  font-size: 0.88rem;
+  color: var(--color-text);
+  line-height: 1.6;
+  margin: 0;
+}
+.step-num {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  font-weight: 400;
+  flex-shrink: 0;
+  line-height: 1.4;
+}
+
+.contact-pinterest {
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 3px;
+  display: inline-block;
+  padding-top: 4px;
+  transition: border-color var(--transition), color var(--transition);
+}
+.contact-pinterest:hover { border-color: var(--color-ink); }
+
+/* Right column — form */
+.contact-right {
+  background: var(--color-white);
+  padding: 48px 44px;
+}
+
+.contact-form { display: flex; flex-direction: column; gap: 28px; }
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form-field label {
+  font-family: var(--font-body);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+}
+
+.optional {
+  font-size: 0.58rem;
+  letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+  font-weight: 400;
+  text-transform: none;
+}
+
+.form-field input,
+.form-field textarea {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  border-radius: 0;
+  padding: 10px 0;
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  color: var(--color-ink);
+  outline: none;
+  transition: border-color var(--transition);
+  width: 100%;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.form-field input::placeholder,
+.form-field textarea::placeholder {
+  color: var(--color-text-muted);
+  font-size: 0.88rem;
+}
+.form-field input:focus,
+.form-field textarea:focus {
+  border-bottom-color: var(--color-ink);
+}
+.form-field textarea {
+  resize: vertical;
+  min-height: 120px;
+  line-height: 1.7;
+}
+
+.form-submit {
+  align-self: flex-start;
+  margin-top: 4px;
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+
+/* ── Mobile adjustments ── */
+@media (max-width: 767px) {
+  .about-hero-profile { flex-direction: column; align-items: flex-start; }
+  .pillars-grid     { grid-template-columns: 1fr; }
+
+  .contact-section  { padding: 56px 0 72px; }
+  .contact-grid     { grid-template-columns: 1fr; gap: 48px; }
+  .contact-desc     { max-width: 100%; }
+
+  .contact-right    { padding: 32px 24px; }
+  .form-row         { grid-template-columns: 1fr; gap: 24px; }
+  .form-submit      { align-self: stretch; }
+}
+</style>

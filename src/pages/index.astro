@@ -1,0 +1,723 @@
+---
+import { getCollection } from 'astro:content';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import PostCard from '../components/PostCard.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+
+const allPosts = await getCollection('blog');
+const sorted   = allPosts.sort(
+  (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
+);
+
+const featured = sorted.filter(p => p.data.featured).slice(0, 3);
+const latest   = sorted.slice(0, 6);
+
+
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="SmallSpace Home — Organization & Decor for Canadian Apartments"
+      description="Practical organization and decor ideas for Canadian apartment renters. Renter-friendly storage solutions, IKEA hacks, and budget-friendly tips."
+      type="website"
+    />
+  </head>
+
+  <body>
+    <Header />
+
+    <main>
+
+      <!-- ══════════════════════════════════════
+           HERO — full bleed image with text overlay
+      ══════════════════════════════════════ -->
+      <section class="hero" aria-labelledby="hero-heading">
+
+        <!-- Full-bleed background image -->
+        <div class="hero-bg">
+          <img
+            src="/images/hero-living-room.jpg"
+            alt=""
+            class="hero-bg-img"
+            loading="eager"
+            width="1800"
+            height="1000"
+            aria-hidden="true"
+          />
+          <div class="hero-overlay" aria-hidden="true"></div>
+        </div>
+
+        <!-- Text content over image -->
+        <div class="hero-content">
+          <div class="container hero-inner">
+            <span class="eyebrow hero-eyebrow">For Canadian apartment renters</span>
+            <h1 id="hero-heading">
+              Small Space Living,<br/>
+              <em>Done Beautifully</em>
+            </h1>
+            <div class="hero-rule" aria-hidden="true"></div>
+            <p class="hero-sub">
+              Organization and decor ideas for Toronto, Vancouver, and Montreal apartments —
+              renter-friendly, budget-conscious, genuinely useful.
+            </p>
+            <div class="hero-ctas">
+              <a href="/blog"  class="btn hero-btn-primary">Browse Ideas</a>
+              <a href="/about" class="btn hero-btn-outline">Our Story</a>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+
+      <!-- ══════════════════════════════════════
+           CATEGORY NAV STRIP
+      ══════════════════════════════════════ -->
+      <nav class="cat-strip" aria-label="Browse by category">
+        <div class="container cat-strip-inner">
+          <span class="cat-strip-label eyebrow">Explore</span>
+          <div class="cat-strip-links">
+            <a href="/blog?category=Organization" class="cat-strip-link">Organization</a>
+            <span class="cat-strip-sep" aria-hidden="true">·</span>
+            <a href="/blog?category=Decor"        class="cat-strip-link">Decor</a>
+            <span class="cat-strip-sep" aria-hidden="true">·</span>
+            <a href="/blog?category=Storage"      class="cat-strip-link">Storage</a>
+            <span class="cat-strip-sep" aria-hidden="true">·</span>
+            <a href="/blog?category=Budget+Tips"  class="cat-strip-link">Budget Tips</a>
+          </div>
+          <a href="/blog" class="text-link cat-strip-all">All posts →</a>
+        </div>
+      </nav>
+
+
+      <!-- ══════════════════════════════════════
+           FEATURED — editorial hero layout
+      ══════════════════════════════════════ -->
+      {featured.length > 0 && (
+        <section class="section featured-section" aria-labelledby="featured-heading">
+          <div class="container">
+
+            <div class="section-hd">
+              <span class="eyebrow" style="margin:0; color:var(--color-ink);">Editor's picks</span>
+              <a href="/blog" class="text-link">View all posts</a>
+            </div>
+            <hr class="rule" style="margin:16px 0 48px;" />
+
+            <div class="featured-grid">
+
+              <!-- Primary large card -->
+              {featured[0] && (
+                <article class="feat-primary">
+                  <a href={`/blog/${featured[0].slug}`} class="feat-primary-img-link pin-wrap">
+                    <div class="feat-primary-img img-placeholder" role="img" aria-label={featured[0].data.title}>
+                      <img
+                        src={featured[0].data.image}
+                        alt={featured[0].data.title}
+                        loading="eager"
+                        onerror="this.style.display='none'"
+                      />
+                    </div>
+                    <a
+                      href={`https://pinterest.com/pin/create/button/?url=https://smallspacehome.ca/blog/${featured[0].slug}&media=https://smallspacehome.ca${featured[0].data.image}&description=${encodeURIComponent(featured[0].data.title)}`}
+                      class="pin-btn" target="_blank" rel="noopener noreferrer"
+                      aria-label="Save to Pinterest" onclick="event.stopPropagation();"
+                    >P</a>
+                  </a>
+                  <div class="feat-primary-body">
+                    <span class={`category-pill cat-${featured[0].data.category.toLowerCase().replace(' ','-')}`}>
+                      {featured[0].data.category}
+                    </span>
+                    <h2 class="feat-primary-title">
+                      <a href={`/blog/${featured[0].slug}`}>{featured[0].data.title}</a>
+                    </h2>
+                    <p class="feat-primary-desc">{featured[0].data.description}</p>
+                    <a href={`/blog/${featured[0].slug}`} class="text-link">Read article</a>
+                  </div>
+                </article>
+              )}
+
+              <!-- Secondary stacked cards -->
+              <div class="feat-side">
+                {featured.slice(1).map(post => (
+                  <article class="feat-side-card">
+                    <a href={`/blog/${post.slug}`} class="feat-side-img-link pin-wrap">
+                      <div class="feat-side-img img-placeholder" role="img" aria-label={post.data.title}>
+                        <img
+                          src={post.data.image}
+                          alt={post.data.title}
+                          loading="lazy"
+                          onerror="this.style.display='none'"
+                        />
+                      </div>
+                      <a
+                        href={`https://pinterest.com/pin/create/button/?url=https://smallspacehome.ca/blog/${post.slug}&media=https://smallspacehome.ca${post.data.image}&description=${encodeURIComponent(post.data.title)}`}
+                        class="pin-btn" target="_blank" rel="noopener noreferrer"
+                        aria-label="Save to Pinterest" onclick="event.stopPropagation();"
+                      >P</a>
+                    </a>
+                    <div class="feat-side-body">
+                      <span class={`category-pill cat-${post.data.category.toLowerCase().replace(' ','-')}`}>
+                        {post.data.category}
+                      </span>
+                      <h3 class="feat-side-title">
+                        <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+                      </h3>
+                      <div class="feat-side-meta">
+                        <time datetime={post.data.datePublished}>
+                          {new Date(post.data.datePublished).toLocaleDateString('en-CA', { month: 'short', day: 'numeric', year: 'numeric' })}
+                        </time>
+                        <span aria-hidden="true">·</span>
+                        <span>{post.data.readTime} min read</span>
+                      </div>
+                    </div>
+                  </article>
+                ))}
+              </div>
+
+            </div>
+          </div>
+        </section>
+      )}
+
+
+      <!-- ══════════════════════════════════════
+           PULL QUOTE
+      ══════════════════════════════════════ -->
+      <section class="quote-section" aria-hidden="true">
+        <div class="container">
+          <div class="quote-inner">
+            <span class="quote-mark" aria-hidden="true">"</span>
+            <blockquote class="quote-text">
+              Your space doesn't need to be bigger —<br/>
+              it needs to work smarter.
+            </blockquote>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- ══════════════════════════════════════
+           LATEST POSTS
+      ══════════════════════════════════════ -->
+      <section class="section latest-section" aria-labelledby="latest-heading">
+        <div class="container">
+          <div class="section-hd">
+            <div>
+              <span class="eyebrow" style="margin:0; color:var(--color-ink);">From the blog</span>
+              <h2 id="latest-heading" style="margin-top:8px;">Latest</h2>
+            </div>
+            <a href="/blog" class="text-link">See all</a>
+          </div>
+          <hr class="rule" style="margin:20px 0 48px;" />
+
+          <div class="latest-grid">
+            {latest.map(post => (
+              <PostCard
+                title={post.data.title}
+                slug={post.slug}
+                description={post.data.description}
+                image={post.data.image}
+                category={post.data.category}
+                datePublished={post.data.datePublished}
+                readTime={post.data.readTime}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+
+      <!-- ══════════════════════════════════════
+           ABOUT STRIP
+      ══════════════════════════════════════ -->
+      <section class="about-strip">
+        <div class="container about-strip-inner">
+          <div class="about-strip-deco">
+            <img
+              src="/images/about-strip-shelf.jpg"
+              alt="Styled open shelving with plants and warm neutral home decor"
+              class="about-strip-img"
+              loading="lazy"
+              width="700"
+              height="500"
+            />
+          </div>
+          <div class="about-strip-text">
+            <span class="eyebrow">About this site</span>
+            <h2 class="about-strip-h">
+              A Toronto apartment.<br/>
+              <em>520 sq ft. No drills.</em>
+            </h2>
+            <p class="about-strip-p">
+              I turned a small rental into a home I love without touching the walls.
+              I share what actually works so you don't have to figure it out the hard way.
+            </p>
+            <a href="/about" class="btn btn-outline">Read My Story</a>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+/* ══════════════════════════════════════
+   MOBILE FIRST — all base styles are for phones
+   Desktop styles added via min-width breakpoints
+══════════════════════════════════════ */
+
+/* ── HERO ── */
+.hero {
+  position: relative;
+  min-height: 75vh;
+  display: flex;
+  align-items: center;
+}
+
+/* Full-bleed background */
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+}
+.hero-bg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(28, 25, 23, 0.50);
+}
+
+/* Text layer over image */
+.hero-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  padding: 72px 0 80px;
+}
+.hero-inner { max-width: 720px; }
+
+.hero-eyebrow { color: rgba(255,255,255,0.65); }
+
+.hero h1 {
+  font-size: clamp(2rem, 9vw, 4.8rem);
+  font-weight: 400;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  color: #fff;
+  margin-bottom: 0;
+}
+.hero h1 em { font-style: italic; color: var(--color-accent); }
+
+.hero-rule {
+  width: 40px;
+  height: 1px;
+  background: rgba(255,255,255,0.3);
+  margin: 28px 0;
+}
+
+.hero-sub {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.75);
+  line-height: 1.8;
+  font-weight: 300;
+  margin: 0 0 28px;
+  max-width: 480px;
+}
+
+/* Hero-specific button overrides (light on dark) */
+.hero-ctas {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.hero-ctas .btn { width: 100%; justify-content: center; }
+
+.hero-btn-primary {
+  background: #fff;
+  color: var(--color-ink);
+  border-color: #fff;
+}
+.hero-btn-primary:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #fff;
+}
+.hero-btn-outline {
+  background: transparent;
+  color: #fff;
+  border-color: rgba(255,255,255,0.6);
+}
+.hero-btn-outline:hover {
+  background: rgba(255,255,255,0.12);
+  border-color: #fff;
+}
+
+/* ── CATEGORY STRIP ── */
+.cat-strip {
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-white);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.cat-strip::-webkit-scrollbar { display: none; }
+
+.cat-strip-inner {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  min-height: var(--touch-min);
+  padding: 0 var(--gutter);
+  width: max-content;         /* let it scroll on mobile */
+  min-width: 100%;
+}
+
+.cat-strip-label { display: none; } /* hidden on mobile */
+
+.cat-strip-links {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  flex: 1;
+}
+
+/* Each link is its own tap target */
+.cat-strip-link {
+  font-family: var(--font-display);
+  font-size: 0.92rem;
+  font-style: italic;
+  color: var(--color-ink);
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+  padding: 14px 14px;
+  transition: color var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+.cat-strip-link:hover,
+.cat-strip-link:active { color: var(--color-accent-dark); }
+
+.cat-strip-sep {
+  color: var(--color-border);
+  font-size: 0.9rem;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.cat-strip-all {
+  margin-left: auto;
+  padding-left: 16px;
+  flex-shrink: 0;
+  border-left: 1px solid var(--color-border-light);
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+/* ── SECTION HEADER ── */
+.section-hd {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+/* ── FEATURED ── */
+.featured-section {
+  background: var(--color-bg);
+  padding-bottom: 0;
+}
+
+/* Mobile: single column stack */
+.featured-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.feat-primary-img-link { display: block; }
+.feat-primary-img {
+  aspect-ratio: 3 / 2;        /* wider on mobile — less tall */
+  overflow: hidden;
+  background: var(--color-surface);
+}
+.feat-primary-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+.feat-primary:hover .feat-primary-img img { transform: scale(1.03); }
+
+.feat-primary-body {
+  padding: 20px 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.feat-primary-title {
+  font-size: clamp(1.2rem, 5vw, 1.9rem);
+  font-weight: 400;
+  margin: 4px 0 0;
+  line-height: 1.2;
+}
+.feat-primary-title a { color: var(--color-heading); text-decoration: none; transition: color var(--transition); }
+.feat-primary-title a:hover { color: var(--color-accent-dark); }
+
+.feat-primary-desc {
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+  font-weight: 300;
+  line-height: 1.8;
+  margin: 0;
+}
+
+/* Side cards: horizontal row on mobile */
+.feat-side {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border-top: 1px solid var(--color-border);
+  margin-top: 28px;
+  padding-top: 28px;
+}
+
+.feat-side-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0 16px 0 0;
+  border-right: 1px solid var(--color-border-light);
+}
+.feat-side-card:last-child { border-right: none; padding-right: 0; padding-left: 16px; }
+
+.feat-side-img-link { display: block; }
+.feat-side-img {
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--color-surface);
+}
+.feat-side-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; }
+.feat-side-card:hover .feat-side-img img { transform: scale(1.04); }
+
+.feat-side-body { display: flex; flex-direction: column; gap: 6px; }
+
+.feat-side-title {
+  font-size: 0.88rem;
+  font-weight: 400;
+  line-height: 1.35;
+  margin: 4px 0 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.feat-side-title a { color: var(--color-heading); text-decoration: none; transition: color var(--transition); }
+.feat-side-title a:hover { color: var(--color-accent-dark); }
+
+.feat-side-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  font-size: 0.65rem;
+  color: var(--color-text-faint);
+  letter-spacing: 0.04em;
+}
+
+/* ── PULL QUOTE ── */
+.quote-section {
+  background: var(--color-dark);
+  padding: 52px 0;
+  margin-top: var(--section-y);
+}
+.quote-inner {
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+}
+.quote-mark {
+  font-family: var(--font-display);
+  font-size: 5rem;
+  line-height: 0.5;
+  color: rgba(196,168,130,0.18);
+  display: block;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+.quote-text {
+  font-family: var(--font-display);
+  font-size: clamp(1.2rem, 5vw, 2.2rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-accent);
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* ── LATEST ── */
+.latest-section { background: var(--color-surface); }
+
+/* 2 columns on mobile — compact and scannable */
+.latest-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+/* ── ABOUT STRIP ── */
+.about-strip {
+  padding: var(--section-y) 0;
+  background: var(--color-white);
+  border-top: 1px solid var(--color-border);
+}
+
+/* Mobile: single column, no decorative block */
+.about-strip-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.about-strip-deco { display: none; } /* hidden on mobile */
+
+.about-strip-text { display: flex; flex-direction: column; gap: 0; }
+
+.about-strip-h {
+  font-size: clamp(1.5rem, 7vw, 2.4rem);
+  font-weight: 400;
+  margin: 0 0 18px;
+  line-height: 1.2;
+}
+.about-strip-h em { font-style: italic; color: var(--color-accent-dark); }
+
+.about-strip-p {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  font-weight: 300;
+  line-height: 1.9;
+  margin-bottom: 28px;
+}
+
+.about-strip .btn { width: 100%; justify-content: center; }
+
+
+/* ══════════════════════════════════════
+   TABLET — 560px+
+══════════════════════════════════════ */
+@media (min-width: 560px) {
+  .hero-ctas { flex-direction: row; }
+  .hero-ctas .btn { width: auto; justify-content: flex-start; }
+  .latest-grid { gap: 24px; }
+  .about-strip .btn { width: auto; }
+}
+
+/* ══════════════════════════════════════
+   TABLET LARGE — 768px+
+══════════════════════════════════════ */
+@media (min-width: 768px) {
+  .hero { min-height: 80vh; }
+  .hero-content { padding: 100px 0 100px; }
+  .hero-rule { margin: 36px 0; }
+  .hero-ctas { flex-direction: row; }
+  .hero-ctas .btn { width: auto; justify-content: flex-start; }
+
+  .cat-strip-inner { width: 100%; }
+  .cat-strip-label { display: block; flex-shrink: 0; padding-right: 24px; border-right: 1px solid var(--color-border); }
+  .cat-strip-link { padding: 16px 18px; }
+
+  .feat-side {
+    grid-template-columns: 1fr 1fr;
+    border-top: 1px solid var(--color-border);
+    margin-top: 32px;
+    padding-top: 32px;
+  }
+
+  .latest-grid { grid-template-columns: repeat(3, 1fr); }
+
+  .about-strip-inner { flex-direction: row; align-items: center; gap: 64px; }
+  .about-strip-deco  { display: block; }
+  .about-strip .btn  { width: auto; }
+}
+
+/* ══════════════════════════════════════
+   DESKTOP — 1024px+
+══════════════════════════════════════ */
+@media (min-width: 1024px) {
+  .hero { min-height: 85vh; }
+
+  /* Editorial 2-column layout */
+  .featured-grid {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 48px;
+    align-items: start;
+  }
+
+  .feat-primary-img { aspect-ratio: 4 / 3; }
+
+  .feat-side {
+    display: flex;
+    flex-direction: column;
+    grid-template-columns: unset;
+    gap: 0;
+    border-top: none;
+    margin-top: 0;
+    padding-top: 0;
+    border-left: 1px solid var(--color-border);
+    padding-left: 48px;
+    height: 100%;
+  }
+
+  .feat-side-card {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 20px;
+    padding: 24px 0;
+    border-right: none;
+    border-bottom: 1px solid var(--color-border-light);
+    flex-direction: unset;
+  }
+  .feat-side-card:first-child { padding-top: 0; }
+  .feat-side-card:last-child  { border-bottom: none; padding-left: 0; }
+
+  .feat-side-img { aspect-ratio: 1; min-height: 80px; }
+
+  .feat-side-title { font-size: 0.95rem; }
+
+  .quote-section { padding: 80px 0; }
+  .quote-mark    { font-size: 8rem; }
+
+  .about-strip-inner {
+    grid-template-columns: 1fr 1.4fr;
+    gap: 96px;
+    display: grid;
+  }
+  .about-strip-deco { height: 400px; overflow: hidden; }
+  .about-strip-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+}
+</style>

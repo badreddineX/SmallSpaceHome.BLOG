@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#F2F0ED"/>
+  <!-- Subtle dot grid -->
+  <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="12" cy="12" r="1.5" fill="#C4A882" opacity="0.35"/>
+  </pattern>
+  <rect width="1200" height="675" fill="url(#dots)"/>
+  <!-- House icon -->
+  <g transform="translate(550, 270)">
+    <rect x="10" y="45" width="80" height="50" rx="3" fill="#8FAF8A" opacity="0.5"/>
+    <path d="M0 45L50 10L100 45" fill="#8FAF8A" opacity="0.7"/>
+    <rect x="35" y="60" width="30" height="35" rx="2" fill="#FAFAF8" opacity="0.8"/>
+  </g>
+  <text x="600" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#6B7280" opacity="0.6">Replace with your photo</text>
+</svg>
