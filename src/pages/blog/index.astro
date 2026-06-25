@@ -425,26 +425,23 @@ const POSTS_PER_PAGE = 6;
   height: 58px;
   border-radius: 14px;
   border: none;
-  background: var(--color-surface);
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
   color: var(--color-text-muted);
   cursor: pointer;
-  transition: background var(--transition), color var(--transition);
+  transition: color var(--transition);
   -webkit-tap-highlight-color: transparent;
   flex-shrink: 0;
 }
-.page-arrow:hover:not(:disabled) {
-  background: var(--color-border);
-  color: var(--color-ink);
-}
-.page-arrow:disabled {
-  opacity: 0.45;
-  cursor: not-allowed;
-}
+.page-arrow:hover:not(:disabled) { color: var(--color-ink); }
+.page-arrow:disabled { opacity: 0.35; cursor: not-allowed; }
 
 .page-numbers {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 6px;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -454,38 +451,41 @@ const POSTS_PER_PAGE = 6;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 58px;
-  height: 58px;
-  border-radius: 14px;
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
   border: none;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
   background: transparent;
   font-family: var(--font-body);
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   font-weight: 700;
   color: var(--color-ink);
   cursor: pointer;
   transition: background var(--transition), color var(--transition);
   -webkit-tap-highlight-color: transparent;
+  box-shadow: none;
 }
-.page-num:hover:not(.active) {
-  background: var(--color-surface);
-}
+.page-num:hover:not(.active) { background: var(--color-surface); }
 .page-num.active {
   background: var(--color-accent-dark);
   color: var(--color-white);
+  border-radius: 12px;
 }
 
 .page-ellipsis {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--color-text-faint);
-  width: 58px;
-  height: 58px;
+  width: 52px;
+  height: 52px;
   display: flex;
   align-items: center;
   justify-content: center;
   pointer-events: none;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
 }
 
 
@@ -499,9 +499,9 @@ const POSTS_PER_PAGE = 6;
   .posts-section { padding: 40px 16px 72px; }
   .posts-grid { grid-template-columns: repeat(2, 1fr); gap: 24px 14px; }
   .filter-tab { padding: 14px 16px; }
-  .page-num, .page-arrow, .page-ellipsis { width: 48px; height: 48px; border-radius: 11px; }
-  .page-num { font-size: 0.92rem; }
-  .pagination { gap: 7px; }
+  .page-num, .page-arrow, .page-ellipsis { width: 44px; height: 44px; }
+  .page-num { font-size: 1.15rem; }
+  .pagination { gap: 4px; }
 }
 </style>
 
