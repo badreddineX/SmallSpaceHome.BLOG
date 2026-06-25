@@ -668,9 +668,18 @@ const catClass: Record<string, string> = {
   content: counter(toc-item) ".";
   flex-shrink: 0;
   color: #aaa;
-  font-size: 0.78rem;
-  min-width: 18px;
-  padding-top: 1px;
+  font-size: 0.76rem;
+  font-weight: 600;
+  min-width: 22px;
+  padding-top: 2px;
+  font-family: var(--font-body);
+}
+.toc-item-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.45;
 }
 .sidebar-toc-list li:last-child a { border-bottom: none; }
 .sidebar-toc-list li a:hover {
@@ -824,15 +833,25 @@ const headings   = document.querySelectorAll<HTMLHeadingElement>('.post-body h2'
 const tocList    = document.getElementById('sidebar-toc-list');
 const sidebarToc = document.getElementById('sidebar-toc');
 
-if (headings.length < 2) {
+// Skip decorative headings that aren't real sections
+const SKIP = new Set(['TL;DR', 'TL:DR', '—', '–']);
+
+const tocHeadings = Array.from(headings).filter(
+  h => !SKIP.has(h.textContent?.trim() ?? '')
+);
+
+if (tocHeadings.length < 2) {
   sidebarToc?.remove();
 } else {
-  headings.forEach((h, i) => {
+  tocHeadings.forEach((h, i) => {
     if (!h.id) h.id = `section-${i}`;
-    const li = document.createElement('li');
-    const a  = document.createElement('a');
-    a.href        = `#${h.id}`;
-    a.textContent = h.textContent ?? '';
+    const li   = document.createElement('li');
+    const a    = document.createElement('a');
+    const text = document.createElement('span');
+    text.className = 'toc-item-text';
+    text.textContent = h.textContent ?? '';
+    a.href = `#${h.id}`;
+    a.appendChild(text);
     li.appendChild(a);
     tocList?.appendChild(li);
   });
@@ -848,7 +867,7 @@ if (headings.length < 2) {
     });
   }, { rootMargin: '-15% 0px -70% 0px' });
 
-  headings.forEach(h => observer.observe(h));
+  tocHeadings.forEach(h => observer.observe(h));
 
   // ── TOC collapse toggle ──
   const tocToggle = document.getElementById('toc-toggle');

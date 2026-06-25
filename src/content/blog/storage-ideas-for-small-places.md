@@ -95,6 +95,8 @@ Counter space is always the first thing to go in a small apartment kitchen. A pe
 
 **Cost:** IKEA SKADIS pegboard starts at ~$15 CAD. Add hooks and containers as needed.
 
+![Open kitchen shelves organized by category — pots, cutting boards, and daily essentials within reach](/images/kitchen-open-shelves.jpg)
+
 ## 10. Stackable Clear Bins in the Pantry
 
 Random stacking in a pantry cabinet makes things disappear. Clear, stackable bins with labels mean you can see everything at a glance and stop buying duplicates. Group by category: baking, snacks, grains, canned goods.
@@ -132,6 +134,8 @@ The inside surface of every kitchen cabinet door is wasted. Small wire racks or 
 A storage ottoman does three things: it's seating, a coffee table, and a storage chest. Use it for extra linens, blankets, board games, or anything you don't need daily.
 
 **Cost:** Wayfair Canada storage ottomans from ~$89–$150 CAD.
+
+![A storage ottoman does triple duty as seating, coffee table, and hidden storage](/images/storage-ottoman.jpg)
 
 ## 16. A Shoe Bench at the Entry
 

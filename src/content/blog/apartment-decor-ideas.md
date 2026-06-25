@@ -110,6 +110,8 @@ Most rental apartments come with harsh overhead lighting that makes every room f
 - **Use table lamps** — one on each side of the sofa or bed for a balanced, layered look
 - **LED strip lights** — behind the TV or under kitchen cabinets for accent lighting (~$20–$35 CAD on Amazon.ca)
 
+![Warm layered lighting with floor lamp and table lamps transforms a rental living room](/images/living-room-cozy.jpg)
+
 ## 7. Plants Are the Cheapest Decor You'll Find
 
 A healthy plant transforms a corner that would otherwise be dead space. Plants add colour, life, and texture — and they improve air quality in a small apartment.
@@ -164,6 +166,8 @@ Most Canadian apartments have a small awkward entry. A defined entryway sets the
 - A plant or small lamp if there's room
 
 This takes a few hours and about $80–$120 CAD in total.
+
+![A defined apartment entryway with hooks and shoe rack sets the tone for the whole space](/images/decor-bookcase-scandi.jpg)
 
 ## 12. Style Your Shelves Deliberately
 

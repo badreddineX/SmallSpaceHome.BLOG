@@ -96,6 +96,8 @@ The area under a studio apartment bed is some of the most valuable real estate i
 - **Bed risers** — add 15 cm of clearance for flat storage bins. ~$25 CAD at Amazon.ca
 - **IKEA SKUBB under-bed bags** — ~$14 CAD for 2
 
+![A minimalist studio bedroom with storage bed frame — no floor clutter, maximum calm](/images/bedroom-minimalist.jpg)
+
 ## 7. Create a Dedicated Workspace
 
 Working from home in a studio apartment is only manageable if the work zone is physically separate from the relaxing zone. If you work from the sofa, you'll never fully relax there.
@@ -141,6 +143,8 @@ A large mirror makes a studio apartment feel significantly larger. Place it wher
 - Opposite or beside a window — multiplies natural light
 
 IKEA HOVET full-length mirror (~$279 CAD) or a round wall mirror (~$45–$80 CAD, Amazon.ca).
+
+![A cozy studio living zone anchored by a rug, floor lamp, and leaning mirror](/images/living-room-cozy.jpg)
 
 ## 12. Hide the Bed Area with Curtains
 

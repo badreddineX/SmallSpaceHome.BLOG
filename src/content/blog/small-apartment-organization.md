@@ -59,6 +59,8 @@ The entryway sets the tone for the whole apartment. If it is chaotic when you wa
 
 The test: can you grab your keys, put on shoes, and be out the door in 60 seconds? If not, the entryway needs work.
 
+![A minimal apartment entryway system with hooks, shoe rack, and a tray for daily essentials](/images/storage-wicker-shelf.jpg)
+
 ## The Living Room: Surfaces and Systems
 
 The living room is the hardest to keep organized because it is used most and has the most surfaces for things to land on.
@@ -135,6 +137,8 @@ Getting organized is one thing. Staying organized is the real challenge.
 **10-minute evening reset** — every surface cleared, dishes done, clothes hung or in laundry, nothing on the floor. Takes 10 minutes when done consistently.
 
 **Weekly zone check** — one zone per week, 15 minutes. Check that things are in their right place and nothing has accumulated that should not be there.
+
+![A consistently maintained organized closet — the result of simple daily habits](/images/closet-wardrobe-open.jpg)
 
 For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places/) — it covers every room including the entryway and kitchen.
 

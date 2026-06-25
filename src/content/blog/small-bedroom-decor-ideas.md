@@ -94,6 +94,8 @@ In a rental, a Command large curtain rod bracket (~$18 CAD) or a tension rod cur
 
 **Cost:** IKEA LENDA curtain panels (2-pack) ~$30–$50 CAD, ceiling-height rod ~$25–$40 CAD.
 
+![Floor-to-ceiling curtains mounted near the ceiling make any small bedroom feel taller](/images/bedroom-shelves-reading.jpg)
+
 ## 7. Bedding That Matches the Walls
 
 When your bedding is a similar tone to the walls (both light neutrals), the bed visually recedes into the room rather than dominating it. This is a trick interior designers use constantly in small spaces.
@@ -121,6 +123,8 @@ When floor space is limited, walls become the main design canvas. Floating shelv
 - A tall piece of art rather than a wide one
 
 If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/) prioritizes the highest-impact moves first.
+
+![Floating shelves above a reading nook add storage and personality without taking floor space](/images/decor-floating-shelves.jpg)
 
 ## 10. One Plant, Deliberately Placed
 

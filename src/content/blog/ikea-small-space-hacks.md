@@ -88,6 +88,8 @@ The RASKOG 3-tier cart (~$39 CAD) works beautifully as a kitchen cart that rolls
 
 In a small apartment where rooms serve multiple purposes, the rollability is actually the feature.
 
+![A clean organized kitchen with smart storage — every inch used intentionally](/images/kitchen-organized-white.jpg)
+
 ## 8. SKADIS Pegboard to Clear Counter Space
 
 A SKADIS pegboard on the kitchen wall (or behind the desk) keeps tools and supplies accessible without consuming any counter or desk surface. It works with SKADIS-compatible hooks, containers, and clips.
@@ -111,6 +113,8 @@ The IVAR system is IKEA's most flexible storage system — it expands, reconfigu
 ## 11. HOVET Mirror to Expand a Small Bedroom
 
 The HOVET full-length mirror (~$279 CAD) leans against the wall (no installation) and immediately makes any small bedroom feel significantly larger. It reflects light from the window and creates the illusion of a second doorway.
+
+![An open wardrobe system in a small bedroom — visible, accessible, and zero wasted space](/images/closet-wardrobe-open.jpg)
 
 ## 12. FRIHETEN as a Guest Bed for Studio Apartments
 
