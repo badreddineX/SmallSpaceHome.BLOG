@@ -178,7 +178,7 @@ const catClass: Record<string, string> = {
           <aside class="post-sidebar" aria-label="Article sidebar">
             <div class="sidebar-toc" id="sidebar-toc">
               <div class="toc-header" id="toc-header">
-                <span class="toc-title">Table of Contents</span>
+                <span class="toc-title">Contents</span>
                 <button class="toc-toggle" id="toc-toggle" aria-label="Collapse table of contents">&#x2303;</button>
               </div>
               <div class="toc-body" id="toc-body">
@@ -376,8 +376,33 @@ const catClass: Record<string, string> = {
   color: var(--color-ink);
   margin: 3rem 0 1rem;
   line-height: 1.25;
-  padding-bottom: 10px;
-  border-bottom: 2px solid var(--color-accent-dark);
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+.post-body :global(.h2-num) {
+  font-family: var(--font-display);
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-accent-dark);
+  flex-shrink: 0;
+  position: relative;
+  padding-bottom: 4px;
+}
+.post-body :global(.h2-num::after) {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: var(--color-accent-dark);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-radius: 1px;
+}
+.post-body :global(.h2-title) {
+  display: inline;
 }
 .post-body :global(h3) {
   font-family: var(--font-display);
@@ -651,65 +676,61 @@ const catClass: Record<string, string> = {
 .toc-body.is-collapsed { max-height: 0; }
 .sidebar-toc-list {
   list-style: none;
-  padding: 4px 0;
+  padding: 0;
   margin: 0;
-  counter-reset: toc-item;
 }
-.sidebar-toc-list li { counter-increment: toc-item; }
 .sidebar-toc-list li a {
   display: flex;
-  align-items: flex-start;
-  gap: 10px;
-  font-size: 0.78rem;
-  font-family: var(--font-body);
-  font-style: normal;
-  font-weight: 400;
-  color: var(--color-text-muted);
-  text-decoration: none;
-  padding: 9px 14px;
-  border-bottom: 1px solid var(--color-border-light);
-  line-height: 1.5;
-  /* animated left-bar via box-shadow — transitions cleanly */
-  box-shadow: inset 3px 0 0 transparent;
-  transition: color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease, font-weight 0.1s;
-}
-.sidebar-toc-list li a::before {
-  content: counter(toc-item);
-  flex-shrink: 0;
-  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  background: var(--color-border);
-  font-size: 0.58rem;
-  font-weight: 700;
+  gap: 0;
+  font-size: 0.82rem;
   font-family: var(--font-body);
-  color: var(--color-text-muted);
-  margin-top: 1px;
-  transition: background 0.25s ease, color 0.25s ease;
+  font-weight: 400;
+  color: var(--color-ink);
+  text-decoration: none;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--color-border-light);
+  background: var(--color-bg);
+  transition: background 0.22s ease;
+}
+.toc-num {
+  flex-shrink: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-accent-dark);
+  min-width: 38px;
+  line-height: 1;
+  transition: color 0.22s ease;
+}
+.toc-divider {
+  flex-shrink: 0;
+  width: 1px;
+  min-height: 1.5em;
+  align-self: stretch;
+  background: var(--color-border);
+  margin: 0 14px 0 4px;
 }
 .toc-item-text {
-  white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  color: var(--color-text-muted);
+  transition: color 0.22s ease;
+  line-height: 1.45;
 }
 .sidebar-toc-list li:last-child a { border-bottom: none; }
 .sidebar-toc-list li a:hover {
-  color: var(--color-ink);
   background: var(--color-surface);
-  box-shadow: inset 3px 0 0 var(--color-accent);
 }
+.sidebar-toc-list li a:hover .toc-item-text { color: var(--color-ink); }
 .sidebar-toc-list li a.toc-active {
+  background: rgba(139,111,71,0.06);
+}
+.sidebar-toc-list li a.toc-active .toc-num { color: var(--color-accent-dark); }
+.sidebar-toc-list li a.toc-active .toc-item-text {
   color: var(--color-ink);
   font-weight: 600;
-  background: rgba(139,111,71,0.06);
-  box-shadow: inset 3px 0 0 var(--color-accent-dark);
-}
-.sidebar-toc-list li a.toc-active::before {
-  background: var(--color-accent-dark);
-  color: #fff;
 }
 
 /* Sidebar CTA */
@@ -847,6 +868,26 @@ document.querySelectorAll<HTMLTableElement>('.post-body table').forEach(table =>
   wrap.appendChild(table);
 });
 
+// ── H2 number decoration ─────────────────────────────────
+const H2_SKIP = new Set(['tl;dr', 'tl:dr', '—', '–']);
+const allH2s = document.querySelectorAll<HTMLHeadingElement>('.post-body h2');
+let h2Counter = 0;
+allH2s.forEach((h) => {
+  const fullText = (h.textContent ?? '').trim();
+  if (H2_SKIP.has(fullText.toLowerCase())) return;
+  const stripped = fullText.replace(/^\d+\.\s*/, '').trim();
+  h2Counter++;
+  const numSpan = document.createElement('span');
+  numSpan.className = 'h2-num';
+  numSpan.textContent = String(h2Counter).padStart(2, '0') + '.';
+  const titleSpan = document.createElement('span');
+  titleSpan.className = 'h2-title';
+  titleSpan.textContent = stripped;
+  h.textContent = '';
+  h.appendChild(numSpan);
+  h.appendChild(titleSpan);
+});
+
 // ── TOC build + scroll spy ────────────────────────────────
 const headings   = document.querySelectorAll<HTMLHeadingElement>('.post-body h2');
 const tocList    = document.getElementById('sidebar-toc-list');
@@ -864,16 +905,25 @@ if (tocHeadings.length < 2) {
 } else {
   tocHeadings.forEach((h, i) => {
     if (!h.id) h.id = `section-${i}`;
-    const li   = document.createElement('li');
-    const a    = document.createElement('a');
-    const text = document.createElement('span');
+    const li      = document.createElement('li');
+    const a       = document.createElement('a');
+    const numSpan = document.createElement('span');
+    const divider = document.createElement('span');
+    const text    = document.createElement('span');
+
+    numSpan.className = 'toc-num';
+    numSpan.textContent = String(i + 1).padStart(2, '0');
+
+    divider.className = 'toc-divider';
+
     text.className = 'toc-item-text';
-    // Strip leading "1." numbering from headings, then keep first 5 words
     const raw = (h.textContent ?? '').replace(/^\d+\.\s*/, '').trim();
-    const words = raw.split(' ');
-    text.textContent = words.slice(0, 5).join(' ') + (words.length > 5 ? '…' : '');
-    text.title = raw; // full text on hover tooltip
+    text.textContent = raw;
+    text.title = raw;
+
     a.href = `#${h.id}`;
+    a.appendChild(numSpan);
+    a.appendChild(divider);
     a.appendChild(text);
     li.appendChild(a);
     tocList?.appendChild(li);
