@@ -46,6 +46,8 @@ A 2×4 KALLAX standing vertically separates a studio apartment into two zones wi
 
 **Tip:** Secure it to the wall or ceiling with anti-tip hardware for safety.
 
+![A styled bookcase used as a room divider in a small apartment — books and plants on display, storage inside](/images/decor-bookcase-scandi.jpg)
+
 ## 3. TV Console With Hidden Storage
 
 A 1×4 KALLAX at the right height works as a TV console. Add doors on four cubes for hidden storage (router, cables, game controllers) and leave the others open for a decorative touch.
@@ -72,6 +74,8 @@ If your kitchen cupboards aren't cutting it, a KALLAX in the kitchen or nearby h
 
 A 2×2 KALLAX under a window (horizontal) with a cushion becomes a window seat with storage underneath — four full cubes for blankets, books, or whatever you need hidden.
 
+![A cozy apartment living room with a KALLAX unit styled as media console — open and closed cubes for display and storage](/images/living-room-cozy.jpg)
+
 ## 9. Bookshelf + Display Wall
 
 Two 1×4 vertical KALLAXes side by side creates a dramatic book and display wall. Alternate open and closed cubes for visual rhythm without looking cluttered.
@@ -83,6 +87,8 @@ A 2×4 KALLAX with labelled bins for craft supplies, fabric, tools, and paper cr
 ## 11. Hallway Storage
 
 A slim 1×4 horizontal KALLAX in a hallway (about 42 cm deep) stores shoes, bags, scarves, and hats without blocking the path. Add a mirror on the wall above it and it becomes a proper entryway.
+
+![A wicker shelf unit at the apartment entryway — the same KALLAX concept using natural wicker baskets for a warm look](/images/storage-wicker-shelf.jpg)
 
 ---
 

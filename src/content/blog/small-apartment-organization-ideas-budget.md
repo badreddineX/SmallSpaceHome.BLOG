@@ -38,6 +38,8 @@ If you buy one piece of furniture for a small apartment, make it a KALLAX. It wo
 
 **Cost:** KALLAX 4-square unit starts at ~$79 CAD. Fabric bins from IKEA: ~$6 each.
 
+![Floating shelves with books and plants above a desk — the LACK shelf system makes vertical storage beautiful and accessible](/images/decor-floating-shelves.jpg)
+
 ## 3. Over-Door Organizers for Every Door
 
 Every door is a storage opportunity. Over-door organizers work on bedroom closets, bathroom doors, pantry doors, and under-sink cabinet doors. No tools required.
@@ -63,6 +65,8 @@ A tension rod installed below your existing closet rod instantly doubles your ha
 
 **Cost:** Amazon.ca tension rod, ~$15–$20 CAD.
 
+![An open wardrobe system with clothes organized by category — slim velvet hangers give 30–40% more space instantly](/images/closet-wardrobe-open.jpg)
+
 ## 6. Drawer Dividers for Every Drawer
 
 Loose drawers are wasted drawers. Adjustable bamboo or plastic dividers keep every category of item in its own lane — socks, underwear, utensils, office supplies.
@@ -84,6 +88,8 @@ Command hooks are the renter's best friend. Use them for:
 A pegboard on the kitchen wall (mounted with Command strips or on a freestanding frame) keeps frequently used pots, pans, and utensils off the counter and within reach. It also looks great.
 
 **Cost:** IKEA SKÅDIS pegboard starts at ~$15 CAD.
+
+![Open kitchen shelves with organized pots and everyday items — a pegboard approach that clears counter space completely](/images/kitchen-open-shelves.jpg)
 
 ## 9. Stackable Bins in the Pantry
 

@@ -39,6 +39,8 @@ One peel-and-stick accent wall transforms a room more dramatically than any othe
 
 **Application tip:** Prep the wall with a damp cloth, let it dry completely, and apply in vertical strips from top to bottom. Use a credit card to smooth out bubbles.
 
+![A removable peel-and-stick wallpaper accent wall behind a bed in a Canadian rental apartment](/images/blog-13-img2.jpg)
+
 ## 2. Gallery Wall With Command Strips
 
 A gallery wall with 8–12 frames of different sizes makes any wall feel intentional and personal. Command Large Picture Hanging Strips hold up to 7.5 kg per pair — enough for most frames.
@@ -50,6 +52,8 @@ A gallery wall with 8–12 frames of different sizes makes any wall feel intenti
 4. Adjust until you love the layout before committing
 
 **Cost:** A 10-piece gallery wall using second-hand frames and printed photos or art prints can cost under $75 CAD.
+
+![A gallery wall with mixed frames hung using Command strips in a Canadian rental apartment](/images/blog-13-img3.jpg)
 
 ## 3. Peel-and-Stick Backsplash Tiles
 
@@ -99,6 +103,8 @@ A few well-placed plants do more for a space than almost anything else. For rent
 - Snake plant (thrives in low light)
 - ZZ plant (low water, slow growing)
 - Rubber tree (dramatic and easy)
+
+![Low-maintenance plants on shelves in a small Canadian apartment — easy, organic decor that requires no installation](/images/blog-13-img4.jpg)
 
 ---
 

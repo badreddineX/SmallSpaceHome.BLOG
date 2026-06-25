@@ -75,6 +75,8 @@ The single habit that separates minimalist apartments from regular ones is surfa
 
 When you come home, things go to their homes — not onto surfaces.
 
+![A minimalist apartment living room with clear surfaces — every object intentional, nothing left as clutter](/images/blog-16-img2.jpg)
+
 ## Step 3: Choose a Colour Palette and Stick to It
 
 A minimalist apartment has a restrained, cohesive palette. In a small apartment this also makes the space feel larger.
@@ -98,6 +100,8 @@ In a small apartment, every piece of furniture should do at least two things. Mi
 
 When every piece does multiple jobs, you need fewer pieces total.
 
+![Multi-functional furniture in a small apartment — storage ottoman and KALLAX doing double duty](/images/blog-16-img3.jpg)
+
 ## Step 5: One Statement Piece Per Room
 
 Minimalism does not mean no decor. It means deliberate decor. Each room has one thing it says visually — one focal point that the eye goes to first.
@@ -117,6 +121,8 @@ Books — read ones, not display ones. Arranged by colour if they're on display.
 Objects with meaning — something you picked up travelling, a piece you saved up for, a family item that belongs to the space.
 
 Everything else is generic fill that could have come from any showroom. If you can't identify why a specific object is in your home, it probably shouldn't be.
+
+![A shelf with plants, books arranged by colour, and one meaningful object — minimalist decor done right](/images/blog-16-img4.jpg)
 
 ## Step 7: The Ongoing Edit
 

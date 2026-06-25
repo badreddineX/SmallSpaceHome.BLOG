@@ -34,6 +34,8 @@ The key to making a studio apartment livable is mentally (and physically) dividi
 
 You don't need walls. You need furniture placement, rugs, and lighting to define these zones.
 
+![A studio apartment with clearly defined living and sleeping zones separated by furniture placement and rugs](/images/studio-apartment-living.jpg)
+
 ## Saturday Morning: Declutter First
 
 Don't organize clutter. Remove it first.
@@ -67,6 +69,8 @@ Most studios have either a tiny closet or no closet at all. Here's the system:
 
 **Step 5:** Store off-season clothes in flat under-bed IKEA SKUBB bags.
 
+![A well-organized studio bedroom zone with storage bed and clear surfaces — no clutter in sight](/images/bedroom-minimalist.jpg)
+
 ## Sunday Morning: Kitchen and Bathroom
 
 ### Kitchen
@@ -93,6 +97,8 @@ Without an entry zone, everything migrates to your sofa, bed, and floor. Solve t
 ## The Finishing Touch: Vertical Storage
 
 Once your floor plan is set, look up. Vertical shelves — IKEA LACK, floating shelves with Command strips, or a tall KALLAX — keep floor space open while adding storage capacity. Aim to have everything within arm's reach from its zone.
+
+![Wicker shelf unit used as vertical storage in a studio apartment entry zone — organized and visually warm](/images/storage-wicker-shelf.jpg)
 
 ---
 

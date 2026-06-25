@@ -43,6 +43,8 @@ The area under the bed is the largest storage zone in most bedrooms, and it is a
 
 **What to store under the bed:** off-season clothing, extra bed linens, bulky items used rarely (winter duvet in summer, summer blankets in winter), shoes.
 
+![IKEA SKUBB flat under-bed bags make full use of the largest storage zone in a small bedroom](/images/blog-18-img2.jpg)
+
 ## 2. Slim Velvet Hangers in the Closet
 
 Switching from plastic to slim velvet hangers is the highest-value closet upgrade available. Plastic hangers are 2–2.5 cm thick. Velvet hangers are 0.5 cm thick. Replacing 30 hangers frees 45–60 cm of rod space — room for 15–20 additional garments.
@@ -54,6 +56,8 @@ Switching from plastic to slim velvet hangers is the highest-value closet upgrad
 A second tension rod installed below the main closet rod creates a full second tier for short items — shirts, folded blazers, folded trousers, jackets. Five minutes to install, no tools required.
 
 **Cost:** Amazon.ca, tension rod ~$15 CAD.
+
+![A second tension rod installed below the main closet rod doubles hanging space for short items instantly](/images/blog-18-img3.jpg)
 
 ## 4. Over-Door Closet Organizer
 
@@ -104,6 +108,8 @@ Some older Toronto and Montreal apartments have inadequate or no bedroom closets
 A 100 cm wide × 201 cm tall PAX with interior organizers stores full wardrobes for one person.
 
 **Cost:** Frame from ~$179 CAD, full configuration with doors and organizers ~$400–$800 CAD.
+
+![IKEA PAX wardrobe providing a complete closet system in a small bedroom with no built-in closet](/images/blog-18-img4.jpg)
 
 ## 12. A Tall Dresser Instead of a Wide One
 

@@ -56,6 +56,8 @@ A rug is the single piece of decor that makes the most visual difference in a li
 - Amazon.ca budget rugs — good quality options from ~$65–$80 CAD
 - HomeSense/Winners — check for end-of-season sales, high quality at reduced prices
 
+![A large area rug anchoring the sofa and coffee table in a small Canadian apartment living room](/images/blog-15-img2.jpg)
+
 ## 2. Fix the Lighting ($15–$45 CAD)
 
 Harsh overhead lighting is one of the biggest reasons rental apartments feel institutional. Warm 2700K bulbs transform the feel of every room for about $15 CAD.
@@ -74,11 +76,15 @@ Once the rug is in place and the lighting is fixed, textiles add warmth and colo
 - A throw blanket — IKEA POLARVIDE throw ~$10 CAD
 - A bath mat and matching towels for the bathroom — $15–$25 CAD at Walmart Canada
 
+![Throw cushions and a blanket layered on a rental apartment sofa — the fastest way to add warmth and colour](/images/blog-15-img3.jpg)
+
 ## 4. Art and Plants ($20–$40 CAD)
 
 A gallery wall of printed photos costs almost nothing. Print your own photos at Costco Canada (~$0.20–$0.50 per 4×6 print) and frame them with Dollarama frames (~$2–$4 each). A gallery of 10–12 personal photos costs under $30 CAD total and looks far more interesting than generic art.
 
 **For plants:** a pothos from any garden centre in Canada, ~$5–$15 CAD. Nearly impossible to kill, grows fast, looks beautiful on a shelf.
+
+![A gallery wall of printed photos with matching IKEA frames — under $40 CAD total and looks like a design magazine](/images/blog-15-img4.jpg)
 
 ## Under $50 CAD: The Free Changes First
 

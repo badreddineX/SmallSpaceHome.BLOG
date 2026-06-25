@@ -49,6 +49,8 @@ Command large hooks hold up to 4.5 kg each and peel off the wall cleanly when yo
 
 **Where to buy:** Canadian Tire or Walmart Canada, 4-pack ~$12–$15 CAD.
 
+![Command hooks at a small apartment entryway keep coats, bags, and keys off the floor](/images/blog-09-img2.jpg)
+
 ## 3. Over-Door Organizer (~$25–$35 CAD)
 
 The back of a door is storage you're not using. An over-door organizer with pockets transforms the back of a closet door into shoe storage, or a bathroom door into a holder for hair tools and products.
@@ -78,6 +80,8 @@ Dollarama's organization section is significantly better than most people expect
 Flat, zippable bags designed to slide under a bed frame. Store off-season clothes, extra linens, or anything you only need twice a year. If your bed sits too low, bed risers (~$25 CAD) add clearance.
 
 **Where to buy:** IKEA, 2-pack ~$14 CAD.
+
+![Flat IKEA SKUBB under-bed bags make full use of the largest untapped storage space in a small bedroom](/images/blog-09-img3.jpg)
 
 ## 8. Drawer Dividers (~$22–$32 CAD for a Set)
 
@@ -126,6 +130,8 @@ Labels make every storage system work better. When everything is clearly labeled
 Canadian winters mean storing heavy blankets, coats, and seasonal clothing for half the year. Vacuum storage bags compress bulky items to 1/4 their original size.
 
 **Where to buy:** Amazon.ca, 6-bag set ~$25–$30 CAD.
+
+![Vacuum storage bags compressing bulky winter clothing for small apartment closet storage](/images/blog-09-img4.jpg)
 
 ---
 

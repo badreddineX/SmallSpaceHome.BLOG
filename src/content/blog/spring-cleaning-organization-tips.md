@@ -74,6 +74,8 @@ Vacuum bags compress winter clothing to a fraction of its size. ~$25–$30 CAD f
 - Shelf dividers for folded clothes
 - Ensure everything has a specific home before putting it back
 
+![A freshly decluttered bedroom closet after spring cleaning — seasonal clothing swapped and everything in its place](/images/blog-21-img2.jpg)
+
 ---
 
 ## The Kitchen
@@ -104,6 +106,8 @@ Then add clear stackable bins (~$5–$8 CAD each, Amazon.ca) by category. The sp
 - Drawer dividers in every kitchen drawer
 - Under-sink organization (often the most chaotic spot in a small apartment kitchen)
 
+![Clear pantry bins labeled by category installed after a spring kitchen clean — the system that maintains itself](/images/blog-21-img3.jpg)
+
 ---
 
 ## The Living Room
@@ -127,6 +131,8 @@ The living room collects winter detritus — extra blankets that were never put 
 - Re-style shelves after removing winter items
 - Update the KALLAX or media console storage
 - Add spring/summer textiles (lighter throws, brighter cushion covers)
+
+![A living room reset for spring — winter textiles stored, shelves re-styled, lighter cushions and a fresh plant](/images/blog-21-img4.jpg)
 
 ---
 

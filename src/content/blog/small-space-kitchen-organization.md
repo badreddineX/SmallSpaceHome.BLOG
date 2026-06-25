@@ -52,6 +52,8 @@ Everything else — toaster, blender, mixer, spice rack, fruit bowl — goes in 
 
 A clear counter makes a small kitchen look and feel significantly larger.
 
+![A small apartment kitchen with completely cleared counters — only the coffee maker and one plant remain](/images/blog-17-img2.jpg)
+
 ## 2. Clear Stackable Pantry Bins (~$5–$8 CAD Each)
 
 Loose pantry shelves with bags and boxes in random piles hide things at the back and cause duplicate purchases. Clear, stackable bins with labels mean you can see everything at a glance.
@@ -64,6 +66,8 @@ Group by category:
 - Breakfast items
 
 **Where to buy:** Amazon.ca, ~$5–$8 CAD each. Buy 6–8 for a complete pantry.
+
+![Clear stackable pantry bins labeled by category — everything visible at a glance in a small apartment kitchen](/images/blog-17-img3.jpg)
 
 ## 3. Bamboo Drawer Dividers (~$22–$32 CAD)
 
@@ -88,6 +92,8 @@ The inside of pantry cabinet doors is unused surface. Wire racks or adhesive ove
 The RASKOG 3-tier rolling cart adds a full extra work and storage surface that rolls out when needed and tucks away after. Use it as a kitchen island extension during cooking, or as a pantry overflow for items that don't fit in cabinets.
 
 **Cost:** IKEA RASKOG ~$39 CAD.
+
+![IKEA RASKOG rolling cart used as a kitchen island extension in a small apartment](/images/blog-17-img4.jpg)
 
 ## 7. Magnetic Knife Strip to Clear the Counter (~$18–$28 CAD)
 

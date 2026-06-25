@@ -58,6 +58,8 @@ Once the sofa is placed, the coffee table, rug, and side tables follow naturally
 
 **Side table:** one on each end of the sofa if there's room. If not, one at the dominant side.
 
+![A small living room with the sofa floated slightly from the wall and a correctly scaled coffee table](/images/blog-10-img2.jpg)
+
 ## Step 3: Size the Rug Correctly
 
 A rug that is too small is one of the most common living room decorating mistakes. It makes the room feel disconnected and actually smaller.
@@ -81,6 +83,8 @@ Single overhead lights make living rooms feel institutional. Layered lighting tr
 Switch all bulbs to 2700K warm white. This alone changes the mood dramatically.
 
 **Cost:** Warm bulbs ~$15–$25 CAD. Floor lamp from Amazon.ca or IKEA ~$45–$150 CAD.
+
+![Layered living room lighting with a floor lamp and table lamp replacing harsh overhead light](/images/blog-10-img3.jpg)
 
 ## Step 5: Sort Out Window Treatments
 
@@ -113,6 +117,8 @@ Textiles are the fastest way to change the feel of a living room. In a rental wh
 - Throw cushions — 4 to 6 on the sofa in your accent colour
 - A throw blanket draped over one arm of the sofa
 - Curtains (see Step 5)
+
+![Throw cushions and a draped blanket adding warmth and colour to a small apartment living room sofa](/images/blog-10-img4.jpg)
 
 ## Step 8: Add Storage Invisibly
 

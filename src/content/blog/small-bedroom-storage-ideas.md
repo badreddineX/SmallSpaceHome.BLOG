@@ -32,6 +32,8 @@ Flat, lidded bins designed for under-bed storage keep off-season clothes, extra 
 
 **Best option:** IKEA SKUBB under-bed bag ($14 for 2).
 
+![A bedroom with a reading nook shelf beside the bed — every vertical surface used for storage and calm display](/images/bedroom-shelves-reading.jpg)
+
 ## 3. Vertical Dresser Over a Wide One
 
 A 6-drawer tall dresser stores the same number of items as a wide 3-drawer but takes half the floor footprint. In a small bedroom, every square metre of floor space matters.
@@ -39,6 +41,8 @@ A 6-drawer tall dresser stores the same number of items as a wide 3-drawer but t
 ## 4. Slim Velvet Hangers Throughout the Closet
 
 Standard plastic hangers are enormously wasteful of closet space. Switching your entire wardrobe to slim velvet hangers typically adds 30–40% more hanging capacity — for ~$18 CAD.
+
+![An open wardrobe with clothes organized by category — slim hangers and shelf dividers make every inch usable](/images/closet-wardrobe-open.jpg)
 
 ## 5. Double Hanging Rod With a Tension Bar
 
@@ -70,6 +74,8 @@ The back of your bedroom door is the most underused surface in the room. A hook 
 Floor space beside the bed is precious. Wall-mounted bedside shelves (Command strips for lightweight, one screw for heavier) keep a lamp, phone, water, and book within reach without floor furniture.
 
 **Cost:** From $20 CAD on Wayfair Canada or Amazon.ca.
+
+![Floating shelves as bedroom storage — books, plants, and a lamp instead of a full nightstand footprint](/images/decor-floating-shelves.jpg)
 
 ## 10. A Pegboard or Grid Panel Behind the Desk
 

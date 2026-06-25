@@ -51,11 +51,15 @@ A mirror that faces a window reflects the outdoor light back into the room, effe
 
 A leaning full-length mirror requires no installation. IKEA HOVET ~$279 CAD, or Amazon.ca options from ~$89 CAD.
 
+![A leaning full-length mirror opposite a window doubles the light and adds visual depth to a small room](/images/blog-14-img2.jpg)
+
 ## 3. Hang Curtains at Ceiling Height
 
 Curtain rods mounted close to the ceiling — not at window height — make ceilings look dramatically higher. The vertical lines of curtains that fall from near the ceiling to the floor give the room a sense of height it doesn't technically have.
 
 This is one of the most effective tricks for making a small apartment feel larger, and it costs almost nothing to implement with a tension rod.
+
+![Ceiling-height curtains falling to the floor make this small bedroom feel significantly taller](/images/blog-14-img3.jpg)
 
 ## 4. Choose Furniture With Legs
 
@@ -115,6 +119,8 @@ Cost: warm bulb swap ~$15 CAD. Floor lamp from ~$45 CAD.
 A rug that is too small for the room creates a floating island effect that actually makes the room look smaller. A correctly sized rug — front legs of all furniture on the rug — creates a unified ground plane that makes the room look larger.
 
 Minimum size for a small living room: 160 × 230 cm.
+
+![A correctly sized area rug with furniture legs on it unifies the floor plane and makes the room look larger](/images/blog-14-img4.jpg)
 
 ## 11. Reduce the Number of Items in the Room
 

@@ -62,6 +62,8 @@ Look for:
 - Sofas and armchairs with legs (not fabric-to-floor styles)
 - Side tables and coffee tables with legs rather than solid bases
 
+![Furniture on visible legs keeps the floor line open and makes a small room feel more spacious](/images/blog-08-img2.jpg)
+
 ## Rule 4: Go Vertical Everywhere
 
 The space above eye level in most Canadian apartments is completely unused. This is where storage, shelving, and tall furniture go in a small space.
@@ -101,6 +103,8 @@ Single overhead lights make every room feel flat. Layered lighting — ambient, 
 
 Warm bulbs (2700K) throughout. Avoid cool white or daylight bulbs in residential spaces.
 
+![Layered warm lighting in a small apartment living room — floor lamp, table lamp, and candles](/images/blog-08-img3.jpg)
+
 ## Rule 8: Textiles Are the Cheapest Design Element
 
 In a rental apartment where you can't change the walls, floors, or architecture, textiles do the most work.
@@ -131,6 +135,8 @@ When every room shares the same palette, the whole apartment reads as one unifie
 In a studio apartment, rugs create zones where there are no walls. In a regular apartment, they anchor furniture groupings and give each room a sense of defined space.
 
 **Sizing is critical:** a too-small rug makes a room feel smaller, not larger. The front legs of the sofa should be on the rug in the living room. The rug in the bedroom should extend 50–60 cm on either side of the bed.
+
+![A correctly sized area rug with front sofa legs on it, defining the living zone in a small apartment](/images/blog-08-img4.jpg)
 
 ## Rule 12: Plants Everywhere (But Not Cluttering)
 

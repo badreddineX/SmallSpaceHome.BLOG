@@ -34,6 +34,8 @@ A throw blanket draped over a sofa changes the entire feel of a living room. Go 
 
 **Where to find them:** HomeSense is the best value. IKEA's POLARVIDE throw is $14 CAD and comes in multiple colours.
 
+![A cozy living room with a chunky throw blanket draped over the sofa — one of the easiest budget upgrades](/images/living-room-cozy.jpg)
+
 ## 3. New Throw Cushion Covers ($15–$30 CAD)
 
 If you already have cushion inserts, just replace the covers. A fresh set of cushion covers in a coordinated colour scheme can make a sofa look completely new.
@@ -74,6 +76,8 @@ A tall simple vase with dried pampas grass or eucalyptus is everywhere in interi
 
 Dried bunches from Amazon.ca run ~$12–$18 CAD. A thrift store vase costs $2–$5.
 
+![Floating shelves styled with plants and books — a budget decor move that looks intentional and expensive](/images/decor-floating-shelves.jpg)
+
 ## 10. Curtain Clips for Fabric Panels ($8–$12 CAD)
 
 Don't have curtain rods or can't install them? Clip-ring curtains hang from a tension rod (no drilling) and look intentional rather than improvised.
@@ -85,6 +89,8 @@ A curated stack of books — spines facing out, same direction — on a coffee t
 ## 12. Plug-In Fairy Lights ($10–$18 CAD)
 
 Warm white fairy lights draped over a bookshelf, behind a headboard, or around a mirror add ambient light and instant warmth. Plug-in versions require no installation.
+
+![A styled Scandi bookcase with books, plants, and warm-toned objects — the kind of display that looks curated, not cluttered](/images/decor-bookcase-scandi.jpg)
 
 ---
 

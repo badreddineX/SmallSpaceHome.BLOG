@@ -61,6 +61,8 @@ If you don't need the sofa bed function, the 2-seat VIMLE is well-proportioned f
 
 **What to avoid:** 3-seat sectionals and L-shaped sofas unless your living room is specifically large enough. In most Canadian apartments under 600 sq ft, they overwhelm the room.
 
+![A multi-function sofa with clean proportions sized correctly for a small Canadian apartment living room](/images/blog-07-img2.jpg)
+
 ### Beds
 
 **IKEA NORDLI storage bed** — ~$399–$699 CAD (Queen)
@@ -73,6 +75,8 @@ Slightly more traditional look, 4 pull-out storage boxes underneath. Pairs well 
 The cheapest option that still looks decent. No storage, but allows for under-bed bins with risers.
 
 **What to avoid:** King beds in bedrooms under 12 sq m — you'll have no walkway space.
+
+![A storage bed frame with built-in drawers replaces the dresser in a small Canadian apartment bedroom](/images/blog-07-img3.jpg)
 
 ### Storage Units
 
@@ -106,6 +110,8 @@ For anyone who needs more desk space, this creates a desk-plus-storage combinati
 
 **Wall-mounted fold-down desk** — ~$80–$150 CAD (Amazon.ca)
 The best option if you need a desk but rarely use it. Completely disappears when folded up.
+
+![A compact desk setup in a small apartment — MICKE desk with KALLAX storage beside it](/images/blog-07-img4.jpg)
 
 ### Dining and Eating
 

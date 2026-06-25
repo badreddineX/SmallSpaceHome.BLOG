@@ -61,6 +61,8 @@ A second tension rod below the main closet rod creates a full extra tier of hang
 
 Replace all plastic hangers with slim velvet ones. Frees 30–40% more hanging space in any closet. 50-pack for $18 CAD at Amazon.ca — the highest-value small-apartment purchase per dollar in this entire guide.
 
+![A storage bed frame with built-in drawers eliminates the need for a separate dresser in a small bedroom](/images/blog-11-img2.jpg)
+
 ## Kitchen Storage Solutions
 
 ### 6. Pegboard for Wall Storage
@@ -68,6 +70,8 @@ Replace all plastic hangers with slim velvet ones. Frees 30–40% more hanging s
 A pegboard mounted on the kitchen wall (or leaned against it and attached with Command strips) stores pots, pans, utensils, and even spice jars without consuming any counter space.
 
 IKEA SKADIS pegboard: ~$15 CAD for the basic panel. Add hooks and containers separately.
+
+![A kitchen pegboard storing utensils and small items vertically — zero counter space used](/images/blog-11-img3.jpg)
 
 ### 7. Clear Stackable Pantry Bins
 
@@ -94,6 +98,8 @@ IKEA RASKOG: ~$39 CAD.
 KALLAX with fabric drawer inserts keeps cables and electronics organized while looking intentionally designed. The inserts hide the contents behind a clean fabric front.
 
 KALLAX 2×2: ~$79 CAD. Fabric inserts: ~$6 each.
+
+![IKEA KALLAX unit with fabric inserts acting as a media console and storage in a small living room](/images/blog-11-img4.jpg)
 
 ### 11. Storage Ottoman as Coffee Table
 

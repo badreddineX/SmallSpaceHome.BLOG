@@ -43,6 +43,8 @@ Warm lighting is the single most powerful tool for creating a cozy winter atmosp
 
 Candles are the cozy lighting secret. Even when they're not lit, they signal warmth and intention. When they are lit, the flickering flame creates an atmosphere no electric light can replicate.
 
+![A cozy Canadian apartment living room lit with warm lamps and candles — the foundation of winter comfort](/images/blog-19-img2.jpg)
+
 **Good Canadian candle brands:** Paddywax, P.F. Candle Co. (available at HomeSense), and Homesick. Soy candles burn cleaner and longer than paraffin.
 
 ## Layer Textiles for Warmth
@@ -59,6 +61,8 @@ In summer, a sofa has 2–3 cushions and maybe one throw. In winter, it should h
 - HomeSense and Winners: chunky throws ~$30–$60 CAD, velvet cushions ~$15–$35 CAD
 - IKEA: POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
 - Amazon.ca: boucle and faux sheepskin cushion covers ~$20–$35 CAD each
+
+![Layered throw blankets and chunky cushions on a sofa — the quickest way to create a cozy Canadian winter apartment](/images/blog-19-img3.jpg)
 
 ## Add Winter-Appropriate Scent
 
@@ -90,6 +94,8 @@ Most outdoor plants are dormant in winter, but indoor plants thrive year-round. 
 Cozy is as much about behaviour as aesthetics. A corner of the living room deliberately set up for reading — a comfortable chair, a floor lamp behind it, a small side table for a drink, a blanket nearby — invites the kind of winter rest that feels restorative.
 
 You don't need a separate room for this. A dedicated corner in the living room, styled intentionally, creates the same effect.
+
+![A winter reading corner with a floor lamp, blanket, and side table — small apartment comfort at its best](/images/blog-19-img4.jpg)
 
 ## Upgrade the Bedroom for Winter
 
