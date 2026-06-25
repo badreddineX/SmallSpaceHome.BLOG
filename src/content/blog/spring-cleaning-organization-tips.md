@@ -1,7 +1,7 @@
----
+﻿---
 title: "Spring Cleaning Organization Tips: The Complete Room-by-Room Guide for Canadian Apartments"
-description: "Spring cleaning and organization guide for Canadian apartment renters — room-by-room checklist, declutter strategies, and storage updates for a fresh start after winter."
-image: "/images/kitchen-open-shelves.jpg"
+description: "Spring cleaning and organization guide for Canadian apartment renters â€” room-by-room checklist, declutter strategies, and storage updates for a fresh start after winter."
+image: "/images/blog-21-img1.jpg"
 datePublished: "2026-03-20"
 dateModified: "2026-03-20"
 author: "Sarah Mitchell"
@@ -15,37 +15,37 @@ faqs:
   - q: "What should I donate or throw away in a spring clean?"
     a: "Clothes not worn in the last 12 months, duplicate kitchen tools, expired products in the bathroom, books you won't read again, decor objects you don't genuinely like, single-purpose appliances that rarely get used, and anything stored 'just in case' that hasn't come up yet."
   - q: "How long does spring cleaning a small apartment take?"
-    a: "A thorough spring clean of a 400–650 sq ft apartment takes 6–10 hours across 2–3 days if you do it properly. The declutter portion takes the most time. Set aside a full weekend: Day 1 for bedroom and kitchen, Day 2 for living room, bathroom, and entryway."
+    a: "A thorough spring clean of a 400â€“650 sq ft apartment takes 6â€“10 hours across 2â€“3 days if you do it properly. The declutter portion takes the most time. Set aside a full weekend: Day 1 for bedroom and kitchen, Day 2 for living room, bathroom, and entryway."
   - q: "What organization updates should I make during spring cleaning?"
     a: "Spring is the ideal time to swap seasonal storage (winter clothes out, spring/summer clothes in), update any organization systems that stopped working, add new storage solutions identified during winter, and do a full pantry rotation (check expiry dates, reorganize by category)."
 ---
 
 ## TL;DR
 - Complete room-by-room spring cleaning guide for Canadian apartments
-- Declutter before cleaning — remove what doesn't belong before washing what does
+- Declutter before cleaning â€” remove what doesn't belong before washing what does
 - Use spring cleaning to update storage systems that stopped working over winter
-- Best order: bedroom → kitchen → living room → bathroom → entryway
+- Best order: bedroom â†’ kitchen â†’ living room â†’ bathroom â†’ entryway
 
 ---
 
-Spring arrives in Canada and the apartment often shows the accumulation of a long winter — extra blankets that didn't make it back to storage, winter clothes piled because there was nowhere better to put them, a pantry that expanded with comfort food and forgotten in the back.
+Spring arrives in Canada and the apartment often shows the accumulation of a long winter â€” extra blankets that didn't make it back to storage, winter clothes piled because there was nowhere better to put them, a pantry that expanded with comfort food and forgotten in the back.
 
-Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to.
+Spring cleaning is not just about cleanliness. It is about reset â€” getting the apartment back to a state where it works properly and feels good to come home to.
 
 This guide takes you through every room in order.
 
 ## Before You Start: The Spring Cleaning Sequence
 
 The sequence matters. Do this in every room:
-1. **Declutter** — remove everything that doesn't belong
-2. **Deep clean** — once the clutter is gone, clean properly
-3. **Organize** — with less stuff and clean surfaces, reorganize what remains
+1. **Declutter** â€” remove everything that doesn't belong
+2. **Deep clean** â€” once the clutter is gone, clean properly
+3. **Organize** â€” with less stuff and clean surfaces, reorganize what remains
 
 Most people skip step 1 and wonder why step 3 doesn't last. It doesn't last because there is too much stuff. Decluttering is not optional.
 
 ## The Bedroom
 
-Start in the bedroom. It has the highest daily impact — you start and end every day in this room.
+Start in the bedroom. It has the highest daily impact â€” you start and end every day in this room.
 
 ### Declutter:
 - Pull everything out of the closet. Everything.
@@ -57,10 +57,10 @@ Start in the bedroom. It has the highest daily impact — you start and end ever
 
 ### Seasonal Swap:
 Spring is when you swap winter and summer wardrobes.
-- Winter coats, heavy sweaters, snow pants, and wool items → vacuum storage bags → under-bed or high shelf
-- Spring/summer clothing → front of closet and accessible drawers
+- Winter coats, heavy sweaters, snow pants, and wool items â†’ vacuum storage bags â†’ under-bed or high shelf
+- Spring/summer clothing â†’ front of closet and accessible drawers
 
-Vacuum bags compress winter clothing to a fraction of its size. ~$25–$30 CAD for a 6-bag set at Amazon.ca.
+Vacuum bags compress winter clothing to a fraction of its size. ~$25â€“$30 CAD for a 6-bag set at Amazon.ca.
 
 ### Deep Clean:
 - Wash all bedding including duvet cover and pillowcases
@@ -78,23 +78,23 @@ Vacuum bags compress winter clothing to a fraction of its size. ~$25–$30 CAD f
 
 ## The Kitchen
 
-The kitchen accumulates more than any other room in a Canadian winter. Comfort food ingredients, holiday baking supplies, extra snacks — all of it needs a review in spring.
+The kitchen accumulates more than any other room in a Canadian winter. Comfort food ingredients, holiday baking supplies, extra snacks â€” all of it needs a review in spring.
 
 ### Declutter:
 - Remove everything from every cabinet and the pantry
-- Check expiry dates on everything — expired goods out
+- Check expiry dates on everything â€” expired goods out
 - Duplicate kitchen tools: keep one, donate the rest
-- Appliances you haven't used in 12 months — donate
-- Spices older than 12–18 months — their potency is gone, replace or remove
+- Appliances you haven't used in 12 months â€” donate
+- Spices older than 12â€“18 months â€” their potency is gone, replace or remove
 
 ### Pantry Rotation:
 Move older items to the front, newer items to the back. This prevents the "found a tin of tomatoes from 2023" problem.
 
-Then add clear stackable bins (~$5–$8 CAD each, Amazon.ca) by category. The spring clean is the ideal time to install a proper pantry system you'll maintain all year.
+Then add clear stackable bins (~$5â€“$8 CAD each, Amazon.ca) by category. The spring clean is the ideal time to install a proper pantry system you'll maintain all year.
 
 ### Deep Clean:
 - Wipe down every cabinet surface inside and out
-- Clean the refrigerator — remove all items, clean shelves, check expiry dates on condiments
+- Clean the refrigerator â€” remove all items, clean shelves, check expiry dates on condiments
 - Clean the oven (often the most neglected in winter)
 - Wipe down appliance exteriors
 - Clean behind the appliances you can move
@@ -108,13 +108,13 @@ Then add clear stackable bins (~$5–$8 CAD each, Amazon.ca) by category. The sp
 
 ## The Living Room
 
-The living room collects winter detritus — extra blankets that were never put away, seasonal decor that should have come down in January, accumulated books and magazines.
+The living room collects winter detritus â€” extra blankets that were never put away, seasonal decor that should have come down in January, accumulated books and magazines.
 
 ### Declutter:
-- Remove all winter-specific textiles (heavy throws, seasonal cushion covers) → wash, fold, store
-- Seasonal decor → box and label for next year
-- Books and magazines not being read or referenced → donate or recycle
-- Objects on shelves that you don't notice anymore → if you don't notice it, it's not adding anything
+- Remove all winter-specific textiles (heavy throws, seasonal cushion covers) â†’ wash, fold, store
+- Seasonal decor â†’ box and label for next year
+- Books and magazines not being read or referenced â†’ donate or recycle
+- Objects on shelves that you don't notice anymore â†’ if you don't notice it, it's not adding anything
 
 ### Deep Clean:
 - Vacuum under and behind all furniture
@@ -155,12 +155,12 @@ The bathroom is a small room that fills up fast. Products accumulate, expired it
 
 ## The Entryway
 
-The entryway takes the most abuse in a Canadian winter — wet boots, heavy coats, scarves, gloves, and everything else that comes in from the cold.
+The entryway takes the most abuse in a Canadian winter â€” wet boots, heavy coats, scarves, gloves, and everything else that comes in from the cold.
 
 ### Declutter:
-- All winter footwear → clean, dry thoroughly, store
-- Winter coats → brush down, store or spot-clean
-- Scarves, gloves, hats → wash and store
+- All winter footwear â†’ clean, dry thoroughly, store
+- Winter coats â†’ brush down, store or spot-clean
+- Scarves, gloves, hats â†’ wash and store
 
 ### Deep Clean:
 - Wash or wipe down the entry floor thoroughly (winter roads bring in salt residue)
@@ -209,4 +209,4 @@ The entryway takes the most abuse in a Canadian winter — wet boots, heavy coat
 
 ---
 
-Done over a weekend — one room per half-day — this is a complete reset for the apartment.
+Done over a weekend â€” one room per half-day â€” this is a complete reset for the apartment.
