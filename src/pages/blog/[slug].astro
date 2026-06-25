@@ -14,10 +14,33 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 
 const allPosts = await getCollection('blog');
-const related = allPosts
-  .filter(p => p.slug !== post.slug && p.data.category === post.data.category)
-  .sort(() => Math.random() - 0.5)
-  .slice(0, 3);
+const others   = allPosts.filter(p => p.slug !== post.slug);
+
+// Score each post by relevance: same category = 3 pts, each shared tag = 1 pt
+function score(candidate: typeof post) {
+  let s = candidate.data.category === post.data.category ? 3 : 0;
+  const postTags = new Set(post.data.tags ?? []);
+  for (const t of (candidate.data.tags ?? [])) {
+    if (postTags.has(t)) s += 1;
+  }
+  return s;
+}
+
+const related = others
+  .map(p => ({ post: p, score: score(p) }))
+  .filter(x => x.score > 0)
+  .sort((a, b) => b.score - a.score || new Date(b.post.data.datePublished).getTime() - new Date(a.post.data.datePublished).getTime())
+  .slice(0, 3)
+  .map(x => x.post);
+
+// If fewer than 3 related, fill with newest posts from same category
+if (related.length < 3) {
+  const existing = new Set(related.map(p => p.slug));
+  const fillers = others
+    .filter(p => p.data.category === post.data.category && !existing.has(p.slug))
+    .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime());
+  related.push(...fillers.slice(0, 3 - related.length));
+}
 ---
 
 <BlogPost

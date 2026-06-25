@@ -1,0 +1,115 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="Privacy Policy — SmallSpace Home"
+      description="Privacy Policy for SmallSpaceHome.ca — how we collect, use, and protect your information."
+      type="website"
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main class="legal-page">
+      <div class="legal-container">
+        <h1>Privacy Policy</h1>
+        <p class="legal-date">Last updated: June 25, 2026</p>
+
+        <p>SmallSpaceHome.ca ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website.</p>
+
+        <h2>Information We Collect</h2>
+        <p>We do not require you to create an account or provide personal information to read our content. We may collect the following information automatically:</p>
+        <ul>
+          <li><strong>Analytics data</strong> — page views, time on site, and general geographic region (via Google Analytics or similar), collected anonymously</li>
+          <li><strong>Contact information</strong> — if you email us directly, we retain your email address to respond</li>
+          <li><strong>Cookies</strong> — small files stored in your browser to remember preferences and enable analytics</li>
+        </ul>
+
+        <h2>How We Use Your Information</h2>
+        <ul>
+          <li>To understand which content is most useful to our readers</li>
+          <li>To improve the site and user experience</li>
+          <li>To respond to any messages or inquiries you send us</li>
+        </ul>
+
+        <h2>Third-Party Services</h2>
+        <p>We may use the following third-party services that have their own privacy policies:</p>
+        <ul>
+          <li><strong>Google Analytics</strong> — website traffic analysis (you can opt out via browser extensions)</li>
+          <li><strong>Vercel</strong> — website hosting and delivery</li>
+        </ul>
+
+        <h2>Cookies</h2>
+        <p>We use cookies for analytics purposes only. You can disable cookies in your browser settings. Disabling cookies does not affect your ability to read our content.</p>
+
+        <h2>Links to Other Websites</h2>
+        <p>Our articles may contain links to third-party websites (such as IKEA, Amazon.ca, Canadian Tire). We are not responsible for the privacy practices of those sites and encourage you to review their policies.</p>
+
+        <h2>Affiliate Links</h2>
+        <p>Some product links on this site may be affiliate links. This means we may earn a small commission if you make a purchase through our link, at no additional cost to you. We only link to products we genuinely recommend.</p>
+
+        <h2>Children's Privacy</h2>
+        <p>Our website is not directed at children under 13. We do not knowingly collect personal information from children.</p>
+
+        <h2>Your Rights (Canada)</h2>
+        <p>Under Canadian privacy law (PIPEDA), you have the right to access, correct, or request deletion of any personal information we hold about you. To make such a request, contact us at the email below.</p>
+
+        <h2>Contact</h2>
+        <p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:hello@smallspacehome.ca">hello@smallspacehome.ca</a></p>
+      </div>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.legal-page {
+  padding: 60px 24px 100px;
+}
+.legal-container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.legal-container h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+.legal-date {
+  font-size: 0.82rem;
+  color: var(--color-text-faint);
+  margin-bottom: 40px;
+}
+.legal-container h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 2.4rem;
+  margin-bottom: 0.8rem;
+}
+.legal-container p, .legal-container li {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+}
+.legal-container ul {
+  padding-left: 1.4rem;
+}
+.legal-container a {
+  color: var(--color-accent-dark);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+</style>

@@ -18,6 +18,8 @@ const catClass: Record<string, string> = {
   'Storage':      'cat-storage',
   'Budget Tips':  'cat-budget-tips',
 };
+
+const POSTS_PER_PAGE = 6;
 ---
 
 <!doctype html>
@@ -36,7 +38,7 @@ const catClass: Record<string, string> = {
     <Header />
 
     <main>
-      <!-- Editorial hero — centered, two-line serif like Studio McGee -->
+      <!-- Editorial hero -->
       <section class="read-hero">
         <h1 class="read-hero-title">
           Read All<br />
@@ -69,7 +71,7 @@ const catClass: Record<string, string> = {
         </div>
       </div>
 
-      <!-- Category filter — plain underline tabs -->
+      <!-- Category filter -->
       <div class="filter-bar" id="filter-bar">
         <nav class="filter-tabs" role="tablist" aria-label="Filter by category">
           {categories.map(cat => (
@@ -85,7 +87,7 @@ const catClass: Record<string, string> = {
         </nav>
       </div>
 
-      <!-- Posts grid — full-bleed portrait images -->
+      <!-- Posts grid -->
       <section class="posts-section">
         <div class="posts-grid" id="posts-grid">
           {sorted.map(post => {
@@ -107,7 +109,7 @@ const catClass: Record<string, string> = {
                       loading="lazy"
                       width="800"
                       height="1066"
-                      onerror="this.style.display='none'"
+                      onerror="this.parentElement.classList.add('img-error')"
                     />
                   </div>
                 </a>
@@ -132,6 +134,28 @@ const catClass: Record<string, string> = {
         <p class="no-results" id="no-results" hidden>
           No posts in this category yet — check back soon!
         </p>
+
+        <!-- Pagination controls -->
+        <div class="pagination" id="pagination" aria-label="Pagination">
+          <button class="page-btn" id="prev-btn" aria-label="Previous page" disabled>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <polyline points="15 18 9 12 15 6"/>
+            </svg>
+            <span>Previous</span>
+          </button>
+
+          <div class="page-numbers" id="page-numbers"></div>
+
+          <button class="page-btn" id="next-btn" aria-label="Next page">
+            <span>Next</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <polyline points="9 18 15 12 9 6"/>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Post count info -->
+        <p class="page-info" id="page-info" aria-live="polite"></p>
       </section>
     </main>
 
@@ -275,7 +299,7 @@ const catClass: Record<string, string> = {
 
 /* ── Posts grid ── */
 .posts-section {
-  padding: 56px 24px 100px;
+  padding: 56px 24px 80px;
   max-width: var(--wide-width);
   margin: 0 auto;
 }
@@ -286,9 +310,10 @@ const catClass: Record<string, string> = {
   gap: 40px 28px;
 }
 
-.post-item.hidden { display: none; }
+.post-item { display: none; }
+.post-item.visible { display: block; }
 
-/* Image — tall portrait, full-bleed */
+/* Image */
 .post-img-link { display: block; overflow: hidden; }
 
 .post-img-wrap {
@@ -304,6 +329,22 @@ const catClass: Record<string, string> = {
   display: block;
 }
 .post-item:hover .post-img-wrap img { transform: scale(1.04); }
+
+/* Broken image fallback */
+.post-img-wrap.img-error img { display: none; }
+.post-img-wrap.img-error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.post-img-wrap.img-error::after {
+  content: '';
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: var(--color-border);
+  border-radius: 50%;
+}
 
 /* Text below image */
 .post-info {
@@ -354,6 +395,85 @@ const catClass: Record<string, string> = {
   font-size: 1rem;
 }
 
+/* ── Pagination ── */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 56px;
+  padding-top: 32px;
+  border-top: 1px solid var(--color-border);
+}
+
+.page-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: none;
+  border: 1px solid var(--color-border);
+  padding: 10px 18px;
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+  -webkit-tap-highlight-color: transparent;
+  min-height: 42px;
+}
+.page-btn:hover:not(:disabled) {
+  border-color: var(--color-ink);
+  color: var(--color-ink);
+}
+.page-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.page-numbers {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.page-num {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border: 1px solid var(--color-border);
+  background: none;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+.page-num:hover { border-color: var(--color-ink); color: var(--color-ink); }
+.page-num.active {
+  background: var(--color-ink);
+  border-color: var(--color-ink);
+  color: var(--color-white);
+  font-weight: 600;
+}
+
+.page-ellipsis {
+  font-size: 0.82rem;
+  color: var(--color-text-faint);
+  padding: 0 4px;
+  pointer-events: none;
+}
+
+.page-info {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--color-text-faint);
+  margin-top: 16px;
+  letter-spacing: 0.02em;
+}
+
 /* ── Responsive ── */
 @media (max-width: 860px) {
   .posts-grid { grid-template-columns: repeat(2, 1fr); gap: 32px 20px; }
@@ -364,67 +484,166 @@ const catClass: Record<string, string> = {
   .posts-section { padding: 40px 16px 72px; }
   .posts-grid { grid-template-columns: repeat(2, 1fr); gap: 24px 14px; }
   .filter-tab { padding: 14px 16px; }
+  .page-btn span { display: none; }
+  .page-btn { padding: 10px 12px; }
 }
 </style>
 
-<script>
-const tabs        = document.querySelectorAll<HTMLButtonElement>('.filter-tab');
-const items       = document.querySelectorAll<HTMLElement>('.post-item');
+<script define:vars={{ POSTS_PER_PAGE }}>
+const tabs        = document.querySelectorAll('.filter-tab');
+const allItems    = Array.from(document.querySelectorAll('.post-item'));
 const noResults   = document.getElementById('no-results');
-const searchInput = document.getElementById('post-search') as HTMLInputElement | null;
-const clearBtn    = document.getElementById('search-clear') as HTMLButtonElement | null;
+const searchInput = document.getElementById('post-search');
+const clearBtn    = document.getElementById('search-clear');
+const prevBtn     = document.getElementById('prev-btn');
+const nextBtn     = document.getElementById('next-btn');
+const pageNumbers = document.getElementById('page-numbers');
+const pageInfo    = document.getElementById('page-info');
 
-let activeCat = 'All';
-let searchQ   = '';
+let activeCat  = 'All';
+let searchQ    = '';
+let currentPage = 1;
+let filteredItems = [];
 
-function applyFilters() {
-  let visible = 0;
-  items.forEach(item => {
+function getFilteredItems() {
+  return allItems.filter(item => {
     const catMatch  = activeCat === 'All' || item.dataset.category === activeCat;
     const keyword   = searchQ.trim().toLowerCase();
     const textMatch = !keyword ||
       (item.dataset.title  ?? '').includes(keyword) ||
       (item.dataset.desc   ?? '').includes(keyword) ||
       (item.dataset.category ?? '').toLowerCase().includes(keyword);
-
-    const show = catMatch && textMatch;
-    item.classList.toggle('hidden', !show);
-    if (show) visible++;
+    return catMatch && textMatch;
   });
-  if (noResults) noResults.hidden = visible > 0;
 }
 
-function setCategory(cat: string) {
+function renderPage() {
+  filteredItems = getFilteredItems();
+  const total = filteredItems.length;
+  const totalPages = Math.max(1, Math.ceil(total / POSTS_PER_PAGE));
+  if (currentPage > totalPages) currentPage = totalPages;
+
+  const start = (currentPage - 1) * POSTS_PER_PAGE;
+  const end   = start + POSTS_PER_PAGE;
+
+  // Show/hide items
+  allItems.forEach(item => item.classList.remove('visible'));
+  filteredItems.slice(start, end).forEach(item => item.classList.add('visible'));
+
+  // No results
+  if (noResults) noResults.hidden = total > 0;
+
+  // Pagination controls
+  const pagination = document.getElementById('pagination');
+  if (pagination) pagination.style.display = totalPages <= 1 && total > 0 ? 'none' : 'flex';
+
+  if (prevBtn) prevBtn.disabled = currentPage <= 1;
+  if (nextBtn) nextBtn.disabled = currentPage >= totalPages;
+
+  // Page number buttons
+  if (pageNumbers) {
+    pageNumbers.innerHTML = '';
+    if (totalPages > 1) {
+      renderPageNumbers(totalPages);
+    }
+  }
+
+  // Info text
+  if (pageInfo) {
+    if (total === 0) {
+      pageInfo.textContent = '';
+    } else {
+      const from = start + 1;
+      const to   = Math.min(end, total);
+      pageInfo.textContent = `Showing ${from}–${to} of ${total} post${total !== 1 ? 's' : ''}`;
+    }
+  }
+
+  // Scroll to top of grid on page change
+  const grid = document.getElementById('posts-grid');
+  if (grid && currentPage > 1) {
+    grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
+
+function renderPageNumbers(totalPages) {
+  const makeDot = () => {
+    const span = document.createElement('span');
+    span.className = 'page-ellipsis';
+    span.textContent = '…';
+    pageNumbers.appendChild(span);
+  };
+  const makeBtn = (n) => {
+    const btn = document.createElement('button');
+    btn.className = `page-num${n === currentPage ? ' active' : ''}`;
+    btn.textContent = n;
+    btn.setAttribute('aria-label', `Page ${n}`);
+    if (n === currentPage) btn.setAttribute('aria-current', 'page');
+    btn.addEventListener('click', () => { currentPage = n; renderPage(); });
+    pageNumbers.appendChild(btn);
+  };
+
+  if (totalPages <= 7) {
+    for (let i = 1; i <= totalPages; i++) makeBtn(i);
+  } else {
+    makeBtn(1);
+    if (currentPage > 3) makeDot();
+    const start = Math.max(2, currentPage - 1);
+    const end   = Math.min(totalPages - 1, currentPage + 1);
+    for (let i = start; i <= end; i++) makeBtn(i);
+    if (currentPage < totalPages - 2) makeDot();
+    makeBtn(totalPages);
+  }
+}
+
+function setCategory(cat) {
   activeCat = cat;
+  currentPage = 1;
   tabs.forEach(t => {
     const isActive = (t.dataset.category ?? 'All') === cat;
     t.classList.toggle('active', isActive);
     t.setAttribute('aria-selected', String(isActive));
   });
-  applyFilters();
+  renderPage();
 }
 
-/* Category tabs */
+// Category tabs
 tabs.forEach(tab => {
   tab.addEventListener('click', () => setCategory(tab.dataset.category ?? 'All'));
 });
 
-/* Read category from URL on page load (e.g. /blog?category=Organization) */
-const urlCat = new URLSearchParams(window.location.search).get('category');
-if (urlCat) setCategory(urlCat);
+// Prev / Next
+prevBtn?.addEventListener('click', () => {
+  if (currentPage > 1) { currentPage--; renderPage(); }
+});
+nextBtn?.addEventListener('click', () => {
+  const total = getFilteredItems().length;
+  const totalPages = Math.ceil(total / POSTS_PER_PAGE);
+  if (currentPage < totalPages) { currentPage++; renderPage(); }
+});
 
-/* Keyword search */
+// Search
 searchInput?.addEventListener('input', () => {
   searchQ = searchInput.value;
+  currentPage = 1;
   if (clearBtn) clearBtn.hidden = !searchQ;
-  applyFilters();
+  renderPage();
 });
 
 clearBtn?.addEventListener('click', () => {
   if (searchInput) searchInput.value = '';
   searchQ = '';
+  currentPage = 1;
   clearBtn.hidden = true;
   searchInput?.focus();
-  applyFilters();
+  renderPage();
 });
+
+// URL category param
+const urlCat = new URLSearchParams(window.location.search).get('category');
+if (urlCat) {
+  setCategory(urlCat);
+} else {
+  renderPage();
+}
 </script>

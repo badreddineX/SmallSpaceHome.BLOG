@@ -31,7 +31,7 @@ const catClass: Record<string, string> = {
 <article class={`post-card${size === 'featured' ? ' post-card--featured' : ''}`}>
 
   <a href={`/blog/${slug}`} class="card-img-link" tabindex="-1" aria-hidden="true">
-    <div class="card-img-wrap pin-wrap img-placeholder">
+    <div class="card-img-wrap img-placeholder">
       <img
         src={image}
         alt={title}
@@ -39,13 +39,6 @@ const catClass: Record<string, string> = {
         width="800" height="600"
         onerror="this.style.display='none'"
       />
-      <a
-        href={`https://pinterest.com/pin/create/button/?url=https://smallspacehome.ca/blog/${slug}&media=https://smallspacehome.ca${image}&description=${encodeURIComponent(title)}`}
-        class="pin-btn"
-        target="_blank" rel="noopener noreferrer"
-        aria-label="Save to Pinterest"
-        onclick="event.stopPropagation();"
-      >P</a>
     </div>
   </a>
 

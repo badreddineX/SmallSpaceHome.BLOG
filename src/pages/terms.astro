@@ -1,0 +1,101 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="Terms of Use — SmallSpace Home"
+      description="Terms of use for SmallSpaceHome.ca — guidelines for using our content and website."
+      type="website"
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main class="legal-page">
+      <div class="legal-container">
+        <h1>Terms of Use</h1>
+        <p class="legal-date">Last updated: June 25, 2026</p>
+
+        <p>By accessing and using SmallSpaceHome.ca (the "Site"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Site.</p>
+
+        <h2>Content and Copyright</h2>
+        <p>All content on this Site — including articles, images, and design — is owned by SmallSpaceHome.ca and protected by Canadian copyright law. You may not reproduce, republish, or redistribute our content without written permission.</p>
+        <p>You are welcome to share links to our articles and to quote brief excerpts (under 100 words) with a clear attribution link back to the original article.</p>
+
+        <h2>Informational Purposes Only</h2>
+        <p>The content on this Site is for general informational purposes only. Product recommendations, pricing, and availability may change. We make no warranty about the accuracy or completeness of any information on this Site.</p>
+        <p>Prices listed in our articles are approximate and in Canadian dollars (CAD). Always verify current prices directly with the retailer.</p>
+
+        <h2>Affiliate Disclosure</h2>
+        <p>SmallSpaceHome.ca participates in affiliate programs. Some links on this Site are affiliate links — if you purchase through one of these links, we may earn a small commission at no extra cost to you. This does not influence our content or recommendations.</p>
+
+        <h2>Third-Party Links</h2>
+        <p>Our articles link to third-party websites for your convenience. We do not control those sites and are not responsible for their content, products, or privacy practices.</p>
+
+        <h2>Limitation of Liability</h2>
+        <p>SmallSpaceHome.ca is not liable for any loss or damage arising from your use of information on this Site, including any decisions made based on our content.</p>
+
+        <h2>Changes to These Terms</h2>
+        <p>We may update these Terms of Use at any time. Continued use of the Site after any changes constitutes acceptance of the new terms.</p>
+
+        <h2>Governing Law</h2>
+        <p>These Terms are governed by the laws of Ontario, Canada, without regard to conflict of law provisions.</p>
+
+        <h2>Contact</h2>
+        <p>Questions about these Terms? Contact us at: <a href="mailto:hello@smallspacehome.ca">hello@smallspacehome.ca</a></p>
+      </div>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.legal-page {
+  padding: 60px 24px 100px;
+}
+.legal-container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.legal-container h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+.legal-date {
+  font-size: 0.82rem;
+  color: var(--color-text-faint);
+  margin-bottom: 40px;
+}
+.legal-container h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 2.4rem;
+  margin-bottom: 0.8rem;
+}
+.legal-container p, .legal-container li {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+}
+.legal-container ul {
+  padding-left: 1.4rem;
+}
+.legal-container a {
+  color: var(--color-accent-dark);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+</style>

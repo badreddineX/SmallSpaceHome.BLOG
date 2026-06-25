@@ -1,6 +1,6 @@
-﻿---
+---
 title: "IKEA Small Space Hacks: 15 Canadian Apartment Ideas That Actually Work"
-description: "15 IKEA small space hacks for Canadian apartments â€” furniture combos, storage tricks, and unexpected uses. Real CAD prices and what actually makes a difference."
+description: "15 IKEA small space hacks for Canadian apartments — furniture combos, storage tricks, and unexpected uses. Real CAD prices and what actually makes a difference."
 image: "/images/blog-12-img1.jpg"
 datePublished: "2026-03-13"
 dateModified: "2026-03-13"
@@ -17,7 +17,7 @@ faqs:
   - q: "How can I use KALLAX in a small apartment?"
     a: "As a media console (with cable holes), room divider between living and sleeping areas, entryway storage unit, wardrobe base with hanging rod, home office bookcase, or bedside table. With fabric inserts it becomes closed storage; with open cubes it displays plants and books. It's the most flexible piece in IKEA's range."
   - q: "Is IKEA furniture worth it for a rental apartment in Canada?"
-    a: "Yes â€” for renters who move every 2â€“3 years. IKEA pieces are affordable, flat-pack for moving, and designed for apartments. Assemble carefully, add anti-tip straps where required, and the pieces hold up well. Resale value on Facebook Marketplace and Kijiji in most Canadian cities is also decent."
+    a: "Yes — for renters who move every 2–3 years. IKEA pieces are affordable, flat-pack for moving, and designed for apartments. Assemble carefully, add anti-tip straps where required, and the pieces hold up well. Resale value on Facebook Marketplace and Kijiji in most Canadian cities is also decent."
 ---
 
 ## TL;DR
@@ -32,15 +32,15 @@ IKEA is the default furniture store for Canadian apartment renters for good reas
 
 But not everything at IKEA works in a small apartment. Some pieces are sized for larger homes. Some hacks you see online require tools or modifications most renters aren't going to do.
 
-These 15 ideas use IKEA products the way they're meant to be used â€” no cutting, no major modifications â€” just smart configurations for small Canadian apartments.
+These 15 ideas use IKEA products the way they're meant to be used — no cutting, no major modifications — just smart configurations for small Canadian apartments.
 
 ## 1. KALLAX as a Room Divider in a Studio
 
-Place the KALLAX 2Ã—4 vertically between the sleeping and living zones in a studio apartment. It creates a visual divider without blocking all the light, and both sides of the bookcase can be used for storage and display.
+Place the KALLAX 2×4 vertically between the sleeping and living zones in a studio apartment. It creates a visual divider without blocking all the light, and both sides of the bookcase can be used for storage and display.
 
 Add plants on top of the divider to make the transition feel designed, not improvised.
 
-**Cost:** KALLAX 2Ã—4 ~$159 CAD.
+**Cost:** KALLAX 2×4 ~$159 CAD.
 
 ## 2. PAX Wardrobe to Replace an Inadequate Closet
 
@@ -48,37 +48,37 @@ Many older Toronto and Montreal apartments have tiny wardrobes or hall closets t
 
 Add internal organizers: KOMPLEMENT pull-out trays, JONAXEL shelf units, and a mirror door to make the bedroom feel significantly larger.
 
-**Cost:** PAX frame starts at ~$179 CAD. Full configuration with doors and interior organizers: ~$400â€“$800 CAD.
+**Cost:** PAX frame starts at ~$179 CAD. Full configuration with doors and interior organizers: ~$400–$800 CAD.
 
 ## 3. NORDLI Storage Bed to Eliminate the Dresser
 
-The NORDLI bed frame has two large drawers on each side that hold as much as a full dresser â€” built into the bed itself. In a small bedroom, this removes the need for a separate dresser entirely and frees significant floor space.
+The NORDLI bed frame has two large drawers on each side that hold as much as a full dresser — built into the bed itself. In a small bedroom, this removes the need for a separate dresser entirely and frees significant floor space.
 
-**Cost:** NORDLI Queen ~$399â€“$699 CAD depending on configuration.
+**Cost:** NORDLI Queen ~$399–$699 CAD depending on configuration.
 
 ## 4. BILLY Bookcase to the Ceiling for Maximum Storage
 
-The standard BILLY bookcase is 202 cm tall. Add the GNEDBY extension (40 cm) on top to take it to 242 cm â€” close to standard ceiling height. This gives you floor-to-ceiling storage in a 28 cm deep footprint.
+The standard BILLY bookcase is 202 cm tall. Add the GNEDBY extension (40 cm) on top to take it to 242 cm — close to standard ceiling height. This gives you floor-to-ceiling storage in a 28 cm deep footprint.
 
-Anchor to the wall with the included anti-tip strap. In a rental, this requires one small screw in the wall â€” minimal damage and worth it for safety.
+Anchor to the wall with the included anti-tip strap. In a rental, this requires one small screw in the wall — minimal damage and worth it for safety.
 
-**Cost:** BILLY 80 cm wide ~$79â€“$99 CAD. GNEDBY extension ~$39 CAD.
+**Cost:** BILLY 80 cm wide ~$79–$99 CAD. GNEDBY extension ~$39 CAD.
 
 ## 5. LACK Shelf as a Floating Nightstand
 
-The IKEA LACK shelf (30 Ã— 26 cm, ~$15 CAD) mounted at nightstand height on Command strips eliminates the floor footprint of a bedside table. Holds a lamp, phone, water, and a book â€” everything a nightstand needs.
+The IKEA LACK shelf (30 × 26 cm, ~$15 CAD) mounted at nightstand height on Command strips eliminates the floor footprint of a bedside table. Holds a lamp, phone, water, and a book — everything a nightstand needs.
 
 Two LACK shelves, one on each side of the bed, creates a symmetrical bedroom layout without consuming any floor space.
 
-**Cost:** LACK small shelf ~$15 CAD. Command Large Strips ~$12â€“$15 CAD.
+**Cost:** LACK small shelf ~$15 CAD. Command Large Strips ~$12–$15 CAD.
 
 ## 6. KALLAX as Entryway Storage + Bench
 
-Lay the 1Ã—4 KALLAX horizontally at entry height (about 45 cm off the floor), add a bench cushion on top, and fill each cube with shoe and bag storage. Add hooks on the wall above for coats.
+Lay the 1×4 KALLAX horizontally at entry height (about 45 cm off the floor), add a bench cushion on top, and fill each cube with shoe and bag storage. Add hooks on the wall above for coats.
 
 This creates a proper mudroom-style entry in the smallest apartments.
 
-**Cost:** KALLAX 1Ã—4 ~$79 CAD. Bench pad or cushion ~$20â€“$30 CAD.
+**Cost:** KALLAX 1×4 ~$79 CAD. Bench pad or cushion ~$20–$30 CAD.
 
 ## 7. RASKOG as Kitchen or Bathroom Cart
 
@@ -90,19 +90,19 @@ In a small apartment where rooms serve multiple purposes, the rollability is act
 
 A SKADIS pegboard on the kitchen wall (or behind the desk) keeps tools and supplies accessible without consuming any counter or desk surface. It works with SKADIS-compatible hooks, containers, and clips.
 
-**Cost:** SKADIS 56 Ã— 56 cm ~$15 CAD. Accessory pack (hooks + containers) ~$5â€“$15 CAD.
+**Cost:** SKADIS 56 × 56 cm ~$15 CAD. Accessory pack (hooks + containers) ~$5–$15 CAD.
 
 ## 9. MICKE Desk + KALLAX as a Home Office Corner
 
-KALLAX 2Ã—2 placed beside the MICKE desk creates a corner home office setup with twice the storage. The KALLAX handles books, office supplies, and equipment that won't fit on the desk.
+KALLAX 2×2 placed beside the MICKE desk creates a corner home office setup with twice the storage. The KALLAX handles books, office supplies, and equipment that won't fit on the desk.
 
-**Cost:** MICKE desk ~$99 CAD. KALLAX 2Ã—2 ~$79 CAD. Total: ~$178 CAD.
+**Cost:** MICKE desk ~$99 CAD. KALLAX 2×2 ~$79 CAD. Total: ~$178 CAD.
 
 ## 10. IVAR Shelving Units as a Wardrobe System
 
-The IVAR system is IKEA's most flexible storage system â€” it expands, reconfigures, and can be returned to a simple shelving unit if needed. In a bedroom, it creates a custom wardrobe system. In the kitchen or living room, it becomes a pantry or display unit.
+The IVAR system is IKEA's most flexible storage system — it expands, reconfigures, and can be returned to a simple shelving unit if needed. In a bedroom, it creates a custom wardrobe system. In the kitchen or living room, it becomes a pantry or display unit.
 
-**Cost:** IVAR starting at ~$35 CAD per section. Full wardrobe configuration ~$150â€“$300 CAD.
+**Cost:** IVAR starting at ~$35 CAD per section. Full wardrobe configuration ~$150–$300 CAD.
 
 ## 11. HOVET Mirror to Expand a Small Bedroom
 
@@ -120,13 +120,13 @@ If combined with NORDLI or MALM bed risers, you can add even more under-bed clea
 
 ## 14. TJUSIG Bench + Hooks as a Complete Entry System
 
-The TJUSIG bench (~$59 CAD) with shoe storage underneath, combined with TJUSIG or ENUDDEN wall hooks above (~$15â€“$25 CAD), creates a functional entry station for a fraction of a custom mudroom.
+The TJUSIG bench (~$59 CAD) with shoe storage underneath, combined with TJUSIG or ENUDDEN wall hooks above (~$15–$25 CAD), creates a functional entry station for a fraction of a custom mudroom.
 
 ## 15. JONAXEL as a Freestanding Wardrobe System
 
-The JONAXEL system is designed to stand freely without wall attachment â€” ideal for renters who can't drill. It functions as a full wardrobe: hanging space, shelves, and optional mesh bins.
+The JONAXEL system is designed to stand freely without wall attachment — ideal for renters who can't drill. It functions as a full wardrobe: hanging space, shelves, and optional mesh bins.
 
-**Cost:** JONAXEL frame + hanging rod + shelf ~$150â€“$250 CAD depending on configuration.
+**Cost:** JONAXEL frame + hanging rod + shelf ~$150–$250 CAD depending on configuration.
 
 ---
 
@@ -136,11 +136,11 @@ Starting from zero in a small Canadian apartment, this order makes the most sens
 
 | Item | Purpose | Cost (CAD) |
 |------|---------|-----------|
-| NORDLI storage bed | Sleep + storage | $399â€“$699 |
-| KALLAX 2Ã—2 or 4Ã—2 | Living room anchor | $79â€“$159 |
-| BILLY bookcase (narrow) | Vertical storage | $79â€“$99 |
+| NORDLI storage bed | Sleep + storage | $399–$699 |
+| KALLAX 2×2 or 4×2 | Living room anchor | $79–$159 |
+| BILLY bookcase (narrow) | Vertical storage | $79–$99 |
 | LACK shelves (2) | Floating nightstands | ~$30 |
 | SKUBB under-bed bags | Seasonal storage | ~$14 |
 | RASKOG cart | Mobile storage | ~$39 |
 
-Total for the essentials: **~$650â€“$1,050 CAD** â€” a complete small apartment storage system.
+Total for the essentials: **~$650–$1,050 CAD** — a complete small apartment storage system.

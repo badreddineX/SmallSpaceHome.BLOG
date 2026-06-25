@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Small Space Decorating: 14 Rules That Actually Work in Canadian Apartments"
-description: "14 small space decorating rules for Canadian apartment renters. Principles that work in any room â€” how to make compact spaces feel larger, lighter, and more livable."
+description: "14 small space decorating rules for Canadian apartment renters. Principles that work in any room — how to make compact spaces feel larger, lighter, and more livable."
 image: "/images/blog-08-img1.jpg"
 datePublished: "2026-02-25"
 dateModified: "2026-02-25"
@@ -15,32 +15,32 @@ faqs:
   - q: "What makes a small space look bigger?"
     a: "Light colours, mirrors, furniture with legs (so the floor is visible), ceiling-height curtains, vertical lines, and strategic lighting all make a space feel larger. Equally important: remove clutter. Nothing makes a room feel smaller faster than visual noise on every surface."
   - q: "How do I decorate a small apartment on a budget in Canada?"
-    a: "Prioritize: textiles first (rug, cushions, throw â€” transformative for under $150 CAD), then lighting (warm bulbs + one floor lamp), then art (gallery wall with Command strips and printed photos). These three changes deliver the most visual transformation per dollar."
+    a: "Prioritize: textiles first (rug, cushions, throw — transformative for under $150 CAD), then lighting (warm bulbs + one floor lamp), then art (gallery wall with Command strips and printed photos). These three changes deliver the most visual transformation per dollar."
   - q: "Should I use light or dark colours in a small apartment?"
-    a: "Light colours as the base. Bright white, warm cream, or soft greige make walls recede and spaces feel larger. Dark accents work well as contrast in cushions, art, and small accessories â€” but keep the main surfaces light."
+    a: "Light colours as the base. Bright white, warm cream, or soft greige make walls recede and spaces feel larger. Dark accents work well as contrast in cushions, art, and small accessories — but keep the main surfaces light."
 ---
 
 ## TL;DR
 - 14 principles that work across every room in a small apartment
 - Focus on light, scale, and vertical space
-- All renter-friendly â€” no painting, no drilling required
-- Principles first, products second â€” understanding why changes everything
+- All renter-friendly — no painting, no drilling required
+- Principles first, products second — understanding why changes everything
 
 ---
 
 Most small space decorating advice is a product list. Buy this bin, hang this curtain, get this mirror. That is useful, but it skips the more important question: why does small space decorating work differently from regular decorating?
 
-Understanding the principles is more useful than the product list. Once you understand why light colours expand a space, you can apply that principle to every decision â€” not just the ones explicitly covered in an article.
+Understanding the principles is more useful than the product list. Once you understand why light colours expand a space, you can apply that principle to every decision — not just the ones explicitly covered in an article.
 
 Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment.
 
 ## Rule 1: Light Colours Expand, Dark Colours Contract
 
-This is the most fundamental principle in small space decorating. Light, warm neutrals â€” soft white, cream, warm greige â€” reflect light and make walls appear farther away. Dark colours absorb light and make walls feel closer.
+This is the most fundamental principle in small space decorating. Light, warm neutrals — soft white, cream, warm greige — reflect light and make walls appear farther away. Dark colours absorb light and make walls feel closer.
 
 For renters who can't paint: work with what you have. If your walls are white, keep them. Complement with light bedding and soft furnishings. The wall colour is often your biggest asset.
 
-Use dark colours as accents only â€” a navy cushion, a black picture frame, a dark green plant pot.
+Use dark colours as accents only — a navy cushion, a black picture frame, a dark green plant pot.
 
 ## Rule 2: Scale Furniture to the Room
 
@@ -55,7 +55,7 @@ When in doubt, buy the smaller size. A slightly small piece of furniture makes a
 
 ## Rule 3: Furniture With Legs Creates Visual Breathing Room
 
-Low, solid furniture that sits on the floor (platform beds, storage cubes, blocky sofas) creates a visual heaviness in a small room. Furniture with legs lets the floor continue underneath â€” the eye reads this as more space.
+Low, solid furniture that sits on the floor (platform beds, storage cubes, blocky sofas) creates a visual heaviness in a small room. Furniture with legs lets the floor continue underneath — the eye reads this as more space.
 
 Look for:
 - Beds with a visible frame and legs
@@ -73,7 +73,7 @@ The space above eye level in most Canadian apartments is completely unused. This
 
 ## Rule 5: One Strong Focal Point Per Room
 
-A small room with competing focal points â€” a busy gallery wall, a patterned sofa, a colourful rug, and a colourful accent wall all in the same room â€” feels chaotic and smaller than it is.
+A small room with competing focal points — a busy gallery wall, a patterned sofa, a colourful rug, and a colourful accent wall all in the same room — feels chaotic and smaller than it is.
 
 Choose one focal point per room and make it strong. Everything else plays a supporting role.
 
@@ -84,20 +84,20 @@ In a living room, the focal point is usually the sofa and the wall behind it. In
 Mirrors create the illusion of depth and reflect light, making any room feel larger and brighter. The key is placement.
 
 **Best mirror placements:**
-- Opposite or beside a window â€” reflects natural light back into the room
-- On the wall you see when you enter a room â€” creates the impression of more space
-- Full-length in the bedroom â€” simultaneously functional and space-expanding
+- Opposite or beside a window — reflects natural light back into the room
+- On the wall you see when you enter a room — creates the impression of more space
+- Full-length in the bedroom — simultaneously functional and space-expanding
 
 No drilling required: lean a large mirror against the wall (IKEA HOVET, ~$279 CAD) or use Command strips for lighter options.
 
 ## Rule 7: Layer Your Lighting
 
-Single overhead lights make every room feel flat. Layered lighting â€” ambient, task, and accent â€” creates depth and warmth that makes a small apartment feel like a home.
+Single overhead lights make every room feel flat. Layered lighting — ambient, task, and accent — creates depth and warmth that makes a small apartment feel like a home.
 
 **The three-layer approach:**
-- **Ambient** â€” a warm overhead light, floor lamp, or table lamp that fills the whole room
-- **Task** â€” a desk lamp, reading lamp, or under-cabinet kitchen light for specific activities
-- **Accent** â€” LED strip lights behind the TV, lights inside a bookcase, a candle
+- **Ambient** — a warm overhead light, floor lamp, or table lamp that fills the whole room
+- **Task** — a desk lamp, reading lamp, or under-cabinet kitchen light for specific activities
+- **Accent** — LED strip lights behind the TV, lights inside a bookcase, a candle
 
 Warm bulbs (2700K) throughout. Avoid cool white or daylight bulbs in residential spaces.
 
@@ -115,7 +115,7 @@ Visual clutter is the enemy of small space decorating. Every item left out on a 
 
 The goal: only things that are beautiful or used daily are visible. Everything else has a drawer, a cabinet, a basket, or a bin.
 
-Start with one surface â€” clear it completely, then style it intentionally with 1â€“3 objects. That's how a styled surface looks different from a cluttered one.
+Start with one surface — clear it completely, then style it intentionally with 1–3 objects. That's how a styled surface looks different from a cluttered one.
 
 ## Rule 10: Use One Cohesive Colour Palette Throughout
 
@@ -124,13 +124,13 @@ A small apartment that feels cohesive feels larger than one with a different col
 - A main colour (textiles, cushions, decor)
 - An accent colour (one or two objects per room)
 
-When every room shares the same palette, the whole apartment reads as one unified space â€” which makes it feel bigger.
+When every room shares the same palette, the whole apartment reads as one unified space — which makes it feel bigger.
 
 ## Rule 11: Area Rugs Define and Separate
 
 In a studio apartment, rugs create zones where there are no walls. In a regular apartment, they anchor furniture groupings and give each room a sense of defined space.
 
-**Sizing is critical:** a too-small rug makes a room feel smaller, not larger. The front legs of the sofa should be on the rug in the living room. The rug in the bedroom should extend 50â€“60 cm on either side of the bed.
+**Sizing is critical:** a too-small rug makes a room feel smaller, not larger. The front legs of the sofa should be on the rug in the living room. The rug in the bedroom should extend 50–60 cm on either side of the bed.
 
 ## Rule 12: Plants Everywhere (But Not Cluttering)
 
@@ -142,13 +142,13 @@ One rule: only buy plants you can keep alive. A healthy pothos is infinitely bet
 
 A small apartment filled with 20 mediocre furniture and decor pieces looks worse than one with 8 carefully chosen pieces with room to breathe.
 
-Buy less, choose carefully, and leave space. The empty space is not waste â€” it is part of the design.
+Buy less, choose carefully, and leave space. The empty space is not waste — it is part of the design.
 
 ## Rule 14: Edit Regularly
 
 Small spaces require ongoing curation. Things accumulate. New items come in, old ones don't leave. The one-in-one-out rule is the simplest maintenance habit: every time something new arrives, something old leaves.
 
-Review the apartment once every season. Walk through each room with fresh eyes â€” what hasn't been used? What is causing visual clutter? What has outlived its purpose?
+Review the apartment once every season. Walk through each room with fresh eyes — what hasn't been used? What is causing visual clutter? What has outlived its purpose?
 
 A small apartment in good order feels significantly larger than the same space cluttered.
 
