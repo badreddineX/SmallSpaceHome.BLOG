@@ -71,6 +71,8 @@ This is the biggest visual upgrade available to renters. A peel-and-stick wallpa
 
 **Cost:** ~$40–$90 CAD per roll. A typical accent wall takes 2–3 rolls.
 
+![Removable peel-and-stick wallpaper transforms a rental bedroom wall without any damage](/images/blog-02-img2.jpg)
+
 ## 4. Use Command Strips for Everything on the Walls
 
 Command strips and hooks have completely changed what's possible in a rental apartment. You can hang art, mirrors, shelves, and even curtain rods without touching a wall with a drill.
@@ -129,6 +131,8 @@ A well-placed mirror does two things at once: it reflects light (making the room
 
 **Cost:** IKEA HOVET full-length mirror ~$279 CAD. Round mirrors from Amazon.ca from ~$45 CAD.
 
+![A well-placed mirror doubles perceived space and reflects natural light throughout the room](/images/blog-02-img3.jpg)
+
 ## 9. Declutter Before You Decorate
 
 This sounds obvious but most people skip it. You cannot decorate your way out of clutter. More stuff on top of existing clutter just creates more visual noise.
@@ -170,6 +174,8 @@ Shelves that are just storage look like storage. Shelves that are styled look li
 - Mix textures — books next to a plant next to a woven basket
 - Leave some empty space — shelves that are completely packed look cluttered
 - Use odd numbers — groups of 3 or 5 objects look more natural than groups of 2 or 4
+
+![Styled shelves with books, plants, and woven baskets — the formula for intentional decor](/images/blog-02-img4.jpg)
 
 ## 13. Upgrade Your Bathroom Without Renovating
 

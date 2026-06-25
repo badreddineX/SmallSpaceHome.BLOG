@@ -64,6 +64,8 @@ Anchor to the wall with the included anti-tip strap. In a rental, this requires 
 
 **Cost:** BILLY 80 cm wide ~$79–$99 CAD. GNEDBY extension ~$39 CAD.
 
+![Floor-to-ceiling BILLY bookshelves maximize vertical storage in a small apartment](/images/blog-12-img2.jpg)
+
 ## 5. LACK Shelf as a Floating Nightstand
 
 The IKEA LACK shelf (30 × 26 cm, ~$15 CAD) mounted at nightstand height on Command strips eliminates the floor footprint of a bedside table. Holds a lamp, phone, water, and a book — everything a nightstand needs.
@@ -98,6 +100,8 @@ KALLAX 2×2 placed beside the MICKE desk creates a corner home office setup with
 
 **Cost:** MICKE desk ~$99 CAD. KALLAX 2×2 ~$79 CAD. Total: ~$178 CAD.
 
+![IKEA MICKE desk and KALLAX combination creates a compact home office corner](/images/blog-12-img3.jpg)
+
 ## 10. IVAR Shelving Units as a Wardrobe System
 
 The IVAR system is IKEA's most flexible storage system — it expands, reconfigures, and can be returned to a simple shelving unit if needed. In a bedroom, it creates a custom wardrobe system. In the kitchen or living room, it becomes a pantry or display unit.
@@ -117,6 +121,8 @@ If you live in a studio and sometimes have overnight guests, the FRIHETEN sofa b
 SKUBB under-bed bags (~$14 for 2) are flat, zip closed, and designed to slide under an IKEA bed frame. Store off-season clothing, extra bedding, or anything needed only twice a year.
 
 If combined with NORDLI or MALM bed risers, you can add even more under-bed clearance.
+
+![IKEA SKUBB under-bed storage bags are designed to slide under any IKEA bed frame](/images/blog-12-img4.jpg)
 
 ## 14. TJUSIG Bench + Hooks as a Complete Entry System
 

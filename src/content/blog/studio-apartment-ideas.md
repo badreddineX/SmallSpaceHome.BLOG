@@ -74,6 +74,8 @@ Rugs are the single most powerful tool in a studio apartment. A rug under the so
 
 **Cost:** IKEA flat-weave rugs from ~$59 CAD. Wayfair Canada for wider selection.
 
+![Two rugs define separate living and sleeping zones in a studio apartment](/images/blog-05-img2.jpg)
+
 ## 5. Go Vertical for Storage
 
 You cannot use floor space for storage in a studio without making the room feel crowded. Go up.
@@ -104,6 +106,8 @@ Working from home in a studio apartment is only manageable if the work zone is p
 - **A corner of the bookcase** — a simple shelf at desk height with a monitor riser
 
 Position the desk away from the bed — even just facing a different direction creates psychological separation.
+
+![A dedicated compact workspace in a studio apartment keeps work and rest mentally separate](/images/blog-05-img3.jpg)
 
 ## 8. Light Each Zone Separately
 
@@ -143,6 +147,8 @@ IKEA HOVET full-length mirror (~$279 CAD) or a round wall mirror (~$45–$80 CAD
 If your studio has a sleeping alcove or a specific corner where the bed lives, a curtain on a ceiling-mounted track gives you the ability to close it off completely — effectively creating a "bedroom" that didn't exist before.
 
 IKEA ceiling curtain track system + curtain panels: ~$60–$100 CAD total.
+
+![Ceiling curtains create a private sleeping area inside a studio apartment](/images/blog-05-img4.jpg)
 
 ## 13. Choose Furniture That Scales to the Space
 

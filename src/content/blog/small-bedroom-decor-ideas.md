@@ -73,6 +73,8 @@ A mirror in a small bedroom does two things: it creates the visual illusion of d
 - **Mirrored wardrobe doors** — if you're replacing closet doors or getting a wardrobe, mirrored fronts double the perceived size of the room
 - **Small mirror above the dresser** — reflects light from the window
 
+![A leaning full-length mirror makes any small bedroom feel larger and brighter](/images/blog-06-img2.jpg)
+
 ## 5. Fix the Lighting
 
 The overhead light in most Canadian apartment bedrooms is a single central fixture with a harsh bulb. This makes the room feel flat and institutional.
@@ -97,6 +99,8 @@ In a rental, a Command large curtain rod bracket (~$18 CAD) or a tension rod cur
 When your bedding is a similar tone to the walls (both light neutrals), the bed visually recedes into the room rather than dominating it. This is a trick interior designers use constantly in small spaces.
 
 White or cream bedding against white or cream walls feels cohesive and expansive. Add a single textured throw or a few cushions in your accent colour for interest.
+
+![Warm layered bedroom lighting from a bedside lamp creates a calming retreat feel](/images/blog-06-img3.jpg)
 
 ## 8. Reduce Visual Clutter on Surfaces
 
@@ -132,6 +136,8 @@ Choose plants that thrive in bedrooms:
 Small bedrooms do not have room for aspirational furniture — the chair you'll read in, the bench at the foot of the bed that becomes a laundry pile, the vanity you only use twice a week.
 
 Every piece in a small bedroom needs to earn its floor space. If you don't use it daily, it probably doesn't belong.
+
+![Floating shelves above the bed maximize vertical wall space without taking any floor space](/images/blog-06-img4.jpg)
 
 ## 12. Make the Bed Every Morning
 

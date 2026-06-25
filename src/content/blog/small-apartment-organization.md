@@ -74,6 +74,8 @@ Open shelves look great when styled but collect clutter fast. IKEA KALLAX cubes 
 **Step 3 — the 10-minute reset**
 Every evening, 10 minutes returning everything to its home. Faster than a weekly clean and keeps the space feeling organized all the time.
 
+![A well-organized small apartment living room with KALLAX storage and clear surfaces](/images/blog-03-img2.jpg)
+
 ## The Kitchen: Zone Everything
 
 A small apartment kitchen requires systems, not just tidiness. Everything needs a place that makes sense for how you actually cook.
@@ -89,6 +91,8 @@ A small apartment kitchen requires systems, not just tidiness. Everything needs 
 - IKEA SKADIS pegboard for utensils on the wall (~$15 CAD) — frees up a full drawer
 - Over-door organizer on the pantry cabinet door for spices and foil
 - Bamboo drawer dividers for the utensil drawer (~$20–$30 CAD for a set, Amazon.ca)
+
+![A zoned small apartment kitchen with clear pantry bins and a pegboard for utensils](/images/blog-03-img3.jpg)
 
 ## The Bedroom: Closet First, Then Everything Else
 
@@ -117,6 +121,8 @@ Bathrooms in rental apartments are almost always small. The key is vertical stor
 - A small tray on the counter for daily-use items only — everything else in a drawer
 
 Goal: only items used every day stay on the counter.
+
+![A small apartment bathroom organized vertically with over-toilet shelf and clear surfaces](/images/blog-03-img4.jpg)
 
 ## The Maintenance System
 

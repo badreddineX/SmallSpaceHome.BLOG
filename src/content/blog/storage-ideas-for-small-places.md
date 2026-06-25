@@ -58,6 +58,8 @@ Add fabric drawer inserts to close off the cubes completely — now you have a c
 
 **Cost:** KALLAX 4-cube unit (~$79 CAD) + fabric inserts (~$6 each from IKEA).
 
+![The IKEA KALLAX is the most versatile storage unit for Canadian apartments](/images/blog-04-img2.jpg)
+
 ## 5. Over-Door Organizers on Every Door
 
 The back of every door in your apartment is free storage. Over-door organizers require zero installation and work on bedroom closets, pantry doors, bathroom doors, and front hall closets.
@@ -111,6 +113,8 @@ Switching your entire wardrobe from bulky plastic hangers to slim velvet hangers
 
 **Cost:** Amazon.ca slim velvet hangers, 50-pack ~$18 CAD.
 
+![Slim velvet hangers free up 30-40% more hanging space in any closet instantly](/images/blog-04-img3.jpg)
+
 ## 13. Drawer Dividers for Every Drawer
 
 Loose drawers become dead storage because nothing is findable. Adjustable bamboo or plastic dividers keep every category in its lane. Works in kitchen drawers, bedroom drawers, and desk drawers.
@@ -146,6 +150,8 @@ A magnetic strip on the kitchen backsplash holds knives, freeing a full knife bl
 Stacks of folded sweaters and jeans always topple. Shelf dividers keep each stack contained on any closet shelf.
 
 **Cost:** Set of 6 shelf dividers from Amazon.ca, ~$18–$26 CAD.
+
+![Under-bed storage bins and shelf dividers — two of the highest-impact storage upgrades](/images/blog-04-img4.jpg)
 
 ## 19. A Slim Bookshelf as a Room Divider
 

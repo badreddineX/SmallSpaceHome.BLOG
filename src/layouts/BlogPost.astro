@@ -3,7 +3,6 @@ import SEO from '../components/SEO.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import FAQ from '../components/FAQ.astro';
-import PostCard from '../components/PostCard.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -200,20 +199,32 @@ const catClass: Record<string, string> = {
       {related.length > 0 && (
         <section class="related-section">
           <div class="container">
-            <span class="section-eyebrow-small">Keep Reading</span>
-            <h2 class="related-heading">You might also like</h2>
+            <h2 class="related-heading">Related posts</h2>
             <div class="related-grid">
-              {related.map(post => (
-                <PostCard
-                  title={post.data.title}
-                  slug={post.slug}
-                  description={post.data.description}
-                  image={post.data.image}
-                  category={post.data.category}
-                  datePublished={post.data.datePublished}
-                  readTime={post.data.readTime}
-                />
-              ))}
+              {related.map(post => {
+                const relDate = new Date(post.data.datePublished).toLocaleDateString('en-CA', {
+                  day: 'numeric', month: 'short', year: 'numeric',
+                });
+                return (
+                  <a href={`/blog/${post.slug}`} class="rel-card">
+                    <div class="rel-card-img-wrap">
+                      <img
+                        src={post.data.image}
+                        alt={post.data.title}
+                        loading="lazy"
+                        width="800"
+                        height="450"
+                        onerror="this.parentElement.style.background='var(--color-surface)'"
+                      />
+                    </div>
+                    <div class="rel-card-body">
+                      <span class="rel-card-date">{relDate}</span>
+                      <h3 class="rel-card-title">{post.data.title}</h3>
+                      <p class="rel-card-desc">{post.data.description}</p>
+                    </div>
+                  </a>
+                );
+              })}
             </div>
           </div>
         </section>
@@ -707,28 +718,71 @@ const catClass: Record<string, string> = {
 .related-section {
   border-top: 1px solid var(--color-border);
   padding: 72px 0 96px;
-  background: var(--color-bg);
-}
-.section-eyebrow-small {
-  display: block;
-  font-size: 0.6rem;
-  font-weight: 600;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--color-accent-dark);
-  margin-bottom: 10px;
+  background: #fff;
 }
 .related-heading {
-  font-family: var(--font-display);
-  font-size: clamp(1.4rem, 3vw, 2rem);
-  font-weight: 400;
-  color: var(--color-heading);
+  font-family: var(--font-body);
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--color-ink);
   margin: 0 0 40px;
+  letter-spacing: -0.01em;
 }
 .related-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 32px;
+  gap: 28px;
+}
+
+/* Related post card — matches screenshot style */
+.rel-card {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  transition: opacity 0.2s;
+}
+.rel-card:hover { opacity: 0.88; }
+.rel-card-img-wrap {
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: 12px;
+  background: var(--color-surface);
+  margin-bottom: 14px;
+}
+.rel-card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+.rel-card:hover .rel-card-img-wrap img { transform: scale(1.04); }
+.rel-card-body { display: flex; flex-direction: column; gap: 6px; }
+.rel-card-date {
+  font-size: 0.76rem;
+  color: var(--color-text-faint);
+}
+.rel-card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-ink);
+  line-height: 1.35;
+  margin: 0;
+  font-family: var(--font-body);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.rel-card-desc {
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  line-height: 1.65;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* ══════════════════════════════════════════
@@ -740,7 +794,7 @@ const catClass: Record<string, string> = {
   .sidebar-toc { flex: 1; min-width: 240px; }
   .sidebar-cta { flex: 1; min-width: 240px; }
   .related-grid { grid-template-columns: repeat(2, 1fr); }
-  .related-grid > :last-child { display: none; }
+  .related-grid .rel-card:last-child { display: none; }
 }
 @media (max-width: 640px) {
   .post-hero-wrap { height: 52vh; min-height: 260px; }
@@ -750,8 +804,9 @@ const catClass: Record<string, string> = {
   .post-sidebar { flex-direction: column; }
   .sidebar-toc { display: none; }
   .related-grid { grid-template-columns: 1fr; }
-  .related-grid > :last-child { display: block; }
+  .related-grid .rel-card:last-child { display: flex; }
   .inline-related-link { align-items: flex-start; }
+  .post-meta { gap: 14px; }
 }
 </style>
 
