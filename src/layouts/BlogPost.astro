@@ -720,7 +720,8 @@ const catClass: Record<string, string> = {
   color: var(--color-ink);
   min-width: 20px;
 }
-.toc-widget__list-item-text {
+/* :global() so JS-created anchor elements are reached by scoped CSS */
+:global(.toc-widget__list-item-text) {
   position: relative;
   display: inline;
   flex: 1 1 auto;
@@ -730,13 +731,13 @@ const catClass: Record<string, string> = {
   text-decoration: none;
   transition: color 0.2s ease;
 }
-.toc-widget__list-item-text:hover {
-  color: var(--toc-link-active);
+:global(.toc-widget__list-item-text:hover) {
+  color: var(--color-accent-dark);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-.toc-widget__list-item-text.is-active {
-  color: var(--toc-link-active);
+:global(.toc-widget__list-item-text.is-active) {
+  color: var(--color-accent-dark);
   font-weight: 600;
   text-decoration: underline;
   text-underline-offset: 3px;
