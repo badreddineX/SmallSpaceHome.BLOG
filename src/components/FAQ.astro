@@ -59,16 +59,25 @@ const { questions } = Astro.props;
 
 <style>
 .faq-section {
-  margin: 3rem 0;
+  margin: 3rem -24px 0;
+  padding: 40px 24px 48px;
+  background: var(--color-ink);
+  border-radius: 4px;
 }
 .faq-section h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+  font-weight: 700;
+  font-style: italic;
+  color: #fff;
   margin-bottom: 1.5rem;
+  letter-spacing: -0.01em;
 }
 .faq-list {
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid rgba(255,255,255,0.12);
 }
 .faq-item {
-  border-bottom: 1px solid var(--color-border);
+  border-bottom: 1px solid rgba(255,255,255,0.12);
 }
 .faq-question {
   display: flex;
@@ -83,18 +92,18 @@ const { questions } = Astro.props;
   font-family: var(--font-body);
   font-size: 1rem;
   font-weight: 600;
-  color: var(--color-heading);
+  color: rgba(255,255,255,0.85);
   gap: 16px;
-  transition: color var(--transition);
+  transition: color 0.2s ease;
 }
-.faq-question:hover { color: var(--color-primary-dark); }
-.faq-question[aria-expanded="true"] { color: var(--color-primary-dark); }
+.faq-question:hover { color: var(--color-accent); }
+.faq-question[aria-expanded="true"] { color: var(--color-accent); }
 .faq-question[aria-expanded="true"] .faq-icon-h {
   transform: scaleY(0);
 }
 .faq-icon {
   flex-shrink: 0;
-  color: var(--color-primary);
+  color: var(--color-accent);
   transition: transform 0.2s;
 }
 .faq-icon-h {
@@ -104,8 +113,8 @@ const { questions } = Astro.props;
 .faq-answer {
   padding-bottom: 18px;
   font-size: 0.96rem;
-  color: var(--color-text-muted);
-  line-height: 1.7;
+  color: rgba(255,255,255,0.6);
+  line-height: 1.75;
 }
 .faq-answer p { margin: 0; }
 </style>
