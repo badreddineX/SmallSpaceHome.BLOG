@@ -418,6 +418,21 @@ const catClass: Record<string, string> = {
   color: var(--color-ink);
   margin: 2.2rem 0 0.8rem;
   line-height: 1.3;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+.post-body :global(.h3-num) {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--color-accent-dark);
+  flex-shrink: 0;
+  opacity: 0.85;
+}
+.post-body :global(.h3-title) {
+  display: inline;
 }
 .post-body :global(ul),
 .post-body :global(ol) {
@@ -879,24 +894,39 @@ document.querySelectorAll<HTMLTableElement>('.post-body table').forEach(table =>
   wrap.appendChild(table);
 });
 
-// ── H2 number decoration ─────────────────────────────────
+// ── H2 + H3 number decoration (single pass) ──────────────
 const H2_SKIP = new Set(['tl;dr', 'tl:dr', '—', '–']);
-const allH2s = document.querySelectorAll<HTMLHeadingElement>('.post-body h2');
+const allHeadings = document.querySelectorAll<HTMLHeadingElement>('.post-body h2, .post-body h3');
 let h2Counter = 0;
-allH2s.forEach((h) => {
+let h3Counter = 0;
+allHeadings.forEach((h) => {
   const fullText = (h.textContent ?? '').trim();
-  if (H2_SKIP.has(fullText.toLowerCase())) return;
-  const stripped = fullText.replace(/^\d+\.\s*/, '').trim();
-  h2Counter++;
-  const numSpan = document.createElement('span');
-  numSpan.className = 'h2-num';
-  numSpan.textContent = String(h2Counter).padStart(2, '0') + '.';
-  const titleSpan = document.createElement('span');
-  titleSpan.className = 'h2-title';
-  titleSpan.textContent = stripped;
-  h.textContent = '';
-  h.appendChild(numSpan);
-  h.appendChild(titleSpan);
+  if (h.tagName === 'H2') {
+    if (H2_SKIP.has(fullText.toLowerCase())) return;
+    const stripped = fullText.replace(/^\d+\.\s*/, '').trim();
+    h2Counter++;
+    h3Counter = 0;
+    const numSpan = document.createElement('span');
+    numSpan.className = 'h2-num';
+    numSpan.textContent = String(h2Counter).padStart(2, '0') + '.';
+    const titleSpan = document.createElement('span');
+    titleSpan.className = 'h2-title';
+    titleSpan.textContent = stripped;
+    h.textContent = '';
+    h.appendChild(numSpan);
+    h.appendChild(titleSpan);
+  } else {
+    h3Counter++;
+    const numSpan = document.createElement('span');
+    numSpan.className = 'h3-num';
+    numSpan.textContent = `${h2Counter}.${h3Counter}`;
+    const titleSpan = document.createElement('span');
+    titleSpan.className = 'h3-title';
+    titleSpan.textContent = fullText;
+    h.textContent = '';
+    h.appendChild(numSpan);
+    h.appendChild(titleSpan);
+  }
 });
 
 // ── TOC build + scroll spy ────────────────────────────────
