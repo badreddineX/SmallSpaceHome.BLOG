@@ -72,29 +72,41 @@ const pillars = [
 
       <!-- ② WHO WE ARE -->
       <section class="about-intro">
-        <div class="about-intro-inner">
-          <div class="about-intro-label">
-            <span class="section-eyebrow">Our Story</span>
-          </div>
-          <div class="about-intro-body">
-            <div class="author-photo-wrap">
-              <div class="author-avatar-circle">
-                <span class="author-initials">BB</span>
-              </div>
-              <span class="author-photo-name">Badreddine Br</span>
-            </div>
-            <p>
-              When I moved into my first Toronto apartment, I had a lot of stuff and almost no space. I spent months falling for Pinterest boards full of gorgeous minimalist homes that required either a renovation budget I didn't have or walls I wasn't allowed to touch.
-            </p>
-            <p>
-              I started testing real solutions — things you can actually buy at IKEA Canada or Amazon.ca, things that mount with Command strips, things that fold and stack and do double-duty. Some of them worked brilliantly. A lot of them didn't. This blog is the honest record of both.
-            </p>
-            <p>
-              If you're renting in Toronto, Vancouver, Montreal, or anywhere in Canada where apartments are expensive and small, this site is for you. No drilling required, no ridiculous budgets, no staged perfection.
-            </p>
-            <p class="intro-sig">— Badreddine Br, 510 sq ft · Toronto</p>
-          </div>
+
+        <!-- Left: image -->
+        <div class="about-intro-img-wrap">
+          <img
+            src="/images/about-strip-shelf.jpg"
+            alt="Organized small apartment shelf"
+            class="about-intro-img"
+            loading="lazy"
+            width="900"
+            height="1100"
+          />
         </div>
+
+        <!-- Right: content -->
+        <div class="about-intro-body">
+          <div class="author-photo-wrap">
+            <div class="author-avatar-circle">
+              <span class="author-initials">BB</span>
+            </div>
+            <span class="author-photo-name">Badreddine Br</span>
+          </div>
+          <span class="section-eyebrow">Our Story</span>
+          <h2 class="about-intro-heading">About SmallSpace Home</h2>
+          <p>
+            When I moved into my first Toronto apartment, I had a lot of stuff and almost no space. I spent months falling for Pinterest boards full of gorgeous minimalist homes that required either a renovation budget I didn't have or walls I wasn't allowed to touch.
+          </p>
+          <p>
+            I started testing real solutions — things you can actually buy at IKEA Canada or Amazon.ca, things that mount with Command strips, things that fold and stack and do double-duty. Some of them worked brilliantly. A lot of them didn't. This blog is the honest record of both.
+          </p>
+          <p>
+            If you're renting in Toronto, Vancouver, Montreal, or anywhere in Canada where apartments are expensive and small, this site is for you. No drilling required, no ridiculous budgets, no staged perfection.
+          </p>
+          <p class="intro-sig">— Badreddine Br, 510 sq ft · Toronto</p>
+        </div>
+
       </section>
 
       <!-- ③ DIVIDER IMAGE -->
@@ -249,18 +261,32 @@ const pillars = [
 
 /* ── ② INTRO ── */
 .about-intro {
-  padding: 96px 24px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 600px;
   border-bottom: 1px solid var(--color-border);
 }
-.about-intro-inner {
-  max-width: 1040px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 200px 1fr;
-  gap: 80px;
-  align-items: start;
+
+.about-intro-img-wrap {
+  overflow: hidden;
+  position: relative;
 }
-.about-intro-label { padding-top: 6px; }
+.about-intro-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.about-intro-body {
+  padding: 72px 64px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .section-eyebrow {
   font-size: 0.6rem;
   font-weight: 600;
@@ -268,31 +294,43 @@ const pillars = [
   text-transform: uppercase;
   color: var(--color-accent-dark);
   display: block;
+  margin-bottom: 12px;
 }
+
+.about-intro-heading {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  font-weight: 400;
+  color: var(--color-ink);
+  margin: 0 0 28px;
+  line-height: 1.2;
+}
+
 .about-intro-body p {
-  font-size: 1.05rem;
-  line-height: 1.9;
-  color: var(--color-text);
-  margin: 0 0 1.4rem;
-  max-width: 600px;
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text-muted);
+  margin: 0 0 1.2rem;
 }
 .about-intro-body p:last-child { margin-bottom: 0; }
+
 .intro-sig {
   font-family: var(--font-display);
   font-style: italic;
   font-size: 1rem !important;
-  color: var(--color-text-muted) !important;
-  margin-top: 2.4rem !important;
+  color: var(--color-accent-dark) !important;
+  margin-top: 1.6rem !important;
 }
+
 .author-photo-wrap {
   display: flex;
   align-items: center;
   gap: 14px;
-  margin-bottom: 2rem;
+  margin-bottom: 24px;
 }
 .author-avatar-circle {
-  width: 56px;
-  height: 56px;
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
   background: var(--color-ink);
   display: flex;
@@ -302,7 +340,7 @@ const pillars = [
 }
 .author-initials {
   font-family: var(--font-body);
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   font-weight: 600;
   color: #fff;
   letter-spacing: 0.05em;
@@ -312,6 +350,12 @@ const pillars = [
   font-size: 1rem;
   font-style: italic;
   color: var(--color-accent-dark);
+}
+
+@media (max-width: 860px) {
+  .about-intro { grid-template-columns: 1fr; }
+  .about-intro-img-wrap { min-height: 320px; }
+  .about-intro-body { padding: 48px 28px; }
 }
 
 /* ── ③ MID IMAGE ── */
@@ -485,8 +529,6 @@ const pillars = [
 
 /* ── Responsive ── */
 @media (max-width: 860px) {
-  .about-intro-inner { grid-template-columns: 1fr; gap: 32px; }
-  .about-intro-label { padding-top: 0; }
   .pillars-list, .pillars-header { padding: 0 24px; }
   .pillar-title { font-size: clamp(2rem, 8vw, 3.2rem); }
   .contact-inner { grid-template-columns: 1fr; gap: 48px; }
