@@ -39,24 +39,10 @@ const latest   = sorted.slice(0, 6);
            HERO — full bleed image with text overlay
       ══════════════════════════════════════ -->
       <section class="hero" aria-labelledby="hero-heading">
+        <div class="container hero-inner">
 
-        <!-- Full-bleed background image -->
-        <div class="hero-bg">
-          <img
-            src="/images/blog-01-img1.jpg"
-            alt=""
-            class="hero-bg-img"
-            loading="eager"
-            width="1800"
-            height="1000"
-            aria-hidden="true"
-          />
-          <div class="hero-overlay" aria-hidden="true"></div>
-        </div>
-
-        <!-- Text content over image -->
-        <div class="hero-content">
-          <div class="container hero-inner">
+          <!-- Left: headline -->
+          <div class="hero-text">
             <span class="eyebrow hero-eyebrow">For Canadian apartment renters</span>
             <h1 id="hero-heading">
               Small Space Living,<br/>
@@ -72,8 +58,32 @@ const latest   = sorted.slice(0, 6);
               <a href="/about" class="btn hero-btn-outline">Our Story</a>
             </div>
           </div>
-        </div>
 
+          <!-- Right: quick-topic cards -->
+          <div class="hero-topics" aria-label="Browse topics">
+            <a href="/blog?category=Organization" class="hero-topic-card">
+              <span class="hero-topic-icon">📦</span>
+              <span class="hero-topic-label">Organization</span>
+              <span class="hero-topic-arrow">→</span>
+            </a>
+            <a href="/blog?category=Decor" class="hero-topic-card">
+              <span class="hero-topic-icon">🛋️</span>
+              <span class="hero-topic-label">Decor</span>
+              <span class="hero-topic-arrow">→</span>
+            </a>
+            <a href="/blog?category=Storage" class="hero-topic-card">
+              <span class="hero-topic-icon">🗄️</span>
+              <span class="hero-topic-label">Storage</span>
+              <span class="hero-topic-arrow">→</span>
+            </a>
+            <a href="/blog?category=Budget+Tips" class="hero-topic-card">
+              <span class="hero-topic-icon">💡</span>
+              <span class="hero-topic-label">Budget Tips</span>
+              <span class="hero-topic-arrow">→</span>
+            </a>
+          </div>
+
+        </div>
       </section>
 
 
@@ -268,92 +278,108 @@ const latest   = sorted.slice(0, 6);
 
 /* ── HERO ── */
 .hero {
-  position: relative;
-  min-height: 75vh;
-  display: flex;
+  background: linear-gradient(150deg, #EDE7DB 0%, #F3EFE9 60%, #FAFAF7 100%);
+  border-bottom: 1px solid var(--color-border);
+  padding: 72px 0 80px;
+}
+
+.hero-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
   align-items: center;
 }
 
-.hero-bg {
-  position: absolute;
-  inset: 0;
-  z-index: 0;
-  overflow: hidden;
-}
-.hero-bg-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center 30%;
-  display: block;
-}
-.hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: rgba(28, 25, 23, 0.42);
-}
-
-.hero-content {
-  position: relative;
-  z-index: 1;
-  width: 100%;
-  padding: 72px 0 80px;
-}
-.hero-inner { max-width: 720px; }
-
-.hero-eyebrow { color: var(--color-accent); letter-spacing: 0.18em; }
+.hero-eyebrow { color: var(--color-accent-dark); letter-spacing: 0.18em; }
 
 .hero h1 {
-  font-size: clamp(2rem, 9vw, 4.8rem);
+  font-size: clamp(2rem, 5vw, 4.2rem);
   font-weight: 400;
   line-height: 1.08;
   letter-spacing: -0.02em;
-  color: #fff;
+  color: var(--color-ink);
   margin-bottom: 0;
 }
-.hero h1 em { font-style: italic; color: var(--color-accent); }
+.hero h1 em { font-style: italic; color: var(--color-accent-dark); }
 
 .hero-rule {
   width: 40px;
-  height: 1px;
-  background: rgba(255,255,255,0.3);
+  height: 2px;
+  background: var(--color-accent);
   margin: 28px 0;
 }
 
 .hero-sub {
   font-size: 0.9rem;
-  color: rgba(255,255,255,0.90);
+  color: var(--color-text-muted);
   line-height: 1.8;
   font-weight: 300;
-  margin: 0 0 28px;
-  max-width: 480px;
+  margin: 0 0 32px;
+  max-width: 440px;
 }
 
 .hero-ctas {
   display: flex;
-  flex-direction: column;
-  gap: 10px;
+  flex-direction: row;
+  gap: 12px;
+  flex-wrap: wrap;
 }
-.hero-ctas .btn { width: 100%; justify-content: center; }
 
 .hero-btn-primary {
-  background: #fff;
-  color: var(--color-ink);
-  border-color: #fff;
+  background: var(--color-accent-dark);
+  color: #fff;
+  border-color: var(--color-accent-dark);
 }
 .hero-btn-primary:hover {
-  background: var(--color-accent);
-  border-color: var(--color-accent);
-  color: #fff;
+  background: #7a6040;
+  border-color: #7a6040;
 }
 .hero-btn-outline {
   background: transparent;
-  color: #fff;
-  border-color: rgba(255,255,255,0.6);
+  color: var(--color-ink);
+  border-color: var(--color-border);
 }
 .hero-btn-outline:hover {
-  background: rgba(255,255,255,0.12);
-  border-color: #fff;
+  border-color: var(--color-accent-dark);
+  color: var(--color-accent-dark);
+}
+
+/* Topic cards */
+.hero-topics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.hero-topic-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 20px 18px;
+  background: rgba(255,255,255,0.7);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  font-weight: 500;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+  backdrop-filter: blur(4px);
+}
+.hero-topic-card:hover {
+  background: #fff;
+  border-color: var(--color-accent-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(139,111,71,0.12);
+}
+.hero-topic-icon { font-size: 1.3rem; flex-shrink: 0; }
+.hero-topic-label { flex: 1; color: var(--color-ink); font-weight: 600; }
+.hero-topic-arrow { color: var(--color-accent-dark); font-size: 0.85rem; flex-shrink: 0; }
+
+@media (max-width: 767px) {
+  .hero-inner { grid-template-columns: 1fr; gap: 40px; }
+  .hero-topics { grid-template-columns: 1fr 1fr; }
 }
 
 /* ── CATEGORY STRIP ── */
@@ -618,9 +644,6 @@ const latest   = sorted.slice(0, 6);
   .about-strip .btn { width: auto; }
 }
 
-/* ══════════════════════════════════════
-   TABLET LARGE — 768px+
-══════════════════════════════════════ */
 @media (min-width: 768px) {
 
   .cat-strip-inner { width: 100%; }
@@ -644,17 +667,7 @@ const latest   = sorted.slice(0, 6);
 /* ══════════════════════════════════════
    DESKTOP — 1024px+
 ══════════════════════════════════════ */
-@media (min-width: 560px) {
-  .hero-ctas { flex-direction: row; }
-  .hero-ctas .btn { width: auto; justify-content: flex-start; }
-}
-
 @media (min-width: 768px) {
-  .hero { min-height: 80vh; }
-  .hero-content { padding: 100px 0 100px; }
-  .hero-rule { margin: 36px 0; }
-  .hero-ctas { flex-direction: row; }
-  .hero-ctas .btn { width: auto; justify-content: flex-start; }
 }
 
 @media (min-width: 1024px) {
