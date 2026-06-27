@@ -631,45 +631,43 @@ const catClass: Record<string, string> = {
 
 /* TOC */
 .sidebar-toc {
-  border-radius: 16px;
+  border-radius: 12px;
   overflow: hidden;
-  background: #faf9f7;
-  box-shadow: 0 12px 32px rgba(0,0,0,0.10);
+  background: #ffffff;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
 }
 .toc-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #231d12;
-  padding: 20px 22px;
+  background: #111111;
+  padding: 16px 24px;
   cursor: pointer;
 }
 .toc-title {
   font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.875rem;
   font-weight: 700;
-  letter-spacing: 0.2em;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #c9a84c;
+  color: #ffffff;
 }
 .toc-toggle {
   all: unset;
-  color: #c9a84c;
-  font-size: 1.1rem;
+  color: rgba(255,255,255,0.8);
+  font-size: 0.85rem;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 26px;
-  height: 26px;
-  border-radius: 50%;
-  transition: background 0.18s ease, transform 0.28s ease;
+  width: 24px;
+  height: 24px;
+  transition: transform 0.28s ease;
   -webkit-tap-highlight-color: transparent;
 }
-.toc-toggle:hover { background: rgba(255,255,255,0.08); }
 .toc-toggle.is-collapsed { transform: rotate(180deg); }
 .toc-body {
-  background: #faf9f7;
+  background: #ffffff;
   overflow: hidden;
   max-height: 800px;
   transition: max-height 0.35s ease;
@@ -683,70 +681,47 @@ const catClass: Record<string, string> = {
 .sidebar-toc-list li a {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 0;
   text-decoration: none;
-  padding: 15px 18px;
-  border-bottom: 1px solid #ece9e3;
+  padding: 18px 24px;
+  border-bottom: 1px solid #eaeaea;
   background: #ffffff;
+  font-size: 1rem;
+  color: #333333;
   transition: background 0.2s ease;
 }
-/* Gold circle badge */
 .toc-num {
   flex-shrink: 0;
   width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background: #8b7340;
-  color: #fff;
   font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.78rem;
+  font-size: 1rem;
   font-weight: 700;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.25s ease, transform 0.25s ease;
-  line-height: 1;
-}
-/* Text block */
-.toc-text-block {
-  flex: 1;
-  min-width: 0;
+  color: #888888;
+  white-space: nowrap;
+  transition: color 0.25s ease;
 }
 .toc-item-text {
+  flex: 1;
   font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.9rem;
-  font-weight: 700;
-  color: #1a1a1a;
-  line-height: 1.35;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333333;
+  line-height: 1.4;
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
-  transition: color 0.2s ease, font-size 0.25s ease;
-}
-.toc-item-sub {
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.72rem;
-  color: #999;
-  margin-top: 4px;
-  line-height: 1.3;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  transition: color 0.2s ease;
+  transition: color 0.25s ease, font-size 0.25s ease, font-weight 0.1s ease;
 }
 .sidebar-toc-list li:last-child a { border-bottom: none; }
-.sidebar-toc-list li a:hover { background: #f6f4f0; }
-.sidebar-toc-list li a.toc-active { background: #fdf8ef; }
-.sidebar-toc-list li a.toc-active .toc-num {
-  background: #6b5828;
-  transform: scale(1.1);
-}
+.sidebar-toc-list li a:hover { background: #fafafa; }
+.sidebar-toc-list li a.toc-active { background: #fafafa; }
+.sidebar-toc-list li a.toc-active .toc-num { color: var(--color-accent-dark); }
 .sidebar-toc-list li a.toc-active .toc-item-text {
-  color: #111;
-  font-size: 0.95rem;
+  color: #111111;
+  font-weight: 700;
+  font-size: 1.05rem;
 }
-.sidebar-toc-list li a.toc-active .toc-item-sub { color: #777; }
 
 /* Sidebar CTA */
 .sidebar-cta {
@@ -922,38 +897,21 @@ if (tocHeadings.length < 2) {
   tocHeadings.forEach((h, i) => {
     if (!h.id) h.id = `section-${i}`;
 
-    const li        = document.createElement('li');
-    const a         = document.createElement('a');
-    const numDiv    = document.createElement('div');
-    const textBlock = document.createElement('div');
-    const titleEl   = document.createElement('div');
-    const subEl     = document.createElement('div');
+    const li     = document.createElement('li');
+    const a      = document.createElement('a');
+    const numDiv = document.createElement('div');
+    const titleEl = document.createElement('div');
 
-    // Circle badge number
     numDiv.className = 'toc-num';
     numDiv.textContent = String(i + 1).padStart(2, '0');
 
-    // Title
     titleEl.className = 'toc-item-text';
     const raw = (h.textContent ?? '').replace(/^\d+\.\s*/, '').trim();
     titleEl.textContent = raw;
 
-    // Subtitle — first sentence of the next <p>
-    subEl.className = 'toc-item-sub';
-    const nextP = h.nextElementSibling;
-    if (nextP && nextP.tagName === 'P') {
-      const pText = (nextP.textContent ?? '').trim();
-      const sentence = pText.split(/(?<=[.!?])\s/)[0] ?? '';
-      subEl.textContent = sentence.length > 72 ? sentence.slice(0, 72) + '…' : sentence;
-    }
-
-    textBlock.className = 'toc-text-block';
-    textBlock.appendChild(titleEl);
-    if (subEl.textContent) textBlock.appendChild(subEl);
-
     a.href = `#${h.id}`;
     a.appendChild(numDiv);
-    a.appendChild(textBlock);
+    a.appendChild(titleEl);
     li.appendChild(a);
     tocList?.appendChild(li);
   });
