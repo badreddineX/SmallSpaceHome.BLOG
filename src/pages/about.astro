@@ -4,33 +4,6 @@ import Footer from '../components/Footer.astro';
 import SEO from '../components/SEO.astro';
 import '../styles/global.css';
 
-const pillars = [
-  {
-    title: 'Organization Tips.',
-    sub: 'Practical systems that actually fit a rental.',
-    desc: 'Practical systems for small apartments — drawers, closets, kitchens, and everything in between.',
-  },
-  {
-    title: 'Budget Decor.',
-    sub: 'Making a rental feel like home without the spend.',
-    desc: 'Making a rental feel like home without spending a fortune or violating your lease.',
-  },
-  {
-    title: 'Storage Solutions.',
-    sub: 'Every hidden centimetre counts.',
-    desc: 'I test real products from IKEA Canada, Amazon.ca, and beyond so you don\'t have to.',
-  },
-  {
-    title: 'Renter Friendly.',
-    sub: 'No drilling. No damage. No deposit lost.',
-    desc: 'Everything on this site works within lease restrictions — Command strips, removable hooks, freestanding furniture.',
-  },
-  {
-    title: 'Honest Reviews.',
-    sub: 'I buy it, use it, then write about it.',
-    desc: 'No sponsored fluff. If a product failed in my 510 sq ft Toronto apartment, I say so.',
-  },
-];
 ---
 
 <!doctype html>
@@ -254,7 +227,7 @@ const pillars = [
 }
 .about-hero-content {
   position: relative;
-  z-index: 2;
+  z-index: 4;
   text-align: center;
   padding: 0 32px;
   max-width: 820px;
@@ -503,6 +476,7 @@ const pillars = [
     display: block;
     position: relative;
     min-height: 520px;
+    overflow: hidden;
   }
   .about-intro::after { display: none; }
   .about-intro-img-wrap {
@@ -537,6 +511,7 @@ const pillars = [
 @media (max-width: 480px) {
   .about-hero { height: 75vh; min-height: 420px; }
   .about-hero-content { padding: 0 20px; }
+  .hero-eyebrow { margin-bottom: 16px; }
   .categories-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .author-card { padding: 28px 16px; }
   .contact-right { padding: 32px 20px; }
