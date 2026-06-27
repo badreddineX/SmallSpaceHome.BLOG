@@ -566,11 +566,14 @@ const latest   = sorted.slice(0, 6);
 /* ── LATEST ── */
 .latest-section { background: var(--color-surface); }
 
-/* 2 columns on mobile — compact and scannable */
+/* 1 column on small phones, 2 on wider */
 .latest-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  grid-template-columns: 1fr;
+  gap: 28px;
+}
+@media (min-width: 480px) {
+  .latest-grid { grid-template-columns: repeat(2, 1fr); gap: 20px; }
 }
 
 /* ── ABOUT STRIP ── */

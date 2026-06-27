@@ -897,10 +897,12 @@ const catClass: Record<string, string> = {
   .post-body :global(blockquote p) { font-size: 1.05rem !important; }
   .post-body :global(ul), .post-body :global(ol) { padding-left: 1.2rem; }
 
-  /* Sidebar — show TOC collapsed, full width */
-  .post-sidebar { flex-direction: column; margin-top: 32px; gap: 20px; }
+  /* Sidebar — moves above article on mobile */
+  .post-layout { display: flex; flex-direction: column; }
+  .post-sidebar { order: -1; flex-direction: column; margin-top: 0; margin-bottom: 28px; gap: 0; }
+  .post-main { order: 1; }
   .sidebar-toc { display: block; width: 100%; min-width: unset; }
-  .sidebar-cta { width: 100%; min-width: unset; }
+  .sidebar-cta { display: none; }
 
   /* Related */
   .related-grid { grid-template-columns: 1fr; }
@@ -1022,7 +1024,7 @@ if (tocHeadings.length < 2) {
   }, { rootMargin: '-10% 0px -55% 0px' });
   tocHeadings.forEach(h => observer.observe(h));
 
-  // Start collapsed on mobile so it doesn't dominate the page
+  // Start collapsed on mobile — user can expand by tapping header
   if (window.innerWidth <= 640) {
     sidebarToc?.classList.add('is-collapsed');
   }
