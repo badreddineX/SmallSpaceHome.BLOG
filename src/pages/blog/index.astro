@@ -71,6 +71,7 @@ const POSTS_PER_PAGE = 6;
               </svg>
             </button>
           </div>
+          <ul class="search-suggestions" id="search-suggestions" role="listbox" aria-label="Search suggestions" hidden></ul>
         </div>
       </div>
 
@@ -103,6 +104,8 @@ const POSTS_PER_PAGE = 6;
                 data-category={post.data.category}
                 data-title={post.data.title.toLowerCase()}
                 data-desc={post.data.description.toLowerCase()}
+                data-slug={post.slug}
+                data-tags={(post.data.tags ?? []).join(' ').toLowerCase()}
               >
                 <a href={`/blog/${post.slug}`} class="post-img-link">
                   <div class="post-img-wrap img-placeholder">
@@ -252,6 +255,64 @@ const POSTS_PER_PAGE = 6;
   -webkit-tap-highlight-color: transparent;
 }
 .search-clear:hover { color: var(--color-ink); }
+
+/* ── Search suggestions ── */
+.search-suggestions {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  list-style: none;
+  margin: 0;
+  padding: 6px 0;
+  z-index: 200;
+  max-height: 320px;
+  overflow-y: auto;
+}
+.search-suggestions li a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 18px;
+  text-decoration: none;
+  color: var(--color-ink);
+  font-size: 0.88rem;
+  line-height: 1.4;
+  transition: background 0.15s ease;
+}
+.search-suggestions li a:hover,
+.search-suggestions li a:focus {
+  background: var(--color-surface);
+  outline: none;
+}
+.search-suggestions li a .sug-cat {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-accent-dark);
+  flex-shrink: 0;
+  background: rgba(196,168,130,0.15);
+  padding: 2px 7px;
+  border-radius: 100px;
+}
+.search-suggestions li a .sug-title {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.search-suggestions li a mark {
+  background: rgba(196,168,130,0.35);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.search-bar-inner { position: relative; }
 
 /* ── Filter bar ── */
 .filter-bar {
@@ -528,6 +589,54 @@ const clearBtn    = document.getElementById('search-clear');
 const prevBtn     = document.getElementById('prev-btn');
 const nextBtn     = document.getElementById('next-btn');
 const pageNumbers = document.getElementById('page-numbers');
+const suggestions = document.getElementById('search-suggestions');
+
+// Build suggestions index from post items
+const postIndex = allItems.map(item => ({
+  title: item.dataset.title ?? '',
+  desc:  item.dataset.desc  ?? '',
+  tags:  item.dataset.tags  ?? '',
+  cat:   item.dataset.category ?? '',
+  slug:  item.dataset.slug  ?? '',
+  label: item.querySelector('.post-title a')?.textContent ?? '',
+}));
+
+function highlight(text, query) {
+  if (!query) return text;
+  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return text.replace(new RegExp(`(${escaped})`, 'gi'), '<mark>$1</mark>');
+}
+
+function showSuggestions(query) {
+  if (!suggestions) return;
+  const q = query.trim().toLowerCase();
+  if (!q) { suggestions.hidden = true; suggestions.innerHTML = ''; return; }
+
+  const matches = postIndex
+    .filter(p => p.title.includes(q) || p.desc.includes(q) || p.tags.includes(q))
+    .slice(0, 6);
+
+  if (!matches.length) { suggestions.hidden = true; suggestions.innerHTML = ''; return; }
+
+  suggestions.innerHTML = matches.map(p => `
+    <li role="option">
+      <a href="/blog/${p.slug}">
+        <span class="sug-cat">${p.cat}</span>
+        <span class="sug-title">${highlight(p.label, query.trim())}</span>
+      </a>
+    </li>
+  `).join('');
+  suggestions.hidden = false;
+}
+
+function hideSuggestions() {
+  if (suggestions) { suggestions.hidden = true; suggestions.innerHTML = ''; }
+}
+
+// Close suggestions when clicking outside
+document.addEventListener('click', (e) => {
+  if (!searchInput?.contains(e.target) && !suggestions?.contains(e.target)) hideSuggestions();
+});
 
 let activeCat  = 'All';
 let searchQ    = '';
@@ -645,7 +754,12 @@ searchInput?.addEventListener('input', () => {
   searchQ = searchInput.value;
   currentPage = 1;
   if (clearBtn) clearBtn.hidden = !searchQ;
+  showSuggestions(searchInput.value);
   renderPage();
+});
+
+searchInput?.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') hideSuggestions();
 });
 
 clearBtn?.addEventListener('click', () => {
@@ -653,6 +767,7 @@ clearBtn?.addEventListener('click', () => {
   searchQ = '';
   currentPage = 1;
   clearBtn.hidden = true;
+  hideSuggestions();
   searchInput?.focus();
   renderPage();
 });
