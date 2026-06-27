@@ -20,17 +20,11 @@ faqs:
     a: "Under-bed storage with flat bins or IKEA SKUBB bags. A tall wardrobe like IKEA PAX in the corner. Over-door organizers on the bedroom door. Floating shelves on the walls. A bench at the foot of the bed with storage inside."
 ---
 
-## TL;DR
-- Light colours, mirrors, and proper lighting make the biggest difference
-- Position the bed against the longest wall for maximum open floor space
-- All renter-friendly — no painting, no drilling required
-- Works in bedrooms from 80 sq ft to 150 sq ft
+A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices — light colours, correct bed placement, and layered lighting — can make even a compact Canadian apartment bedroom feel calm, spacious, and restful. I sleep in a small bedroom every night in my 510 sq ft Toronto apartment, and here's what has actually made a difference.
+
+**TL;DR:** Replace the overhead bulb with a warm 2700K lamp — it's the single fastest way to transform a small bedroom. Position the bed against the longest wall. Use a leaning full-length mirror to add depth and reflect light. Keep nightstands and dresser tops nearly clear — in a small room, surface clutter reads as room clutter.
 
 ---
-
-A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices can make even a compact Canadian apartment bedroom feel calm, spacious, and restful.
-
-I sleep in a small bedroom every night — the bedroom in my 510 sq ft Toronto apartment. Here's what has actually made a difference.
 
 ## 1. Keep the Colour Palette Light and Cohesive
 
@@ -122,7 +116,7 @@ When floor space is limited, walls become the main design canvas. Floating shelv
 - A wall-mounted reading light instead of a bedside lamp (frees nightstand space)
 - A tall piece of art rather than a wide one
 
-If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/) prioritizes the highest-impact moves first.
+If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/) prioritizes the highest-impact moves first. And if you're renting and want deposit-safe upgrades beyond just the bedroom, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers the whole apartment.
 
 ![Floating shelves above a reading nook add storage and personality without taking floor space](/images/decor-floating-shelves.jpg)
 
@@ -158,3 +152,7 @@ In a small bedroom, the bed is 60–70% of the visual space. Make it and the who
 3. **Mirror** — leaning or wall-mounted, to reflect light and create depth
 4. **Clear surfaces** — nightstand and dresser with only what belongs there
 5. **Ceiling-height curtains** — makes the ceiling feel taller immediately
+
+Once the decor fundamentals are in place, storage is the next layer. If the bedroom still feels cramped after these changes, the problem is usually too much stuff without a proper system for it.
+
+→ For the full storage side of a small bedroom, see [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/) — every closet, under-bed, and wall option covered with CAD prices.

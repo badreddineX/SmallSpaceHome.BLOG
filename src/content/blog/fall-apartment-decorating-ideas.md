@@ -20,17 +20,11 @@ faqs:
     a: "Natural elements are free: collect pinecones, dried leaves, and seed pods on a walk. Dollarama has pumpkin and gourd decor for $1–$4 each. HomeSense/Winners for quality cushions and throws at discount prices. Canadian Tire for seasonal candles. Total autumn refresh under $75 CAD."
 ---
 
-## TL;DR
-- 12 fall decorating ideas for small Canadian apartments
-- All renter-friendly — no permanent changes
-- Use warm earth tones, natural textures, and seasonal scents
-- Many ideas cost nothing (natural elements from outside)
+Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
+
+**TL;DR:** Swap 2–3 summer cushion covers for rust, amber, or deep green ones (IKEA GURLI ~$6 each, or Amazon.ca velvet 2-pack ~$25–$35 CAD). Add one autumn-scented candle from HomeSense (~$20 CAD). Natural elements from outside — pinecones, coloured leaves, dried seed pods — cost nothing and look more authentic than anything purchased. Total fall refresh under $75 CAD.
 
 ---
-
-Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes.
-
-The secret to good fall apartment decorating is restraint. A few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
 
 ## 1. Swap to Autumn Textiles
 
@@ -156,3 +150,7 @@ For apartments with a private entry, a fall doormat in a warm colour or leaf pat
 | **Total** | **~$72** | |
 
 These four items are all you need for a proper fall refresh. The natural elements (pinecones, leaves, branches) from outside are free. The textile swap and scent do the rest.
+
+Fall decorating works best when it's a layer over a well-organized, cohesive base — not a seasonal overhaul of an already-cluttered space. If the apartment needs a reset before bringing in seasonal touches, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers the foundations worth having in place year-round.
+
+→ When autumn transitions to winter, [cozy winter apartment decor](/blog/cozy-winter-apartment-decor/) picks up exactly where this guide leaves off — with the deeper layering and lighting changes that carry you through to spring.

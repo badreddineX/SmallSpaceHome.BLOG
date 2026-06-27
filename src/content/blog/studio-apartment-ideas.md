@@ -20,19 +20,11 @@ faqs:
     a: "If your studio is under 400 sq ft, yes. It converts your entire sleeping area into functional living space during the day. If you have room for a dedicated bed, a quality storage bed frame is more practical and costs far less."
 ---
 
-## TL;DR
-- The key to a studio apartment is clear zones — not open chaos
-- Furniture placement and rugs define areas without walls
-- All renter-friendly: no painting, no drilling required
-- Works in Toronto, Vancouver, and Montreal studios of any size
+A studio apartment challenges you to sleep, eat, work, and relax in a single space without it feeling like chaos. The answer isn't about square footage — it's about defining clear zones through furniture placement, rugs, and lighting. I've been in a 510 sq ft Toronto apartment for three years, tried layouts that failed and layouts that worked, and here's what actually makes the difference.
+
+**TL;DR:** Define zones with rugs and furniture before buying anything else. Two rugs create two rooms. A bookcase or sofa back separates the sleeping zone from the living zone. Storage bed frames (IKEA NORDLI, from ~$399 CAD) eliminate the need for a dresser. Keep every surface in a studio completely clear — clutter has nowhere to hide.
 
 ---
-
-A studio apartment is a one-room challenge: you need to sleep, eat, work, relax, and store everything in a single space — without it feeling like chaos.
-
-I've been in a 510 sq ft Toronto apartment for three years. I've tried layouts that failed and layouts that worked. The difference is never about having more space. It's about deciding what each area of your studio is for — and making that decision visible through furniture and design.
-
-Here's what actually works.
 
 ## 1. Define Zones Before You Arrange Furniture
 
@@ -178,3 +170,7 @@ Even a studio with a tiny entry benefits from defining that space. A small rack 
 3. **Under-bed storage** — storage frame or risers + bins
 4. **Zone lighting** — floor lamp, bedside lamp, desk lamp
 5. **Keep surfaces clear** — the single habit that prevents studio chaos
+
+A studio apartment works when every decision is intentional — where the zones are, what furniture earns its floor space, and what lives on which surface. Start with the zones, get the storage working, and the rest follows naturally.
+
+→ For the full room-by-room organization plan, see [how to organize a studio apartment](/blog/how-to-organize-studio-apartment/) — a weekend-by-weekend breakdown of exactly what to tackle first.

@@ -18,9 +18,11 @@ faqs:
     a: "Prioritize: a bed with storage (platform beds with drawers are ideal), a sofa that converts or doubles as a guest bed, a dining table that folds or tucks against a wall, and a tall shelving unit that provides maximum storage per floor footprint."
 ---
 
-A studio apartment is the most honest test of your organization skills. When everything is one room, your systems either work or they visibly don't.
+A studio apartment is the most honest test of your organization skills. When everything is one room, your systems either work or they visibly don't. Here's the weekend plan I wish I'd had when I moved into my first studio in Vancouver — built for Canadian apartments with IKEA and Amazon.ca product picks and realistic CAD costs throughout.
 
-Here's the weekend plan I wish I'd had when I moved into my first studio in Vancouver.
+**TL;DR:** Define zones before organizing anything — sleep, work, living, kitchen, and entry zones give the studio structure. Declutter on Saturday morning before touching any furniture. Slim velvet hangers ($18 CAD) and over-door organizers ($25 CAD) solve the wardrobe problem in any studio with or without a closet. The full weekend organization system costs under $175 CAD at IKEA Canada and Amazon.ca.
+
+---
 
 ## Before You Start: The Zone Principle
 
@@ -119,3 +121,6 @@ Here's what to buy (all available at Amazon.ca or IKEA Canada):
 
 A studio apartment organized in one weekend for under $200 CAD. You'll feel it the moment you walk in Monday morning.
 
+The zone principle is the key insight: define where each activity happens before you buy a single storage product. Once zones are clear, everything else — furniture placement, storage solutions, lighting — falls into place naturally. For more studio-specific ideas including how to make the zones feel designed rather than improvised, see [studio apartment ideas](/blog/studio-apartment-ideas/).
+
+→ For storage solutions that work in every zone of a studio, [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/) covers bedroom, kitchen, bathroom, and living room options with exact Canadian prices.

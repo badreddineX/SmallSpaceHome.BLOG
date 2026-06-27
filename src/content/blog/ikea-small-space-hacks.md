@@ -20,19 +20,11 @@ faqs:
     a: "Yes — for renters who move every 2–3 years. IKEA pieces are affordable, flat-pack for moving, and designed for apartments. Assemble carefully, add anti-tip straps where required, and the pieces hold up well. Resale value on Facebook Marketplace and Kijiji in most Canadian cities is also decent."
 ---
 
-## TL;DR
-- 15 IKEA hacks designed for small Canadian apartments
-- All products available at Canadian IKEA locations
-- Prices in CAD, accurate as of early 2026
-- Focus on products that solve real problems in small spaces
+IKEA is the default furniture store for Canadian apartment renters for good reason — it's designed for small spaces, available across Canada, and priced for people who might move in two years. But not everything works in a small apartment. These 15 ideas use IKEA products in smart configurations that solve real problems, with no cutting, no major modifications, and no need for a drill.
+
+**TL;DR:** The KALLAX is the most versatile piece at IKEA — use it as a room divider, entryway bench, TV console, or home office. The NORDLI storage bed replaces a dresser entirely. BILLY bookshelves taken to ceiling height give maximum vertical storage in a 28 cm footprint. LACK shelves on Command strips make floating nightstands that free floor space completely.
 
 ---
-
-IKEA is the default furniture store for Canadian apartment renters for good reason: it's designed for small spaces, available across Canada, and priced for people who might move in two years and need flat-pack furniture.
-
-But not everything at IKEA works in a small apartment. Some pieces are sized for larger homes. Some hacks you see online require tools or modifications most renters aren't going to do.
-
-These 15 ideas use IKEA products the way they're meant to be used — no cutting, no major modifications — just smart configurations for small Canadian apartments.
 
 ## 1. KALLAX as a Room Divider in a Studio
 
@@ -138,6 +130,8 @@ The JONAXEL system is designed to stand freely without wall attachment — ideal
 
 **Cost:** JONAXEL frame + hanging rod + shelf ~$150–$250 CAD depending on configuration.
 
+For a more specific look at budget-conscious organization, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) pairs well with this list — it covers what to buy first when you're starting from scratch.
+
 ---
 
 ## The Essential IKEA Small Apartment Shopping List
@@ -154,3 +148,7 @@ Starting from zero in a small Canadian apartment, this order makes the most sens
 | RASKOG cart | Mobile storage | ~$39 |
 
 Total for the essentials: **~$650–$1,050 CAD** — a complete small apartment storage system.
+
+These IKEA picks have been tested in real Canadian apartments and they hold up. Start with whatever solves your biggest problem — the NORDLI if storage is the issue, the KALLAX if you need a living room anchor, the BILLY if you're drowning in books. Get one piece working before adding the next.
+
+→ Want to go deeper on specific KALLAX configurations? [IKEA KALLAX hacks for small spaces](/blog/ikea-kallax-hacks-small-spaces/) covers 11 creative uses with exact setup instructions and CAD costs.

@@ -20,17 +20,11 @@ faqs:
     a: "Three things that signal quality without a large budget: a large area rug (sized correctly — front legs of the sofa on the rug), ceiling-height curtains, and proper lighting (floor lamp + table lamp, no harsh overhead). These three changes cost under $400 CAD combined and transform the look of any rental living room."
 ---
 
-## TL;DR
-- Start with layout and lighting before buying anything
-- Scale furniture correctly — sofa no longer than 70% of the wall it faces
-- Rug, lighting, and curtains are the three highest-impact changes
-- All renter-friendly — no permanent changes required
+A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor. My living room is about 15 sq m in a 510 sq ft Toronto apartment, and here's the step-by-step process that made it feel like a proper room.
+
+**TL;DR:** Get the sofa positioned first — facing the focal point, floated slightly from the wall. Size the rug correctly (160 x 230 cm minimum, front legs of sofa on it). Fix the lighting with warm 2700K bulbs plus a floor lamp. Curtains hung near the ceiling make the room feel taller without any drilling.
 
 ---
-
-A small living room is not just a decorating challenge — it's a layout puzzle. Most people skip the puzzle part and go straight to buying things. That's backwards. The sequence matters: layout first, then lighting, then furniture, then decor.
-
-My living room is about 15 sq m in a 510 sq ft Toronto apartment. Here's the step-by-step process I've used to make it feel like a proper room.
 
 ## Step 1: Clear Everything and Start Fresh
 
@@ -159,3 +153,7 @@ The goal is a room where everything has a purpose and nothing is just sitting th
 | Storage ottoman | High | $89–$150 |
 | Plants | Medium | $10–$30 each |
 | Throw cushions + blanket | Medium | $40–$100 |
+
+Follow the 10-step sequence above and the living room transforms without a renovation budget. Start with the free changes (layout, rearranging, decluttering) before spending anything. The rug is the first purchase that makes the biggest visual difference.
+
+→ For more inspiration on how to make a small living room feel larger, see [small space living room ideas](/blog/small-space-living-room-ideas/). And for deposit-safe ways to add personality, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers the no-drill toolkit every Canadian renter needs.

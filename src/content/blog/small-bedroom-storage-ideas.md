@@ -18,7 +18,11 @@ faqs:
     a: "Switch to velvet slim hangers first. Then add a second hanging rod for shorter items, an over-door organizer, shelf dividers for folded items, and a floor-level shoe rack or hanging shoe organizer. Use the top shelf for rarely used items in labeled bins."
 ---
 
-The bedroom is usually the most storage-starved room in a small Canadian apartment. Here's how to get every last centimetre working for you.
+The bedroom is usually the most storage-starved room in a small Canadian apartment. Here's how to get every last centimetre working for you — with IKEA, Amazon.ca, and HomeSense options at real CAD prices, all renter-friendly.
+
+**TL;DR:** Slim velvet hangers (Amazon.ca, ~$18 CAD for 50) add 30–40% more closet space immediately — it's the single highest-value purchase per dollar in this entire guide. Under-bed IKEA SKUBB bags (~$14 CAD) tap the most ignored storage space in most bedrooms. A second tension rod below the closet rod ($15 CAD) doubles hanging space for shirts and short items. A storage bed frame (IKEA BRIMNES, ~$399 CAD) can replace a dresser entirely.
+
+---
 
 ## 1. Switch to an Under-Bed Storage Bed Frame
 
@@ -115,3 +119,6 @@ If you're starting from scratch, tackle in this order:
 4. **Floating nightstand** — eliminate bedside table footprint
 5. **Vertical dresser** — store more in less floor space
 
+These 14 ideas cover every storage zone in a small bedroom — from the closet to the walls to the floor. Work through the priority order first, then layer in the bigger furniture changes as budget allows. For a more comprehensive bedroom storage system including closet overhauls, see [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/).
+
+→ For the budget-first approach covering the bedroom alongside every other room in the apartment, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/).

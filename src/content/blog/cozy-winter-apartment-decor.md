@@ -20,17 +20,11 @@ faqs:
     a: "Everything you need for cozy winter decor is freestanding or temporary — throw blankets, cushions, candles, plants, warm bulbs, a floor lamp, and seasonal items on shelves. None of these require installation or cause any wall damage. Remove them in spring and the apartment looks exactly as it did when you moved in."
 ---
 
-## TL;DR
-- Cozy winter decor is mostly about lighting and layering textiles
-- All renter-friendly — no installation required
-- CAD prices for Canadian stores
-- Works in any size of apartment, especially small ones
+Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
+
+**TL;DR:** Warm 2700K bulbs (swap every cool-white overhead, ~$15–$25 CAD) plus a floor lamp is the single most effective cozy upgrade. Layer textiles: add a chunky throw and heavier cushions to what you already have (HomeSense throws ~$30–$60 CAD). Add winter scent with soy candles (~$20–$35 CAD). A dedicated reading corner with a lamp and blanket turns the apartment into somewhere you actually want to be in February.
 
 ---
-
-Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing. Your apartment is where you spend most of that time. It should feel like a refuge — warm, soft, and genuinely welcoming.
-
-The good news: creating a cozy winter apartment doesn't require expensive renovations or a big decorating budget. Most of the changes are textiles, lighting, and scent. They're all renter-friendly and they all move with you when you leave.
 
 ## The Cozy Apartment Foundation: Lighting
 
@@ -140,3 +134,7 @@ Do these in order for the most efficient transformation:
 - [ ] Set up a reading corner with a lamp and blanket
 
 **Total cost for the full list:** ~$100–$180 CAD.
+
+Winter in a Canadian apartment is long — but a well-set-up space makes it genuinely enjoyable. The lighting and textile changes alone make a dramatic difference. For year-round decor ideas that complement the cozy winter setup, [apartment decor ideas](/blog/apartment-decor-ideas/) covers the full picture including lighting, textiles, and colour palette decisions.
+
+→ When spring arrives and it's time to reset, see [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) for seasonal transition ideas that work in any Canadian rental.

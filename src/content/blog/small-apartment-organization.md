@@ -20,19 +20,11 @@ faqs:
     a: "Use a rolling garment rack with a cover (~$65–$100 CAD total) for hanging clothes. Store folded items in a tall dresser. Use under-bed storage for seasonal items. Over-door organizers on the bedroom door handle shoes and accessories."
 ---
 
-## TL;DR
-- Complete room-by-room organization system for small Canadian apartments
-- Declutter before you organize — the step most people skip
-- All renter-friendly, no permanent changes required
-- Realistic approach: one room at a time, finish it completely before moving on
+Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back. I reorganized my 510 sq ft Toronto apartment three times. The first two times I just bought containers. The third time I understood: you have to declutter before you organize, not after.
+
+**TL;DR:** Declutter before buying a single bin — it's the step that makes everything else work. Slim velvet hangers (Amazon.ca, ~$18 CAD) free 30–40% more closet space immediately. Zone the kitchen by task (prep, cook, pantry, clean) and stop losing things at the back of cabinets. The 10-minute evening reset is the habit that keeps the whole system running.
 
 ---
-
-Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back.
-
-I have reorganized my 510 sq ft Toronto apartment three times. The first two times I just bought containers and rearranged things. Six months later it looked the same. The third time I understood: you have to declutter before you organize, not after.
-
-This guide gives you the full approach — room by room.
 
 ## Start Here: Declutter Before You Organize
 
@@ -140,7 +132,7 @@ Getting organized is one thing. Staying organized is the real challenge.
 
 ![A consistently maintained organized closet — the result of simple daily habits](/images/closet-wardrobe-open.jpg)
 
-For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places/) — it covers every room including the entryway and kitchen.
+For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places/) — it covers every room including the entryway and kitchen. And if the kitchen is your biggest challenge, [small space kitchen organization](/blog/small-space-kitchen-organization/) goes deep on pantry bins, drawer dividers, and pegboards.
 
 ## Best Organization Products in Canada
 
@@ -165,3 +157,7 @@ For room-specific storage ideas and product picks, see the full list of [storage
 5. **Living room system** — closed storage plus 10-minute reset habit
 
 One room at a time. Finish it completely before moving to the next.
+
+Organization in a small apartment is a system, not a one-time project. Get the declutter done, install the basics (hangers, bins, hooks), and build the three daily habits — one in one out, 10-minute reset, weekly zone check. Everything else is maintenance.
+
+→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) covers the most impactful changes for under $100 CAD total.

@@ -20,19 +20,11 @@ faqs:
     a: "Light colours as the base. Bright white, warm cream, or soft greige make walls recede and spaces feel larger. Dark accents work well as contrast in cushions, art, and small accessories — but keep the main surfaces light."
 ---
 
-## TL;DR
-- 14 principles that work across every room in a small apartment
-- Focus on light, scale, and vertical space
-- All renter-friendly — no painting, no drilling required
-- Principles first, products second — understanding why changes everything
+Most small space decorating advice is a product list. That's useful, but it skips the more important question: why does small space decorating work differently? Once you understand why light colours expand a space and why furniture with legs makes a room feel larger, you can apply those principles to every decision. Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment.
+
+**TL;DR:** Light colours, mirrors, and furniture with visible legs are the three principles that deliver the most visual space. Area rugs must be correctly sized — a too-small rug makes a room feel smaller, not larger. One cohesive 3-colour palette throughout makes the whole apartment read as one unified space. Clear surfaces are non-negotiable: clutter visually compresses every room.
 
 ---
-
-Most small space decorating advice is a product list. Buy this bin, hang this curtain, get this mirror. That is useful, but it skips the more important question: why does small space decorating work differently from regular decorating?
-
-Understanding the principles is more useful than the product list. Once you understand why light colours expand a space, you can apply that principle to every decision — not just the ones explicitly covered in an article.
-
-Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment.
 
 ## Rule 1: Light Colours Expand, Dark Colours Contract
 
@@ -170,3 +162,7 @@ Before any purchase or decor decision, ask:
 - Will you still want it in two years?
 
 If yes to all five, it belongs in your apartment.
+
+These 14 rules apply to every room in a Canadian rental — use them as a filter for every decor decision and the apartment stays coherent. For specific room-by-room ideas on how to apply these principles, [apartment decor ideas](/blog/apartment-decor-ideas/) covers the living room, bedroom, and entryway with exact Canadian product picks. And for renter-safe versions of every idea here, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) focuses on no-damage solutions throughout.
+
+→ For the living room specifically, [small space living room ideas](/blog/small-space-living-room-ideas/) applies these principles to layout, lighting, and furniture scale in a step-by-step format.

@@ -20,22 +20,11 @@ faqs:
     a: "Dollarama for basic bins, baskets, and hooks — excellent value for low-load items. Amazon.ca for specific products like slim hangers, over-door organizers, and drawer dividers. IKEA for larger system pieces. Canadian Tire for Command hooks and strips."
 ---
 
-## TL;DR
-- 15 organization ideas all under $100 CAD total (most much less)
-- Declutter first — that costs nothing and makes the biggest difference
-- Products from Dollarama, Amazon.ca, IKEA, and Canadian Tire
-- Start with one room, finish it before moving to the next
+You do not need a $500 Container Store haul to get your apartment organized. Most small-space organization problems can be solved for well under $100 CAD — if you declutter first, identify the 2–3 specific problems, then buy targeted solutions for those problems only. Here are 15 ideas, all under $100 CAD total, from a Toronto renter who has tested every one of them.
+
+**TL;DR:** Slim velvet hangers (Amazon.ca, ~$18 CAD for 50) are the single highest-impact, lowest-cost purchase for most apartments. Over-door organizers (~$25–$35 CAD) add storage without installation. IKEA SKUBB under-bed bags (~$14 for 2) are the best use of the space you're probably ignoring. Dollarama bins and baskets at $2–$4 each handle the rest.
 
 ---
-
-You do not need a $500 Container Store haul to get your apartment organized. Most small-space organization problems can be solved for well under $100 CAD — if you approach it correctly.
-
-The correct approach is:
-1. Declutter first
-2. Identify the 2–3 specific problems
-3. Buy targeted solutions for those problems only
-
-Here are 15 ideas, all under $100 CAD total. Most are under $35.
 
 ## 1. Slim Velvet Hangers (~$18 CAD)
 
@@ -148,4 +137,8 @@ Canadian winters mean storing heavy blankets, coats, and seasonal clothing for h
 
 This combination tackles the closet (hangers + tension rod), the entryway (Command hooks), the back of a door (over-door organizer), and the kitchen pantry (clear bins) for $99 CAD.
 
-Choose based on your biggest pain point. If the kitchen is the problem, swap the over-door organizer and tension rod for 6 clear bins and a set of drawer dividers instead.
+Choose based on your biggest pain point. If the kitchen is the problem, swap the over-door organizer and tension rod for 6 clear bins and a set of drawer dividers instead. For a more complete room-by-room approach to organization in the same budget range, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) covers each room systematically. And for IKEA-specific storage wins, [IKEA small space hacks](/blog/ikea-small-space-hacks/) shows which IKEA pieces actually deliver in a Canadian apartment.
+
+Under $100 CAD, completely renter-friendly, and you'll feel the difference the same day. The closet, the entryway, the kitchen pantry — pick the one causing you the most daily friction and start there.
+
+→ For the full room-by-room system, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) — it builds on these 15 ideas with a complete priority order.

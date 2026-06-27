@@ -20,17 +20,11 @@ faqs:
     a: "Yes — a storage bed frame like the IKEA NORDLI ($399–$699 CAD) has enough drawer space to replace a full dresser. In a small bedroom, removing the dresser entirely frees significant floor space and makes the room feel larger. It is one of the most impactful furniture purchases for a small apartment."
 ---
 
-## TL;DR
-- 13 bedroom storage ideas for small Canadian apartments
-- Start with under-bed and closet storage — highest impact, lowest cost
-- All renter-friendly — no drilling required for most ideas
-- Covers closets, under-bed space, walls, doors, and furniture
+The bedroom in a small Canadian apartment has to do double duty: sleep and storage. Most small bedrooms do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. Here is the complete approach to bedroom storage, in the order that makes the most difference.
+
+**TL;DR:** Start with under-bed storage (IKEA SKUBB bags, ~$14 CAD) and slim velvet hangers (~$18 CAD, Amazon.ca) — together these two changes can transform a small bedroom for under $35 CAD. Add a tension rod for double hanging ($15 CAD) and an over-door closet organizer ($28–$35 CAD). The IKEA NORDLI storage bed ($399–$699 CAD) replaces the dresser entirely and is the most impactful single furniture purchase for a small bedroom.
 
 ---
-
-The bedroom in a small apartment has to do double duty: sleep and storage. Most small bedrooms do the sleep part reasonably well and the storage part badly. The result is a room that always feels cluttered and slightly too small.
-
-Here is the complete approach to bedroom storage, in the order that makes the most difference.
 
 ## 1. Under-Bed Storage First
 
@@ -135,3 +129,7 @@ If you have open shelves in the bedroom (BILLY bookcase, floating shelves, wardr
 | **Total steps 1–5** | | **~$93–$108** |
 
 Complete the first five steps before considering larger purchases. These five changes alone typically double usable bedroom storage for under $110 CAD.
+
+Bedroom storage is a sequence problem: closet first (hangers, tension rod, over-door organizer), then under-bed space, then wall storage. Get the basics working before investing in furniture changes. For more bedroom storage ideas including wall and furniture options, see [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/).
+
+→ For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/).

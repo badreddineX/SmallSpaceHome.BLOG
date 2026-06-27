@@ -20,19 +20,11 @@ faqs:
     a: "Yes — Command strips hold art and light shelves with no wall damage. Peel-and-stick wallpaper removes cleanly. Freestanding and leaning furniture requires no installation. A well-decorated rental apartment can look completely transformed without a single hole in the wall."
 ---
 
-## TL;DR
-- Complete apartment transformation for under $200 CAD
-- Buy in this order: rug, lighting, textiles, art
-- All renter-friendly — no damage deposit risk
-- Exact products and prices for Canadian stores
+Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. Here's how to transform a rental apartment for under $200 CAD.
+
+**TL;DR:** Spend in this order — rug first ($59–$80 CAD), then warm lighting ($15–$25 CAD), then textiles (cushions + throw, $40–$60 CAD), then art and plants ($20–$40 CAD). This sequence builds on itself: the rug anchors the room, lighting sets the mood, textiles add warmth, art adds personality. Total under $200 CAD at IKEA, Canadian Tire, and Dollarama.
 
 ---
-
-Decorating an apartment on a tight budget in Canada is entirely possible. The mistake most people make is buying too many things at once. They spread $200 across 20 items and end up with 20 things that don't quite go together.
-
-A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar.
-
-Here's how to transform a rental apartment for under $200 CAD.
 
 ## The Priority Order
 
@@ -143,4 +135,8 @@ Before spending anything, do these changes that cost nothing:
 | Photo prints (10) + frames | $25–$35 | Costco + Dollarama |
 | **Total** | **$131–$161** | |
 
-Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there.
+Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. If you want to push further with specific ideas under $100, [budget apartment decor under $100](/blog/budget-apartment-decor-under-100/) shows 12 high-impact moves that look far more expensive than they cost. And for deposit-safe ways to go beyond the basics, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
+
+The apartment you want is achievable on a Canadian budget. Start with the free changes, then follow the priority order above. One purchase at a time beats a chaotic haul every time.
+
+→ Ready to take the next step beyond $200? See [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) for the full range of deposit-safe upgrades available to Canadian renters.

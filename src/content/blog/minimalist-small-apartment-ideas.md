@@ -20,19 +20,11 @@ faqs:
     a: "No — minimalism is actually cheaper than maximalist decorating because you buy fewer things. The work is in editing what you already have, not in buying more. The cost is the time and effort of decluttering, not a shopping budget."
 ---
 
-## TL;DR
-- Minimalism in a small apartment is about editing, not emptying
-- Start by decluttering one room, finish it before moving on
-- The goal is calm and functional, not stark and cold
-- All renter-friendly, no decorating budget required
+Minimalism in a small Canadian apartment is not a style choice — it's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in. Minimalism means having exactly what you need and genuinely love, and nothing else. Here's how to approach it without turning your home into an empty showroom.
+
+**TL;DR:** Start by decluttering one room completely — everything out, then only what serves a clear purpose or brings genuine pleasure goes back. Surface discipline is the daily habit that separates minimalist apartments from the rest: surfaces are either empty or deliberately styled, never used as landing zones. Multi-functional furniture (storage bed, storage ottoman, KALLAX) means you need fewer pieces total. Minimalism costs nothing — the work is editing, not buying.
 
 ---
-
-Minimalism is misunderstood. Most people think it means white walls and nothing in the rooms. It doesn't. Minimalism means having exactly what you need and genuinely love — and nothing else.
-
-In a small Canadian apartment, minimalism is not a style choice. It's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in.
-
-Here's how to approach it without turning your home into an empty showroom.
 
 ## What Minimalism Is Not
 
@@ -156,3 +148,7 @@ The cost of minimalism:
 - One or two intentional purchases to fill a gap left by removed clutter (targeted, not habitual)
 
 Net cost: usually zero or negative (savings from stopping impulse purchases).
+
+Minimalism in a small apartment is a practice, not a one-time project. The ongoing edit — once a season, walking through each room and asking "does this still earn its space?" — is what keeps the apartment calm and livable long-term. For more on the visual side of small-space design, [small space decorating](/blog/small-space-decorating/) covers the principles that underpin minimalist and non-minimalist approaches alike.
+
+→ For a practical guide to making any room look bigger using minimalist principles, see [how to make a small room look bigger](/blog/how-to-make-a-small-room-look-bigger/) — 13 tricks that cost almost nothing.

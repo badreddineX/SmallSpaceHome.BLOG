@@ -18,9 +18,11 @@ faqs:
     a: "Declutter first — clutter makes any space look cheap. Then: hang curtains high and wide, add one large rug, use soft white LED bulbs everywhere, and group items in odd numbers on shelves. These are designer habits that cost almost nothing."
 ---
 
-You don't need a renovation budget to make your apartment feel like a home. Some of the biggest visual improvements cost almost nothing.
+You don't need a renovation budget to make your Canadian apartment feel like a home. Some of the biggest visual improvements cost almost nothing — and every idea here is fully renter-friendly. Here are 12 ideas, all under $100 CAD total, most under $20 each.
 
-Here are 12 ideas — all under $100 CAD total, most under $20 each.
+**TL;DR:** Swap cool-white bulbs for warm 2700K LEDs ($15–$18 CAD) — this alone transforms how every room looks and feels. Print your own art at Costco Photo (~$3 per print), frame with IKEA RIBBA frames ($10 each), and get a gallery wall for under $40 CAD. A chunky throw from HomeSense (~$20–$35 CAD) changes the sofa instantly. Rearrange the furniture for free before spending anything.
+
+---
 
 ## 1. Print Your Own Art ($0–$15 CAD)
 
@@ -109,3 +111,6 @@ Here's how I'd spend exactly $100 CAD for the biggest visual impact in one room:
 
 Hang the art gallery-style, drape the throw, add the cushions, swap the bulbs. That's a room that looks like you spent a weekend and $800 on it. You didn't.
 
+The free changes matter as much as the purchases — rearrange the furniture, declutter every surface, and style the shelves before spending a dollar. For a bigger budget approach that builds on these ideas, [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/) covers the full transformation under $200 CAD. And if you want IKEA-specific picks to stretch your dollar further, [IKEA small space hacks](/blog/ikea-small-space-hacks/) shows the best IKEA buys for Canadian renters with exact CAD prices.
+
+→ Ready to take it further? [Apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/) has the full $200 CAD transformation plan with exact product recommendations for every room.

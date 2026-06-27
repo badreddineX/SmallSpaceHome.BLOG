@@ -20,19 +20,11 @@ faqs:
     a: "Spring is the ideal time to swap seasonal storage (winter clothes out, spring/summer clothes in), update any organization systems that stopped working, add new storage solutions identified during winter, and do a full pantry rotation (check expiry dates, reorganize by category)."
 ---
 
-## TL;DR
-- Complete room-by-room spring cleaning guide for Canadian apartments
-- Declutter before cleaning — remove what doesn't belong before washing what does
-- Use spring cleaning to update storage systems that stopped working over winter
-- Best order: bedroom → kitchen → living room → bathroom → entryway
+Spring in Canada means the apartment shows the full accumulation of a long winter — extra blankets that never made it back to storage, winter clothes piled with nowhere to go, a pantry full of comfort food. Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to. This guide takes you through every room in the right order.
+
+**TL;DR:** Declutter before cleaning — remove what doesn't belong before washing what does. The best order is bedroom, then kitchen, then living room, then bathroom, then entryway. Spring is the perfect time to do the winter-to-summer clothing swap (vacuum storage bags, ~$25–$30 CAD, Amazon.ca). Use this reset to install any storage systems that stopped working over winter.
 
 ---
-
-Spring arrives in Canada and the apartment often shows the accumulation of a long winter — extra blankets that didn't make it back to storage, winter clothes piled because there was nowhere better to put them, a pantry that expanded with comfort food and forgotten in the back.
-
-Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to.
-
-This guide takes you through every room in order.
 
 ## Before You Start: The Spring Cleaning Sequence
 
@@ -216,3 +208,7 @@ The entryway takes the most abuse in a Canadian winter — wet boots, heavy coat
 ---
 
 Done over a weekend — one room per half-day — this is a complete reset for the apartment.
+
+Spring cleaning works best when it becomes the annual moment to ask: what storage system isn't working? Add the pantry bins you've been meaning to install. Fix the closet with slim velvet hangers. The clean comes first, then the upgrade. For organization ideas to install during the spring reset, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) covers everything from the bedroom closet to the kitchen pantry for under $100 CAD.
+
+→ Once the kitchen is clean and organized, [small space kitchen organization](/blog/small-space-kitchen-organization/) gives you the full system for keeping it working through the rest of the year.

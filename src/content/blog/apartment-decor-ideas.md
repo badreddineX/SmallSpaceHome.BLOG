@@ -20,19 +20,11 @@ faqs:
     a: "Most leases allow small nail holes for art. For anything heavier, use Command strips — they hold up to 7.5 kg and peel off cleanly. Always check your lease before drilling. If you're unsure, ask your landlord in writing so you have a record of their answer."
 ---
 
-## TL;DR
-- 14 apartment decor ideas designed for Canadian renters
-- All renter-friendly — no permanent changes, no lost deposits
-- Mix of free changes and budget buys under $150 CAD
-- Works in Toronto, Vancouver, Montreal apartments of any size
+Decorating a rental apartment in Canada doesn't mean living with beige walls and zero personality. The no-damage rule is actually a creative constraint, not a dead end — and some of the best-looking apartments I've seen belong to renters who worked with the limitations instead of against them. I've decorated and redecorated my 510 sq ft Toronto apartment four times over three years. Here's what actually works.
+
+**TL;DR:** Pick a 3-colour palette before buying anything. Textiles (rug, cushions, throw) deliver the biggest visual impact for under $150 CAD. Warm 2700K bulbs transform the mood of every room for $15–$25 CAD. Command strips make gallery walls and floating shelves fully renter-friendly.
 
 ---
-
-Decorating a rental apartment comes with a unique set of rules. You can't paint the walls a deep green, you can't hang heavy shelves without permission, and whatever you do, you need to be able to undo it when you leave.
-
-But here's what most renters don't realize: the no-damage rule is actually a creative constraint, not a dead end. Some of the best-looking apartments I've seen belong to renters who worked with the limitations instead of against them.
-
-I've decorated and redecorated my 510 sq ft Toronto apartment four times over three years. Here's what I've learned.
 
 ## 1. Start With a Colour Story
 
@@ -203,6 +195,10 @@ Generic decor makes a space look like a showroom. Personal objects make it feel 
 ---
 
 If your budget is tight, start with the free and under-$50 moves in our guide to [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/) before buying anything. And if you want specifically renter-focused ideas, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) goes deeper on deposit-safe upgrades.
+
+A cohesive, decorated apartment takes time — but you don't have to do it all at once. Start with the colour palette (free), add textiles (under $150 CAD), then fix the lighting. Everything else builds from there. Once those three foundations are in place, even the smallest Toronto or Vancouver apartment feels intentional and genuinely livable.
+
+→ Ready to take it further on a tight budget? See [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/) for the highest-impact moves under $200 CAD.
 
 ## The Rental Apartment Decor Priority Order
 

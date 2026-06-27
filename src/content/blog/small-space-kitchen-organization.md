@@ -20,17 +20,11 @@ faqs:
     a: "Vertical storage is the answer. A pegboard on the wall or inside a deep cabinet holds pans flat. A pot lid organizer in a drawer keeps lids from rolling around. Stackable pot racks allow smaller pans to nest inside larger ones. If cabinet space is tight, a rolling cart acts as a pot storage solution you can keep in the kitchen or roll to a closet."
 ---
 
-## TL;DR
-- 14 kitchen organization ideas for small Canadian apartments
-- Zone the kitchen first — organization follows the workflow
-- All renter-friendly, no modifications required
-- Total cost under $100 CAD for the most impactful changes
+A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. I have a galley kitchen in my 510 sq ft Toronto apartment, and here's what has actually made the most difference over three years.
+
+**TL;DR:** Zone the kitchen by task before buying any organizer — things should live where they're used. Clear the counters completely (everything except the coffee maker and one plant). Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca) eliminate the "lost at the back of the shelf" problem. An IKEA SKADIS pegboard (~$15 CAD) frees up a full drawer's worth of counter space.
 
 ---
-
-A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every day.
-
-I have a galley kitchen in my 510 sq ft Toronto apartment. Here's what has made the most difference.
 
 ## Start With Zones
 
@@ -155,3 +149,7 @@ Most apartment kitchens have space between the top of the cabinets and the ceili
 | **Total** | **~$124–$156** | |
 
 This combination tackles pantry shelves, kitchen drawers, wall storage, cabinet doors, and extra surface area — the complete small kitchen organization overhaul for under $160 CAD.
+
+Zone first, buy second. A zoned kitchen where everything lives near where it's used is more functional than a perfectly organized one where tools are all in the wrong place. For the full apartment storage picture — including how the kitchen fits into a room-by-room system — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/).
+
+→ For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) — it covers the kitchen alongside every other room.

@@ -20,17 +20,11 @@ faqs:
     a: "A focused storage overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one problem area at a time — say, the bedroom closet first — keeps costs manageable and lets you see results quickly."
 ---
 
-## TL;DR
-- 23 storage ideas that work in any small Canadian apartment
-- All solutions renter-friendly — no drilling required
-- Budget options from $14 CAD, most under $50 CAD
-- Covers every room: bedroom, kitchen, living room, entryway
+Storage in a small Canadian apartment is always a negotiation. You're working with maybe 450–650 square feet, a landlord who expects you to leave the walls intact, and winters that demand you store two full wardrobes worth of seasonal gear. The answer isn't a bigger apartment — it's using what you have more deliberately. I've lived in a 510 sq ft Toronto apartment for three years, and these are the storage solutions I've actually tested and kept.
 
-Storage in a small Canadian apartment is always a negotiation. You're working with maybe 450–650 square feet, a landlord who expects you to leave the walls intact, and winters that demand you store two full wardrobes worth of seasonal gear.
+**TL;DR:** Go vertical first — walls above eye level are the most underused storage in any apartment. Under-bed space (IKEA SKUBB bags, ~$14 CAD) is the single highest-gain move. Slim velvet hangers free 30–40% more closet space for $18 CAD. Over-door organizers add storage on every door with zero drilling.
 
-The answer isn't a bigger apartment. It's using what you have more deliberately.
-
-I've lived in a 510 sq ft Toronto apartment for three years. These are the storage solutions I've actually tested — and kept.
+---
 
 ## 1. Treat Every Wall as Vertical Storage
 
@@ -189,7 +183,7 @@ Some Canadian apartments — especially older ones in Montreal and Toronto — h
 
 ---
 
-For a deeper look at storage solutions organized by room — including the kitchen, bathroom, and entryway — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/).
+For a deeper look at storage solutions organized by room — including the kitchen, bathroom, and entryway — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) covers the highest-impact moves for under $100 CAD.
 
 ## The Storage Priority Order for Canadian Renters
 
@@ -200,3 +194,7 @@ If you're starting from zero, tackle this order for maximum impact per dollar:
 3. **Over-door organizers** — storage without taking any room
 4. **Vertical shelves** — use the wall space above eye level
 5. **KALLAX or wardrobe** — anchor storage piece for the main room
+
+These 23 ideas work in any Canadian rental — and every single one is reversible. Start with under-bed and vertical wall storage, then layer in the furniture solutions as budget allows. A 510 sq ft apartment with smart storage genuinely feels bigger than a cluttered 700 sq ft one.
+
+→ For room-by-room storage solutions with exact product picks, check out [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/).

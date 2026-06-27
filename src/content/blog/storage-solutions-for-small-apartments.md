@@ -20,22 +20,11 @@ faqs:
     a: "Yes. Command Large Picture Hanging Strips hold shelves weighing up to 7.5 kg (light to medium items). Freestanding shelving units require no installation at all. Both options are fully reversible and won't affect your damage deposit."
 ---
 
-## TL;DR
-- 16 storage solutions designed for Canadian renters
-- All renter-friendly — no drilling required, no damage deposit risk
-- Prices in CAD, available at IKEA, Amazon.ca, and Canadian Tire
-- Covers bedroom, kitchen, living room, bathroom, and entryway
+Storage in a small Canadian apartment is not a products problem — it is a sequence problem. Most renters buy bins before they've decided what they're storing. Here's the sequence that works: decide what to keep (declutter), identify where it needs to live, then find the right solution for that location. Here are 16 solutions organized by room, all tested in real Canadian apartments.
+
+**TL;DR:** Under-bed IKEA SKUBB bags (~$14 CAD) are the highest-value first purchase. Slim velvet hangers ($18 CAD) free 30–40% more closet space immediately. Over-door organizers ($28–$35 CAD, Amazon.ca) work on every door without installation. The IKEA KALLAX (~$79–$159 CAD) solves living room storage, media console, and room divider all in one piece.
 
 ---
-
-Storage in a small Canadian apartment is not a products problem — it is a sequence problem. Most renters buy bins and baskets before they've decided what they're storing. The bins sit empty for a week, then get filled with whatever is on the nearest surface, and three months later nothing is any better organized.
-
-The sequence that works:
-1. Decide what to keep (declutter)
-2. Identify where it needs to live
-3. Find the right storage solution for that location
-
-Here are 16 solutions, organized by location.
 
 ## Bedroom Storage Solutions
 
@@ -156,3 +145,7 @@ Tackle in this order for maximum impact per dollar:
 | 5th | Tension rod for closet | ~$15 |
 | 6th | KALLAX unit | ~$79 |
 | Total for priorities 1–5 | | ~$105–$130 |
+
+These 16 solutions cover every room in a Canadian rental and all of them are fully reversible — no drilling, no damage deposit risk. Tackle the bedroom closet and under-bed space first, then move outward to the kitchen and living room.
+
+→ For more storage ideas including 23 options across every room, see [storage ideas for small places](/blog/storage-ideas-for-small-places/). And for bedroom-specific storage in depth, [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/) covers every available inch with exact CAD prices.

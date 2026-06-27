@@ -20,17 +20,11 @@ faqs:
     a: "When a sofa, bed, or chair sits on visible legs rather than resting directly on the floor, the eye can see the floor beneath it. This unbroken floor line makes the room read as larger. A solid platform bed or sofa-to-floor style interrupts the floor plane and makes the room feel more closed."
 ---
 
-## TL;DR
-- 13 visual tricks that work in any room of a small Canadian apartment
-- Focus on light, vertical lines, and unbroken floor space
-- No renovation, no painting, all renter-friendly
-- Most changes cost under $100 CAD; several are completely free
+Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment.
+
+**TL;DR:** Decluttering surfaces is the fastest, free change that works immediately. A large mirror opposite a window doubles natural light and creates visual depth. Furniture with visible legs keeps the floor line unbroken — the room looks larger. Ceiling-height curtains add the impression of height for under $90 CAD total.
 
 ---
-
-Making a small room look bigger is mostly visual psychology. The eye is easily tricked — by light, by colour, by lines, by scale. Once you understand the tricks, you can apply them to any room in your apartment.
-
-None of these require a renovation. Most don't even require a significant purchase. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment.
 
 ## 1. Use Light Colours as the Primary Palette
 
@@ -152,3 +146,7 @@ Things you can do today for free or nearly free:
 - [ ] Remove anything from the floor that doesn't need to be there
 
 Five changes. No purchases. The room looks larger by tonight.
+
+These 13 tricks work in any room — living room, bedroom, or studio. Apply the free changes first, then invest in the ones that will make the most difference for your specific space. In most Canadian apartments, the mirror and lighting changes deliver the highest impact per dollar.
+
+→ To apply these tricks specifically to your living room, see [small space living room ideas](/blog/small-space-living-room-ideas/). For a minimalist approach that combines most of these principles into one design philosophy, [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas/) is the natural next read.

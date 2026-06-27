@@ -20,19 +20,11 @@ faqs:
     a: "Yes — IKEA's range is specifically designed with smaller spaces in mind. The KALLAX, PAX, BILLY, and NORDLI are all well-suited to apartments. Quality is acceptable for renters who may move every 2–3 years. Assemble carefully, use furniture anchors where required, and the pieces last well."
 ---
 
-## TL;DR
-- Multi-functional furniture is the rule in small spaces
-- Every piece should do at least two things
-- CAD prices included for IKEA, Wayfair Canada, and Amazon.ca
-- What to avoid: large sectionals, king beds in small rooms, single-use pieces
+Furnishing a small Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture makes the space genuinely harder to live in. The right furniture creates the feeling of more space while quietly solving storage and function problems at the same time. I've furnished and refurnished my 510 sq ft Toronto apartment three times — here's what actually works.
+
+**TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI storage bed replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 
 ---
-
-Furnishing a small Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture doesn't just look bad — it makes the space genuinely harder to live in.
-
-The right furniture does the opposite: it creates the feeling of more space while quietly solving your storage and function problems at the same time.
-
-I've furnished and refurnished my 510 sq ft Toronto apartment three times. Here's what I've learned about what works and what wastes money.
 
 ## The Multi-Function Rule
 
@@ -134,6 +126,8 @@ When furnishing a small apartment from scratch:
 5. **Desk** — if working from home
 6. **Dining** — often the last priority; kitchen counter + stools works in very small apartments
 
+For how to make the living room side of this work, see [small space living room ideas](/blog/small-space-living-room-ideas/) — sofa sizing, rug placement, and layout tips for compact Canadian living rooms. And if you want a minimalist approach to furniture choices, [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas/) covers the "fewer, better pieces" philosophy in detail.
+
 ## What to Avoid
 
 - **King or California King beds** — take up too much of a small bedroom
@@ -154,3 +148,7 @@ When furnishing a small apartment from scratch:
 | Facebook Marketplace / Kijiji | Secondhand quality pieces | $ |
 | HomeSense | Decor and soft furnishings | $$–$$$ |
 | Structube | Mid-range, apartment-sized | $$–$$$ |
+
+Buy the multi-function pieces first, then fill in secondary items. When in doubt, buy the smaller size — a slightly small piece makes a room feel open, a slightly large one makes it feel cramped.
+
+→ For inspiration on how to style the furniture you choose, [small space living room ideas](/blog/small-space-living-room-ideas/) shows how layout and decor choices work together.
