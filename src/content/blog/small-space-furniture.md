@@ -20,7 +20,7 @@ faqs:
     a: "Yes — the KALLAX, PAX, BILLY, and NORDLI are all well-suited to Canadian apartments and designed with compact living in mind. Quality holds up for the 2–3 year rental cycle most Canadians deal with. Assemble carefully, use the included wall anchors, and they last well."
 ---
 
-Furnishing a small Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture makes the space genuinely harder to live in. The right furniture creates the feeling of more space while quietly solving storage and function problems at the same time. I've furnished and refurnished my 510 sq ft Toronto apartment three times — here's what actually works.
+Furnishing a small Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture makes the space genuinely harder to live in. The right furniture creates the feeling of more space while quietly solving storage and function problems at the same time. I've furnished and refurnished my 510 sq ft Toronto apartment three times — here's what actually works. For current prices, always check [IKEA Canada](https://www.ikea.com/ca/en/) and [Wayfair Canada](https://www.wayfair.ca) directly, as pricing changes seasonally.
 
 **TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI storage bed replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 
@@ -83,13 +83,13 @@ The complete closet system. A 100 cm wide, 201 cm tall PAX stores more than most
 
 ### Coffee Tables and Side Tables
 
-**Storage ottoman with tray** — ~$89–$150 CAD (Wayfair Canada)
+**Storage ottoman with tray** — ~$89–$150 CAD ([Wayfair Canada](https://www.wayfair.ca))
 The best coffee table option in a small apartment. Stores extra blankets, games, or anything you don't need daily. The tray gives a hard surface for drinks and remotes.
 
 **IKEA LACK side table** — ~$19 CAD
 The most-purchased IKEA item for good reason. Clean, simple, and works as a nightstand, side table, or coffee table in a small space.
 
-**Nesting tables** — ~$70–$120 CAD (IKEA or Amazon.ca)
+**Nesting tables** — ~$70–$120 CAD ([IKEA](https://www.ikea.com/ca/en/) or [Amazon.ca](https://www.amazon.ca))
 Two or three tables that stack together when not in use. Pull one out for extra surface, tuck them away when done.
 
 ### Desks

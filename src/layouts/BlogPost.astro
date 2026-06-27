@@ -64,6 +64,7 @@ const catClass: Record<string, string> = {
       dateModified={dateModified}
       authorName={author}
       type="article"
+      faqs={faqs}
     />
   </head>
   <body>
@@ -162,7 +163,7 @@ const catClass: Record<string, string> = {
               </div>
               <div class="author-info">
                 <p class="author-name">{author}</p>
-                <p class="author-desc">Apartment renter in Toronto, obsessed with making small spaces feel bigger. Honest, budget-friendly ideas that actually work in Canadian apartments.</p>
+                <p class="author-desc">Renting a 510 sq ft apartment in Toronto for over three years. Every tip on this site has been tested in a real Canadian rental — no drilling, no staged perfection, no sponsored fluff. <a href="/about" class="author-bio-link">Read the full story →</a></p>
               </div>
             </div>
 
@@ -633,6 +634,13 @@ const catClass: Record<string, string> = {
   line-height: 1.7;
   margin: 0;
 }
+.author-bio-link {
+  color: var(--color-accent-dark);
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.author-bio-link:hover { text-decoration: underline; }
 
 /* Tags */
 .post-tags {

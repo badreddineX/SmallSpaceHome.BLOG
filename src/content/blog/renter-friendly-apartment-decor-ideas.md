@@ -28,7 +28,7 @@ Moving into a Canadian rental doesn't mean living with beige walls and zero pers
 
 ## The Renter's Golden Rule
 
-Before anything else: read your lease. Most Canadian rental leases prohibit permanent modifications but are silent on removable solutions. When in doubt, email your landlord to ask. Get the response in writing.
+Before anything else: read your lease. Most Canadian rental leases prohibit permanent modifications but are silent on removable solutions. The [Canada Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca) outlines tenant rights and responsibilities by province — worth knowing before you start any decorating project. When in doubt, email your landlord to ask. Get the response in writing.
 
 With that said — here's what works.
 
@@ -37,9 +37,9 @@ With that said — here's what works.
 One peel-and-stick accent wall transforms a room more dramatically than any other single change. Choose a pattern — a subtle linen texture, a botanical print, a classic stripe — and apply it to the wall behind your bed, sofa, or dining table.
 
 **Best brands shipping to Canada:**
-- Chasing Paper (wide pattern selection)
-- Tempaper (premium, very clean removal)
-- Amazon.ca has affordable options under $30/roll
+- [Chasing Paper](https://www.chasingpaper.com) (wide pattern selection)
+- [Tempaper](https://www.tempaper.com) (premium, very clean removal)
+- [Amazon.ca](https://www.amazon.ca) has affordable options under $30/roll
 
 **Application tip:** Prep the wall with a damp cloth, let it dry completely, and apply in vertical strips from top to bottom. Use a credit card to smooth out bubbles.
 
@@ -70,9 +70,9 @@ Look for peel-and-stick subway tile or hexagon tile panels on Amazon.ca (~$30–
 In an open-plan or studio apartment, a large area rug (at least 5×8 ft) defines the living area and grounds the furniture arrangement. It also adds warmth and absorbs sound — which matters a lot in apartment buildings.
 
 **Where to shop in Canada:**
-- Wayfair Canada (wide selection, frequent sales)
-- HomeSense (check regularly — stock changes)
-- IKEA Canada (Adum, Stoense — reliable quality)
+- [Wayfair Canada](https://www.wayfair.ca) (wide selection, frequent sales)
+- [HomeSense](https://www.homesense.ca) (check regularly — stock changes)
+- [IKEA Canada](https://www.ikea.com/ca/en/) (Adum, Stoense — reliable quality)
 
 ## 5. Floor Lamps and Table Lamps Over Overhead Lighting
 

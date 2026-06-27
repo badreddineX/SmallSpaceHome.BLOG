@@ -20,7 +20,7 @@ faqs:
     a: "Yes. Command Large Picture Hanging Strips hold up to 7.5 kg per pair and peel off cleanly. Freestanding shelving units need no installation at all. Both options are fully reversible and won't cost you a cent of your damage deposit when you move out."
 ---
 
-Storage in a small Canadian apartment is not a products problem — it is a sequence problem. Most renters buy bins before they've decided what they're storing. Here's the sequence that works: decide what to keep (declutter), identify where it needs to live, then find the right solution for that location. Here are 16 solutions organized by room, all tested in real Canadian apartments.
+Storage in a small Canadian apartment is not a products problem — it is a sequence problem. Most renters buy bins before they've decided what they're storing. Here's the sequence that works: decide what to keep (declutter), identify where it needs to live, then find the right solution for that location. [CMHC research](https://www.cmhc-schl.gc.ca) confirms that Canadian renters cite storage as the top pain point in apartment living — and most of the fixes cost under $50 CAD. Here are 16 solutions organized by room, all tested in real Canadian apartments.
 
 **TL;DR:** Under-bed IKEA SKUBB bags (~$14 CAD) are the highest-value first purchase. Slim velvet hangers ($18 CAD) free 30–40% more closet space immediately. Over-door organizers ($28–$35 CAD, Amazon.ca) work on every door without installation. The IKEA KALLAX (~$79–$159 CAD) solves living room storage, media console, and room divider all in one piece.
 
@@ -30,9 +30,9 @@ Storage in a small Canadian apartment is not a products problem — it is a sequ
 
 ### 1. Under-Bed Storage With Flat Bins or SKUBB Bags
 
-The area under the bed is the most underused storage space in most small apartments. IKEA SKUBB under-bed bags ($14 CAD for 2) are flat, zip closed, and store off-season clothing and extra bedding with zero visual footprint.
+The area under the bed is the most underused storage space in most small apartments. [IKEA SKUBB](https://www.ikea.com/ca/en/) under-bed bags ($14 CAD for 2) are flat, zip closed, and store off-season clothing and extra bedding with zero visual footprint.
 
-If your bed sits too low, bed risers add 15 cm of clearance for ~$25 CAD at Amazon.ca.
+If your bed sits too low, bed risers add 15 cm of clearance for ~$25 CAD at [Amazon.ca](https://www.amazon.ca).
 
 ### 2. A Storage Bed Frame
 
@@ -44,7 +44,7 @@ The back of a bedroom closet door is storage you're ignoring. A 24-pocket over-d
 
 ### 4. Tension Rod for Double Hanging
 
-A second tension rod below the main closet rod creates a full extra tier of hanging space for shirts and short items. $15 CAD, requires no installation.
+A second tension rod below the main closet rod creates a full extra tier of hanging space for shirts and short items. $15 CAD at [Amazon.ca](https://www.amazon.ca), requires no installation.
 
 ### 5. Slim Velvet Hangers
 

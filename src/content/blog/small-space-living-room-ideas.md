@@ -34,8 +34,8 @@ The sofa is the most common mistake in small living rooms. People buy for comfor
 For a room under 250 sq ft, stick to a two-seater or a slim three-seater that's **no longer than 200 cm**. Avoid sectionals entirely unless you have a dedicated corner layout with no other furniture.
 
 **What works in Canadian apartments:**
-- IKEA VIMLE (modular, starts at ~$699 CAD)
-- IKEA ÄPPLARYD slim two-seater (~$599 CAD)
+- [IKEA VIMLE](https://www.ikea.com/ca/en/) (modular, starts at ~$699 CAD)
+- [IKEA ÄPPLARYD](https://www.ikea.com/ca/en/) slim two-seater (~$599 CAD)
 - Article Sven sofa — higher price but excellent for small layouts
 
 **Pro tip:** Measure your doorway before ordering. Many Canadian apartment buildings have narrow hallways and tight elevator dimensions. A sofa that won't fit through the door is a $700 mistake.
@@ -56,13 +56,13 @@ A TV stand or entertainment unit consumes 60–90 cm of floor depth — floor sp
 
 Use a fixed or tilt wall mount (no full-motion arm needed in a small room). For renters: TV mounts require a wall anchor, but most Canadian landlords allow this since it leaves a very small hole that's easily patched on move-out.
 
-**Cost:** Amazon.ca TV wall mount, ~$25–$45 CAD.
+**Cost:** [Amazon.ca](https://www.amazon.ca) TV wall mount, ~$25–$45 CAD.
 
 ## 4. Go Vertical for All Storage
 
 In a small living room, your walls are more valuable real estate than your floor. Wall shelves, floating media units, and tall bookshelves pull the eye upward and leave the floor clear — which is what makes a room feel spacious.
 
-A floor-to-ceiling KALLAX or BILLY bookcase along one wall gives you massive storage without narrowing the walkable area.
+A floor-to-ceiling [KALLAX](https://www.ikea.com/ca/en/) or BILLY bookcase along one wall gives you massive storage without narrowing the walkable area. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian renter moves every 3–4 years — so every furniture decision should be both functional and easy to reassemble.
 
 → We go deep on this in our guide to [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget) — covers every room including the living area.
 

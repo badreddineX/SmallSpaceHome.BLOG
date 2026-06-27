@@ -20,7 +20,7 @@ faqs:
     a: "When a sofa, bed, or chair sits on visible legs, the eye sees the unbroken floor beneath — and that continuous floor line makes the room read as larger. A solid platform bed or sofa that rests directly on the floor interrupts that line and makes the space feel more closed and compressed."
 ---
 
-Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment.
+Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian apartment renter lives in units under 700 sq ft — so these tricks apply to most of us. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment.
 
 **TL;DR:** Decluttering surfaces is the fastest, free change that works immediately. A large mirror opposite a window doubles natural light and creates visual depth. Furniture with visible legs keeps the floor line unbroken — the room looks larger. Ceiling-height curtains add the impression of height for under $90 CAD total.
 
@@ -43,7 +43,7 @@ A mirror that faces a window reflects the outdoor light back into the room, effe
 - On the wall beside a window
 - At the end of a narrow hallway
 
-A leaning full-length mirror requires no installation. IKEA HOVET ~$279 CAD, or Amazon.ca options from ~$89 CAD.
+A leaning full-length mirror requires no installation. [IKEA HOVET](https://www.ikea.com/ca/en/) ~$279 CAD, or [Amazon.ca](https://www.amazon.ca) options from ~$89 CAD.
 
 ![A leaning full-length mirror opposite a window doubles the light and adds visual depth to a small room](/images/blog-14-img2.jpg)
 
@@ -60,7 +60,7 @@ This is one of the most effective tricks for making a small apartment feel large
 Furniture that sits on visible legs keeps the floor line unbroken — the eye reads this as more floor space and more room. Furniture that sits flat on the floor (platform beds, low sectionals, solid storage cubes) interrupts the floor plane and makes the room feel more compressed.
 
 Look for:
-- Beds with a visible frame and legs
+- Beds with a visible frame and legs (the [IKEA NORDLI](https://www.ikea.com/ca/en/) is a good example)
 - Sofas with legs, not to-the-floor fabric
 - Coffee tables and side tables on legs rather than solid bases
 

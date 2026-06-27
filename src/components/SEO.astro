@@ -8,17 +8,19 @@ interface Props {
   dateModified?: string;
   authorName?: string;
   type?: 'website' | 'article';
+  faqs?: { q: string; a: string }[];
 }
 
 const {
   title,
   description,
   slug,
-  image = '/images/hero-living-room.jpg',
+  image = '/images/about-hero-apartment.jpg',
   datePublished,
   dateModified,
   authorName = 'Badreddine Br',
   type = 'website',
+  faqs = [],
 } = Astro.props;
 
 const siteUrl   = 'https://smallspacehome.ca';
@@ -33,7 +35,7 @@ const modOrPub     = dateModified || datePublished || '';
 
 const articleJsonLd = isArticle ? JSON.stringify({
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "headline": title,
   "description": description,
   "image": fullImage,
@@ -49,13 +51,26 @@ const articleJsonLd = isArticle ? JSON.stringify({
     "name": "SmallSpace Home",
     "logo": {
       "@type": "ImageObject",
-      "url": `${siteUrl}/images/logo.png`
+      "url": `${siteUrl}/favicon.svg`
     }
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": fullUrl
   }
+}) : null;
+
+const faqJsonLd = faqs.length > 0 ? JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": f.a.replace(/<[^>]+>/g, '')
+    }
+  }))
 }) : null;
 ---
 
@@ -87,6 +102,9 @@ const articleJsonLd = isArticle ? JSON.stringify({
 
 <!-- Article JSON-LD -->
 {isArticle && articleJsonLd && <script type="application/ld+json" set:html={articleJsonLd} />}
+
+<!-- FAQ JSON-LD -->
+{faqJsonLd && <script type="application/ld+json" set:html={faqJsonLd} />}
 
 <!-- Pinterest domain verification — add your code from Pinterest Business settings -->
 <!-- <meta name="p:domain_verify" content="YOUR_CODE_HERE" /> -->
