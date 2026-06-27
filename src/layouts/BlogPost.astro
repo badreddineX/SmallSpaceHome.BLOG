@@ -629,49 +629,57 @@ const catClass: Record<string, string> = {
   gap: 36px;
 }
 
-/* TOC */
+/* ── TOC — exact port of contents-widget.html ── */
 .sidebar-toc {
+  --toc-header-bg: #2b2620;
+  --toc-gold:      #b08a3e;
+  --toc-row-bg:    #faf8f4;
+  --toc-border:    #e7e2d8;
+  --toc-title-cl:  #1f1c17;
+  --toc-sub-cl:    #8a8579;
+  --toc-badge-bg:  #2b2620;
+
   border-radius: 18px;
   overflow: hidden;
-  background: #faf8f4;
   box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+  background: var(--toc-row-bg);
 }
 .toc-header {
+  background: var(--toc-header-bg);
+  color: var(--toc-gold);
+  padding: 22px 24px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #2b2620;
-  padding: 22px 24px;
   cursor: pointer;
   user-select: none;
 }
 .toc-title {
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.9375rem;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 15px;
   font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #b08a3e;
-  margin: 0;
+  color: var(--toc-gold);
 }
 .toc-toggle {
   all: unset;
-  color: #b08a3e;
-  font-size: 0.875rem;
+  color: var(--toc-gold);
+  font-size: 14px;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 24px;
-  height: 24px;
+  width: 22px;
+  height: 22px;
   transition: transform 0.25s ease;
   -webkit-tap-highlight-color: transparent;
 }
 .toc-toggle.is-collapsed { transform: rotate(180deg); }
 .toc-body {
-  background: #faf8f4;
-  overflow: hidden;
   max-height: 2000px;
+  overflow: hidden;
   transition: max-height 0.35s ease;
 }
 .toc-body.is-collapsed { max-height: 0; }
@@ -684,44 +692,42 @@ const catClass: Record<string, string> = {
   display: flex;
   align-items: center;
   gap: 16px;
+  padding: 18px 24px;
+  border-bottom: 1px solid var(--toc-border);
   text-decoration: none;
   color: inherit;
-  padding: 18px 24px;
-  border-bottom: 1px solid #e7e2d8;
-  background: #faf8f4;
+  background: var(--toc-row-bg);
   transition: background 0.15s ease;
 }
-/* Dark badge with gold number */
-.toc-num {
+.sidebar-toc-list li:last-child a { border-bottom: none; }
+.sidebar-toc-list li a:hover { background: #f4f0e8; }
+/* Badge */
+.toc-badge {
   flex: 0 0 auto;
   width: 38px;
   height: 38px;
   border-radius: 50%;
-  background: #2b2620;
-  color: #b08a3e;
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.875rem;
+  background: var(--toc-badge-bg);
+  color: var(--toc-gold);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 14px;
   font-weight: 700;
   display: flex;
   align-items: center;
   justify-content: center;
-  line-height: 1;
   transition: background 0.2s ease, transform 0.25s ease;
 }
-/* Text block */
-.toc-text-block {
+/* Text */
+.toc-text {
   flex: 1 1 auto;
   min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
 }
-.toc-item-text {
-  margin: 0;
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 1.0625rem;
+.toc-text h3 {
+  margin: 0 0 4px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 17px;
   font-weight: 700;
-  color: #1f1c17;
+  color: var(--toc-title-cl);
   line-height: 1.25;
   overflow: hidden;
   display: -webkit-box;
@@ -729,18 +735,18 @@ const catClass: Record<string, string> = {
   -webkit-box-orient: vertical;
   transition: font-size 0.25s ease;
 }
-.toc-item-sub {
+.toc-text p {
   margin: 0;
-  font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.8125rem;
-  color: #8a8579;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  color: var(--toc-sub-cl);
   line-height: 1.3;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
-/* Square thumbnail */
-.toc-row-img {
+/* Thumbnail */
+.toc-thumb {
   flex: 0 0 auto;
   width: 56px;
   height: 56px;
@@ -749,15 +755,19 @@ const catClass: Record<string, string> = {
   background: #e7e2d8;
   display: block;
 }
-.sidebar-toc-list li:last-child a { border-bottom: none; }
-.sidebar-toc-list li a:hover { background: #f4f0e8; }
-.sidebar-toc-list li a.toc-active { background: #f0ece1; }
-.sidebar-toc-list li a.toc-active .toc-num {
-  background: #1a1610;
+/* Active state */
+.sidebar-toc-list li a.toc-active { background: #ede9df; }
+.sidebar-toc-list li a.toc-active .toc-badge {
+  background: #1a1510;
   transform: scale(1.1);
 }
-.sidebar-toc-list li a.toc-active .toc-item-text { font-size: 1.125rem; }
-.sidebar-toc-list li a.toc-active .toc-item-sub { color: #6a6660; }
+.sidebar-toc-list li a.toc-active .toc-text h3 { font-size: 18px; }
+.sidebar-toc-list li a.toc-active .toc-text p  { color: #6a6660; }
+@media (max-width: 480px) {
+  .toc-thumb { width: 44px; height: 44px; }
+  .toc-badge { width: 32px; height: 32px; font-size: 12px; }
+  .toc-text h3 { font-size: 15px; }
+}
 
 /* Sidebar CTA */
 .sidebar-cta {
@@ -946,48 +956,46 @@ if (tocHeadings.length < 2) {
   tocHeadings.forEach((h, i) => {
     if (!h.id) h.id = `section-${i}`;
 
-    const li        = document.createElement('li');
-    const a         = document.createElement('a');
-    const numDiv    = document.createElement('div');
-    const textBlock = document.createElement('div');
-    const titleEl   = document.createElement('div');
-    const subEl     = document.createElement('div');
+    const li      = document.createElement('li');
+    const a       = document.createElement('a');
 
-    // Gold circle badge
-    numDiv.className = 'toc-num';
-    numDiv.textContent = String(i + 1).padStart(2, '0');
+    // Badge (dark circle, gold number)
+    const badge   = document.createElement('div');
+    badge.className = 'toc-badge';
+    badge.textContent = String(i + 1).padStart(2, '0');
 
-    // Title
-    titleEl.className = 'toc-item-text';
+    // Text block
+    const textDiv = document.createElement('div');
+    textDiv.className = 'toc-text';
+
+    const titleH3 = document.createElement('h3');
     const raw = (h.textContent ?? '').replace(/^\d+\.\s*/, '').trim();
-    titleEl.textContent = raw;
+    titleH3.textContent = raw;
 
-    // Subtitle — first sentence of next <p>
-    subEl.className = 'toc-item-sub';
+    const subP = document.createElement('p');
     const nextP = h.nextElementSibling;
     if (nextP?.tagName === 'P') {
       const pText = (nextP.textContent ?? '').trim();
       const sent  = pText.split(/(?<=[.!?])\s/)[0] ?? '';
-      subEl.textContent = sent.length > 68 ? sent.slice(0, 68) + '…' : sent;
+      subP.textContent = sent.length > 72 ? sent.slice(0, 72) + '…' : sent;
     }
 
-    textBlock.className = 'toc-text-block';
-    textBlock.appendChild(titleEl);
-    if (subEl.textContent) textBlock.appendChild(subEl);
+    textDiv.appendChild(titleH3);
+    if (subP.textContent) textDiv.appendChild(subP);
 
     a.href = `#${h.id}`;
-    a.appendChild(numDiv);
-    a.appendChild(textBlock);
+    a.appendChild(badge);
+    a.appendChild(textDiv);
 
-    // Section image (if found)
+    // Thumbnail — first image in section
     const imgSrc = findSectionImg(h);
     if (imgSrc) {
-      const imgEl = document.createElement('img');
-      imgEl.className = 'toc-row-img';
-      imgEl.src = imgSrc;
-      imgEl.alt = '';
-      imgEl.loading = 'lazy';
-      a.appendChild(imgEl);
+      const thumb = document.createElement('img');
+      thumb.className = 'toc-thumb';
+      thumb.src = imgSrc;
+      thumb.alt = '';
+      thumb.loading = 'lazy';
+      a.appendChild(thumb);
     }
 
     li.appendChild(a);
