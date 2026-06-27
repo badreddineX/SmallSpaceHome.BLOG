@@ -70,63 +70,80 @@ const pillars = [
         </div>
       </section>
 
-      <!-- ② WHO WE ARE -->
+      <!-- ② OUR STORY — numbered + split -->
       <section class="about-intro">
-
-        <!-- Left: image -->
         <div class="about-intro-img-wrap">
-          <img
-            src="/images/about-strip-shelf.jpg"
-            alt="Organized small apartment shelf"
-            class="about-intro-img"
-            loading="lazy"
-            width="900"
-            height="1100"
-          />
+          <img src="/images/about-strip-shelf.jpg" alt="Organized small apartment shelf" class="about-intro-img" loading="lazy" width="900" height="1100" />
         </div>
-
-        <!-- Right: content -->
         <div class="about-intro-body">
-          <div class="author-photo-wrap">
-            <div class="author-avatar-circle">
-              <span class="author-initials">BB</span>
-            </div>
-            <span class="author-photo-name">Badreddine Br</span>
+          <div class="section-num-header">
+            <span class="section-num">01</span>
+            <div class="section-num-line"></div>
           </div>
-          <span class="section-eyebrow">Our Story</span>
-          <h2 class="about-intro-heading">About SmallSpace Home</h2>
-          <p>
-            When I moved into my first Toronto apartment, I had a lot of stuff and almost no space. I spent months falling for Pinterest boards full of gorgeous minimalist homes that required either a renovation budget I didn't have or walls I wasn't allowed to touch.
-          </p>
-          <p>
-            I started testing real solutions — things you can actually buy at IKEA Canada or Amazon.ca, things that mount with Command strips, things that fold and stack and do double-duty. Some of them worked brilliantly. A lot of them didn't. This blog is the honest record of both.
-          </p>
-          <p>
-            If you're renting in Toronto, Vancouver, Montreal, or anywhere in Canada where apartments are expensive and small, this site is for you. No drilling required, no ridiculous budgets, no staged perfection.
-          </p>
+          <h2 class="about-intro-heading">Our Story</h2>
+          <p>When I moved into my first Toronto apartment, I had a lot of stuff and almost no space. I spent months falling for Pinterest boards full of gorgeous minimalist homes that required either a renovation budget I didn't have or walls I wasn't allowed to touch.</p>
+          <p>I started testing real solutions — things you can actually buy at IKEA Canada or Amazon.ca, things that mount with Command strips, things that fold and stack and do double-duty. Some of them worked brilliantly. A lot of them didn't. This blog is the honest record of both.</p>
+          <p>If you're renting in Toronto, Vancouver, Montreal, or anywhere in Canada where apartments are expensive and small, this site is for you. No drilling required, no ridiculous budgets, no staged perfection.</p>
           <p class="intro-sig">— Badreddine Br, 510 sq ft · Toronto</p>
         </div>
-
       </section>
 
-      <!-- ④ WHAT YOU'LL FIND — numbered editorial grid -->
-      <section class="pillars-section">
+      <!-- ③ WHAT WE COVER — numbered category image grid -->
+      <section class="categories-section">
         <div class="container">
-          <div class="pillars-header">
-            <span class="section-eyebrow">What You'll Find Here</span>
-            <h2 class="pillars-title">Everything a Canadian renter needs</h2>
+          <div class="section-num-header">
+            <span class="section-num">02</span>
+            <div class="section-num-line"></div>
           </div>
-          <div class="pillars-grid">
-            {pillars.map((p, i) => (
-              <div class="pillar-card">
-                <div class="pillar-number-row">
-                  <span class="pillar-number">0{i + 1}</span>
-                  <div class="pillar-number-line"></div>
-                </div>
-                <h3 class="pillar-card-title">{p.title}</h3>
-                <p class="pillar-card-desc">{p.desc}</p>
+          <h2 class="categories-heading">What We Cover</h2>
+          <div class="categories-grid">
+            <a href="/blog?category=Organization" class="cat-card">
+              <div class="cat-card-img-wrap">
+                <img src="/images/blog-03-img1.jpg" alt="Organization" loading="lazy" width="600" height="400" />
               </div>
-            ))}
+              <span class="cat-card-label">Organization</span>
+            </a>
+            <a href="/blog?category=Decor" class="cat-card">
+              <div class="cat-card-img-wrap">
+                <img src="/images/blog-02-img1.jpg" alt="Decor" loading="lazy" width="600" height="400" />
+              </div>
+              <span class="cat-card-label">Decor</span>
+            </a>
+            <a href="/blog?category=Storage" class="cat-card">
+              <div class="cat-card-img-wrap">
+                <img src="/images/blog-04-img1.jpg" alt="Storage" loading="lazy" width="600" height="400" />
+              </div>
+              <span class="cat-card-label">Storage</span>
+            </a>
+            <a href="/blog?category=Budget+Tips" class="cat-card">
+              <div class="cat-card-img-wrap">
+                <img src="/images/blog-15-img1.jpg" alt="Budget Tips" loading="lazy" width="600" height="400" />
+              </div>
+              <span class="cat-card-label">Budget Tips</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ④ ABOUT THE AUTHOR — horizontal card -->
+      <section class="author-section">
+        <div class="container">
+          <div class="section-num-header">
+            <span class="section-num">03</span>
+            <div class="section-num-line"></div>
+          </div>
+          <div class="author-card">
+            <div class="author-card-avatar">
+              <div class="author-avatar-circle">
+                <span class="author-initials">BB</span>
+              </div>
+            </div>
+            <div class="author-card-body">
+              <p class="author-card-eyebrow">About the Author</p>
+              <h3 class="author-card-name">Hey, I'm Badreddine Br — Welcome to SmallSpace Home</h3>
+              <p class="author-card-bio">A Canadian apartment renter obsessed with making small spaces work beautifully. I test real products, write honest guides, and share only what actually works in a real rental — no staged perfection, no sponsored fluff.</p>
+              <a href="/blog" class="btn author-card-btn">Read the Blog →</a>
+            </div>
           </div>
         </div>
       </section>
@@ -248,33 +265,176 @@ const pillars = [
   color: var(--color-accent);
 }
 
-/* ── ② INTRO ── */
+/* ── Numbered section header ── */
+.section-num-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+.section-num {
+  font-family: var(--font-display);
+  font-size: 2.8rem;
+  font-weight: 400;
+  color: var(--color-accent-dark);
+  line-height: 1;
+  flex-shrink: 0;
+}
+.section-num-line {
+  flex: 1;
+  height: 1px;
+  background: var(--color-accent);
+}
+
+/* ── ② OUR STORY ── */
 .about-intro {
   display: grid;
   grid-template-columns: 1fr 1fr;
   min-height: 600px;
   border-bottom: 1px solid var(--color-border);
 }
-
-.about-intro-img-wrap {
-  overflow: hidden;
-  position: relative;
-}
-.about-intro-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  display: block;
-}
-
+.about-intro-img-wrap { overflow: hidden; }
+.about-intro-img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .about-intro-body {
-  padding: 72px 64px;
+  padding: 64px 56px;
   background: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
+.about-intro-heading {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-weight: 400;
+  color: var(--color-ink);
+  margin: 0 0 28px;
+  line-height: 1.1;
+}
+.about-intro-body p {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text-muted);
+  margin: 0 0 1.2rem;
+}
+.about-intro-body p:last-child { margin-bottom: 0; }
+.intro-sig {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1rem !important;
+  color: var(--color-accent-dark) !important;
+  margin-top: 1.6rem !important;
+}
+
+/* ── ③ CATEGORIES GRID ── */
+.categories-section {
+  padding: 80px 24px;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+}
+.categories-heading {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-weight: 400;
+  color: var(--color-ink);
+  margin: 0 0 48px;
+}
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.cat-card {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.cat-card-img-wrap {
+  overflow: hidden;
+  border-radius: 4px;
+  aspect-ratio: 3/4;
+}
+.cat-card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+.cat-card:hover .cat-card-img-wrap img { transform: scale(1.05); }
+.cat-card-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+  transition: color 0.2s;
+}
+.cat-card:hover .cat-card-label { color: var(--color-accent-dark); }
+
+/* ── ④ AUTHOR CARD ── */
+.author-section {
+  padding: 80px 24px;
+  background: #fff;
+  border-bottom: 1px solid var(--color-border);
+}
+.author-card {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 48px 56px;
+}
+.author-avatar-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: var(--color-ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.author-initials {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.05em;
+}
+.author-card-body { flex: 1; }
+.author-card-eyebrow {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-accent-dark);
+  margin: 0 0 8px;
+}
+.author-card-name {
+  font-family: var(--font-display);
+  font-size: clamp(1rem, 2vw, 1.4rem);
+  font-weight: 400;
+  color: var(--color-ink);
+  margin: 0 0 14px;
+  line-height: 1.3;
+}
+.author-card-bio {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+  margin: 0 0 24px;
+  max-width: 560px;
+}
+.author-card-btn {
+  background: var(--color-accent-dark);
+  color: #fff;
+  border-color: var(--color-accent-dark);
+  font-size: 0.78rem;
+}
+.author-card-btn:hover { background: #7a6040; border-color: #7a6040; }
 
 .section-eyebrow {
   font-size: 0.6rem;
@@ -286,139 +446,15 @@ const pillars = [
   margin-bottom: 12px;
 }
 
-.about-intro-heading {
-  font-family: var(--font-display);
-  font-size: clamp(1.6rem, 3vw, 2.4rem);
-  font-weight: 400;
-  color: var(--color-ink);
-  margin: 0 0 28px;
-  line-height: 1.2;
-}
-
-.about-intro-body p {
-  font-size: 0.95rem;
-  line-height: 1.85;
-  color: var(--color-text-muted);
-  margin: 0 0 1.2rem;
-}
-.about-intro-body p:last-child { margin-bottom: 0; }
-
-.intro-sig {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1rem !important;
-  color: var(--color-accent-dark) !important;
-  margin-top: 1.6rem !important;
-}
-
-.author-photo-wrap {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  margin-bottom: 24px;
-}
-.author-avatar-circle {
-  width: 52px;
-  height: 52px;
-  border-radius: 50%;
-  background: var(--color-ink);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-}
-.author-initials {
-  font-family: var(--font-body);
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: #fff;
-  letter-spacing: 0.05em;
-}
-.author-photo-name {
-  font-family: var(--font-display);
-  font-size: 1rem;
-  font-style: italic;
-  color: var(--color-accent-dark);
-}
-
 @media (max-width: 860px) {
   .about-intro { grid-template-columns: 1fr; }
   .about-intro-img-wrap { min-height: 320px; }
   .about-intro-body { padding: 48px 28px; }
-}
-
-/* ── ④ PILLARS — numbered editorial grid ── */
-.pillars-section {
-  padding: 96px 24px 96px;
-  background: var(--color-surface);
-  border-top: 1px solid var(--color-border);
-}
-.pillars-header {
-  margin-bottom: 56px;
-}
-.pillars-title {
-  font-family: var(--font-display);
-  font-size: clamp(1.6rem, 3vw, 2.4rem);
-  font-weight: 400;
-  color: var(--color-ink);
-  margin: 12px 0 0;
-  line-height: 1.2;
-}
-.pillars-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 40px 48px;
-}
-.pillar-card {
-  background: #fff;
-  border: 1px solid var(--color-border);
-  border-radius: 6px;
-  padding: 36px 32px;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-.pillar-card:hover {
-  box-shadow: 0 8px 24px rgba(139,111,71,0.10);
-  transform: translateY(-3px);
-}
-.pillar-number-row {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  margin-bottom: 20px;
-}
-.pillar-number {
-  font-family: var(--font-display);
-  font-size: 2rem;
-  font-weight: 400;
-  color: var(--color-accent-dark);
-  line-height: 1;
-  flex-shrink: 0;
-}
-.pillar-number-line {
-  flex: 1;
-  height: 1px;
-  background: var(--color-accent);
-}
-.pillar-card-title {
-  font-family: var(--font-display);
-  font-size: 1.15rem;
-  font-weight: 600;
-  color: var(--color-ink);
-  margin: 0 0 12px;
-  line-height: 1.3;
-}
-.pillar-card-desc {
-  font-size: 0.88rem;
-  color: var(--color-text-muted);
-  line-height: 1.75;
-  margin: 0;
-}
-
-@media (max-width: 860px) {
-  .pillars-grid { grid-template-columns: repeat(2, 1fr); gap: 24px; }
+  .categories-grid { grid-template-columns: repeat(2, 1fr); }
+  .author-card { flex-direction: column; text-align: center; padding: 36px 28px; }
 }
 @media (max-width: 520px) {
-  .pillars-grid { grid-template-columns: 1fr; }
+  .categories-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
 }
 
 /* ── ⑤ CONTACT ── */
