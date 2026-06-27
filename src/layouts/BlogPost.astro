@@ -176,13 +176,18 @@ const catClass: Record<string, string> = {
 
           <!-- SIDEBAR -->
           <aside class="post-sidebar" aria-label="Article sidebar">
-            <div class="sidebar-toc" id="sidebar-toc">
-              <div class="toc-header" id="toc-header">
-                <span class="toc-title">Contents</span>
-                <button class="toc-toggle" id="toc-toggle" aria-label="Collapse table of contents">&#x2303;</button>
+            <div class="sidebar-toc toc-widget" id="sidebar-toc">
+              <div class="toc-widget__header" id="toc-header">
+                <h2 class="toc-widget__header-title">Table of Contents</h2>
+                <button type="button" class="toc-widget__toggle-button toc-widget__toggle-button--collapse" aria-label="Close table of contents">
+                  <svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"/></svg>
+                </button>
+                <button type="button" class="toc-widget__toggle-button toc-widget__toggle-button--expand" aria-label="Open table of contents">
+                  <svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg>
+                </button>
               </div>
-              <div class="toc-body" id="toc-body">
-                <ol class="sidebar-toc-list" id="sidebar-toc-list"></ol>
+              <div class="toc-widget__body" id="toc-body">
+                <ol class="toc-widget__list" id="sidebar-toc-list"></ol>
               </div>
             </div>
             <div class="sidebar-cta">
@@ -629,145 +634,104 @@ const catClass: Record<string, string> = {
   gap: 36px;
 }
 
-/* ── TOC — exact port of contents-widget.html ── */
-.sidebar-toc {
-  --toc-header-bg: #2b2620;
-  --toc-gold:      #b08a3e;
-  --toc-row-bg:    #faf8f4;
-  --toc-border:    #e7e2d8;
-  --toc-title-cl:  #1f1c17;
-  --toc-sub-cl:    #8a8579;
-  --toc-badge-bg:  #2b2620;
+/* ── TOC — Elementor widget port ── */
+.toc-widget {
+  --toc-bg:           #f7f8fa;
+  --toc-border:       #e1e3e6;
+  --toc-title-color:  #1f2124;
+  --toc-link-color:   #3a3d42;
+  --toc-link-active:  #0a5cff;
+  --toc-icon-color:   #3a3d42;
 
-  border-radius: 18px;
-  overflow: hidden;
-  box-shadow: 0 12px 30px rgba(0,0,0,0.08);
-  background: var(--toc-row-bg);
+  background: var(--toc-bg);
+  border: 1px solid var(--toc-border);
+  border-radius: 6px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
-.toc-header {
-  background: var(--toc-header-bg);
-  color: var(--toc-gold);
-  padding: 22px 24px;
+.toc-widget__header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 16px 20px;
   cursor: pointer;
   user-select: none;
 }
-.toc-title {
+.toc-widget__header-title {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 700;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  color: var(--toc-gold);
+  color: var(--toc-title-color);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
-.toc-toggle {
-  all: unset;
-  color: var(--toc-gold);
-  font-size: 14px;
-  cursor: pointer;
+.toc-widget__toggle-button {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 22px;
-  height: 22px;
-  transition: transform 0.25s ease;
-  -webkit-tap-highlight-color: transparent;
-}
-.toc-toggle.is-collapsed { transform: rotate(180deg); }
-.toc-body {
-  max-height: 2000px;
-  overflow: hidden;
-  transition: max-height 0.35s ease;
-}
-.toc-body.is-collapsed { max-height: 0; }
-.sidebar-toc-list {
-  list-style: none;
+  width: 18px;
+  height: 18px;
+  background: none;
+  border: none;
   padding: 0;
+  cursor: pointer;
+  color: var(--toc-icon-color);
+}
+.toc-widget__toggle-button svg {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+}
+.toc-widget__toggle-button--collapse { display: flex; }
+.toc-widget__toggle-button--expand   { display: none;  }
+.toc-widget.is-collapsed .toc-widget__toggle-button--collapse { display: none;  }
+.toc-widget.is-collapsed .toc-widget__toggle-button--expand   { display: flex;  }
+.toc-widget__body {
+  overflow: hidden;
+  max-height: 2000px;
+  transition: max-height 0.3s ease;
+  border-top: 1px solid var(--toc-border);
+}
+.toc-widget.is-collapsed .toc-widget__body {
+  max-height: 0;
+  border-top-color: transparent;
+}
+.toc-widget__list {
+  list-style: none;
+  counter-reset: toc-counter;
   margin: 0;
+  padding: 16px 20px;
 }
-.sidebar-toc-list li a {
+.toc-widget__list-item {
+  counter-increment: toc-counter;
+  margin-bottom: 10px;
+}
+.toc-widget__list-item:last-child { margin-bottom: 0; }
+.toc-widget__list-item-text-wrapper {
   display: flex;
-  align-items: center;
-  gap: 16px;
-  padding: 18px 24px;
-  border-bottom: 1px solid var(--toc-border);
-  text-decoration: none;
-  color: inherit;
-  background: var(--toc-row-bg);
-  transition: background 0.15s ease;
+  align-items: baseline;
+  gap: 8px;
 }
-.sidebar-toc-list li:last-child a { border-bottom: none; }
-.sidebar-toc-list li a:hover { background: #f4f0e8; }
-/* Badge */
-.toc-badge {
+.toc-widget__list-item-text-wrapper::before {
+  content: counter(toc-counter) ".";
   flex: 0 0 auto;
-  width: 38px;
-  height: 38px;
-  border-radius: 50%;
-  background: var(--toc-badge-bg);
-  color: var(--toc-gold);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.2s ease, transform 0.25s ease;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--toc-link-color);
+  min-width: 18px;
 }
-/* Text */
-.toc-text {
+.toc-widget__list-item-text {
   flex: 1 1 auto;
-  min-width: 0;
+  font-size: 15px;
+  line-height: 1.4;
+  color: var(--toc-link-color);
+  text-decoration: none;
+  transition: color 0.15s ease;
 }
-.toc-text h3 {
-  margin: 0 0 4px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 17px;
-  font-weight: 700;
-  color: var(--toc-title-cl);
-  line-height: 1.25;
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  transition: font-size 0.25s ease;
+.toc-widget__list-item-text:hover { text-decoration: underline; }
+.toc-widget__list-item-text.is-active {
+  color: var(--toc-link-active);
+  font-weight: 600;
 }
-.toc-text p {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  color: var(--toc-sub-cl);
-  line-height: 1.3;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-/* Thumbnail */
-.toc-thumb {
-  flex: 0 0 auto;
-  width: 56px;
-  height: 56px;
-  border-radius: 10px;
-  object-fit: cover;
-  background: #e7e2d8;
-  display: block;
-}
-/* Active state */
-.sidebar-toc-list li a.toc-active { background: #ede9df; }
-.sidebar-toc-list li a.toc-active .toc-badge {
-  background: #1a1510;
-  transform: scale(1.1);
-}
-.sidebar-toc-list li a.toc-active .toc-text h3 { font-size: 18px; }
-.sidebar-toc-list li a.toc-active .toc-text p  { color: #6a6660; }
-@media (max-width: 480px) {
-  .toc-thumb { width: 44px; height: 44px; }
-  .toc-badge { width: 32px; height: 32px; font-size: 12px; }
-  .toc-text h3 { font-size: 15px; }
-}
+@media (max-width: 480px) { .toc-widget { max-width: 100%; } }
 
 /* Sidebar CTA */
 .sidebar-cta {
@@ -940,71 +904,29 @@ const tocHeadings = Array.from(headings).filter(h => {
 if (tocHeadings.length < 2) {
   sidebarToc?.remove();
 } else {
-  // Find first image between this heading and the next h2
-  function findSectionImg(h: HTMLHeadingElement): string {
-    let el = h.nextElementSibling;
-    while (el && el.tagName !== 'H2') {
-      const img = el.tagName === 'IMG'
-        ? el as HTMLImageElement
-        : el.querySelector('img');
-      if (img) return (img as HTMLImageElement).src;
-      el = el.nextElementSibling;
-    }
-    return '';
-  }
-
+  // Build list items — Elementor widget structure
   tocHeadings.forEach((h, i) => {
     if (!h.id) h.id = `section-${i}`;
 
     const li      = document.createElement('li');
+    li.className  = 'toc-widget__list-item';
+
+    const wrapper = document.createElement('div');
+    wrapper.className = 'toc-widget__list-item-text-wrapper';
+
     const a       = document.createElement('a');
+    a.className   = 'toc-widget__list-item-text';
+    a.href        = `#${h.id}`;
+    a.textContent = (h.textContent ?? '').replace(/^\d+\.\s*/, '').trim();
 
-    // Badge (dark circle, gold number)
-    const badge   = document.createElement('div');
-    badge.className = 'toc-badge';
-    badge.textContent = String(i + 1).padStart(2, '0');
-
-    // Text block
-    const textDiv = document.createElement('div');
-    textDiv.className = 'toc-text';
-
-    const titleH3 = document.createElement('h3');
-    const raw = (h.textContent ?? '').replace(/^\d+\.\s*/, '').trim();
-    titleH3.textContent = raw;
-
-    const subP = document.createElement('p');
-    const nextP = h.nextElementSibling;
-    if (nextP?.tagName === 'P') {
-      const pText = (nextP.textContent ?? '').trim();
-      const sent  = pText.split(/(?<=[.!?])\s/)[0] ?? '';
-      subP.textContent = sent.length > 72 ? sent.slice(0, 72) + '…' : sent;
-    }
-
-    textDiv.appendChild(titleH3);
-    if (subP.textContent) textDiv.appendChild(subP);
-
-    a.href = `#${h.id}`;
-    a.appendChild(badge);
-    a.appendChild(textDiv);
-
-    // Thumbnail — first image in section
-    const imgSrc = findSectionImg(h);
-    if (imgSrc) {
-      const thumb = document.createElement('img');
-      thumb.className = 'toc-thumb';
-      thumb.src = imgSrc;
-      thumb.alt = '';
-      thumb.loading = 'lazy';
-      a.appendChild(thumb);
-    }
-
-    li.appendChild(a);
+    wrapper.appendChild(a);
+    li.appendChild(wrapper);
     tocList?.appendChild(li);
   });
 
-  const links = Array.from(tocList?.querySelectorAll<HTMLAnchorElement>('a') ?? []);
+  const links = Array.from(tocList?.querySelectorAll<HTMLAnchorElement>('.toc-widget__list-item-text') ?? []);
 
-  // Track which heading is currently active by finding the one closest to the top of viewport
+  // Scroll spy — mirrors Elementor's elementor-item-active logic
   function setActive() {
     let activeIndex = -1;
     for (let i = 0; i < tocHeadings.length; i++) {
@@ -1012,12 +934,11 @@ if (tocHeadings.length < 2) {
       if (rect.top <= window.innerHeight * 0.35) activeIndex = i;
     }
     links.forEach((l, i) => {
-      if (i === activeIndex) l.classList.add('toc-active');
-      else l.classList.remove('toc-active');
+      if (i === activeIndex) l.classList.add('is-active');
+      else l.classList.remove('is-active');
     });
   }
 
-  // Initial call + smooth scroll listening
   setActive();
   let rafId: number;
   window.addEventListener('scroll', () => {
@@ -1025,22 +946,15 @@ if (tocHeadings.length < 2) {
     rafId = requestAnimationFrame(setActive);
   }, { passive: true });
 
-  // Keep IntersectionObserver as fallback for large jumps
   const observer = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) setActive();
-    });
+    entries.forEach(entry => { if (entry.isIntersecting) setActive(); });
   }, { rootMargin: '-10% 0px -55% 0px' });
-
   tocHeadings.forEach(h => observer.observe(h));
 
-  // ── TOC collapse toggle ──
-  const tocToggle = document.getElementById('toc-toggle');
-  const tocBody   = document.getElementById('toc-body');
+  // Collapse toggle — toggles is-collapsed on the root .toc-widget element
   const tocHeader = document.getElementById('toc-header');
   tocHeader?.addEventListener('click', () => {
-    tocBody?.classList.toggle('is-collapsed');
-    tocToggle?.classList.toggle('is-collapsed');
+    sidebarToc?.classList.toggle('is-collapsed');
   });
 }
 </script>
