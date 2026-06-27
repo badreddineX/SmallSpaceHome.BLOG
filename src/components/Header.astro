@@ -114,14 +114,14 @@ const currentPath = Astro.url.pathname;
   <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation" aria-hidden="true">
     <a href="/" class="mobile-nav-link">Home</a>
     <a href="/blog" class="mobile-nav-link">Read</a>
-    {navLinks.map(link => (
-      <a href={link.href} class="mobile-nav-link">{link.label}</a>
-    ))}
     <div class="mobile-cats">
       {readCategories.map(cat => (
         <a href={cat.href} class="mobile-cat-link">{cat.name}</a>
       ))}
     </div>
+    {navLinks.map(link => (
+      <a href={link.href} class="mobile-nav-link">{link.label}</a>
+    ))}
     <a href="/blog" class="mobile-nav-link mobile-cta">Browse All Ideas →</a>
   </nav>
 </header>
