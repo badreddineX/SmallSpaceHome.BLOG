@@ -4,7 +4,7 @@ description: "A step-by-step plan to organize your studio apartment in 48 hours.
 image: "/images/living-room-cozy.jpg"
 datePublished: "2026-02-10"
 dateModified: "2026-02-10"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["studio apartment", "organization", "small space", "weekend project"]
 featured: false
 category: "Organization"

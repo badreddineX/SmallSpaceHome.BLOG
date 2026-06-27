@@ -4,7 +4,7 @@ description: "13 bedroom storage ideas for small Canadian apartments — closet,
 image: "/images/blog-18-img1.jpg"
 datePublished: "2026-04-02"
 dateModified: "2026-04-02"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["bedroom storage", "small bedroom", "Canada", "closet organization", "apartment storage"]
 featured: false
 category: "Storage"

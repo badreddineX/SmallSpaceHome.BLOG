@@ -4,7 +4,7 @@ description: "Fall apartment decorating ideas for Canadian renters — seasonal 
 image: "/images/storage-ottoman.jpg"
 datePublished: "2026-09-15"
 dateModified: "2026-09-15"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["fall decor", "autumn apartment", "Canada", "seasonal decor", "renter-friendly"]
 featured: false
 category: "Decor"

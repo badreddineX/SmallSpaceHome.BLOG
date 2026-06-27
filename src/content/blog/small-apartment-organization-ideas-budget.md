@@ -4,7 +4,7 @@ description: "17 practical organization ideas for small Canadian apartments — 
 image: "/images/studio-apartment-living.jpg"
 datePublished: "2026-01-15"
 dateModified: "2026-01-15"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["small apartment", "organization", "budget", "renter-friendly"]
 featured: true
 category: "Organization"

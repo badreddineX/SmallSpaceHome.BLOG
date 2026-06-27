@@ -4,7 +4,7 @@ description: "Spring cleaning and organization guide for Canadian apartment rent
 image: "/images/blog-21-img1.jpg"
 datePublished: "2026-03-20"
 dateModified: "2026-03-20"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["spring cleaning", "organization", "Canada", "declutter", "apartment cleaning"]
 featured: false
 category: "Organization"

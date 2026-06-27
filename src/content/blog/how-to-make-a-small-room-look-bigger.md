@@ -4,7 +4,7 @@ description: "13 visual tricks that make any small room in a Canadian apartment 
 image: "/images/blog-14-img1.jpg"
 datePublished: "2026-03-17"
 dateModified: "2026-03-17"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["small room", "make room bigger", "Canada", "apartment tips", "small space tricks"]
 featured: false
 category: "Decor"

@@ -4,7 +4,7 @@ description: "The KALLAX is the most versatile storage unit for small spaces. He
 image: "/images/closet-walkin.jpg"
 datePublished: "2026-01-22"
 dateModified: "2026-01-22"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["IKEA", "KALLAX", "storage hacks", "small spaces"]
 featured: true
 category: "Storage"

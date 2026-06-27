@@ -4,7 +4,7 @@ description: "A step-by-step guide to decorating a small living room in a Canadi
 image: "/images/blog-10-img1.jpg"
 datePublished: "2026-03-05"
 dateModified: "2026-03-05"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["small living room", "living room decor", "Canada", "renter-friendly", "apartment"]
 featured: false
 category: "Decor"

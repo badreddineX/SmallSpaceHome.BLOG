@@ -4,7 +4,7 @@ description: "Minimalist apartment ideas for small Canadian rentals — how to d
 image: "/images/blog-16-img1.jpg"
 datePublished: "2026-03-25"
 dateModified: "2026-03-25"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["minimalist apartment", "minimalism", "Canada", "small apartment", "declutter"]
 featured: false
 category: "Decor"

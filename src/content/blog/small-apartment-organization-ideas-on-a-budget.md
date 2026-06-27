@@ -4,7 +4,7 @@ description: "15 budget organization ideas for small Canadian apartments, all un
 image: "/images/blog-09-img1.jpg"
 datePublished: "2026-03-01"
 dateModified: "2026-03-01"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["budget organization", "small apartment", "Canada", "under $100", "renter-friendly"]
 featured: false
 category: "Organization"

@@ -4,7 +4,7 @@ description: "Decorate your Canadian apartment for under $100 CAD. These budget 
 image: "/images/storage-wicker-shelf.jpg"
 datePublished: "2026-03-01"
 dateModified: "2026-03-01"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["budget decor", "apartment decor", "under $100 CAD", "affordable decorating"]
 featured: false
 category: "Budget Tips"

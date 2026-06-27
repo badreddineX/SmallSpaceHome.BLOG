@@ -4,7 +4,7 @@ description: "Decorate your rental apartment without losing your deposit. These 
 image: "/images/blog-13-img1.jpg"
 datePublished: "2026-02-03"
 dateModified: "2026-02-03"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["renter-friendly", "apartment decor", "no-drill", "removable wallpaper"]
 featured: true
 category: "Decor"

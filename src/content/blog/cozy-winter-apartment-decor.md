@@ -4,7 +4,7 @@ description: "Cozy winter apartment decor ideas for Canadian renters — textile
 image: "/images/blog-19-img1.jpg"
 datePublished: "2026-10-15"
 dateModified: "2026-10-15"
-author: "Sarah Mitchell"
+author: "Badreddine Briar"
 tags: ["cozy apartment", "winter decor", "Canada", "hygge", "seasonal decor"]
 featured: false
 category: "Decor"
