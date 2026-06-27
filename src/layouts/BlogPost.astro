@@ -915,9 +915,11 @@ const catClass: Record<string, string> = {
 <script>
 // ── Table mobile scroll wrap ──────────────────────────────
 document.querySelectorAll<HTMLTableElement>('.post-body table').forEach(table => {
+  const parent = table.parentNode;
+  if (!parent) return;
   const wrap = document.createElement('div');
   wrap.className = 'table-scroll-wrap';
-  table.parentNode?.insertBefore(wrap, table);
+  parent.insertBefore(wrap, table);
   wrap.appendChild(table);
 });
 
@@ -943,6 +945,7 @@ allHeadings.forEach((h) => {
     h.appendChild(numSpan);
     h.appendChild(titleSpan);
   } else {
+    if (h2Counter === 0) h2Counter = 1;
     h3Counter++;
     const numSpan = document.createElement('span');
     numSpan.className = 'h3-num';
