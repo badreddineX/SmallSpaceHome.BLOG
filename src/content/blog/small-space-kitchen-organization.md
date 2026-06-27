@@ -11,13 +11,13 @@ category: "Organization"
 readTime: 7
 faqs:
   - q: "How do I organize a small apartment kitchen in Canada?"
-    a: "Zone your kitchen first — prep zone, cooking zone, pantry zone, and cleaning zone. Everything lives near where it's used. Then go vertical: pegboard, floating shelves, and over-cabinet storage. Clear counters of everything except daily-use items. The single biggest improvement is usually adding clear pantry bins and drawer dividers."
+    a: "Zone the kitchen first — prep, cooking, pantry, and cleaning zones — so everything lives where it's used. Then go vertical with pegboard and floating shelves. Clear every counter of non-daily items. The single biggest improvement for most Canadian renters is clear pantry bins and drawer dividers. See our <a href='/blog/spring-cleaning-organization-tips'>spring cleaning organization guide</a> for a full kitchen reset checklist."
   - q: "How do I create more counter space in a small kitchen?"
-    a: "Move everything off the counter that isn't used daily. Use a pegboard or magnetic strip on the wall for knives and utensils. A rolling cart (IKEA RASKOG) acts as an extra counter surface during cooking and tucks away afterward. Under-cabinet hooks for mugs free up cabinet space. Over-door organizers on the pantry cabinet door."
+    a: "Move everything off the counter that isn't used daily. Use an IKEA SKADIS pegboard (~$15 CAD) for knives and utensils on the wall. An IKEA RASKOG rolling cart (~$39 CAD) acts as extra counter space during cooking and rolls away when not needed. Under-cabinet hooks for mugs free an entire shelf."
   - q: "What are the best kitchen organization products for small apartments in Canada?"
-    a: "Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca), bamboo drawer dividers (~$22–$32 CAD, Amazon.ca), IKEA SKADIS pegboard (~$15 CAD), IKEA RASKOG rolling cart (~$39 CAD), over-door cabinet organizers (~$15–$22 CAD, Amazon.ca). These five together solve most small apartment kitchen problems for under $100 CAD total."
+    a: "Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca), bamboo drawer dividers (~$22–$32 CAD), IKEA SKADIS pegboard (~$15 CAD), IKEA RASKOG cart (~$39 CAD), and over-door cabinet organizers (~$15–$22 CAD). These five together solve most small Canadian kitchen problems for under $100 CAD total."
   - q: "How do I store pots and pans in a small apartment kitchen?"
-    a: "Vertical storage is the answer. A pegboard on the wall or inside a deep cabinet holds pans flat. A pot lid organizer in a drawer keeps lids from rolling around. Stackable pot racks allow smaller pans to nest inside larger ones. If cabinet space is tight, a rolling cart acts as a pot storage solution you can keep in the kitchen or roll to a closet."
+    a: "Vertical storage works best. A pegboard or magnetic wall strip holds pans flat and keeps them accessible. A pot lid organizer in a drawer stops the lid avalanche. If cabinet space is tight, the IKEA RASKOG rolling cart doubles as portable pot storage that tucks out of sight after cooking."
 ---
 
 A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. I have a galley kitchen in my 510 sq ft Toronto apartment, and here's what has actually made the most difference over three years.

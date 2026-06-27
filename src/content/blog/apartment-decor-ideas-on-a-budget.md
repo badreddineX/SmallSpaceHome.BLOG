@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 7
 faqs:
   - q: "How do I decorate my apartment cheaply in Canada?"
-    a: "Start with lighting (warm bulbs, ~$15 CAD) and textiles (one rug, cushions, throw, ~$80–$120 CAD). These two categories deliver the most visual transformation per dollar. Add a gallery wall using Command strips and printed photos or IKEA prints. Total under $200 CAD and the apartment looks completely different."
+    a: "Start with lighting (warm 2700K bulbs, ~$15 CAD) and textiles (rug + cushions + throw, ~$80–$120 CAD) — these two categories give the most visual return per dollar. Add a gallery wall with Command strips and printed photos. Total under $200 CAD. See our <a href='/blog/budget-apartment-decor-under-100'>budget apartment decor under $100 CAD</a> post for even tighter budgets."
   - q: "What should I buy first when decorating a new apartment on a budget?"
-    a: "Prioritize: 1) A rug (anchors the living room, biggest single-piece impact), 2) Warm light bulbs and one lamp (transforms the mood immediately), 3) Throw cushions and a blanket (adds colour and warmth). These three purchases cover the fundamentals for under $200 CAD at Canadian stores."
+    a: "Rug first (anchors the living room, biggest single-piece impact), then warm bulbs and one lamp (transforms the mood immediately), then throw cushions and a blanket (adds colour and warmth). These three purchases cover the fundamentals for under $200 CAD at IKEA, HomeSense, or Canadian Tire."
   - q: "Where can I find cheap apartment decor in Canada?"
-    a: "HomeSense and Winners for quality pieces at discount prices. Dollarama for small items and filler objects. Facebook Marketplace and Kijiji for furniture, art, and plants. IKEA for textiles and lighting. Thrift stores for frames, vases, and unique objects. Amazon.ca for organization and lighting basics."
+    a: "HomeSense and Winners for quality pieces at discount prices (stock rotates weekly). Dollarama for small filler objects at $1–$4 each. Facebook Marketplace and Kijiji for furniture, art, and plants. IKEA for textiles and lighting basics. Thrift stores for frames and unique vases."
   - q: "Can I decorate a rental apartment without losing my damage deposit?"
-    a: "Yes — Command strips hold art and light shelves with no wall damage. Peel-and-stick wallpaper removes cleanly. Freestanding and leaning furniture requires no installation. A well-decorated rental apartment can look completely transformed without a single hole in the wall."
+    a: "Yes. Command strips hold art and light shelves cleanly. Peel-and-stick wallpaper removes without residue. Freestanding furniture needs no installation. A well-decorated rental can look completely transformed without a single hole in the wall. Our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly decor guide</a> has the full no-damage system."
 ---
 
 Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. Here's how to transform a rental apartment for under $200 CAD.

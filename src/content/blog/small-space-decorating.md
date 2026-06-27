@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "What are the rules for decorating a small apartment?"
-    a: "Keep the base palette light and neutral, scale furniture to the room, go vertical for storage and visual height, use mirrors to reflect light, layer lighting instead of relying on overhead, clear all surfaces, and choose multi-functional furniture. These 7 principles cover 90% of small space decorating decisions."
+    a: "Light neutral base palette, furniture scaled to the room, vertical storage for height, mirrors to reflect light, layered lighting instead of harsh overhead, clear surfaces, and multi-functional furniture. These seven principles cover 90% of small space decisions. See them applied room-by-room in our <a href='/blog/small-space-living-room-ideas'>small space living room ideas</a> post."
   - q: "What makes a small space look bigger?"
-    a: "Light colours, mirrors, furniture with legs (so the floor is visible), ceiling-height curtains, vertical lines, and strategic lighting all make a space feel larger. Equally important: remove clutter. Nothing makes a room feel smaller faster than visual noise on every surface."
+    a: "Light colours, mirrors, furniture with visible legs, ceiling-height curtains, and strategic lighting. Equally important: clearing clutter off every surface. Nothing shrinks a room faster than visual noise. Our <a href='/blog/how-to-make-a-small-room-look-bigger'>guide on making a small room look bigger</a> covers all 13 tricks with CAD costs."
   - q: "How do I decorate a small apartment on a budget in Canada?"
-    a: "Prioritize: textiles first (rug, cushions, throw — transformative for under $150 CAD), then lighting (warm bulbs + one floor lamp), then art (gallery wall with Command strips and printed photos). These three changes deliver the most visual transformation per dollar."
+    a: "Textiles first — rug, cushions, throw for under $150 CAD. Then warm lighting (2700K bulbs + one floor lamp, ~$40–$60 CAD). Then a gallery wall with Command strips and printed photos. These three changes deliver the most visual impact per dollar in any Canadian rental."
   - q: "Should I use light or dark colours in a small apartment?"
-    a: "Light colours as the base. Bright white, warm cream, or soft greige make walls recede and spaces feel larger. Dark accents work well as contrast in cushions, art, and small accessories — but keep the main surfaces light."
+    a: "Light as the base — bright white, warm cream, or soft greige make walls recede and spaces feel larger. Dark accents work well in cushions, art, and small accessories, but keep the main surfaces light. Even in a rental with fixed wall colours, light bedding and rugs go a long way."
 ---
 
 Most small space decorating advice is a product list. That's useful, but it skips the more important question: why does small space decorating work differently? Once you understand why light colours expand a space and why furniture with legs makes a room feel larger, you can apply those principles to every decision. Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment.

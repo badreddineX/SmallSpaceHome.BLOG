@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 7
 faqs:
   - q: "What is the fastest way to make a small room look bigger?"
-    a: "The single fastest change is lighting — swapping a harsh overhead bulb for a warm floor lamp and bedside lamp transforms a small room in under an hour for $50–$80 CAD. Second fastest: decluttering every surface. Both changes are free to nearly-free and take effect immediately."
+    a: "Swap the harsh overhead bulb for a warm floor lamp and bedside lamp — transforms any room in under an hour for $50–$80 CAD. Second fastest: declutter every surface. Both changes are nearly free and take effect immediately. For the full toolkit, see our <a href='/blog/small-space-decorating'>small space decorating rules guide</a>."
   - q: "What colours make a small room look bigger?"
-    a: "Soft whites, warm creams, and light greige (grey-beige) work best. They reflect natural light and push walls back visually. If you want colour, use it as an accent only — a coloured cushion or plant — and keep the main surfaces light."
+    a: "Soft whites, warm creams, and light greige work best — they reflect natural light and push walls back visually. Use colour as an accent only in cushions or plants, and keep main surfaces light. This works even in rentals where you can't repaint, since textiles and bedding do most of the work."
   - q: "Do mirrors actually make rooms look bigger?"
-    a: "Yes, significantly. A large mirror — especially one that reflects a window or light source — creates the visual impression of depth and additional space. A leaning full-length mirror requires no installation and works immediately. The effect is most noticeable in bedrooms and small living rooms."
+    a: "Yes, significantly. A large mirror that reflects a window or light source creates the visual impression of depth and doubles perceived brightness. A leaning full-length mirror needs no installation and works immediately. The effect is most noticeable in bedrooms and small living rooms."
   - q: "How does furniture with legs make a room look bigger?"
-    a: "When a sofa, bed, or chair sits on visible legs rather than resting directly on the floor, the eye can see the floor beneath it. This unbroken floor line makes the room read as larger. A solid platform bed or sofa-to-floor style interrupts the floor plane and makes the room feel more closed."
+    a: "When a sofa, bed, or chair sits on visible legs, the eye sees the unbroken floor beneath — and that continuous floor line makes the room read as larger. A solid platform bed or sofa that rests directly on the floor interrupts that line and makes the space feel more closed and compressed."
 ---
 
 Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment.

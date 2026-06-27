@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 9
 faqs:
   - q: "How do I arrange furniture in a small living room?"
-    a: "Float the sofa away from the wall (even 5–10 cm) and face it toward the focal point (TV or fireplace). Place the rug under the front legs of the sofa and the coffee table. Keep one clear walking path through the room at 90 cm minimum width. Remove any furniture that doesn't serve a daily purpose."
+    a: "Float the sofa 5–10 cm from the wall and face it toward the focal point. Rug goes under the front legs of the sofa and coffee table. Keep one clear walking path at 90 cm minimum. Remove anything that doesn't serve a daily purpose. More layout detail in our <a href='/blog/small-space-living-room-ideas'>small space living room ideas</a> guide."
   - q: "What colours make a small living room feel bigger?"
-    a: "Soft whites, warm creams, and light greige (grey-beige) work best as the primary palette. They reflect light and push walls back visually. Use your accent colour in cushions, art, and one or two decor objects — not on the walls or large furniture."
+    a: "Soft whites, warm creams, and light greige work best as the primary palette — they reflect light and push walls back visually. Use your accent colour only in cushions, art, and one or two decor objects. Keeping large furniture and walls light is the most reliable approach in any Canadian rental."
   - q: "How do I add storage to a small living room?"
-    a: "A KALLAX bookcase as a media console (also hides cables and gear), a storage ottoman as a coffee table (stores blankets and rarely-used items), floating shelves above the sofa, and a wicker basket tucked under the side table for extra blankets. These four additions add significant storage without consuming floor space."
+    a: "A KALLAX bookcase as a media console (~$79–$159 CAD), a storage ottoman as a coffee table, floating shelves above the sofa, and a wicker basket under the side table. These four moves add significant capacity without consuming floor space. See more in our <a href='/blog/storage-solutions-for-small-apartments'>storage solutions for small apartments</a> post."
   - q: "How do I make my small living room look more expensive?"
-    a: "Three things that signal quality without a large budget: a large area rug (sized correctly — front legs of the sofa on the rug), ceiling-height curtains, and proper lighting (floor lamp + table lamp, no harsh overhead). These three changes cost under $400 CAD combined and transform the look of any rental living room."
+    a: "Three things signal quality on a budget: a large area rug sized correctly (front legs of the sofa sitting on it), ceiling-height curtains, and layered lighting — floor lamp plus table lamp, no harsh overhead. These three changes cost under $400 CAD combined and transform any rental living room."
 ---
 
 A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor. My living room is about 15 sq m in a 510 sq ft Toronto apartment, and here's the step-by-step process that made it feel like a proper room.

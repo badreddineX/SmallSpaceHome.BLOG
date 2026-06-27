@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 9
 faqs:
   - q: "How do I make my studio apartment not look like a studio?"
-    a: "Define zones with rugs, separate the bed from the living area with a bookcase or sofa back, use separate lighting in each zone, and keep all surfaces clear. The goal is to create the visual impression of multiple rooms inside one space."
+    a: "Define zones with rugs, separate the bed from the living area using a bookcase or sofa back, and use distinct lighting in each zone. Our full <a href='/blog/how-to-organize-studio-apartment'>studio apartment organization guide</a> walks through the complete zone-by-zone system in one weekend — with CAD prices throughout."
   - q: "What's the best furniture for a studio apartment in Canada?"
-    a: "Apartment-sized sofa (180 cm max), a storage bed frame (IKEA NORDLI), a compact desk (IKEA MICKE), and a BILLY bookcase as room divider. Every piece should be multi-functional or have minimal floor footprint."
+    a: "An apartment-sized sofa (180 cm max), a storage bed frame like the IKEA NORDLI (~$399 CAD), a compact IKEA MICKE desk, and a BILLY or KALLAX as a room divider. Every piece should be multi-functional. More picks in our <a href='/blog/small-space-furniture'>small space furniture guide</a>."
   - q: "How do I add storage to a studio apartment without making it feel cramped?"
-    a: "Go vertical: floor-to-ceiling bookshelves, over-door organizers, and floating shelves above furniture. Use under-bed space for seasonal and bulky items. Avoid wide, low storage units — they take floor space without adding much capacity."
+    a: "Go vertical: floor-to-ceiling bookshelves, over-door organizers, and floating shelves above furniture all add capacity without consuming floor space. Under-bed storage handles seasonal and bulky items. Avoid wide, low units — they eat floor space without much payoff."
   - q: "Is a Murphy bed worth it in a Canadian studio apartment?"
-    a: "If your studio is under 400 sq ft, yes. It converts your entire sleeping area into functional living space during the day. If you have room for a dedicated bed, a quality storage bed frame is more practical and costs far less."
+    a: "If your studio is under 400 sq ft, seriously consider it — it converts the sleeping area into usable living space during the day. For slightly larger studios, an IKEA NORDLI storage bed is more practical and costs far less than most Murphy bed solutions available in Canada."
 ---
 
 A studio apartment challenges you to sleep, eat, work, and relax in a single space without it feeling like chaos. The answer isn't about square footage — it's about defining clear zones through furniture placement, rugs, and lighting. I've been in a 510 sq ft Toronto apartment for three years, tried layouts that failed and layouts that worked, and here's what actually makes the difference.

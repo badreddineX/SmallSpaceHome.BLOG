@@ -11,13 +11,13 @@ category: "Organization"
 readTime: 8
 faqs:
   - q: "What IKEA products are best for small apartments in Canada?"
-    a: "The KALLAX (versatile storage system), PAX wardrobe (custom closet solution), NORDLI storage bed, BILLY bookcase, MICKE desk, RASKOG cart, and SKUBB under-bed bags. These products appear consistently in the most effective small apartment setups because they're designed with limited space in mind."
+    a: "The KALLAX, PAX wardrobe, NORDLI storage bed, BILLY bookcase, MICKE desk, RASKOG cart, and SKUBB under-bed bags are the core lineup. These consistently show up in the most effective small Canadian apartment setups. For KALLAX-specific ideas, our <a href='/blog/ikea-kallax-hacks-small-spaces'>IKEA KALLAX hacks guide</a> has 11 configurations."
   - q: "How do I make a small apartment look bigger with IKEA furniture?"
-    a: "Use IKEA PAX with mirror doors (doubles perceived space), BILLY bookshelves going floor-to-ceiling (draws the eye up), KALLAX as a room divider with plants on top (defines zones without blocking light), and LACK floating shelves for vertical storage. The key is always vertical: IKEA's taller configurations work better in small spaces than wide, low ones."
+    a: "PAX wardrobe with mirror doors doubles perceived space immediately. BILLY bookshelves taken floor-to-ceiling draw the eye up. KALLAX as a room divider defines zones without blocking light. The rule: always go vertical. Taller IKEA configurations work far better in small Canadian apartments than wide, low ones."
   - q: "How can I use KALLAX in a small apartment?"
-    a: "As a media console (with cable holes), room divider between living and sleeping areas, entryway storage unit, wardrobe base with hanging rod, home office bookcase, or bedside table. With fabric inserts it becomes closed storage; with open cubes it displays plants and books. It's the most flexible piece in IKEA's range."
+    a: "Media console, room divider, entryway storage, wardrobe base with hanging rod, home office bookcase, or bedside table — the KALLAX does all of it. Fabric inserts (~$6 CAD each at IKEA Canada) turn open cubes into closed storage. It's genuinely the most flexible piece in IKEA's range."
   - q: "Is IKEA furniture worth it for a rental apartment in Canada?"
-    a: "Yes — for renters who move every 2–3 years. IKEA pieces are affordable, flat-pack for moving, and designed for apartments. Assemble carefully, add anti-tip straps where required, and the pieces hold up well. Resale value on Facebook Marketplace and Kijiji in most Canadian cities is also decent."
+    a: "Yes — especially for renters who move every 2–3 years. Flat-pack means easy moving, prices are realistic on a renter's budget, and resale on Facebook Marketplace or Kijiji in Toronto, Vancouver, and Calgary holds up well. Assemble carefully and add anti-tip straps where needed."
 ---
 
 IKEA is the default furniture store for Canadian apartment renters for good reason — it's designed for small spaces, available across Canada, and priced for people who might move in two years. But not everything works in a small apartment. These 15 ideas use IKEA products in smart configurations that solve real problems, with no cutting, no major modifications, and no need for a drill.

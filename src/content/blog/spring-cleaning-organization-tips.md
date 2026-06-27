@@ -11,13 +11,13 @@ category: "Organization"
 readTime: 9
 faqs:
   - q: "How do I start spring cleaning a small apartment?"
-    a: "One room at a time, finish it completely before moving to the next. Start with the bedroom (where spring cleaning has the highest daily impact), then kitchen, then living room, then bathroom, then entryway. For each room: declutter first, clean second, organize third."
+    a: "One room at a time, finish it completely before moving to the next. Bedroom first (highest daily impact), then kitchen, living room, bathroom, entryway. For each room: declutter first, clean second, organize third. Our <a href='/blog/small-apartment-organization'>room-by-room organization guide</a> covers the same sequence in detail year-round."
   - q: "What should I donate or throw away in a spring clean?"
-    a: "Clothes not worn in the last 12 months, duplicate kitchen tools, expired products in the bathroom, books you won't read again, decor objects you don't genuinely like, single-purpose appliances that rarely get used, and anything stored 'just in case' that hasn't come up yet."
+    a: "Clothes not worn in 12 months, duplicate kitchen tools, expired bathroom products, books you won't read again, decor you don't genuinely like, single-purpose appliances that rarely get used, and anything stored 'just in case' that hasn't actually come up. Be ruthless — in a small apartment, the payoff is immediate."
   - q: "How long does spring cleaning a small apartment take?"
-    a: "A thorough spring clean of a 400–650 sq ft apartment takes 6–10 hours across 2–3 days if you do it properly. The declutter portion takes the most time. Set aside a full weekend: Day 1 for bedroom and kitchen, Day 2 for living room, bathroom, and entryway."
+    a: "A thorough spring clean of a 400–650 sq ft Canadian apartment takes 6–10 hours across 2–3 days. Decluttering takes the longest. Plan a full weekend: bedroom and kitchen on Day 1, living room, bathroom, and entryway on Day 2."
   - q: "What organization updates should I make during spring cleaning?"
-    a: "Spring is the ideal time to swap seasonal storage (winter clothes out, spring/summer clothes in), update any organization systems that stopped working, add new storage solutions identified during winter, and do a full pantry rotation (check expiry dates, reorganize by category)."
+    a: "Swap seasonal storage (winter clothes out, spring/summer in — vacuum bags ~$25–$30 CAD on Amazon.ca are ideal). Update systems that stopped working over winter. Do a full pantry rotation. This is also a great time to add any <a href='/blog/storage-ideas-for-small-places'>small-space storage solutions</a> you identified as gaps during the colder months."
 ---
 
 Spring in Canada means the apartment shows the full accumulation of a long winter — extra blankets that never made it back to storage, winter clothes piled with nowhere to go, a pantry full of comfort food. Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to. This guide takes you through every room in the right order.

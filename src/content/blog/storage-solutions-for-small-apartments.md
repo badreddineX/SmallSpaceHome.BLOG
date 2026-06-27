@@ -11,13 +11,13 @@ category: "Storage"
 readTime: 8
 faqs:
   - q: "What are the best storage solutions for a small apartment in Canada?"
-    a: "The most impactful are: under-bed storage (biggest gain per dollar), slim velvet hangers (frees closet space immediately), over-door organizers (uses ignored space), and a KALLAX bookcase (versatile, affordable, renter-friendly). Together these four cost under $150 CAD and solve the most common small apartment storage problems."
+    a: "Under-bed storage, slim velvet hangers (~$18 CAD), over-door organizers (~$28–$35 CAD), and a KALLAX bookcase (~$79 CAD) — these four together cost under $150 CAD and solve the most common problems. For a budget-first approach, see our <a href='/blog/small-apartment-organization-ideas-on-a-budget'>small apartment organization ideas on a budget</a> post."
   - q: "How do I find more storage in my apartment without spending a lot?"
-    a: "First, declutter — you cannot out-organize clutter. Second, go vertical (floating shelves on Command strips). Third, use over-door space. Fourth, use the space under the bed. None of these require drilling or landlord permission, and the first costs nothing."
+    a: "Declutter first — you can't out-organize clutter. Then go vertical with Command-strip shelves (free). Use over-door space next. Finally, use the space under the bed. None of these steps require drilling or landlord permission, and the first one is completely free."
   - q: "What is the best storage furniture for a small Canadian apartment?"
-    a: "IKEA KALLAX (living room and bedroom), IKEA PAX wardrobe (closet), and a storage bed frame like IKEA NORDLI. These three pieces cost approximately $700–$1,000 CAD total and solve the majority of storage needs in a small apartment."
+    a: "IKEA KALLAX for the living room, IKEA PAX for the closet, and an IKEA NORDLI storage bed for the bedroom. Together they run approximately $700–$1,000 CAD and cover the majority of storage needs. Our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks guide</a> shows how to configure all three."
   - q: "Can I add shelves to my apartment without drilling?"
-    a: "Yes. Command Large Picture Hanging Strips hold shelves weighing up to 7.5 kg (light to medium items). Freestanding shelving units require no installation at all. Both options are fully reversible and won't affect your damage deposit."
+    a: "Yes. Command Large Picture Hanging Strips hold up to 7.5 kg per pair and peel off cleanly. Freestanding shelving units need no installation at all. Both options are fully reversible and won't cost you a cent of your damage deposit when you move out."
 ---
 
 Storage in a small Canadian apartment is not a products problem — it is a sequence problem. Most renters buy bins before they've decided what they're storing. Here's the sequence that works: decide what to keep (declutter), identify where it needs to live, then find the right solution for that location. Here are 16 solutions organized by room, all tested in real Canadian apartments.

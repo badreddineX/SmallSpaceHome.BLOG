@@ -11,11 +11,11 @@ category: "Budget Tips"
 readTime: 6
 faqs:
   - q: "How can I decorate my apartment on a tight budget in Canada?"
-    a: "Focus on high-impact, low-cost moves: a large area rug, printed art from your own printer, plants, new throw cushions, and a declutter pass. These four things transform a room more than expensive furniture."
+    a: "Hit the high-impact moves first: a large area rug (~$59–$80 CAD at IKEA), warm 2700K bulbs (~$15 CAD), throw cushions, and printed art in IKEA RIBBA frames. These four changes transform a room more than expensive furniture ever could. More options in our <a href='/blog/apartment-decor-ideas-on-a-budget'>apartment decor ideas on a budget</a> guide."
   - q: "Where is the best place to buy affordable decor in Canada?"
-    a: "HomeSense for rugs, vases, and candles (check weekly — stock rotates). IKEA Canada for basics and frames. Amazon.ca for specific items. Facebook Marketplace for second-hand furniture. Dollar stores for bins, candles, and filler items."
+    a: "HomeSense and Winners for quality rugs, vases, and candles at discount prices (stock rotates weekly, so check often). IKEA Canada for frames, textiles, and lighting basics. Facebook Marketplace and Kijiji for second-hand furniture. Dollarama for bins, candles, and filler items at $1–$4 each."
   - q: "How do I make my apartment look more expensive without spending much?"
-    a: "Declutter first — clutter makes any space look cheap. Then: hang curtains high and wide, add one large rug, use soft white LED bulbs everywhere, and group items in odd numbers on shelves. These are designer habits that cost almost nothing."
+    a: "Declutter first — clutter makes any space look cheap, regardless of budget. Then: hang curtains high and wide, add one correctly sized area rug, swap all bulbs to soft white 2700K LEDs, and group shelf items in odd numbers. These are the same habits used in high-end interior design, and they cost almost nothing. See more in our <a href='/blog/small-space-decorating'>small space decorating rules</a> post."
 ---
 
 You don't need a renovation budget to make your Canadian apartment feel like a home. Some of the biggest visual improvements cost almost nothing — and every idea here is fully renter-friendly. Here are 12 ideas, all under $100 CAD total, most under $20 each.

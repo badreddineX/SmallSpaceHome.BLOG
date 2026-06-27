@@ -12,13 +12,13 @@ readTime: 9
 slug: "small-space-living-room-ideas"
 faqs:
   - q: "How do you make a small living room look bigger in a Canadian apartment?"
-    a: "Use light wall colours, mirrors to reflect natural light, furniture with legs (not floor-sitting pieces), and keep pathways clear. A single large rug anchors the space better than multiple small ones."
+    a: "Light wall colours, mirrors opposite windows, furniture with visible legs, and one large rug instead of several small ones — these four moves make the biggest difference. For a deeper breakdown of every visual trick, see our guide on <a href='/blog/how-to-make-a-small-room-look-bigger'>how to make a small room look bigger</a>."
   - q: "What furniture works best in a small living room?"
-    a: "A sofa with a slim profile, a round or nesting coffee table, and a wall-mounted TV. Avoid oversized sectionals — they overwhelm the space. Look for pieces with storage built in, like ottomans and sideboards."
+    a: "A slim two- or three-seat sofa (no longer than 200 cm), a round or nesting coffee table, and a wall-mounted TV. Every piece should earn its floor space. Our <a href='/blog/small-space-furniture'>small space furniture guide</a> covers the best Canadian picks with real CAD prices."
   - q: "Can I have a stylish living room in a small Canadian apartment?"
-    a: "Absolutely. Style comes from consistency — pick two to three colours, use matching storage, and keep surfaces clear. A well-edited small room always looks more intentional than a large cluttered one."
+    a: "Yes — style comes from consistency, not square footage. Pick two or three colours, match your storage pieces, and keep surfaces clear. A well-edited small room always looks more intentional than a large cluttered one. It really is that simple."
   - q: "What are the best budget living room ideas for small Canadian apartments?"
-    a: "Start with IKEA KALLAX for storage, a large affordable area rug from IKEA or HomeSense, and removable wallpaper for an accent wall. These three changes have the biggest visual impact for under $300 CAD."
+    a: "IKEA KALLAX (~$79 CAD) for storage, a large area rug from IKEA or HomeSense (~$129–$199 CAD), and removable wallpaper for an accent wall. These three changes deliver the biggest visual impact for under $300 CAD. More ideas in our <a href='/blog/apartment-decor-ideas-on-a-budget'>apartment decor ideas on a budget</a> post."
 ---
 
 Your living room is the first room guests see and the room you spend the most time in. When it's 200 square feet and doubles as your dining room and home office, every decision matters.

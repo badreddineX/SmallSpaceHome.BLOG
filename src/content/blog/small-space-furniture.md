@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "What furniture is best for a small apartment in Canada?"
-    a: "Multi-functional pieces first: a sofa bed or daybed, a storage ottoman, a bed with built-in drawers, and nesting tables. Every piece should do at least two things. The IKEA KALLAX, PAX wardrobe, FRIHETEN sofa bed, and NORDLI storage bed are the most useful anchors in a small Canadian apartment."
+    a: "Multi-functional pieces every time: storage ottoman, sofa bed for guests, bed with built-in drawers, nesting tables. The IKEA KALLAX, PAX wardrobe, FRIHETEN sofa bed (~$999 CAD), and NORDLI storage bed are the most useful anchors. Our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks guide</a> shows how to configure each one."
   - q: "How do I furnish a studio apartment in Canada on a budget?"
-    a: "Start with what you actually need every day: a place to sleep, a place to sit, and storage. Buy those three things first, then fill in secondary items. IKEA is consistently the best value-for-money option in Canada for apartment furniture. Facebook Marketplace and Kijiji are excellent for gently used pieces."
+    a: "Cover the essentials first — a place to sleep, a place to sit, and storage. Then fill in secondary items. IKEA Canada is the best value-for-money starting point. Facebook Marketplace and Kijiji in most Canadian cities have solid second-hand IKEA pieces for 40–60% off retail."
   - q: "What should I avoid buying for a small apartment?"
-    a: "Large sectional sofas, king beds in small bedrooms, coffee tables that block walking paths, multiple single-purpose pieces (separate coffee table + side table + console table when one could do all three), and bulky entertainment consoles. When in doubt, buy the smaller size."
+    a: "Large sectionals, king beds in tight bedrooms, coffee tables that block walking paths, and multiple single-purpose pieces where one would do. When in doubt, always buy the smaller size. You can add later, but returning a sofa that overwhelms the room is a real logistical headache."
   - q: "Is IKEA furniture good for a small apartment?"
-    a: "Yes — IKEA's range is specifically designed with smaller spaces in mind. The KALLAX, PAX, BILLY, and NORDLI are all well-suited to apartments. Quality is acceptable for renters who may move every 2–3 years. Assemble carefully, use furniture anchors where required, and the pieces last well."
+    a: "Yes — the KALLAX, PAX, BILLY, and NORDLI are all well-suited to Canadian apartments and designed with compact living in mind. Quality holds up for the 2–3 year rental cycle most Canadians deal with. Assemble carefully, use the included wall anchors, and they last well."
 ---
 
 Furnishing a small Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture makes the space genuinely harder to live in. The right furniture creates the feeling of more space while quietly solving storage and function problems at the same time. I've furnished and refurnished my 510 sq ft Toronto apartment three times — here's what actually works.

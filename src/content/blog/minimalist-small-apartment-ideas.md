@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "What does a minimalist apartment look like?"
-    a: "Clear surfaces, a limited colour palette (usually 2–3 colours maximum), no decorative clutter, functional furniture with clean lines, and only objects that serve a clear purpose or bring genuine pleasure. The feeling is calm and spacious — not cold or bare."
+    a: "Clear surfaces, a 2–3 colour palette, no decorative clutter, functional furniture with clean lines, and only objects that serve a purpose or bring genuine pleasure. The feeling is calm and spacious — not cold or bare. For a room-by-room example, see our <a href='/blog/small-space-decorating'>small space decorating rules</a> post."
   - q: "How do I start minimalism in my apartment?"
-    a: "Start by decluttering one room completely. Everything out, then only what you use regularly and what you love goes back. The first room is the hardest. Once you see how much calmer it feels, the rest follows naturally."
+    a: "One room at a time. Take everything out, then only put back what you use regularly or genuinely love. The first room is the hardest — once you see how much calmer it feels, the rest follows. Most people find the bedroom is the best starting point."
   - q: "What is the minimalist approach to apartment furniture?"
-    a: "Fewer pieces, better quality, more deliberate placement. Every piece should serve a clear purpose. Prefer multi-functional furniture — storage bed, storage ottoman, sofa bed if you need guest space. Prefer furniture with legs (less visual weight) and neutral colours."
+    a: "Fewer pieces, better quality, more deliberate placement. Every piece should serve a clear purpose. Multi-functional furniture — storage bed, storage ottoman, sofa bed for guests — means you need fewer pieces total. Furniture with visible legs reads as lighter and takes up less visual space."
   - q: "Is minimalism expensive to achieve in a Canadian apartment?"
-    a: "No — minimalism is actually cheaper than maximalist decorating because you buy fewer things. The work is in editing what you already have, not in buying more. The cost is the time and effort of decluttering, not a shopping budget."
+    a: "It's actually cheaper than most decorating approaches because you buy fewer things. The real cost is time spent decluttering, not a shopping budget. If you want to reinvest the savings, our <a href='/blog/small-space-furniture'>small space furniture guide</a> covers the best multi-functional picks at real CAD prices."
 ---
 
 Minimalism in a small Canadian apartment is not a style choice — it's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in. Minimalism means having exactly what you need and genuinely love, and nothing else. Here's how to approach it without turning your home into an empty showroom.

@@ -11,13 +11,13 @@ category: "Storage"
 readTime: 6
 faqs:
   - q: "Is IKEA KALLAX good for small apartments?"
-    a: "Yes — the KALLAX is one of the most versatile storage units for small spaces. It works as a room divider, TV stand, wardrobe base, bookshelf, or entryway bench. The modular cube system adapts to almost any layout."
+    a: "Yes — it's one of the most versatile storage units available in Canada. Room divider, TV console, wardrobe base, entryway bench, bookshelf: the KALLAX does all of it. The modular cube system adapts to almost any layout and any room. See how it fits into a broader small-space setup in our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks guide</a>."
   - q: "What can I store in KALLAX cubes?"
-    a: "Almost anything — books, clothes, shoes, toys, plants, art, office supplies, kitchen items. Add KALLAX fabric bins for closed storage or leave cubes open for display. Each cube holds up to 13 kg."
+    a: "Almost anything — books, clothes, shoes, plants, art, office supplies. Add IKEA fabric bins (~$6 CAD each) for closed storage or leave cubes open for display. Each cube holds up to 13 kg, which is more than enough for most household items you'd actually want to store there."
   - q: "How do I make KALLAX look less like IKEA?"
-    a: "Replace standard doors and bins with custom inserts from Bemz or Superfront Canada (ships to CA), add legs, paint it, or style the open cubes with plants and art. Mixing closed and open cubes breaks up the generic look."
+    a: "Replace standard bins with custom inserts from Bemz or Superfront Canada (both ship to Canadian addresses), add furniture legs, paint the unit with chalk paint, or style open cubes with plants and art. Mixing closed bins with open styled cubes breaks up the generic look effectively."
   - q: "What is the price of IKEA KALLAX in Canada?"
-    a: "The KALLAX 4-square unit is approximately $79 CAD. The 8-square (2x4) is around $139 CAD. Fabric bins are ~$6 each, and doors are ~$15 each. Prices vary by IKEA Canada location."
+    a: "The 4-square unit runs approximately $79 CAD. The 2x4 (8-square) is around $139 CAD. Fabric bins are ~$6 each and doors are ~$15 each at IKEA Canada. Prices can vary slightly by location — worth checking online before your trip."
 ---
 
 If there's one piece of IKEA furniture built for small apartment life, it's the KALLAX. I own two. It's modular, affordable, and works in almost every room — from studio divider to entryway bench to home office storage wall. Here's how to get the most out of them, with real CAD prices and configurations that work in Canadian apartments.

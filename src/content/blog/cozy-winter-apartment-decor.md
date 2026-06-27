@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "How do I make my apartment feel cozy in Canadian winter?"
-    a: "Warm-toned lighting is the single most effective change — swap cool white bulbs for warm 2700K and add a floor lamp. Then layer textiles (extra throw blankets, chunky cushions, a heavier rug). Add scent (candles, a diffuser). These three things transform any apartment from cold and clinical to genuinely cozy."
+    a: "Swap cool white bulbs for warm 2700K LEDs (~$15–$25 CAD at Canadian Tire) and add a floor lamp — this is the single most effective change. Then layer textiles: chunky throw, heavier cushions. Add scent with candles or a diffuser. These three things transform any apartment from clinical to genuinely cozy."
   - q: "What are the best cozy decor items for winter in Canada?"
-    a: "A chunky knit throw (~$30–$60 CAD from HomeSense), warm 2700K LED bulbs (~$15 CAD), a soy candle (~$20–$35 CAD), and faux sheepskin or fur cushions (~$15–$30 CAD each). Combined, these four items cost under $150 CAD and create the cozy winter look most people associate with hygge-inspired interiors."
+    a: "A chunky knit throw from HomeSense (~$30–$60 CAD), warm 2700K LED bulbs (~$15 CAD), a soy candle (~$20–$35 CAD), and faux sheepskin cushions (~$15–$30 CAD each). Under $150 CAD combined and they create the hygge-inspired warmth most Canadians want through a long winter. See our <a href='/blog/fall-apartment-decorating-ideas'>fall apartment decorating ideas</a> post for the seasonal transition approach."
   - q: "What is hygge and how do I create it in a small apartment?"
-    a: "Hygge is a Danish concept roughly meaning warm coziness — the feeling of contentment and well-being when you're comfortable and at ease. It is created through warm lighting (candles, lamps), soft textiles (blankets, cushions), warm drinks, scent, and time spent without rushing. In an apartment, it's primarily about lighting and layering."
+    a: "Hygge is a Danish concept for warm, contented coziness — the feeling of ease when you're comfortable and unhurried. In an apartment it's primarily about lighting and layering: candles and lamps instead of overhead lights, soft blankets and cushions, scent, and a space that feels like a refuge from the cold outside."
   - q: "How do I add winter decor to a rental apartment without losing my deposit?"
-    a: "Everything you need for cozy winter decor is freestanding or temporary — throw blankets, cushions, candles, plants, warm bulbs, a floor lamp, and seasonal items on shelves. None of these require installation or cause any wall damage. Remove them in spring and the apartment looks exactly as it did when you moved in."
+    a: "Everything cozy is freestanding or temporary — throw blankets, cushions, candles, plants, warm bulbs, and a floor lamp. None require installation or wall damage. Remove them in spring and the apartment looks exactly as it did when you moved in. Zero deposit risk."
 ---
 
 Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.

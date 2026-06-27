@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 7
 faqs:
   - q: "How do I decorate my apartment for fall in Canada?"
-    a: "Switch textiles to warm autumnal tones (rust, amber, forest green, warm cream), add natural elements (a small gourd arrangement, dried botanicals, pinecones), and swap candle scents to autumn-appropriate fragrances (cinnamon, apple, wood smoke). These three changes signal fall without requiring any permanent modifications to the apartment."
+    a: "Switch textiles to warm autumn tones (rust, amber, forest green, warm cream), add natural elements (dried botanicals, pinecones, a small gourd arrangement), and swap candle scents to cinnamon, apple, or wood smoke. Three changes, zero permanent modifications. For winter, our <a href='/blog/cozy-winter-apartment-decor'>cozy winter apartment decor guide</a> picks up where autumn leaves off."
   - q: "What are the best fall decor colours for a small apartment?"
-    a: "Warm earth tones work beautifully in small spaces: terracotta, rust, amber, burnt orange, forest green, and warm cream. These colours add richness and warmth without overwhelming a small room. Use them in textiles (cushions, throws) rather than on walls or large furniture pieces."
+    a: "Warm earth tones work beautifully without overwhelming a small room: terracotta, rust, amber, burnt orange, forest green, and warm cream. Use them in textiles — cushions and throws — rather than on walls or large furniture. That way you can swap back to neutrals after the season without any effort."
   - q: "How do I decorate for fall without making my apartment look overdone?"
-    a: "Less is more with seasonal decor. Pick 2–3 seasonal elements (a small pumpkin arrangement, a rust-coloured throw, a cinnamon candle) and let them do the work. Resist the urge to buy seasonal everything — the apartment should feel like autumn, not like a Halloween store."
+    a: "Pick 2–3 seasonal elements max: a rust-coloured throw, a cinnamon candle, and a small natural arrangement. Let those do the work. Resist the urge to buy seasonal everything — the apartment should feel like autumn, not like a Halloween display. Restraint is the difference between cozy and chaotic."
   - q: "What fall decor can I find in Canada on a budget?"
-    a: "Natural elements are free: collect pinecones, dried leaves, and seed pods on a walk. Dollarama has pumpkin and gourd decor for $1–$4 each. HomeSense/Winners for quality cushions and throws at discount prices. Canadian Tire for seasonal candles. Total autumn refresh under $75 CAD."
+    a: "Natural elements are free — collect pinecones, dried leaves, and seed pods on any walk. Dollarama has pumpkin and gourd decor for $1–$4 each. HomeSense and Winners carry quality cushions and throws at discount. Canadian Tire for seasonal candles. Total autumn refresh well under $75 CAD."
 ---
 
 Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.

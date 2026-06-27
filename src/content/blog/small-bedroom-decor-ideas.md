@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "How do I make a small bedroom feel bigger?"
-    a: "Keep the colour palette light and cohesive, position the bed against the longest wall, use mirrors to reflect light, choose furniture with legs (so the floor is visible), and keep surfaces clear. The most powerful single change is usually lighting — swap harsh overhead for warm lamps."
+    a: "Light, cohesive colours, bed against the longest wall, mirrors to reflect light, and furniture with visible legs. The fastest single change is lighting — swap a harsh overhead for warm lamps. Our <a href='/blog/how-to-make-a-small-room-look-bigger'>guide on making a small room look bigger</a> covers 13 visual tricks that cost almost nothing."
   - q: "What colours make a small bedroom look bigger in Canada?"
-    a: "Soft whites, warm creams, and light greiges (grey-beige) work best. They reflect natural light and visually expand the space. If you want some colour, use it in accents only — cushions, art, a plant — and keep the walls and bedding neutral."
+    a: "Soft whites, warm creams, and light greige (grey-beige) work best — they reflect natural light and visually push walls back. If you want colour, keep it in accents only: cushions, art, a plant. Walls and bedding should stay neutral, especially when you can't repaint."
   - q: "What furniture should I avoid in a small bedroom?"
-    a: "Avoid large, solid platform beds (they sit heavy on the floor), oversized dressers that crowd the room, and unnecessary furniture like vanities or armchairs that take floor space without adding function. When in doubt, fewer larger pieces look better than many small ones."
+    a: "Large solid platform beds, oversized dressers that crowd the room, and single-purpose pieces like vanities or armchairs that eat floor space without pulling their weight. When in doubt, buy the smaller size — you can always add, but taking away means returning something."
   - q: "How do I create storage in a small bedroom without a closet?"
-    a: "Under-bed storage with flat bins or IKEA SKUBB bags. A tall wardrobe like IKEA PAX in the corner. Over-door organizers on the bedroom door. Floating shelves on the walls. A bench at the foot of the bed with storage inside."
+    a: "Under-bed IKEA SKUBB bags (~$14 CAD), a tall PAX wardrobe in the corner, over-door organizers on the bedroom door, and floating shelves on the walls. A bench at the foot of the bed with storage inside helps too. Full breakdown in our <a href='/blog/small-bedroom-storage-ideas'>small bedroom storage ideas</a> guide."
 ---
 
 A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices — light colours, correct bed placement, and layered lighting — can make even a compact Canadian apartment bedroom feel calm, spacious, and restful. I sleep in a small bedroom every night in my 510 sq ft Toronto apartment, and here's what has actually made a difference.

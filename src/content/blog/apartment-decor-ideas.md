@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "How do I decorate an apartment without losing my damage deposit?"
-    a: "Use Command strips for art and shelves, peel-and-stick wallpaper for feature walls, and freestanding furniture for everything else. Document the apartment's condition with photos before you move in and when you leave. Deposit disputes almost always come down to documentation."
+    a: "Command strips for art and shelves, peel-and-stick wallpaper for feature walls, freestanding furniture for everything else. Document the apartment with photos before you move in and when you leave. Our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly decor guide</a> covers every no-damage technique in detail."
   - q: "What are the best apartment decor ideas on a budget in Canada?"
-    a: "Start with textiles (rug, cushions, throw) which transform a room for under $150 CAD. Add warm-toned light bulbs ($15–$25 CAD), a plant or two ($10–$30 CAD), and a gallery wall using Command strips and IKEA prints. You can completely transform a room for under $200 CAD."
+    a: "Textiles first — rug, cushions, throw for under $150 CAD. Warm 2700K bulbs ($15–$25 CAD) transform every room's mood overnight. Add a gallery wall with Command strips and IKEA prints. Total under $200 CAD. More detail in our <a href='/blog/apartment-decor-ideas-on-a-budget'>apartment decor ideas on a budget</a> post."
   - q: "How do I make my rental apartment feel like home?"
-    a: "The fastest way is personal objects — things that are specific to you, not generic showroom decor. Beyond that, fix the lighting (warm bulbs and lamps instead of harsh overhead), add a rug to anchor the living room, and keep surfaces clear of clutter."
+    a: "Personal objects matter more than expensive decor — pick things specific to you, not showroom fillers. Then fix the lighting (warm bulbs and lamps instead of harsh overhead), add a rug to anchor the living room, and keep surfaces clear. Those three moves alone change everything."
   - q: "Can I hang things on the walls in a Canadian rental apartment?"
-    a: "Most leases allow small nail holes for art. For anything heavier, use Command strips — they hold up to 7.5 kg and peel off cleanly. Always check your lease before drilling. If you're unsure, ask your landlord in writing so you have a record of their answer."
+    a: "Most leases allow small nail holes for art. For anything heavier, Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Always check your lease first — and if you ask your landlord, do it in writing so you have a record of their response."
 ---
 
 Decorating a rental apartment in Canada doesn't mean living with beige walls and zero personality. The no-damage rule is actually a creative constraint, not a dead end — and some of the best-looking apartments I've seen belong to renters who worked with the limitations instead of against them. I've decorated and redecorated my 510 sq ft Toronto apartment four times over three years. Here's what actually works.

@@ -10,12 +10,12 @@ featured: false
 category: "Storage"
 readTime: 7
 faqs:
-  - q: "How do you maximize storage in a small bedroom?"
-    a: "Use under-bed storage boxes for off-season items, switch to slim hangers to gain 30% more closet space, add a tall dresser instead of a wide one to use vertical space, and put shelves above the bed or desk where possible."
-  - q: "What is the best bed for a small bedroom with storage needs?"
-    a: “A platform bed with built-in drawers or a bed frame with under-bed clearance for storage boxes. Ottoman beds (the mattress lifts to reveal storage) are the most space-efficient option but cost more — $600 to $1,400 CAD typically.”
-  - q: "How do I organize a small wardrobe or closet?"
-    a: "Switch to velvet slim hangers first. Then add a second hanging rod for shorter items, an over-door organizer, shelf dividers for folded items, and a floor-level shoe rack or hanging shoe organizer. Use the top shelf for rarely used items in labeled bins."
+  - q: “How do you maximize storage in a small bedroom?”
+    a: “Under-bed storage for off-season items, slim velvet hangers to gain 30–40% more closet space (~$18 CAD on Amazon.ca), a tall dresser instead of a wide one, and floating shelves above the bed. For the full system, our <a href='/blog/small-apartment-bedroom-storage-ideas'>small apartment bedroom storage guide</a> covers every zone in order.”
+  - q: “What is the best bed for a small bedroom with storage needs?”
+    a: “A platform bed with built-in drawers or a frame with under-bed clearance for flat storage boxes. Ottoman beds are the most space-efficient (the mattress lifts to reveal storage), but cost more — typically $600–$1,400 CAD. The IKEA BRIMNES with drawers is a solid starting point at ~$399 CAD.”
+  - q: “How do I organize a small wardrobe or closet?”
+    a: “Slim velvet hangers first — they free 30–40% more hanging space immediately. Then a second tension rod below the existing one for short items (~$15 CAD), an over-door organizer for shoes and accessories, and shelf dividers for folded stacks. Top shelf goes to rarely used items in labeled bins. Under $70 CAD total for all four steps.”
 ---
 
 The bedroom is usually the most storage-starved room in a small Canadian apartment. Here's how to get every last centimetre working for you — with IKEA, Amazon.ca, and HomeSense options at real CAD prices, all renter-friendly.

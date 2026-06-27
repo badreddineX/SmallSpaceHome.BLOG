@@ -11,13 +11,13 @@ category: "Organization"
 readTime: 7
 faqs:
   - q: "How do I organize a small apartment cheaply in Canada?"
-    a: "Start with what you already have. Declutter first — remove everything that doesn't belong. Reorganize what remains using boxes and bags you already own. Only then identify specific gaps that need a product. Most apartments can be significantly improved before spending $50 CAD."
+    a: "Start with what you already have. Declutter first — remove everything that doesn't belong, reorganize what remains, and only then identify specific gaps that need a product. Most Canadian apartments can be significantly improved before spending $50 CAD. See our <a href='/blog/small-apartment-organization'>complete room-by-room organization guide</a> for the full system."
   - q: "What's the best cheap organization product for small apartments in Canada?"
-    a: "Slim velvet hangers (~$18 CAD for 50) are the single highest-impact, lowest-cost item for most small apartments. They free up 30–40% more closet space immediately. Second best: over-door organizers (~$25–$35 CAD) that add instant storage without installation."
+    a: "Slim velvet hangers (~$18 CAD for 50 on Amazon.ca) are the single highest-impact, lowest-cost item for most apartments — they free 30–40% more closet space immediately. Second best: over-door organizers (~$25–$35 CAD) that add instant storage with zero installation."
   - q: "Can I really organize my apartment for under $100 CAD?"
-    a: "Yes — if you declutter first and buy selectively. The most expensive mistake is buying storage products before deciding what to keep. Declutter, then identify the 2–3 specific problems to solve, then buy targeted products. Most people can solve their most critical organization problems for $50–$75 CAD."
+    a: "Yes, if you declutter first and buy selectively. The most expensive mistake is buying storage products before deciding what to keep. Identify 2–3 specific problems, then buy targeted solutions only. Most renters solve their core issues for $50–$75 CAD. Our <a href='/blog/storage-ideas-for-small-places'>storage ideas for small places</a> post lists 23 budget-friendly options."
   - q: "Where is the cheapest place to buy organization products in Canada?"
-    a: "Dollarama for basic bins, baskets, and hooks — excellent value for low-load items. Amazon.ca for specific products like slim hangers, over-door organizers, and drawer dividers. IKEA for larger system pieces. Canadian Tire for Command hooks and strips."
+    a: "Dollarama for bins, baskets, and basic hooks — great value for low-load items at $1–$4 each. Amazon.ca for slim hangers, over-door organizers, and drawer dividers. IKEA for larger system pieces. Canadian Tire for Command hooks and strips."
 ---
 
 You do not need a $500 Container Store haul to get your apartment organized. Most small-space organization problems can be solved for well under $100 CAD — if you declutter first, identify the 2–3 specific problems, then buy targeted solutions for those problems only. Here are 15 ideas, all under $100 CAD total, from a Toronto renter who has tested every one of them.

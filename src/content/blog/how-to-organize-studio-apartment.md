@@ -11,11 +11,11 @@ category: "Organization"
 readTime: 9
 faqs:
   - q: "How do you organize a studio apartment with no closet?"
-    a: "Use a freestanding wardrobe or a KALLAX with doors, over-door organizers on bathroom and entry doors, under-bed storage boxes, and hooks throughout. You can store a full wardrobe without a single closet shelf."
+    a: "A freestanding PAX wardrobe or KALLAX with doors handles hanging and folded clothes. Over-door organizers on bathroom and entry doors take shoes and accessories. Under-bed storage boxes manage seasonal gear. You can replace a full closet system for under $200 CAD. See our <a href='/blog/small-apartment-bedroom-storage-ideas'>bedroom storage ideas guide</a> for the full no-closet setup."
   - q: "How do you make a studio apartment feel bigger?"
-    a: "Define zones with rugs and furniture placement, use vertical storage, keep sightlines clear, use consistent colours throughout, and maximize natural light. Mirrors reflect light and make rooms feel significantly larger."
+    a: "Define zones with rugs and furniture placement, use vertical storage on every wall, keep sightlines clear, and maintain a consistent colour palette throughout. Mirrors are the most powerful visual tool — one large mirror opposite a window reflects light and creates the impression of another room."
   - q: "What furniture is essential for a studio apartment?"
-    a: "Prioritize: a bed with storage (platform beds with drawers are ideal), a sofa that converts or doubles as a guest bed, a dining table that folds or tucks against a wall, and a tall shelving unit that provides maximum storage per floor footprint."
+    a: "A bed with storage drawers (IKEA NORDLI, ~$399 CAD), a sofa that converts to a guest bed (IKEA FRIHETEN, ~$999 CAD), a fold-down or compact dining table, and a tall shelving unit. Every piece should maximize storage per floor footprint. Our <a href='/blog/studio-apartment-ideas'>studio apartment ideas guide</a> covers how to configure each zone."
 ---
 
 A studio apartment is the most honest test of your organization skills. When everything is one room, your systems either work or they visibly don't. Here's the weekend plan I wish I'd had when I moved into my first studio in Vancouver — built for Canadian apartments with IKEA and Amazon.ca product picks and realistic CAD costs throughout.

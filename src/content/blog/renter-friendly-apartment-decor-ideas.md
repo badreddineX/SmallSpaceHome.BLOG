@@ -11,13 +11,13 @@ category: "Decor"
 readTime: 7
 faqs:
   - q: "How do I decorate a rental apartment without losing my deposit?"
-    a: "Use Command strips and hooks rated for the weight of your items, removable wallpaper on one accent wall, peel-and-stick tiles in the bathroom, and freestanding furniture. Always follow removal instructions exactly and test in a hidden spot first."
+    a: "Command strips and hooks rated for the weight, removable wallpaper on one accent wall, peel-and-stick tiles in the bathroom, and freestanding furniture throughout. Always follow removal instructions and test in a hidden spot first. More techniques in our <a href='/blog/apartment-decor-ideas'>apartment decor ideas guide</a>."
   - q: "Does removable wallpaper actually come off cleanly?"
-    a: "Most quality removable wallpapers (Chasing Paper, Tempaper, Rifle Paper Co.) come off cleanly from smooth painted walls if removed slowly at a low angle and at room temperature. Test a small section first. Textured walls are higher risk."
+    a: "Quality brands like Chasing Paper, Tempaper, and Rifle Paper Co. come off cleanly from smooth painted walls when removed slowly at a low angle and at room temperature. Always test a small section first. Textured walls are a higher risk and sometimes leave adhesive residue."
   - q: "What are the best Command strips for hanging art?"
-    a: "Command Large Picture Hanging Strips hold up to 7.5 kg per pair and come off without damaging paint. For heavier art, use multiple pairs spaced evenly. Always press for 30 seconds and wait 1 hour before hanging."
+    a: "Command Large Picture Hanging Strips hold up to 7.5 kg per pair and come off without damaging paint. For heavier art, use multiple pairs spaced evenly. Press firmly for 30 seconds and wait 1 hour before hanging anything — skipping the wait is the most common reason they fail."
   - q: "Can I use removable wallpaper in a Canadian rental?"
-    a: "Yes, in most cases. Removable wallpaper is specifically designed for rentals. However, always check your lease — some landlords prohibit any wall treatments. When in doubt, apply to a portable surface like a wooden panel you can lean against the wall."
+    a: "In most cases, yes — removable wallpaper is made for rentals. That said, always check your lease first, since some Canadian landlords prohibit any wall treatments. When in doubt, apply to a large wooden panel and lean it against the wall instead. Problem solved, deposit protected."
 ---
 
 Moving into a Canadian rental doesn't mean living with beige walls and zero personality for years. You can add colour, pattern, warmth, and real style without touching a drill or risking your damage deposit. These ideas are all renter-approved — no drilling, no permanent damage, fully reversible.

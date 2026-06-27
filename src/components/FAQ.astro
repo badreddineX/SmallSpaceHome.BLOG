@@ -35,7 +35,7 @@ const { questions } = Astro.props;
             aria-labelledby={`faq-btn-${i}`}
             hidden
           >
-            <p>{item.a}</p>
+            <p set:html={item.a}></p>
           </div>
         </div>
       ))}

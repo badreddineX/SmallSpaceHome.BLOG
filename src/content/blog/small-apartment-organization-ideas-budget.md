@@ -11,13 +11,13 @@ category: "Organization"
 readTime: 8
 faqs:
   - q: "What are the best storage solutions for small Canadian apartments?"
-    a: "Vertical storage is your best friend — wall shelves, over-door organizers, and tall bookshelves. Under-bed storage boxes and multi-function furniture like storage ottomans maximize every square metre without drilling."
+    a: "Vertical storage wins every time — wall shelves, over-door organizers, and tall bookshelves all give you capacity without eating floor space. Under-bed bins and multi-function furniture round it out. Check our full rundown of <a href='/blog/storage-solutions-for-small-apartments'>storage solutions for small apartments</a> for 16 tested picks."
   - q: "How do I organize a small apartment on a budget in Canada?"
-    a: "Start with IKEA KALLAX shelves ($79 CAD), Dollar Store storage bins, and Command hooks. You can completely transform a small apartment for under $150 CAD by focusing on vertical space first."
+    a: "Declutter before you spend a cent, then target the biggest pain points. Slim velvet hangers (~$18 CAD) free 30–40% more closet space instantly. IKEA KALLAX starts at ~$79 CAD. Most people solve their core problems for under $100 CAD total — see our <a href='/blog/small-apartment-organization-ideas-on-a-budget'>budget organization guide</a> for the full list."
   - q: "What renter-friendly storage solutions don't require drilling?"
-    a: "Command hooks, over-door organizers, freestanding shelves, tension rod dividers, and furniture with built-in storage are all renter-friendly options that require no permanent wall changes."
+    a: "Command strips (hold up to 7.5 kg), over-door organizers, freestanding shelves, tension rods, and furniture with built-in storage are all landlord-safe. We cover the best no-drill options in detail over at our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly decor guide</a>."
   - q: "Is IKEA worth it for small apartment organization in Canada?"
-    a: "Yes — IKEA Canada offers consistently good value for small-space storage. The KALLAX, TROFAST, and SKUBB systems are all designed for compact living and hold up well over time."
+    a: "Absolutely. IKEA Canada delivers solid value for small-space storage — the KALLAX, PAX, and SKUBB systems are all built with compact living in mind and hold up well over time. For creative configurations, our <a href='/blog/ikea-kallax-hacks-small-spaces'>IKEA KALLAX hacks guide</a> shows 11 ways to use one unit across every room."
 ---
 
 If you're renting a small apartment in Toronto, Vancouver, or Montreal, you already know the frustration: not enough storage, too much stuff, and a lease that says no drilling.

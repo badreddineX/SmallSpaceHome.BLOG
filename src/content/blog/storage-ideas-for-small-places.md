@@ -11,13 +11,13 @@ category: "Storage"
 readTime: 9
 faqs:
   - q: "What is the best storage solution for a small apartment in Canada?"
-    a: "The single best move is going vertical — wall shelves, tall wardrobes, and over-door organizers give you storage without eating floor space. For furniture, the IKEA KALLAX and PAX systems are the most flexible options available in Canada for a reasonable price."
+    a: "Go vertical first — wall shelves, tall wardrobes, and over-door organizers add serious capacity without eating floor space. For furniture, the IKEA KALLAX (~$79 CAD) and PAX are the most flexible options. Our <a href='/blog/storage-solutions-for-small-apartments'>storage solutions for small apartments</a> guide covers 16 tested picks by room."
   - q: "How do I add storage to an apartment without drilling?"
-    a: "Command strips and hooks hold up to 7.5 kg on most walls and peel off cleanly. Freestanding shelving units, tension rods, over-door organizers, and furniture with built-in storage are all completely drill-free options your landlord can't object to."
+    a: "Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Freestanding shelving, tension rods, over-door organizers, and furniture with built-in storage are all drill-free and landlord-approved. See more no-drill ideas in our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly apartment decor guide</a>."
   - q: "What are the best stores for apartment storage solutions in Canada?"
-    a: "IKEA leads for price and flexibility. Amazon.ca is best for specific organizers (drawer dividers, vacuum bags, over-door racks). HomeSense and Canadian Tire carry solid mid-range options. For baskets and bins, Dollarama gives surprisingly good value."
+    a: "IKEA leads for price and flexibility. Amazon.ca is best for specific organizers like drawer dividers and over-door racks. HomeSense and Canadian Tire carry solid mid-range options. For basic bins and baskets, Dollarama at $2–$4 each gives surprisingly good value."
   - q: "How much does it cost to organize a small apartment in Canada?"
-    a: "A focused storage overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one problem area at a time — say, the bedroom closet first — keeps costs manageable and lets you see results quickly."
+    a: "A focused overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one area at a time keeps costs manageable. If budget is tight, our <a href='/blog/small-apartment-organization-ideas-on-a-budget'>budget organization ideas</a> post covers 15 solutions, all under $100 CAD total."
 ---
 
 Storage in a small Canadian apartment is always a negotiation. You're working with maybe 450–650 square feet, a landlord who expects you to leave the walls intact, and winters that demand you store two full wardrobes worth of seasonal gear. The answer isn't a bigger apartment — it's using what you have more deliberately. I've lived in a 510 sq ft Toronto apartment for three years, and these are the storage solutions I've actually tested and kept.
