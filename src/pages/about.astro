@@ -78,7 +78,9 @@ const pillars = [
           </div>
           <div class="about-intro-body">
             <div class="author-photo-wrap">
-              <img src="/images/author-bb.jpg" alt="Badreddine Br" class="author-photo" width="80" height="80" />
+              <div class="author-avatar-circle">
+                <span class="author-initials">BB</span>
+              </div>
               <span class="author-photo-name">Badreddine Br</span>
             </div>
             <p>
@@ -288,12 +290,22 @@ const pillars = [
   gap: 14px;
   margin-bottom: 2rem;
 }
-.author-photo {
-  width: 72px;
-  height: 72px;
+.author-avatar-circle {
+  width: 56px;
+  height: 56px;
   border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid var(--color-border);
+  background: var(--color-ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.author-initials {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.05em;
 }
 .author-photo-name {
   font-family: var(--font-display);
