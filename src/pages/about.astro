@@ -499,13 +499,26 @@ const pillars = [
 
 @media (max-width: 860px) {
   .about-intro { grid-template-columns: 1fr; }
-  .about-intro-img-wrap { min-height: 320px; }
-  .about-intro-body { padding: 48px 28px; }
-  .categories-grid { grid-template-columns: repeat(2, 1fr); }
-  .author-card { flex-direction: column; text-align: center; padding: 36px 28px; }
+  .about-intro::after { display: none; }
+  .about-intro-img-wrap { min-height: 340px; }
+  .about-intro-img-wrap::before { height: 120px; }
+  .about-intro-img-wrap::after { height: 120px; }
+  .about-intro-body { padding: 40px 24px 56px; }
+  .categories-section { padding: 56px 20px; }
+  .categories-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  .categories-heading { margin-bottom: 32px; }
+  .author-section { padding: 56px 20px; }
+  .author-card { flex-direction: column; text-align: center; padding: 36px 24px; gap: 24px; }
+  .author-card-bio { max-width: 100%; }
 }
-@media (max-width: 520px) {
+@media (max-width: 480px) {
+  .about-hero { height: 75vh; min-height: 420px; }
+  .about-hero-content { padding: 0 20px; }
   .categories-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .author-card { padding: 28px 16px; }
+  .contact-right { padding: 32px 20px; }
+  .form-row { grid-template-columns: 1fr; }
+  .form-submit { align-self: stretch; }
 }
 
 /* ── ⑤ CONTACT ── */
@@ -592,7 +605,7 @@ const pillars = [
   border-radius: 0;
   padding: 10px 0;
   font-family: var(--font-body);
-  font-size: 0.92rem;
+  font-size: 16px;
   color: var(--color-ink);
   outline: none;
   transition: border-color var(--transition);
@@ -607,19 +620,10 @@ const pillars = [
 .form-field textarea { resize: vertical; min-height: 120px; line-height: 1.7; }
 .form-submit { align-self: flex-start; margin-top: 4px; padding-left: 36px; padding-right: 36px; }
 
-/* ── Responsive ── */
+/* ── Contact responsive ── */
 @media (max-width: 860px) {
-  .pillars-list, .pillars-header { padding: 0 24px; }
-  .pillar-title { font-size: clamp(2rem, 8vw, 3.2rem); }
-  .contact-inner { grid-template-columns: 1fr; gap: 48px; }
+  .contact-inner { grid-template-columns: 1fr; gap: 40px; }
   .contact-desc { max-width: 100%; }
-}
-@media (max-width: 480px) {
-  .about-hero { height: 80vh; }
-  .pillars-section { padding: 64px 0 56px; }
-  .pillar-content { padding: 36px 0 32px; gap: 10px; }
-  .contact-right { padding: 32px 20px; }
-  .form-row { grid-template-columns: 1fr; }
-  .form-submit { align-self: stretch; }
+  .contact-section { padding: 64px 20px 80px; }
 }
 </style>
