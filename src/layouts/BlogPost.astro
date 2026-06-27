@@ -872,16 +872,37 @@ const catClass: Record<string, string> = {
   .related-grid .rel-card:last-child { display: none; }
 }
 @media (max-width: 640px) {
-  .post-hero-wrap { height: 52vh; min-height: 260px; }
-  .post-header { padding: 36px 20px 32px; }
-  .post-wrap { padding: 40px 20px 56px; }
+  /* Hero */
+  .post-hero-wrap { height: 42vh; min-height: 200px; }
+
+  /* Header */
+  .post-header { padding: 24px 16px 20px; }
+  .post-header-inner { max-width: 100%; }
+  .post-meta { gap: 12px; flex-wrap: wrap; font-size: 0.8rem; }
+  .breadcrumb { display: none; }
+
+  /* Article */
+  .post-wrap { padding: 28px 16px 48px; }
+  .post-body :global(p) { font-size: 1rem; line-height: 1.85; }
   .post-body :global(p:first-child) { font-size: 1.05rem; }
-  .post-sidebar { flex-direction: column; }
-  .sidebar-toc { display: none; }
+  .post-body :global(h2) { font-size: 1.25rem; margin: 2rem 0 0.75rem; gap: 8px; }
+  .post-body :global(h3) { font-size: 1.05rem; margin: 1.6rem 0 0.6rem; gap: 8px; }
+  .post-body :global(blockquote) { padding: 16px 18px; margin: 1.6rem 0; }
+  .post-body :global(blockquote p) { font-size: 1.05rem !important; }
+  .post-body :global(ul), .post-body :global(ol) { padding-left: 1.2rem; }
+
+  /* Sidebar — show TOC collapsed, full width */
+  .post-sidebar { flex-direction: column; margin-top: 32px; gap: 20px; }
+  .sidebar-toc { display: block; width: 100%; min-width: unset; }
+  .sidebar-cta { width: 100%; min-width: unset; }
+
+  /* Related */
   .related-grid { grid-template-columns: 1fr; }
   .related-grid .rel-card:last-child { display: flex; }
   .inline-related-link { align-items: flex-start; }
-  .post-meta { gap: 14px; }
+
+  /* Author */
+  .author-bio { gap: 14px; padding: 24px 0; }
 }
 </style>
 
@@ -991,6 +1012,11 @@ if (tocHeadings.length < 2) {
     entries.forEach(entry => { if (entry.isIntersecting) setActive(); });
   }, { rootMargin: '-10% 0px -55% 0px' });
   tocHeadings.forEach(h => observer.observe(h));
+
+  // Start collapsed on mobile so it doesn't dominate the page
+  if (window.innerWidth <= 640) {
+    sidebarToc?.classList.add('is-collapsed');
+  }
 
   // Collapse toggle — toggles is-collapsed on the root .toc-widget element
   const tocHeader = document.getElementById('toc-header');
