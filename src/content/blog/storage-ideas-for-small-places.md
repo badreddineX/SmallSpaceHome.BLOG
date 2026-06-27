@@ -4,7 +4,7 @@ description: "Running out of storage in your Canadian apartment? These 23 renter
 image: "/images/blog-04-img1.jpg"
 datePublished: "2026-02-09"
 dateModified: "2026-02-09"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["small apartment storage", "renter-friendly", "Canada", "storage solutions", "IKEA"]
 featured: true
 category: "Storage"

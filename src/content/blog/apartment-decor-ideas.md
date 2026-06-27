@@ -4,7 +4,7 @@ description: "14 renter-friendly apartment decor ideas for Canadian apartments â
 image: "/images/blog-02-img1.jpg"
 datePublished: "2026-02-01"
 dateModified: "2026-02-01"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["apartment decor", "renter-friendly", "Canada", "decor ideas", "budget"]
 featured: false
 category: "Decor"

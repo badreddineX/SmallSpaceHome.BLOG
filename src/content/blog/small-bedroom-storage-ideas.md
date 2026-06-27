@@ -4,7 +4,7 @@ description: "Maximize storage in a small bedroom without drilling. 14 practical
 image: "/images/bedroom-minimalist.jpg"
 datePublished: "2026-02-18"
 dateModified: "2026-02-18"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["bedroom storage", "small bedroom", "wardrobe", "renter-friendly"]
 featured: false
 category: "Storage"

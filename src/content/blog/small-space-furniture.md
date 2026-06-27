@@ -4,7 +4,7 @@ description: "The best small space furniture for Canadian apartment renters — 
 image: "/images/blog-07-img1.jpg"
 datePublished: "2026-02-21"
 dateModified: "2026-02-21"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["small space furniture", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false
 category: "Decor"

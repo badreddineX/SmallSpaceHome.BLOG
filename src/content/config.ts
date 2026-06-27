@@ -8,7 +8,7 @@ const blog = defineCollection({
     image: z.string().default('/images/placeholder.jpg'),
     datePublished: z.string(),
     dateModified: z.string(),
-    author: z.string().default('Badreddine Briar'),
+    author: z.string().default('Badreddine Br'),
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
     category: z.enum(['Organization', 'Decor', 'Storage', 'Budget Tips']),

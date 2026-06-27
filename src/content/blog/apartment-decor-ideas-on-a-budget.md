@@ -4,7 +4,7 @@ description: "Transform your rental apartment for under $200 CAD. Budget-friendl
 image: "/images/blog-15-img1.jpg"
 datePublished: "2026-03-21"
 dateModified: "2026-03-21"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["budget decor", "apartment decor", "Canada", "under $200", "renter-friendly"]
 featured: false
 category: "Decor"

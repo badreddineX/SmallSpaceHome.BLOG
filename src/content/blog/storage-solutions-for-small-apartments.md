@@ -4,7 +4,7 @@ description: "16 storage solutions for small Canadian apartments — tested, ren
 image: "/images/blog-11-img1.jpg"
 datePublished: "2026-03-09"
 dateModified: "2026-03-09"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["storage solutions", "small apartment", "Canada", "renter-friendly", "organization"]
 featured: false
 category: "Storage"

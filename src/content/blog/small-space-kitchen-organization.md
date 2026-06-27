@@ -4,7 +4,7 @@ description: "14 kitchen organization ideas for small Canadian apartments — pa
 image: "/images/blog-17-img1.jpg"
 datePublished: "2026-03-29"
 dateModified: "2026-03-29"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["kitchen organization", "small kitchen", "Canada", "apartment kitchen", "pantry"]
 featured: false
 category: "Organization"

@@ -4,7 +4,7 @@ description: "14 small space decorating rules for Canadian apartment renters. Pr
 image: "/images/blog-08-img1.jpg"
 datePublished: "2026-02-25"
 dateModified: "2026-02-25"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["small space decorating", "apartment decor", "Canada", "renter-friendly", "small space"]
 featured: false
 category: "Decor"

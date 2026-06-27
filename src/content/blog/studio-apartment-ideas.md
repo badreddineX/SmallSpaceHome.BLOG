@@ -4,7 +4,7 @@ description: "Studio apartment ideas for Canadian renters — how to define zone
 image: "/images/blog-05-img1.jpg"
 datePublished: "2026-02-13"
 dateModified: "2026-02-13"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["studio apartment", "small space", "Canada", "apartment ideas", "organization"]
 featured: false
 category: "Decor"

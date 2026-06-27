@@ -4,7 +4,7 @@ description: "Transform your small living room with these 15 practical ideas tes
 image: "/images/blog-01-img1.jpg"
 datePublished: "2026-06-27"
 dateModified: "2026-06-27"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["small space living room", "apartment decor", "small space ideas", "renter-friendly", "Canada"]
 featured: true
 category: "Decor"

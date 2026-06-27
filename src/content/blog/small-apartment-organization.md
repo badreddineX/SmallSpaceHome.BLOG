@@ -4,7 +4,7 @@ description: "A complete room-by-room organization system for small Canadian apa
 image: "/images/blog-03-img1.jpg"
 datePublished: "2026-02-05"
 dateModified: "2026-02-05"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["small apartment organization", "organization", "Canada", "renter-friendly", "declutter"]
 featured: false
 category: "Organization"

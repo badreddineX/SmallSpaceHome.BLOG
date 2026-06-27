@@ -4,7 +4,7 @@ description: "15 IKEA small space hacks for Canadian apartments — furniture co
 image: "/images/blog-12-img1.jpg"
 datePublished: "2026-03-13"
 dateModified: "2026-03-13"
-author: "Badreddine Briar"
+author: "Badreddine Br"
 tags: ["IKEA hacks", "small space", "Canada", "apartment ideas", "IKEA"]
 featured: false
 category: "Organization"
