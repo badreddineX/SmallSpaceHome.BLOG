@@ -680,8 +680,11 @@ const catClass: Record<string, string> = {
   font-size: 18px;
   font-weight: 700;
   color: var(--toc-title-color);
-  letter-spacing: 0.18em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .toc-widget__toggle-button {
   display: flex;
