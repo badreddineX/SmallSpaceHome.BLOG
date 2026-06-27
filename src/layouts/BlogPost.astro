@@ -711,23 +711,23 @@ const catClass: Record<string, string> = {
   max-height: 0;
   border-top-color: transparent;
 }
-.toc-widget__list {
+:global(.toc-widget__list) {
   list-style: none;
   counter-reset: toc-counter;
   margin: 0;
   padding: 20px 20px;
 }
-.toc-widget__list-item {
+:global(.toc-widget__list-item) {
   counter-increment: toc-counter;
   margin-bottom: 16px;
 }
-.toc-widget__list-item:last-child { margin-bottom: 0; }
-.toc-widget__list-item-text-wrapper {
+:global(.toc-widget__list-item:last-child) { margin-bottom: 0; }
+:global(.toc-widget__list-item-text-wrapper) {
   display: flex;
   align-items: baseline;
   gap: 10px;
 }
-.toc-widget__list-item-text-wrapper::before {
+:global(.toc-widget__list-item-text-wrapper::before) {
   content: counter(toc-counter) ".";
   flex: 0 0 auto;
   font-size: 15px;
