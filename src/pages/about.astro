@@ -498,12 +498,35 @@ const pillars = [
 }
 
 @media (max-width: 860px) {
-  .about-intro { grid-template-columns: 1fr; }
+  /* Our Story — text overlaid on image */
+  .about-intro {
+    display: block;
+    position: relative;
+    min-height: 520px;
+  }
   .about-intro::after { display: none; }
-  .about-intro-img-wrap { min-height: 340px; }
-  .about-intro-img-wrap::before { height: 120px; }
-  .about-intro-img-wrap::after { height: 120px; }
-  .about-intro-body { padding: 40px 24px 56px; }
+  .about-intro-img-wrap {
+    position: absolute;
+    inset: 0;
+    min-height: unset;
+  }
+  .about-intro-img-wrap::before { height: 160px; }
+  .about-intro-img-wrap::after {
+    height: 70%;
+    background: linear-gradient(to bottom, transparent 0%, rgba(28,25,23,0.80) 100%);
+  }
+  .about-intro-body {
+    position: relative;
+    z-index: 3;
+    padding: 320px 28px 48px;
+    background: transparent;
+  }
+  .about-intro-heading { color: #fff; }
+  .about-intro-body p { color: rgba(255,255,255,0.82); }
+  .intro-sig { color: var(--color-accent) !important; }
+  .section-num { color: var(--color-accent); }
+  .section-num-line { background: rgba(196,168,130,0.5); }
+
   .categories-section { padding: 56px 20px; }
   .categories-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
   .categories-heading { margin-bottom: 32px; }
