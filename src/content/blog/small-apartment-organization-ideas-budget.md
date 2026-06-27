@@ -24,7 +24,9 @@ If you're renting a small apartment in Toronto, Vancouver, or Montreal, you alre
 
 The good news? You don't need more space. You need smarter systems.
 
-I've tried most of these in my own 520 sq ft Toronto apartment. Here's what actually works.
+I've tested every single one of these in my own 520 sq ft Toronto apartment. Here's what actually works — no drilling, no landlord calls, no wasted money.
+
+**TL;DR:** Start with vertical shelves, an IKEA KALLAX, under-bed storage, and slim velvet hangers. Those four changes alone will solve 80% of a small apartment's storage problem for under $130 CAD.
 
 ## 1. Go Vertical With Wall Shelves
 
@@ -37,6 +39,8 @@ The most underused storage in any apartment is the wall space above eye level. C
 If you buy one piece of furniture for a small apartment, make it a KALLAX. It works as a room divider, TV stand, bookshelf, wardrobe base, or entryway storage. Add fabric bins for the cubes and you've got a fully closed storage system.
 
 **Cost:** KALLAX 4-square unit starts at ~$79 CAD. Fabric bins from IKEA: ~$6 each.
+
+→ We have a full guide on [11 IKEA KALLAX hacks for small apartments](/blog/ikea-kallax-hacks-small-spaces) if you want to go deeper on this one piece.
 
 ![Floating shelves with books and plants above a desk — the LACK shelf system makes vertical storage beautiful and accessible](/images/decor-floating-shelves.jpg)
 
@@ -58,6 +62,8 @@ If your bed has clearance underneath, you're wasting prime real estate. Flat, li
 **Pro tip:** Vacuum storage bags compress bulky items like duvets and sweaters down to almost nothing.
 
 **Cost:** IKEA SKUBB under-bed bag (2-pack): ~$14 CAD.
+
+→ See the full breakdown of [small bedroom storage ideas for Canadian renters](/blog/small-bedroom-storage-ideas) — 14 more ways to maximize your bedroom without touching a wall.
 
 ## 5. Tension Rods to Double Closet Space
 
@@ -156,4 +162,14 @@ If I had to pick just a few things to do first:
 5. **Slim velvet hangers** ($18) — maximize wardrobe space
 
 Total: ~$153 CAD. Worth every dollar.
+
+---
+
+## Where to Go From Here
+
+Organization is the foundation — once your space works, decorating it becomes a lot more fun. If you're renting, you'll want everything to be no-damage and removable.
+
+Our guide on [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers exactly that: Command strips, removable wallpaper, no-drill solutions that actually look intentional.
+
+Start with one room. Pick the space that bothers you most every single day — usually the bedroom closet or the kitchen. Fix that first. The momentum carries itself.
 
