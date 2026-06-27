@@ -170,7 +170,7 @@ const catClass: Record<string, string> = {
             {tags.length > 0 && (
               <div class="post-tags">
                 {tags.map(tag => (
-                  <span class="post-tag">{tag}</span>
+                  <a class="post-tag" href={`/blog?tag=${encodeURIComponent(tag)}`}>{tag}</a>
                 ))}
               </div>
             )}
@@ -651,6 +651,8 @@ const catClass: Record<string, string> = {
   letter-spacing: 0.06em;
   border-radius: 100px;
   transition: border-color var(--transition), color var(--transition);
+  text-decoration: none;
+  cursor: pointer;
 }
 .post-tag:hover { border-color: var(--color-ink); color: var(--color-ink); }
 
