@@ -39,22 +39,41 @@ const latest   = sorted.slice(0, 6);
            HERO — full bleed image with text overlay
       ══════════════════════════════════════ -->
       <section class="hero" aria-labelledby="hero-heading">
-        <div class="container hero-inner">
-          <span class="eyebrow hero-eyebrow">For Canadian apartment renters</span>
-          <h1 id="hero-heading">
-            Small Space Living,<br/>
-            <em>Done Beautifully</em>
-          </h1>
-          <div class="hero-rule" aria-hidden="true"></div>
-          <p class="hero-sub">
-            Organization and decor ideas for Toronto, Vancouver, and Montreal apartments —
-            renter-friendly, budget-conscious, genuinely useful.
-          </p>
-          <div class="hero-ctas">
-            <a href="/blog"  class="btn hero-btn-primary">Browse Ideas</a>
-            <a href="/about" class="btn hero-btn-outline">Our Story</a>
+
+        <!-- Full-bleed background image -->
+        <div class="hero-bg">
+          <img
+            src="/images/blog-01-img1.jpg"
+            alt=""
+            class="hero-bg-img"
+            loading="eager"
+            width="1800"
+            height="1000"
+            aria-hidden="true"
+          />
+          <div class="hero-overlay" aria-hidden="true"></div>
+        </div>
+
+        <!-- Text content over image -->
+        <div class="hero-content">
+          <div class="container hero-inner">
+            <span class="eyebrow hero-eyebrow">For Canadian apartment renters</span>
+            <h1 id="hero-heading">
+              Small Space Living,<br/>
+              <em>Done Beautifully</em>
+            </h1>
+            <div class="hero-rule" aria-hidden="true"></div>
+            <p class="hero-sub">
+              Organization and decor ideas for Toronto, Vancouver, and Montreal apartments —
+              renter-friendly, budget-conscious, genuinely useful.
+            </p>
+            <div class="hero-ctas">
+              <a href="/blog"  class="btn hero-btn-primary">Browse Ideas</a>
+              <a href="/about" class="btn hero-btn-outline">Our Story</a>
+            </div>
           </div>
         </div>
+
       </section>
 
 
@@ -121,7 +140,7 @@ const latest   = sorted.slice(0, 6);
 
               <!-- Secondary stacked cards -->
               <div class="feat-side">
-                {sorted.slice(1, 5).map(post => (
+                {sorted.slice(1, 6).map(post => (
                   <article class="feat-side-card">
                     <a href={`/blog/${post.slug}`} class="feat-side-img-link">
                       <div class="feat-side-img img-placeholder" role="img" aria-label={post.data.title}>
@@ -249,15 +268,38 @@ const latest   = sorted.slice(0, 6);
 
 /* ── HERO ── */
 .hero {
-  background: linear-gradient(150deg, #EDE7DB 0%, #F3EFE9 60%, #FAFAF7 100%);
-  border-bottom: 1px solid var(--color-border);
-  padding: 72px 0 80px;
+  position: relative;
+  min-height: 75vh;
+  display: flex;
+  align-items: center;
 }
 
-.hero-inner {
-  max-width: 680px;
-  padding: 0;
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
 }
+.hero-bg-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(28, 25, 23, 0.42);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  padding: 72px 0 80px;
+}
+.hero-inner { max-width: 720px; }
 
 .hero-eyebrow { color: var(--color-accent-dark); letter-spacing: 0.18em; }
 
