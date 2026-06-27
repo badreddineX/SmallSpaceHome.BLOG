@@ -43,10 +43,13 @@ const POSTS_PER_PAGE = 6;
     <main>
       <!-- Editorial hero -->
       <section class="read-hero">
-        <h1 class="read-hero-title">
-          Read All<br />
-          <em>Organization &amp; Decor</em>
-        </h1>
+        <div class="read-hero-bg" aria-hidden="true"></div>
+        <div class="read-hero-content">
+          <h1 class="read-hero-title">
+            Read All<br />
+            <em>Organization &amp; Decor</em>
+          </h1>
+        </div>
       </section>
 
       <!-- Keyword search bar -->
@@ -169,10 +172,27 @@ const POSTS_PER_PAGE = 6;
 <style>
 /* ── Hero ── */
 .read-hero {
+  position: relative;
   text-align: center;
-  padding: 80px 24px 56px;
-  background: var(--color-white);
+  padding: 0;
+  overflow: hidden;
   border-bottom: 1px solid var(--color-border);
+}
+
+.read-hero-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url('/images/about-hero-apartment.jpg');
+  background-size: cover;
+  background-position: center 40%;
+  filter: blur(2px) brightness(0.55);
+  transform: scale(1.05);
+}
+
+.read-hero-content {
+  position: relative;
+  z-index: 1;
+  padding: 90px 24px 70px;
 }
 
 .read-hero-title {
@@ -180,14 +200,14 @@ const POSTS_PER_PAGE = 6;
   font-size: clamp(2.4rem, 6vw, 4.2rem);
   font-weight: 400;
   line-height: 1.12;
-  color: var(--color-heading);
+  color: #fff;
   margin: 0;
 }
 
 .read-hero-title em {
   font-style: italic;
   font-weight: 400;
-  color: var(--color-heading);
+  color: var(--color-accent);
 }
 
 /* ── Search bar ── */
@@ -581,7 +601,7 @@ const POSTS_PER_PAGE = 6;
 }
 
 @media (max-width: 480px) {
-  .read-hero { padding: 56px 20px 40px; }
+  .read-hero-content { padding: 64px 20px 48px; }
   .posts-section { padding: 40px 16px 72px; }
   .posts-grid { grid-template-columns: repeat(2, 1fr); gap: 24px 14px; }
   .filter-tab { padding: 14px 16px; }
