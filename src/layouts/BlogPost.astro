@@ -354,7 +354,7 @@ const catClass: Record<string, string> = {
 }
 .post-layout {
   display: grid;
-  grid-template-columns: 1fr 360px;
+  grid-template-columns: 1fr 420px;
   gap: 72px;
   align-items: start;
 }
@@ -659,7 +659,7 @@ const catClass: Record<string, string> = {
 .toc-widget__header-title {
   margin: 0;
   font-family: var(--font-display);
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   color: var(--toc-title-color);
 }
@@ -698,7 +698,7 @@ const catClass: Record<string, string> = {
   list-style: none;
   counter-reset: toc-counter;
   margin: 0;
-  padding: 16px 20px;
+  padding: 20px 24px;
 }
 .toc-widget__list-item {
   counter-increment: toc-counter;
@@ -713,17 +713,17 @@ const catClass: Record<string, string> = {
 .toc-widget__list-item-text-wrapper::before {
   content: counter(toc-counter) ".";
   flex: 0 0 auto;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 600;
   color: var(--color-accent-dark);
-  min-width: 18px;
+  min-width: 22px;
 }
 .toc-widget__list-item-text {
   position: relative;
   display: inline-block;
   flex: 1 1 auto;
-  font-size: 15px;
-  line-height: 1.4;
+  font-size: 17px;
+  line-height: 1.5;
   color: var(--toc-link-color);
   text-decoration: none;
   transition: color 0.2s ease;
