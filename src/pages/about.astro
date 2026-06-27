@@ -236,6 +236,22 @@ const pillars = [
     rgba(10,10,10,0.82) 100%
   );
 }
+.about-hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 220px;
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(243,239,233,0.55) 55%,
+    #F3EFE9 100%
+  );
+  z-index: 3;
+  pointer-events: none;
+}
 .about-hero-content {
   position: relative;
   z-index: 2;
@@ -292,6 +308,7 @@ const pillars = [
   grid-template-columns: 1fr 1fr;
   min-height: 600px;
   border-bottom: 1px solid var(--color-border);
+  background: #F3EFE9;
 }
 .about-intro-img-wrap {
   overflow: hidden;
@@ -312,7 +329,7 @@ const pillars = [
 .about-intro-img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .about-intro-body {
   padding: 64px 56px;
-  background: #fff;
+  background: #F3EFE9;
   display: flex;
   flex-direction: column;
   justify-content: center;
