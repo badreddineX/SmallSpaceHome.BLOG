@@ -636,8 +636,8 @@ const catClass: Record<string, string> = {
 
 /* ── TOC — Elementor widget, site palette ── */
 .toc-widget {
-  --toc-bg:          #DDD0BE;
-  --toc-border:      #C8B89E;
+  --toc-bg:          var(--color-surface);
+  --toc-border:      var(--color-border);
   --toc-title-color: var(--color-ink);
   --toc-link-color:  var(--color-text-muted);
   --toc-link-active: var(--color-accent-dark);
@@ -654,6 +654,8 @@ const catClass: Record<string, string> = {
   justify-content: space-between;
   padding: 16px 20px;
   cursor: pointer;
+  background: #DDD0BE;
+  border-radius: 6px 6px 0 0;
   user-select: none;
 }
 .toc-widget__header-title {
