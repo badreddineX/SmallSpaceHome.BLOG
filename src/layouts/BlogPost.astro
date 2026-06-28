@@ -299,6 +299,7 @@ const catClass: Record<string, string> = {
 .post-header {
   padding: 48px 24px 40px;
   border-bottom: 1px solid var(--color-border);
+  overflow-x: hidden;
 }
 .post-header-inner {
   max-width: 760px;
@@ -377,7 +378,7 @@ const catClass: Record<string, string> = {
   gap: 72px;
   align-items: start;
 }
-.post-main { min-width: 0; }
+.post-main { min-width: 0; overflow-x: hidden; }
 
 /* ── Body typography ── */
 .post-body {
