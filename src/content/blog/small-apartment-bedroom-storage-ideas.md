@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Apartment Bedroom Storage Ideas: 13 Ways to Store More in Less Space"
 description: "13 bedroom storage ideas for small Canadian apartments — closet, under-bed, wall, and furniture storage solutions. All renter-friendly with real CAD prices."
 image: "/images/blog-18-img1.jpg"
@@ -113,7 +113,7 @@ If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide
 
 If you have open shelves in the bedroom (BILLY bookcase, floating shelves, wardrobe shelves without doors), wicker baskets hide contents while keeping them accessible. One basket per category: scarves, workout clothes, bags, etc.
 
-**Cost:** Wicker baskets from [HomeSense](https://www.homesense.ca), [IKEA Canada](https://www.ikea.com/ca/en/), or [Amazon.ca](https://www.amazon.ca), ~$10–$25 each.
+**Cost:** Wicker baskets from HomeSense, [IKEA Canada](https://www.ikea.com/ca/en/), or [Amazon.ca](https://www.amazon.ca), ~$10–$25 each.
 
 ---
 

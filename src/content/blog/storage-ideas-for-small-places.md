@@ -1,4 +1,4 @@
----
+﻿---
 title: "23 Small Apartment Storage Ideas That Actually Work in Canada"
 description: "Running out of storage in your Canadian apartment? These 23 renter-friendly storage ideas use vertical space, hidden nooks, and smart furniture — no drilling required."
 image: "/images/blog-04-img1.jpg"
@@ -173,7 +173,7 @@ The system only works if everyone in the apartment can maintain it. Labels make 
 
 Most apartment kitchens have a gap between the top of the cabinets and the ceiling. This space is perfect for storing items you rarely use — large serving platters, seasonal kitchen tools, extra appliances. Use matching baskets to keep it looking intentional.
 
-**Cost:** Deep wicker or fabric baskets from [HomeSense](https://www.homesense.ca) or [Amazon.ca](https://www.amazon.ca), ~$15–$35 CAD each.
+**Cost:** Deep wicker or fabric baskets from HomeSense or [Amazon.ca](https://www.amazon.ca), ~$15–$35 CAD each.
 
 ## 23. A Hanging Wardrobe Rack If You Have No Closet
 

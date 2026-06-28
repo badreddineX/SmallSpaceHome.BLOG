@@ -1,4 +1,4 @@
----
+﻿---
 title: "Apartment Decor Ideas That Actually Work for Canadian Renters"
 description: "14 renter-friendly apartment decor ideas for Canadian apartments — no damage, no lost deposits. Real CAD prices, works in Toronto, Vancouver, and Montreal."
 image: "/images/blog-02-img1.jpg"
@@ -143,7 +143,7 @@ Once you can see your actual space — the furniture, the proportions, the light
 How your home smells matters as much as how it looks. A beautifully decorated apartment that smells stale doesn't feel like a home.
 
 **Easy options:**
-- Soy candles — long burning, clean scent, no residue. Canadian brands like P.F. Candle Co. available at [HomeSense](https://www.homesense.ca)
+- Soy candles — long burning, clean scent, no residue. Canadian brands like P.F. Candle Co. available at HomeSense
 - A reed diffuser for rooms where candles aren't practical
 - An essential oil diffuser — doubles as a small humidifier in dry Canadian winters (~$30–$50 CAD at Amazon.ca)
 

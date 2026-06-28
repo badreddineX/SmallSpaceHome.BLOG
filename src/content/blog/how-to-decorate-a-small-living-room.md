@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Decorate a Small Living Room: A Step-by-Step Guide for Renters"
 description: "A step-by-step guide to decorating a small living room in a Canadian rental apartment. Layout, lighting, furniture scale, colour, and storage — in the right order."
 image: "/images/blog-10-img1.jpg"
@@ -90,7 +90,7 @@ Curtain panels hung from as close to the ceiling as possible, falling to the flo
 - Tension curtain rods (no drilling) — work well for lighter curtains
 - Command large curtain rod brackets (~$18 CAD) — hold heavier curtains without drilling
 
-**Cost:** [IKEA](https://www.ikea.com/ca/en/) LENDA curtain panels (2-pack) ~$30–$50 CAD. Rod ~$25–$40 CAD. [HomeSense](https://www.homesense.ca) also carries curtain panels at comparable prices if you want more variety.
+**Cost:** [IKEA](https://www.ikea.com/ca/en/) LENDA curtain panels (2-pack) ~$30–$50 CAD. Rod ~$25–$40 CAD. HomeSense also carries curtain panels at comparable prices if you want more variety.
 
 ## Step 6: Add a Focal Point Feature
 

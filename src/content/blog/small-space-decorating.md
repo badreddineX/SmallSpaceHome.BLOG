@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Space Decorating: 14 Rules That Actually Work in Canadian Apartments"
 description: "14 small space decorating rules for Canadian apartment renters. Principles that work in any room — how to make compact spaces feel larger, lighter, and more livable."
 image: "/images/blog-08-img1.jpg"
@@ -101,7 +101,7 @@ Warm bulbs (2700K) throughout. Avoid cool white or daylight bulbs in residential
 
 In a rental apartment where you can't change the walls, floors, or architecture, textiles do the most work.
 
-**A rug, throw cushions, and a blanket** transform the look and feel of a living room for under $200 CAD. You'll find solid options at [Wayfair Canada](https://www.wayfair.ca) and [HomeSense](https://www.homesense.ca) — both carry a wide range of affordable textiles that travel well from apartment to apartment. Matching towels and a bath mat do the same for the bathroom for under $60 CAD.
+**A rug, throw cushions, and a blanket** transform the look and feel of a living room for under $200 CAD. You'll find solid options at [Wayfair Canada](https://www.wayfair.ca) and HomeSense — both carry a wide range of affordable textiles that travel well from apartment to apartment. Matching towels and a bath mat do the same for the bathroom for under $60 CAD.
 
 Textiles also pack when you move. Every cent spent on quality textiles follows you to the next apartment.
 

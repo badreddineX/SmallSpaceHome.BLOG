@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Apartment Organization Ideas on a Budget: 15 Ways Under $100 CAD"
 description: "15 budget organization ideas for small Canadian apartments, all under $100 CAD. Practical solutions that actually work from a Toronto renter — no expensive systems required."
 image: "/images/blog-09-img1.jpg"
@@ -100,7 +100,7 @@ Shoes piled at the door create chaos and damage footwear. A 2-tier slim shoe rac
 
 If you have open KALLAX cubes or open shelves, baskets hide the contents — turning "storage shelf" into "styled decor." Wicker baskets from HomeSense, IKEA, or Dollarama work beautifully.
 
-**Where to buy:** [HomeSense](https://www.homesense.ca), [IKEA Canada](https://www.ikea.com/ca/en/), or Dollarama (for small baskets).
+**Where to buy:** HomeSense, [IKEA Canada](https://www.ikea.com/ca/en/), or Dollarama (for small baskets).
 
 ## 13. Shelf Dividers for Folded Clothes (~$18–$26 CAD)
 

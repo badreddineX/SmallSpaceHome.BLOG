@@ -1,4 +1,4 @@
----
+﻿---
 title: "Budget Apartment Decor Under $100 CAD — 12 Ideas That Look Expensive"
 description: "Decorate your Canadian apartment for under $100 CAD. These budget decor ideas look far more expensive than they cost and all work in rentals."
 image: "/images/storage-wicker-shelf.jpg"
@@ -34,7 +34,7 @@ A 20×30 cm print at Costco Photo costs about $3 CAD. Three in matching IKEA RIB
 
 A throw blanket draped over a sofa changes the entire feel of a living room. Go for texture — a chunky knit or waffle weave — in a neutral that complements your existing colours.
 
-**Where to find them:** [HomeSense](https://www.homesense.ca) is the best value. [IKEA](https://www.ikea.com/ca/en/)'s POLARVIDE throw is $14 CAD and comes in multiple colours.
+**Where to find them:** HomeSense is the best value. [IKEA](https://www.ikea.com/ca/en/)'s POLARVIDE throw is $14 CAD and comes in multiple colours.
 
 ![A cozy living room with a chunky throw blanket draped over the sofa — one of the easiest budget upgrades](/images/living-room-cozy.jpg)
 

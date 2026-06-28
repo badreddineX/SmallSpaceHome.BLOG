@@ -1,4 +1,4 @@
----
+﻿---
 title: "Minimalist Small Apartment Ideas: How to Live With Less and Love Your Space"
 description: "Minimalist apartment ideas for small Canadian rentals — how to declutter, edit, and design a space that feels calm, spacious, and intentional without spending a fortune."
 image: "/images/blog-16-img1.jpg"
@@ -86,7 +86,7 @@ In a small apartment, every piece of furniture should do at least two things. Mi
 
 **Multi-function essentials:**
 - **Storage bed** — sleeping and storage. [IKEA](https://www.ikea.com/ca/en/) NORDLI ~$399–$699 CAD
-- **Storage ottoman** — seating, coffee table, and storage. Available at [Wayfair Canada](https://www.wayfair.ca) and [HomeSense](https://www.homesense.ca) in a wide range of sizes and fabrics
+- **Storage ottoman** — seating, coffee table, and storage. Available at [Wayfair Canada](https://www.wayfair.ca) and HomeSense in a wide range of sizes and fabrics
 - **KALLAX bookcase** — storage and room divider
 - **Sofa bed** — for anyone who needs guest sleep space ([IKEA](https://www.ikea.com/ca/en/) FRIHETEN ~$999 CAD)
 

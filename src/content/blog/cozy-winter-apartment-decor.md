@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cozy Winter Apartment Decor: How to Make Your Canadian Rental Feel Warm All Season"
 description: "Cozy winter apartment decor ideas for Canadian renters — textiles, lighting, scent, and seasonal touches that make a small apartment feel warm through a long winter."
 image: "/images/blog-19-img1.jpg"
@@ -52,7 +52,7 @@ In summer, a sofa has 2–3 cushions and maybe one throw. In winter, it should h
 - **Floor:** a thicker, higher-pile rug than you use in summer if the floors are cold
 
 **Where to buy in Canada:**
-- [HomeSense](https://www.homesense.ca) and Winners: chunky throws ~$30–$60 CAD, velvet cushions ~$15–$35 CAD
+- HomeSense and Winners: chunky throws ~$30–$60 CAD, velvet cushions ~$15–$35 CAD
 - [IKEA](https://www.ikea.com/ca/en/): POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
 - [Amazon.ca](https://www.amazon.ca): boucle and faux sheepskin cushion covers ~$20–$35 CAD each
 
@@ -69,7 +69,7 @@ How your home smells in winter is as important as how it looks. Scent is the fas
 - Winter botanicals: pine, eucalyptus, juniper
 
 **Delivery methods:**
-- Soy candles (~$20–$35 CAD at [HomeSense](https://www.homesense.ca) or specialty shops)
+- Soy candles (~$20–$35 CAD at HomeSense or specialty shops)
 - Reed diffuser (~$25–$40 CAD — good for rooms where candles aren't practical)
 - Essential oil diffuser (~$30–$50 CAD at [Amazon.ca](https://www.amazon.ca)) — also adds moisture in dry heated apartments
 

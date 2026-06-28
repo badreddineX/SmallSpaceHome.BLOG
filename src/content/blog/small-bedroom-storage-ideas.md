@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Bedroom Storage Ideas for Canadian Apartment Renters"
 description: "Maximize storage in a small bedroom without drilling. 14 practical ideas for Canadian renters using IKEA, Amazon.ca, and HomeSense finds."
 image: "/images/bedroom-minimalist.jpg"
@@ -18,7 +18,7 @@ faqs:
     a: “Slim velvet hangers first — they free 30–40% more hanging space immediately. Then a second tension rod below the existing one for short items (~$15 CAD), an over-door organizer for shoes and accessories, and shelf dividers for folded stacks. Top shelf goes to rarely used items in labeled bins. Under $70 CAD total for all four steps.”
 ---
 
-The bedroom is usually the most storage-starved room in a small Canadian apartment. Here's how to get every last centimetre working for you — with [IKEA Canada](https://www.ikea.com/ca/en/), [Amazon.ca](https://www.amazon.ca), and [HomeSense](https://www.homesense.ca) options at real CAD prices, all renter-friendly. According to [CMHC](https://www.cmhc-schl.gc.ca), the majority of Canadian renters live in apartments under 700 sq ft, making smart bedroom storage a near-universal need. After three years in a 510 sq ft Toronto apartment, I can tell you the closet overhaul alone — slim hangers plus a tension rod — made the bedroom feel like a different room.
+The bedroom is usually the most storage-starved room in a small Canadian apartment. Here's how to get every last centimetre working for you — with [IKEA Canada](https://www.ikea.com/ca/en/), [Amazon.ca](https://www.amazon.ca), and HomeSense options at real CAD prices, all renter-friendly. According to [CMHC](https://www.cmhc-schl.gc.ca), the majority of Canadian renters live in apartments under 700 sq ft, making smart bedroom storage a near-universal need. After three years in a 510 sq ft Toronto apartment, I can tell you the closet overhaul alone — slim hangers plus a tension rod — made the bedroom feel like a different room.
 
 **TL;DR:** Slim velvet hangers (Amazon.ca, ~$18 CAD for 50) add 30–40% more closet space immediately — it's the single highest-value purchase per dollar in this entire guide. Under-bed IKEA SKUBB bags (~$14 CAD) tap the most ignored storage space in most bedrooms. A second tension rod below the closet rod ($15 CAD) doubles hanging space for shirts and short items. A storage bed frame (IKEA BRIMNES, ~$399 CAD) can replace a dresser entirely.
 

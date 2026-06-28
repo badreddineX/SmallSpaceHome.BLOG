@@ -1,4 +1,4 @@
----
+﻿---
 title: "11 IKEA KALLAX Hacks for Small Apartments (That Actually Work)"
 description: "The KALLAX is the most versatile storage unit for small spaces. Here are 11 creative hacks Canadian apartment renters can use right now."
 image: "/images/closet-walkin.jpg"
@@ -105,7 +105,7 @@ A slim 1×4 horizontal KALLAX in a hallway (about 42 cm deep) stores shoes, bags
 | KALLAX 2×4 | 77×147 cm | ~$139 | Room dividers, storage walls |
 | KALLAX 4×4 | 147×147 cm | ~$259 | Large storage walls |
 
-Prices at [IKEA Canada](https://www.ikea.com/ca/en/) as of early 2026. Check the IKEA website for current pricing near you. You can also find compatible cube bins and accessories on [Amazon.ca](https://www.amazon.ca) and storage baskets at [HomeSense](https://www.homesense.ca) that fit the standard 33 cm cube opening.
+Prices at [IKEA Canada](https://www.ikea.com/ca/en/) as of early 2026. Check the IKEA website for current pricing near you. You can also find compatible cube bins and accessories on [Amazon.ca](https://www.amazon.ca) and storage baskets at HomeSense that fit the standard 33 cm cube opening.
 
 The KALLAX is the most versatile piece in any small apartment. Whether you're in a studio in Vancouver or a one-bedroom in Toronto, there's a KALLAX configuration that solves your specific problem. Start with the 4-square unit and expand from there. For more IKEA small-apartment solutions that pair well with the KALLAX, [IKEA small space hacks](/blog/ikea-small-space-hacks/) covers the full lineup of best-value IKEA picks for Canadian renters.
 

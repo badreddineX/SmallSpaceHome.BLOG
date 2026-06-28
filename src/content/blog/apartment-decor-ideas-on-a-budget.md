@@ -1,4 +1,4 @@
----
+﻿---
 title: "Apartment Decor Ideas on a Budget: Transform Any Space for Under $200 CAD"
 description: "Transform your rental apartment for under $200 CAD. Budget-friendly decor ideas for Canadian renters — what to buy first, what to DIY, and what makes the biggest difference."
 image: "/images/blog-15-img1.jpg"
@@ -46,7 +46,7 @@ A rug is the single piece of decor that makes the most visual difference in a li
 **Budget options in Canada:**
 - [IKEA](https://www.ikea.com/ca/en/) flat-weave rugs (STOCKHOLM or SIDENÖRT styles) — from ~$59–$99 CAD
 - [Amazon.ca](https://www.amazon.ca) budget rugs — good quality options from ~$65–$80 CAD
-- [HomeSense](https://www.homesense.ca)/Winners — check for end-of-season sales, high quality at reduced prices
+- HomeSense/Winners — check for end-of-season sales, high quality at reduced prices
 
 ![A large area rug anchoring the sofa and coffee table in a small Canadian apartment living room](/images/blog-15-img2.jpg)
 
@@ -115,7 +115,7 @@ Before spending anything, do these changes that cost nothing:
 | Store | Best For | Why |
 |-------|---------|-----|
 | [IKEA](https://www.ikea.com/ca/en/) | Rugs, textiles, lighting | Best price-to-quality ratio |
-| [HomeSense](https://www.homesense.ca)/Winners | Art, textiles, decor objects | Discounted quality pieces |
+| HomeSense/Winners | Art, textiles, decor objects | Discounted quality pieces |
 | Dollarama | Small items, frames, plants | Surprisingly useful range |
 | [Amazon.ca](https://www.amazon.ca) | Lighting, specific organizers | Wide selection, competitive pricing |
 | Facebook Marketplace | Furniture, art, large items | Secondhand quality at low prices |

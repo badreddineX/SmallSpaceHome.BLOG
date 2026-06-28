@@ -1,4 +1,4 @@
----
+﻿---
 title: "Renter-Friendly Apartment Decor Ideas That Actually Stick"
 description: "Decorate your rental apartment without losing your deposit. These renter-friendly decor ideas use Command strips, removable wallpaper, and no-drill solutions."
 image: "/images/blog-13-img1.jpg"
@@ -71,7 +71,7 @@ In an open-plan or studio apartment, a large area rug (at least 5×8 ft) defines
 
 **Where to shop in Canada:**
 - [Wayfair Canada](https://www.wayfair.ca) (wide selection, frequent sales)
-- [HomeSense](https://www.homesense.ca) (check regularly — stock changes)
+- HomeSense (check regularly — stock changes)
 - [IKEA Canada](https://www.ikea.com/ca/en/) (Adum, Stoense — reliable quality)
 
 ## 5. Floor Lamps and Table Lamps Over Overhead Lighting
