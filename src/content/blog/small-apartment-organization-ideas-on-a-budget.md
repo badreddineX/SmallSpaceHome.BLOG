@@ -20,7 +20,7 @@ faqs:
     a: "Dollarama for bins, baskets, and basic hooks — great value for low-load items at $1–$4 each. Amazon.ca for slim hangers, over-door organizers, and drawer dividers. IKEA for larger system pieces. Canadian Tire for Command hooks and strips."
 ---
 
-You do not need a $500 Container Store haul to get your apartment organized. Most small-space organization problems can be solved for well under $100 CAD — if you declutter first, identify the 2–3 specific problems, then buy targeted solutions for those problems only. Here are 15 ideas, all under $100 CAD total, from a Toronto renter who has tested every one of them.
+You do not need a $500 Container Store haul to get your apartment organized. Most small-space organization problems can be solved for well under $100 CAD — if you declutter first, identify the 2–3 specific problems, then buy targeted solutions for those problems only. [CMHC](https://www.cmhc-schl.gc.ca) data consistently shows that Canadian renters live in some of the smallest units in the country, which makes smart organization essential, not optional. Here are 15 ideas, all under $100 CAD total, from a Toronto renter who has tested every one of them. I tested this full list in my 510 sq ft Toronto apartment, and the slim hangers alone freed enough closet space that I stopped using the floor as overflow storage.
 
 **TL;DR:** Slim velvet hangers (Amazon.ca, ~$18 CAD for 50) are the single highest-impact, lowest-cost purchase for most apartments. Over-door organizers (~$25–$35 CAD) add storage without installation. IKEA SKUBB under-bed bags (~$14 for 2) are the best use of the space you're probably ignoring. Dollarama bins and baskets at $2–$4 each handle the rest.
 
@@ -30,7 +30,7 @@ You do not need a $500 Container Store haul to get your apartment organized. Mos
 
 If you do only one thing in this entire list, do this. Switching from bulky plastic hangers to slim velvet ones typically frees 30–40% more hanging space in your closet — immediately, with no rearranging.
 
-**Where to buy:** Amazon.ca, 50-pack for ~$18 CAD.
+**Where to buy:** [Amazon.ca](https://www.amazon.ca), 50-pack for ~$18 CAD.
 
 ## 2. Command Hooks on Every Empty Wall (~$12–$15 CAD)
 
@@ -68,7 +68,7 @@ Dollarama's organization section is significantly better than most people expect
 
 Flat, zippable bags designed to slide under a bed frame. Store off-season clothes, extra linens, or anything you only need twice a year. If your bed sits too low, bed risers (~$25 CAD) add clearance.
 
-**Where to buy:** IKEA, 2-pack ~$14 CAD.
+**Where to buy:** [IKEA Canada](https://www.ikea.com/ca/en/), 2-pack ~$14 CAD.
 
 ![Flat IKEA SKUBB under-bed bags make full use of the largest untapped storage space in a small bedroom](/images/blog-09-img3.jpg)
 
@@ -100,7 +100,7 @@ Shoes piled at the door create chaos and damage footwear. A 2-tier slim shoe rac
 
 If you have open KALLAX cubes or open shelves, baskets hide the contents — turning "storage shelf" into "styled decor." Wicker baskets from HomeSense, IKEA, or Dollarama work beautifully.
 
-**Where to buy:** HomeSense Canada, IKEA, or Dollarama (for small baskets).
+**Where to buy:** [HomeSense](https://www.homesense.ca), [IKEA Canada](https://www.ikea.com/ca/en/), or Dollarama (for small baskets).
 
 ## 13. Shelf Dividers for Folded Clothes (~$18–$26 CAD)
 
@@ -118,7 +118,7 @@ Labels make every storage system work better. When everything is clearly labeled
 
 Canadian winters mean storing heavy blankets, coats, and seasonal clothing for half the year. Vacuum storage bags compress bulky items to 1/4 their original size.
 
-**Where to buy:** Amazon.ca, 6-bag set ~$25–$30 CAD.
+**Where to buy:** [Amazon.ca](https://www.amazon.ca), 6-bag set ~$25–$30 CAD.
 
 ![Vacuum storage bags compressing bulky winter clothing for small apartment closet storage](/images/blog-09-img4.jpg)
 

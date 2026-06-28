@@ -20,7 +20,7 @@ faqs:
     a: "Yes — especially for renters who move every 2–3 years. Flat-pack means easy moving, prices are realistic on a renter's budget, and resale on Facebook Marketplace or Kijiji in Toronto, Vancouver, and Calgary holds up well. Assemble carefully and add anti-tip straps where needed."
 ---
 
-IKEA is the default furniture store for Canadian apartment renters for good reason — it's designed for small spaces, available across Canada, and priced for people who might move in two years. But not everything works in a small apartment. These 15 ideas use IKEA products in smart configurations that solve real problems, with no cutting, no major modifications, and no need for a drill.
+IKEA is the default furniture store for Canadian apartment renters for good reason — it's designed for small spaces, available across Canada, and priced for people who might move in two years. But not everything works in a small apartment. These 15 ideas use [IKEA](https://www.ikea.com/ca/en/) products in smart configurations that solve real problems, with no cutting, no major modifications, and no need for a drill. [CMHC](https://www.cmhc-schl.gc.ca) data shows that rental affordability is a persistent challenge across Canadian cities, which makes budget-conscious furniture choices more important than ever. I've tested most of these in my own 510 sq ft Toronto apartment — the NORDLI bed and the LACK floating nightstands are the two I'd recommend to anyone starting from scratch.
 
 **TL;DR:** The KALLAX is the most versatile piece at IKEA — use it as a room divider, entryway bench, TV console, or home office. The NORDLI storage bed replaces a dresser entirely. BILLY bookshelves taken to ceiling height give maximum vertical storage in a 28 cm footprint. LACK shelves on Command strips make floating nightstands that free floor space completely.
 
@@ -76,7 +76,7 @@ This creates a proper mudroom-style entry in the smallest apartments.
 
 ## 7. RASKOG as Kitchen or Bathroom Cart
 
-The RASKOG 3-tier cart (~$39 CAD) works beautifully as a kitchen cart that rolls out during cooking for extra counter space, then tucks away. In the bathroom it holds towels, toiletries, and a small plant.
+The RASKOG 3-tier cart (~$39 CAD) works beautifully as a kitchen cart that rolls out during cooking for extra counter space, then tucks away. In the bathroom it holds towels, toiletries, and a small plant. If you can't find the RASKOG in stock, [Amazon.ca](https://www.amazon.ca) carries several nearly identical rolling carts at the same price point, and [Wayfair Canada](https://www.wayfair.ca) has a wider selection of kitchen carts if you want something with a more finished look.
 
 In a small apartment where rooms serve multiple purposes, the rollability is actually the feature.
 

@@ -20,7 +20,7 @@ faqs:
     a: "It's actually cheaper than most decorating approaches because you buy fewer things. The real cost is time spent decluttering, not a shopping budget. If you want to reinvest the savings, our <a href='/blog/small-space-furniture'>small space furniture guide</a> covers the best multi-functional picks at real CAD prices."
 ---
 
-Minimalism in a small Canadian apartment is not a style choice — it's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in. Minimalism means having exactly what you need and genuinely love, and nothing else. Here's how to approach it without turning your home into an empty showroom.
+Minimalism in a small Canadian apartment is not a style choice — it's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in. Minimalism means having exactly what you need and genuinely love, and nothing else. Here's how to approach it without turning your home into an empty showroom. According to [CMHC](https://www.cmhc-schl.gc.ca), average rents in major Canadian cities have risen sharply, which means more people are staying in smaller apartments for longer — making livability even more important. I've lived in a 510 sq ft Toronto rental for over three years, and committing to the surfaces rule below was the change that made the biggest difference in how the apartment felt day to day.
 
 **TL;DR:** Start by decluttering one room completely — everything out, then only what serves a clear purpose or brings genuine pleasure goes back. Surface discipline is the daily habit that separates minimalist apartments from the rest: surfaces are either empty or deliberately styled, never used as landing zones. Multi-functional furniture (storage bed, storage ottoman, KALLAX) means you need fewer pieces total. Minimalism costs nothing — the work is editing, not buying.
 
@@ -85,10 +85,10 @@ Use this palette for everything: furniture, textiles, art, decor objects. When e
 In a small apartment, every piece of furniture should do at least two things. Minimalism and multi-function are natural partners — fewer pieces that do more.
 
 **Multi-function essentials:**
-- **Storage bed** — sleeping and storage. IKEA NORDLI ~$399–$699 CAD
-- **Storage ottoman** — seating, coffee table, and storage
+- **Storage bed** — sleeping and storage. [IKEA](https://www.ikea.com/ca/en/) NORDLI ~$399–$699 CAD
+- **Storage ottoman** — seating, coffee table, and storage. Available at [Wayfair Canada](https://www.wayfair.ca) and [HomeSense](https://www.homesense.ca) in a wide range of sizes and fabrics
 - **KALLAX bookcase** — storage and room divider
-- **Sofa bed** — for anyone who needs guest sleep space (IKEA FRIHETEN ~$999 CAD)
+- **Sofa bed** — for anyone who needs guest sleep space ([IKEA](https://www.ikea.com/ca/en/) FRIHETEN ~$999 CAD)
 
 When every piece does multiple jobs, you need fewer pieces total.
 

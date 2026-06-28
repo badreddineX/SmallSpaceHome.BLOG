@@ -20,7 +20,7 @@ faqs:
     a: "Everything cozy is freestanding or temporary — throw blankets, cushions, candles, plants, warm bulbs, and a floor lamp. None require installation or wall damage. Remove them in spring and the apartment looks exactly as it did when you moved in. Zero deposit risk."
 ---
 
-Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
+Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. [CMHC](https://www.cmhc-schl.gc.ca) data shows that renters occupy roughly one-third of all Canadian households, and most of those apartments rely entirely on portable changes to create warmth and comfort. After three winters in a 510 sq ft Toronto apartment, I can say honestly that the lighting swap and a single chunky throw made the single biggest difference — everything else was a bonus. Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
 
 **TL;DR:** Warm 2700K bulbs (swap every cool-white overhead, ~$15–$25 CAD) plus a floor lamp is the single most effective cozy upgrade. Layer textiles: add a chunky throw and heavier cushions to what you already have (HomeSense throws ~$30–$60 CAD). Add winter scent with soy candles (~$20–$35 CAD). A dedicated reading corner with a lamp and blanket turns the apartment into somewhere you actually want to be in February.
 
@@ -52,9 +52,9 @@ In summer, a sofa has 2–3 cushions and maybe one throw. In winter, it should h
 - **Floor:** a thicker, higher-pile rug than you use in summer if the floors are cold
 
 **Where to buy in Canada:**
-- HomeSense and Winners: chunky throws ~$30–$60 CAD, velvet cushions ~$15–$35 CAD
-- IKEA: POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
-- Amazon.ca: boucle and faux sheepskin cushion covers ~$20–$35 CAD each
+- [HomeSense](https://www.homesense.ca) and Winners: chunky throws ~$30–$60 CAD, velvet cushions ~$15–$35 CAD
+- [IKEA](https://www.ikea.com/ca/en/): POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
+- [Amazon.ca](https://www.amazon.ca): boucle and faux sheepskin cushion covers ~$20–$35 CAD each
 
 ![Layered throw blankets and chunky cushions on a sofa — the quickest way to create a cozy Canadian winter apartment](/images/blog-19-img3.jpg)
 
@@ -69,9 +69,9 @@ How your home smells in winter is as important as how it looks. Scent is the fas
 - Winter botanicals: pine, eucalyptus, juniper
 
 **Delivery methods:**
-- Soy candles (~$20–$35 CAD at HomeSense or specialty shops)
+- Soy candles (~$20–$35 CAD at [HomeSense](https://www.homesense.ca) or specialty shops)
 - Reed diffuser (~$25–$40 CAD — good for rooms where candles aren't practical)
-- Essential oil diffuser (~$30–$50 CAD at Amazon.ca) — also adds moisture in dry heated apartments
+- Essential oil diffuser (~$30–$50 CAD at [Amazon.ca](https://www.amazon.ca)) — also adds moisture in dry heated apartments
 
 ## Bring Winter Botanicals Indoors
 

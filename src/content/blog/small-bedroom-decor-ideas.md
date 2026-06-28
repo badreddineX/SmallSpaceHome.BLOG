@@ -20,7 +20,7 @@ faqs:
     a: "Under-bed IKEA SKUBB bags (~$14 CAD), a tall PAX wardrobe in the corner, over-door organizers on the bedroom door, and floating shelves on the walls. A bench at the foot of the bed with storage inside helps too. Full breakdown in our <a href='/blog/small-bedroom-storage-ideas'>small bedroom storage ideas</a> guide."
 ---
 
-A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices — light colours, correct bed placement, and layered lighting — can make even a compact Canadian apartment bedroom feel calm, spacious, and restful. I sleep in a small bedroom every night in my 510 sq ft Toronto apartment, and here's what has actually made a difference.
+A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices — light colours, correct bed placement, and layered lighting — can make even a compact Canadian apartment bedroom feel calm, spacious, and restful. I sleep in a small bedroom every night in my 510 sq ft Toronto apartment, and here's what has actually made a difference. In my own space, switching to ceiling-height curtains was the single most impactful change — the room felt noticeably taller the same day I hung them.
 
 **TL;DR:** Replace the overhead bulb with a warm 2700K lamp — it's the single fastest way to transform a small bedroom. Position the bed against the longest wall. Use a leaning full-length mirror to add depth and reflect light. Keep nightstands and dresser tops nearly clear — in a small room, surface clutter reads as room clutter.
 
@@ -63,7 +63,7 @@ Furniture that sits high off the ground makes a small bedroom feel taller (good)
 A mirror in a small bedroom does two things: it creates the visual illusion of depth, and it reflects light — making the room feel brighter and larger.
 
 **Best approaches:**
-- **Leaning mirror** — a full-length mirror leaning against the wall requires no installation and works immediately. IKEA HOVET ~$279 CAD, or a full-length mirror from Amazon.ca from ~$89 CAD
+- **Leaning mirror** — a full-length mirror leaning against the wall requires no installation and works immediately. [IKEA Canada](https://www.ikea.com/ca/en/) HOVET ~$279 CAD, or a full-length mirror from [Amazon.ca](https://www.amazon.ca) from ~$89 CAD
 - **Mirrored wardrobe doors** — if you're replacing closet doors or getting a wardrobe, mirrored fronts double the perceived size of the room
 - **Small mirror above the dresser** — reflects light from the window
 
@@ -86,7 +86,7 @@ Curtain rods mounted as close to the ceiling as possible, with curtains that fal
 
 In a rental, a Command large curtain rod bracket (~$18 CAD) or a tension rod curtain system works without drilling.
 
-**Cost:** IKEA LENDA curtain panels (2-pack) ~$30–$50 CAD, ceiling-height rod ~$25–$40 CAD.
+**Cost:** [IKEA Canada](https://www.ikea.com/ca/en/) LENDA curtain panels (2-pack) ~$30–$50 CAD, or browse curtain options on [Wayfair Canada](https://www.wayfair.ca), ceiling-height rod ~$25–$40 CAD.
 
 ![Floor-to-ceiling curtains mounted near the ceiling make any small bedroom feel taller](/images/bedroom-shelves-reading.jpg)
 

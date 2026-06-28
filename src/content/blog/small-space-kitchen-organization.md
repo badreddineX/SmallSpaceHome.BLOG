@@ -20,7 +20,7 @@ faqs:
     a: "Vertical storage works best. A pegboard or magnetic wall strip holds pans flat and keeps them accessible. A pot lid organizer in a drawer stops the lid avalanche. If cabinet space is tight, the IKEA RASKOG rolling cart doubles as portable pot storage that tucks out of sight after cooking."
 ---
 
-A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. I have a galley kitchen in my 510 sq ft Toronto apartment, and here's what has actually made the most difference over three years.
+A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. I have a galley kitchen in my 510 sq ft Toronto apartment, and here's what has actually made the most difference over three years. The [CMHC](https://www.cmhc-schl.gc.ca) notes that a growing share of Canadian households rent rather than own, which means working within kitchen limitations — not renovating around them — is the reality for millions of renters.
 
 **TL;DR:** Zone the kitchen by task before buying any organizer — things should live where they're used. Clear the counters completely (everything except the coffee maker and one plant). Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca) eliminate the "lost at the back of the shelf" problem. An IKEA SKADIS pegboard (~$15 CAD) frees up a full drawer's worth of counter space.
 
@@ -73,7 +73,7 @@ The kitchen junk drawer is a small apartment problem. Adjustable bamboo dividers
 
 A pegboard mounted on the kitchen wall (or hung on Command strips) stores pots, pans, utensils, and spice jars without taking any counter space. The IKEA SKADIS system works with compatible hooks and containers.
 
-**Cost:** IKEA SKADIS 56 × 56 cm ~$15 CAD. Hooks and containers: ~$5–$15 additional.
+**Cost:** [IKEA Canada](https://www.ikea.com/ca/en/) SKADIS 56 × 56 cm ~$15 CAD. Hooks and containers: ~$5–$15 additional.
 
 ## 5. Over-Door Cabinet Organizers (~$15–$22 CAD)
 
@@ -85,7 +85,7 @@ The inside of pantry cabinet doors is unused surface. Wire racks or adhesive ove
 
 The RASKOG 3-tier rolling cart adds a full extra work and storage surface that rolls out when needed and tucks away after. Use it as a kitchen island extension during cooking, or as a pantry overflow for items that don't fit in cabinets.
 
-**Cost:** IKEA RASKOG ~$39 CAD.
+**Cost:** [IKEA Canada](https://www.ikea.com/ca/en/) RASKOG ~$39 CAD.
 
 ![IKEA RASKOG rolling cart used as a kitchen island extension in a small apartment](/images/blog-17-img4.jpg)
 
@@ -141,11 +141,11 @@ Most apartment kitchens have space between the top of the cabinets and the ceili
 
 | Product | Cost (CAD) | Where |
 |---------|-----------|-------|
-| Clear pantry bins (6-pack) | ~$30–$48 | Amazon.ca |
-| Bamboo drawer dividers (set) | ~$22–$32 | Amazon.ca |
-| SKADIS pegboard | ~$15 | IKEA |
-| Over-door cabinet organizer (2-pack) | ~$18–$22 | Amazon.ca |
-| RASKOG cart | ~$39 | IKEA |
+| Clear pantry bins (6-pack) | ~$30–$48 | [Amazon.ca](https://www.amazon.ca) |
+| Bamboo drawer dividers (set) | ~$22–$32 | [Amazon.ca](https://www.amazon.ca) |
+| SKADIS pegboard | ~$15 | [IKEA Canada](https://www.ikea.com/ca/en/) |
+| Over-door cabinet organizer (2-pack) | ~$18–$22 | [Amazon.ca](https://www.amazon.ca) |
+| RASKOG cart | ~$39 | [IKEA Canada](https://www.ikea.com/ca/en/) |
 | **Total** | **~$124–$156** | |
 
 This combination tackles pantry shelves, kitchen drawers, wall storage, cabinet doors, and extra surface area — the complete small kitchen organization overhaul for under $160 CAD.

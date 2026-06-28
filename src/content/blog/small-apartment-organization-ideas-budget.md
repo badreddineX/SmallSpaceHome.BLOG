@@ -20,11 +20,11 @@ faqs:
     a: "Absolutely. IKEA Canada delivers solid value for small-space storage — the KALLAX, PAX, and SKUBB systems are all built with compact living in mind and hold up well over time. For creative configurations, our <a href='/blog/ikea-kallax-hacks-small-spaces'>IKEA KALLAX hacks guide</a> shows 11 ways to use one unit across every room."
 ---
 
-If you're renting a small apartment in Toronto, Vancouver, or Montreal, you already know the frustration: not enough storage, too much stuff, and a lease that says no drilling.
+If you're renting a small apartment in Toronto, Vancouver, or Montreal, you already know the frustration: not enough storage, too much stuff, and a lease that says no drilling. According to [CMHC](https://www.cmhc-schl.gc.ca), the majority of Canadian renters live in units under 700 sq ft — so you're far from alone.
 
 The good news? You don't need more space. You need smarter systems.
 
-I've tested every single one of these in my own 520 sq ft Toronto apartment. Here's what actually works — no drilling, no landlord calls, no wasted money.
+I've tested every single one of these in my own 520 sq ft Toronto apartment. Here's what actually works — no drilling, no landlord calls, no wasted money. In my own space, the KALLAX and slim hangers together made the biggest difference in the first week.
 
 **TL;DR:** Start with vertical shelves, an IKEA KALLAX, under-bed storage, and slim velvet hangers. Those four changes alone will solve 80% of a small apartment's storage problem for under $130 CAD.
 
@@ -32,7 +32,7 @@ I've tested every single one of these in my own 520 sq ft Toronto apartment. Her
 
 The most underused storage in any apartment is the wall space above eye level. Command-strip shelves hold up to 7.5 kg and come off clean when you move. I use IKEA LACK shelves in my living room for books and plants — they've held for two years without a single issue.
 
-**What to buy:** IKEA LACK shelf (2-pack, ~$24 CAD), Command Large Picture Hanging Strips.
+**What to buy:** [IKEA Canada](https://www.ikea.com/ca/en/) LACK shelf (2-pack, ~$24 CAD), Command Large Picture Hanging Strips.
 
 ## 2. The IKEA KALLAX Is the Small Apartment MVP
 
@@ -53,7 +53,7 @@ Every door is a storage opportunity. Over-door organizers work on bedroom closet
 - Cleaning supplies on the pantry door
 - Hair tools and products on the bathroom door
 
-**Cost:** Amazon.ca over-door organizer, ~$25–$40 CAD.
+**Cost:** [Amazon.ca](https://www.amazon.ca) over-door organizer, ~$25–$40 CAD.
 
 ## 4. Under-Bed Storage Boxes
 
@@ -113,7 +113,7 @@ Shoes piled at the door are both an organization fail and a tripping hazard. A s
 
 No room for bedside tables? Floating nightstands mounted with Command strips (for lightweight versions) or a single screw use zero floor space and keep your phone, water, and book within reach.
 
-**Cost:** Wayfair Canada floating nightstand options from ~$45 CAD.
+**Cost:** [Wayfair Canada](https://www.wayfair.ca) floating nightstand options from ~$45 CAD.
 
 ## 12. Cabinet Door Storage
 

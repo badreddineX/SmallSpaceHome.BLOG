@@ -20,7 +20,7 @@ faqs:
     a: "Light as the base — bright white, warm cream, or soft greige make walls recede and spaces feel larger. Dark accents work well in cushions, art, and small accessories, but keep the main surfaces light. Even in a rental with fixed wall colours, light bedding and rugs go a long way."
 ---
 
-Most small space decorating advice is a product list. That's useful, but it skips the more important question: why does small space decorating work differently? Once you understand why light colours expand a space and why furniture with legs makes a room feel larger, you can apply those principles to every decision. Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment.
+Most small space decorating advice is a product list. That's useful, but it skips the more important question: why does small space decorating work differently? Once you understand why light colours expand a space and why furniture with legs makes a room feel larger, you can apply those principles to every decision. Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment. According to [CMHC](https://www.cmhc-schl.gc.ca), rental apartments make up a significant share of Canada's housing stock — and most renters can't alter their walls, which makes knowing these principles even more valuable.
 
 **TL;DR:** Light colours, mirrors, and furniture with visible legs are the three principles that deliver the most visual space. Area rugs must be correctly sized — a too-small rug makes a room feel smaller, not larger. One cohesive 3-colour palette throughout makes the whole apartment read as one unified space. Clear surfaces are non-negotiable: clutter visually compresses every room.
 
@@ -82,7 +82,7 @@ Mirrors create the illusion of depth and reflect light, making any room feel lar
 - On the wall you see when you enter a room — creates the impression of more space
 - Full-length in the bedroom — simultaneously functional and space-expanding
 
-No drilling required: lean a large mirror against the wall (IKEA HOVET, ~$279 CAD) or use Command strips for lighter options.
+No drilling required: lean a large mirror against the wall ([IKEA](https://www.ikea.com/ca/en/) HOVET, ~$279 CAD) or use Command strips for lighter options.
 
 ## Rule 7: Layer Your Lighting
 
@@ -101,7 +101,7 @@ Warm bulbs (2700K) throughout. Avoid cool white or daylight bulbs in residential
 
 In a rental apartment where you can't change the walls, floors, or architecture, textiles do the most work.
 
-**A rug, throw cushions, and a blanket** transform the look and feel of a living room for under $200 CAD. Matching towels and a bath mat do the same for the bathroom for under $60 CAD.
+**A rug, throw cushions, and a blanket** transform the look and feel of a living room for under $200 CAD. You'll find solid options at [Wayfair Canada](https://www.wayfair.ca) and [HomeSense](https://www.homesense.ca) — both carry a wide range of affordable textiles that travel well from apartment to apartment. Matching towels and a bath mat do the same for the bathroom for under $60 CAD.
 
 Textiles also pack when you move. Every cent spent on quality textiles follows you to the next apartment.
 

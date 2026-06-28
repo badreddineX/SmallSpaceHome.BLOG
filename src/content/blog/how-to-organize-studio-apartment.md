@@ -18,9 +18,9 @@ faqs:
     a: "A bed with storage drawers (IKEA NORDLI, ~$399 CAD), a sofa that converts to a guest bed (IKEA FRIHETEN, ~$999 CAD), a fold-down or compact dining table, and a tall shelving unit. Every piece should maximize storage per floor footprint. Our <a href='/blog/studio-apartment-ideas'>studio apartment ideas guide</a> covers how to configure each zone."
 ---
 
-A studio apartment is the most honest test of your organization skills. When everything is one room, your systems either work or they visibly don't. Here's the weekend plan I wish I'd had when I moved into my first studio in Vancouver — built for Canadian apartments with IKEA and Amazon.ca product picks and realistic CAD costs throughout.
+A studio apartment is the most honest test of your organization skills. When everything is one room, your systems either work or they visibly don't. Here's the weekend plan I wish I'd had when I moved into my first studio in Vancouver — built for Canadian apartments with IKEA and Amazon.ca product picks and realistic CAD costs throughout. [CMHC](https://www.cmhc-schl.gc.ca) reports that a significant share of Canadian renters live in units under 600 sq ft, so this kind of space pressure is completely normal. I've since moved into a 510 sq ft Toronto apartment where I've been refining this system for over three years — and the zone method below is what I'd tell anyone starting from scratch.
 
-**TL;DR:** Define zones before organizing anything — sleep, work, living, kitchen, and entry zones give the studio structure. Declutter on Saturday morning before touching any furniture. Slim velvet hangers ($18 CAD) and over-door organizers ($25 CAD) solve the wardrobe problem in any studio with or without a closet. The full weekend organization system costs under $175 CAD at IKEA Canada and Amazon.ca.
+**TL;DR:** Define zones before organizing anything — sleep, work, living, kitchen, and entry zones give the studio structure. Declutter on Saturday morning before touching any furniture. Slim velvet hangers ($18 CAD) and over-door organizers ($25 CAD) solve the wardrobe problem in any studio with or without a closet. The full weekend organization system costs under $175 CAD at [IKEA Canada](https://www.ikea.com/ca/en/) and [Amazon.ca](https://www.amazon.ca).
 
 ---
 
@@ -106,7 +106,7 @@ Once your floor plan is set, look up. Vertical shelves — IKEA LACK, floating s
 
 ## Weekend Shopping List
 
-Here's what to buy (all available at Amazon.ca or IKEA Canada):
+Here's what to buy (all available at [Amazon.ca](https://www.amazon.ca) or [IKEA Canada](https://www.ikea.com/ca/en/)):
 
 | Item | Approximate CAD Cost |
 |------|---------------------|

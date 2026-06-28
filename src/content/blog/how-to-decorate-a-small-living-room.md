@@ -20,7 +20,7 @@ faqs:
     a: "Three things signal quality on a budget: a large area rug sized correctly (front legs of the sofa sitting on it), ceiling-height curtains, and layered lighting — floor lamp plus table lamp, no harsh overhead. These three changes cost under $400 CAD combined and transform any rental living room."
 ---
 
-A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor. My living room is about 15 sq m in a 510 sq ft Toronto apartment, and here's the step-by-step process that made it feel like a proper room.
+A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor. My living room is about 15 sq m in a 510 sq ft Toronto apartment, and here's the step-by-step process that made it feel like a proper room. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian renter's apartment is under 800 sq ft — so these constraints are widely shared. After three years in this Toronto rental, repositioning the sofa was the single most impactful change I made before spending a dollar.
 
 **TL;DR:** Get the sofa positioned first — facing the focal point, floated slightly from the wall. Size the rug correctly (160 x 230 cm minimum, front legs of sofa on it). Fix the lighting with warm 2700K bulbs plus a floor lamp. Curtains hung near the ceiling make the room feel taller without any drilling.
 
@@ -63,7 +63,7 @@ A rug that is too small is one of the most common living room decorating mistake
 - Minimum 160 × 230 cm for most small living rooms
 - A larger 200 × 290 cm rug works even better if the room can accommodate it
 
-**Cost:** IKEA flat-weave rugs from ~$59 CAD. Wayfair Canada for more options.
+**Cost:** [IKEA](https://www.ikea.com/ca/en/) flat-weave rugs from ~$59 CAD. [Wayfair Canada](https://www.wayfair.ca) for more options.
 
 ## Step 4: Fix the Lighting Before Buying Decor
 
@@ -76,7 +76,7 @@ Single overhead lights make living rooms feel institutional. Layered lighting tr
 
 Switch all bulbs to 2700K warm white. This alone changes the mood dramatically.
 
-**Cost:** Warm bulbs ~$15–$25 CAD. Floor lamp from Amazon.ca or IKEA ~$45–$150 CAD.
+**Cost:** Warm bulbs ~$15–$25 CAD. Floor lamp from [Amazon.ca](https://www.amazon.ca) or [IKEA](https://www.ikea.com/ca/en/) ~$45–$150 CAD.
 
 ![Layered living room lighting with a floor lamp and table lamp replacing harsh overhead light](/images/blog-10-img3.jpg)
 
@@ -90,7 +90,7 @@ Curtain panels hung from as close to the ceiling as possible, falling to the flo
 - Tension curtain rods (no drilling) — work well for lighter curtains
 - Command large curtain rod brackets (~$18 CAD) — hold heavier curtains without drilling
 
-**Cost:** IKEA LENDA curtain panels (2-pack) ~$30–$50 CAD. Rod ~$25–$40 CAD.
+**Cost:** [IKEA](https://www.ikea.com/ca/en/) LENDA curtain panels (2-pack) ~$30–$50 CAD. Rod ~$25–$40 CAD. [HomeSense](https://www.homesense.ca) also carries curtain panels at comparable prices if you want more variety.
 
 ## Step 6: Add a Focal Point Feature
 

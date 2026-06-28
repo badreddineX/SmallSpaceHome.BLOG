@@ -20,7 +20,7 @@ faqs:
     a: "A rolling garment rack with a fabric cover (~$65–$100 CAD total) handles hanging clothes. A tall dresser takes folded items. Under-bed IKEA SKUBB bags store seasonal gear. Over-door organizers on the bedroom door manage shoes and accessories. Full details in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small apartment bedroom storage guide</a>."
 ---
 
-Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back. I reorganized my 510 sq ft Toronto apartment three times. The first two times I just bought containers. The third time I understood: you have to declutter before you organize, not after.
+Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back. I reorganized my 510 sq ft Toronto apartment three times. The first two times I just bought containers. The third time I understood: you have to declutter before you organize, not after. According to [CMHC](https://www.cmhc-schl.gc.ca), most Canadian renters live in apartments under 700 sq ft — making a repeatable organization system one of the most practical investments you can make.
 
 **TL;DR:** Declutter before buying a single bin — it's the step that makes everything else work. Slim velvet hangers (Amazon.ca, ~$18 CAD) free 30–40% more closet space immediately. Zone the kitchen by task (prep, cook, pantry, clean) and stop losing things at the back of cabinets. The 10-minute evening reset is the habit that keeps the whole system running.
 
@@ -81,10 +81,10 @@ A small apartment kitchen requires systems, not just tidiness. Everything needs 
 - Cleaning zone: dish soap, sponges, drying rack near the sink
 
 **High-impact kitchen organization products:**
-- Stackable clear bins in the pantry — see everything, stop buying duplicates, ~$5–$8 CAD each on Amazon.ca
-- IKEA SKADIS pegboard for utensils on the wall (~$15 CAD) — frees up a full drawer
+- Stackable clear bins in the pantry — see everything, stop buying duplicates, ~$5–$8 CAD each on [Amazon.ca](https://www.amazon.ca)
+- [IKEA Canada](https://www.ikea.com/ca/en/) SKADIS pegboard for utensils on the wall (~$15 CAD) — frees up a full drawer
 - Over-door organizer on the pantry cabinet door for spices and foil
-- Bamboo drawer dividers for the utensil drawer (~$20–$30 CAD for a set, Amazon.ca)
+- Bamboo drawer dividers for the utensil drawer (~$20–$30 CAD for a set, [Amazon.ca](https://www.amazon.ca))
 
 ![A zoned small apartment kitchen with clear pantry bins and a pegboard for utensils](/images/blog-03-img3.jpg)
 
@@ -109,7 +109,7 @@ Lamp, phone charger, water, one book. Anything else is clutter. A floating shelf
 
 Bathrooms in rental apartments are almost always small. The key is vertical storage and keeping surfaces completely clear.
 
-- Over-toilet shelf — uses dead space, adds 2–3 shelves (~$40–$70 CAD, Amazon.ca or Canadian Tire)
+- Over-toilet shelf — uses dead space, adds 2–3 shelves (~$40–$70 CAD, [Amazon.ca](https://www.amazon.ca) or Canadian Tire)
 - Over-door organizer on the bathroom door for hair tools and products
 - Drawer dividers in the vanity for makeup, skincare, and accessories
 - A small tray on the counter for daily-use items only — everything else in a drawer

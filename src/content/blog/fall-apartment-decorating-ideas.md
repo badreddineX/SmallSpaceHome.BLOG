@@ -20,7 +20,7 @@ faqs:
     a: "Natural elements are free — collect pinecones, dried leaves, and seed pods on any walk. Dollarama has pumpkin and gourd decor for $1–$4 each. HomeSense and Winners carry quality cushions and throws at discount. Canadian Tire for seasonal candles. Total autumn refresh well under $75 CAD."
 ---
 
-Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
+Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. [CMHC](https://www.cmhc-schl.gc.ca) notes that renters make up roughly one-third of Canadian households — and seasonal decorating is one of the most satisfying ways to make a rental feel like a real home. In my Toronto apartment, two new cushion covers and a cinnamon candle from [HomeSense](https://www.homesense.ca) was all it took to shift the whole feel of the living room for autumn. The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
 
 **TL;DR:** Swap 2–3 summer cushion covers for rust, amber, or deep green ones (IKEA GURLI ~$6 each, or Amazon.ca velvet 2-pack ~$25–$35 CAD). Add one autumn-scented candle from HomeSense (~$20 CAD). Natural elements from outside — pinecones, coloured leaves, dried seed pods — cost nothing and look more authentic than anything purchased. Total fall refresh under $75 CAD.
 
@@ -37,7 +37,7 @@ The fastest way to shift a room from summer to fall is a textile swap. Replace l
 - Warm cream or ivory
 - Burgundy / wine red
 
-**Cost:** IKEA GURLI cushion covers ~$6 each. HomeSense chunky throws ~$30–$50 CAD.
+**Cost:** [IKEA](https://www.ikea.com/ca/en/) GURLI cushion covers ~$6 each. [HomeSense](https://www.homesense.ca) chunky throws ~$30–$50 CAD.
 
 ![A cozy apartment living room with autumn-toned textiles and warm lamp lighting — the fall atmosphere starts with the sofa](/images/living-room-cozy.jpg)
 
@@ -98,7 +98,7 @@ This signals "cozy and lived-in" rather than "laundry pile."
 
 4–6 cushions on a sofa in autumn colours transform the room. Swap 2–3 of your regular cushion covers for rust, amber, or deep green ones.
 
-**Cost:** Amazon.ca, velvet cushion covers 2-pack ~$25–$35 CAD. IKEA GURLI ~$6 each.
+**Cost:** [Amazon.ca](https://www.amazon.ca), velvet cushion covers 2-pack ~$25–$35 CAD. [IKEA](https://www.ikea.com/ca/en/) GURLI ~$6 each.
 
 ## 8. Warm Up the Lighting
 
@@ -135,7 +135,7 @@ The kitchen can reflect autumn without becoming themed. A simple bowl of apples 
 
 For apartments with a private entry, a fall doormat in a warm colour or leaf pattern signals the season from the moment you arrive home. Functional and seasonal.
 
-**Cost:** Amazon.ca or Canadian Tire, ~$20–$40 CAD.
+**Cost:** [Amazon.ca](https://www.amazon.ca) or Canadian Tire, ~$20–$40 CAD.
 
 ---
 
@@ -143,8 +143,8 @@ For apartments with a private entry, a fall doormat in a warm colour or leaf pat
 
 | Item | Cost (CAD) | Where |
 |------|-----------|-------|
-| 2 rust cushion covers | ~$25 | Amazon.ca |
-| Autumn scented candle | ~$20 | HomeSense |
+| 2 rust cushion covers | ~$25 | [Amazon.ca](https://www.amazon.ca) or [Wayfair Canada](https://www.wayfair.ca) |
+| Autumn scented candle | ~$20 | [HomeSense](https://www.homesense.ca) |
 | Small pumpkin (3-pack) | ~$12 | Grocery store |
 | Dried botanicals (1 stem) | ~$15 | Floral shop |
 | **Total** | **~$72** | |

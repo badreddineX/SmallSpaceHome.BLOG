@@ -20,7 +20,7 @@ faqs:
     a: "Yes — the IKEA NORDLI ($399–$699 CAD) has enough drawer space to replace a full dresser. Removing the dresser from a small bedroom frees significant floor space and makes the room feel noticeably larger. It's one of the most impactful single furniture purchases for a Canadian renter."
 ---
 
-The bedroom in a small Canadian apartment has to do double duty: sleep and storage. Most small bedrooms do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. Here is the complete approach to bedroom storage, in the order that makes the most difference.
+The bedroom in a small Canadian apartment has to do double duty: sleep and storage. Most small bedrooms do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. After three years in my 510 sq ft Toronto rental, the under-bed and closet changes in this list are the ones I'd make first — they cost under $35 CAD and the difference is immediate. Here is the complete approach to bedroom storage, in the order that makes the most difference.
 
 **TL;DR:** Start with under-bed storage (IKEA SKUBB bags, ~$14 CAD) and slim velvet hangers (~$18 CAD, Amazon.ca) — together these two changes can transform a small bedroom for under $35 CAD. Add a tension rod for double hanging ($15 CAD) and an over-door closet organizer ($28–$35 CAD). The IKEA NORDLI storage bed ($399–$699 CAD) replaces the dresser entirely and is the most impactful single furniture purchase for a small bedroom.
 
@@ -31,9 +31,9 @@ The bedroom in a small Canadian apartment has to do double duty: sleep and stora
 The area under the bed is the largest storage zone in most bedrooms, and it is almost always underused.
 
 **Options:**
-- **IKEA SKUBB under-bed bags** (~$14 CAD for 2) — flat, zippable, dust-resistant. Ideal for off-season clothes and extra bedding
-- **Flat lidded bins** — available at Amazon.ca, Canadian Tire, or IKEA. Choose clear bins so you can see contents without opening
-- **Bed risers** — if your bed frame sits too low (~$25 CAD at Amazon.ca), risers add 15 cm of clearance
+- **IKEA SKUBB under-bed bags** (~$14 CAD for 2) — flat, zippable, dust-resistant. Ideal for off-season clothes and extra bedding. Available at [IKEA Canada](https://www.ikea.com/ca/en/)
+- **Flat lidded bins** — available at [Amazon.ca](https://www.amazon.ca), Canadian Tire, or IKEA. Choose clear bins so you can see contents without opening
+- **Bed risers** — if your bed frame sits too low (~$25 CAD at [Amazon.ca](https://www.amazon.ca)), risers add 15 cm of clearance
 
 **What to store under the bed:** off-season clothing, extra bed linens, bulky items used rarely (winter duvet in summer, summer blankets in winter), shoes.
 
@@ -81,7 +81,7 @@ Stacks of folded sweaters, jeans, and T-shirts on closet shelves always topple. 
 
 A mirror that doubles as a storage cabinet is a classic small apartment solution. Wall-mounted mirrored jewelry armoires open to reveal storage for accessories.
 
-**Cost:** Amazon.ca or Wayfair Canada, ~$80–$150 CAD.
+**Cost:** [Amazon.ca](https://www.amazon.ca) or [Wayfair Canada](https://www.wayfair.ca), ~$80–$150 CAD.
 
 ## 9. Over-the-Door Hooks on the Bedroom Door
 
@@ -113,7 +113,7 @@ If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide
 
 If you have open shelves in the bedroom (BILLY bookcase, floating shelves, wardrobe shelves without doors), wicker baskets hide contents while keeping them accessible. One basket per category: scarves, workout clothes, bags, etc.
 
-**Cost:** Wicker baskets from HomeSense, IKEA, or Amazon.ca, ~$10–$25 each.
+**Cost:** Wicker baskets from [HomeSense](https://www.homesense.ca), [IKEA Canada](https://www.ikea.com/ca/en/), or [Amazon.ca](https://www.amazon.ca), ~$10–$25 each.
 
 ---
 

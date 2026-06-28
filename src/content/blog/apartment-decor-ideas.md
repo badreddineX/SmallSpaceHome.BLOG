@@ -20,7 +20,7 @@ faqs:
     a: "Most leases allow small nail holes for art. For anything heavier, Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Always check your lease first — and if you ask your landlord, do it in writing so you have a record of their response."
 ---
 
-Decorating a rental apartment in Canada doesn't mean living with beige walls and zero personality. The no-damage rule is actually a creative constraint, not a dead end — and some of the best-looking apartments I've seen belong to renters who worked with the limitations instead of against them. I've decorated and redecorated my 510 sq ft Toronto apartment four times over three years. Here's what actually works.
+Decorating a rental apartment in Canada doesn't mean living with beige walls and zero personality. [CMHC](https://www.cmhc-schl.gc.ca) data shows that renters make up roughly one-third of all Canadian households — and most of them are decorating spaces they can't permanently modify. The no-damage rule is actually a creative constraint, not a dead end — and some of the best-looking apartments I've seen belong to renters who worked with the limitations instead of against them. I've decorated and redecorated my 510 sq ft Toronto apartment four times over three years. Here's what actually works.
 
 **TL;DR:** Pick a 3-colour palette before buying anything. Textiles (rug, cushions, throw) deliver the biggest visual impact for under $150 CAD. Warm 2700K bulbs transform the mood of every room for $15–$25 CAD. Command strips make gallery walls and floating shelves fully renter-friendly.
 
@@ -59,7 +59,7 @@ This is the biggest visual upgrade available to renters. A peel-and-stick wallpa
 **What to look for:**
 - Repositionable adhesive (not permanent)
 - Water-based ink (won't damage paint underneath)
-- Brands: RoomMates, NuWallpaper, or Tempaper — all available on Amazon.ca
+- Brands: RoomMates, NuWallpaper, or Tempaper — all available on [Amazon.ca](https://www.amazon.ca)
 
 **Cost:** ~$40–$90 CAD per roll. A typical accent wall takes 2–3 rolls.
 
@@ -87,7 +87,7 @@ A well-done gallery wall is one of the most effective apartment decor upgrades y
 4. Mix frame sizes — a gallery wall with all the same size looks flat
 
 **Where to find affordable art in Canada:**
-- IKEA art prints (PJÄTTERYD series, ~$20–$50 CAD)
+- [IKEA](https://www.ikea.com/ca/en/) art prints (PJÄTTERYD series, ~$20–$50 CAD)
 - Society6 or Desenio for printed posters
 - Your own photos printed at Costco Canada (surprisingly cheap)
 - Thrift stores for interesting frames
@@ -100,7 +100,7 @@ Most rental apartments come with harsh overhead lighting that makes every room f
 - **Swap bulbs** — replace cool white bulbs (5000K) with warm white (2700K) throughout. ~$15–$25 CAD for a multipack at Canadian Tire
 - **Add a floor lamp** — fills corners, creates ambient light, and adds height to the room
 - **Use table lamps** — one on each side of the sofa or bed for a balanced, layered look
-- **LED strip lights** — behind the TV or under kitchen cabinets for accent lighting (~$20–$35 CAD on Amazon.ca)
+- **LED strip lights** — behind the TV or under kitchen cabinets for accent lighting (~$20–$35 CAD on [Amazon.ca](https://www.amazon.ca))
 
 ![Warm layered lighting with floor lamp and table lamps transforms a rental living room](/images/living-room-cozy.jpg)
 
@@ -123,7 +123,7 @@ A well-placed mirror does two things at once: it reflects light (making the room
 - A round mirror on the wall above the sofa or dresser — hung with Command strips
 - A small mirror in the entryway to brighten a typically dark hallway
 
-**Cost:** IKEA HOVET full-length mirror ~$279 CAD. Round mirrors from Amazon.ca from ~$45 CAD.
+**Cost:** [IKEA](https://www.ikea.com/ca/en/) HOVET full-length mirror ~$279 CAD. Round mirrors from [Amazon.ca](https://www.amazon.ca) from ~$45 CAD.
 
 ![A well-placed mirror doubles perceived space and reflects natural light throughout the room](/images/blog-02-img3.jpg)
 
@@ -143,7 +143,7 @@ Once you can see your actual space — the furniture, the proportions, the light
 How your home smells matters as much as how it looks. A beautifully decorated apartment that smells stale doesn't feel like a home.
 
 **Easy options:**
-- Soy candles — long burning, clean scent, no residue. Canadian brands like P.F. Candle Co. available at HomeSense
+- Soy candles — long burning, clean scent, no residue. Canadian brands like P.F. Candle Co. available at [HomeSense](https://www.homesense.ca)
 - A reed diffuser for rooms where candles aren't practical
 - An essential oil diffuser — doubles as a small humidifier in dry Canadian winters (~$30–$50 CAD at Amazon.ca)
 

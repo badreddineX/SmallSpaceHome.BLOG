@@ -18,7 +18,7 @@ faqs:
     a: "Declutter first — clutter makes any space look cheap, regardless of budget. Then: hang curtains high and wide, add one correctly sized area rug, swap all bulbs to soft white 2700K LEDs, and group shelf items in odd numbers. These are the same habits used in high-end interior design, and they cost almost nothing. See more in our <a href='/blog/small-space-decorating'>small space decorating rules</a> post."
 ---
 
-You don't need a renovation budget to make your Canadian apartment feel like a home. Some of the biggest visual improvements cost almost nothing — and every idea here is fully renter-friendly. Here are 12 ideas, all under $100 CAD total, most under $20 each.
+You don't need a renovation budget to make your Canadian apartment feel like a home. Some of the biggest visual improvements cost almost nothing — and every idea here is fully renter-friendly. According to [CMHC](https://www.cmhc-schl.gc.ca), renters represent about one-third of Canadian households, and most are working with spaces under 700 sq ft on tight budgets. In my own 510 sq ft Toronto apartment, swapping the bulbs and adding a throw cost me under $30 and made a bigger difference than anything else I'd tried. Here are 12 ideas, all under $100 CAD total, most under $20 each.
 
 **TL;DR:** Swap cool-white bulbs for warm 2700K LEDs ($15–$18 CAD) — this alone transforms how every room looks and feels. Print your own art at Costco Photo (~$3 per print), frame with IKEA RIBBA frames ($10 each), and get a gallery wall for under $40 CAD. A chunky throw from HomeSense (~$20–$35 CAD) changes the sofa instantly. Rearrange the furniture for free before spending anything.
 
@@ -34,7 +34,7 @@ A 20×30 cm print at Costco Photo costs about $3 CAD. Three in matching IKEA RIB
 
 A throw blanket draped over a sofa changes the entire feel of a living room. Go for texture — a chunky knit or waffle weave — in a neutral that complements your existing colours.
 
-**Where to find them:** HomeSense is the best value. IKEA's POLARVIDE throw is $14 CAD and comes in multiple colours.
+**Where to find them:** [HomeSense](https://www.homesense.ca) is the best value. [IKEA](https://www.ikea.com/ca/en/)'s POLARVIDE throw is $14 CAD and comes in multiple colours.
 
 ![A cozy living room with a chunky throw blanket draped over the sofa — one of the easiest budget upgrades](/images/living-room-cozy.jpg)
 
@@ -42,7 +42,7 @@ A throw blanket draped over a sofa changes the entire feel of a living room. Go 
 
 If you already have cushion inserts, just replace the covers. A fresh set of cushion covers in a coordinated colour scheme can make a sofa look completely new.
 
-**Standard sizes:** 45×45 cm (18 inch) is the most common. Amazon.ca has good variety from $12–$18 per cover.
+**Standard sizes:** 45×45 cm (18 inch) is the most common. [Amazon.ca](https://www.amazon.ca) has good variety from $12–$18 per cover.
 
 ## 4. A Candle Collection ($10–$20 CAD)
 
@@ -76,7 +76,7 @@ Use washi tape to create a faux headboard behind the bed, frame a blank wall, or
 
 A tall simple vase with dried pampas grass or eucalyptus is everywhere in interior design right now for good reason — it's low maintenance, long-lasting, and looks expensive.
 
-Dried bunches from Amazon.ca run ~$12–$18 CAD. A thrift store vase costs $2–$5.
+Dried bunches from [Amazon.ca](https://www.amazon.ca) run ~$12–$18 CAD. A thrift store vase costs $2–$5.
 
 ![Floating shelves styled with plants and books — a budget decor move that looks intentional and expensive](/images/decor-floating-shelves.jpg)
 

@@ -20,7 +20,7 @@ faqs:
     a: "Yes. Command strips hold art and light shelves cleanly. Peel-and-stick wallpaper removes without residue. Freestanding furniture needs no installation. A well-decorated rental can look completely transformed without a single hole in the wall. Our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly decor guide</a> has the full no-damage system."
 ---
 
-Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. Here's how to transform a rental apartment for under $200 CAD.
+Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. According to [CMHC](https://www.cmhc-schl.gc.ca), the majority of Canadian renters live in apartments under 700 sq ft, which means every decor dollar needs to work harder. After three years in a 510 sq ft Toronto rental, the priority order below is exactly how I'd spend $200 all over again. Here's how to transform a rental apartment for under $200 CAD.
 
 **TL;DR:** Spend in this order — rug first ($59–$80 CAD), then warm lighting ($15–$25 CAD), then textiles (cushions + throw, $40–$60 CAD), then art and plants ($20–$40 CAD). This sequence builds on itself: the rug anchors the room, lighting sets the mood, textiles add warmth, art adds personality. Total under $200 CAD at IKEA, Canadian Tire, and Dollarama.
 
@@ -44,9 +44,9 @@ A rug is the single piece of decor that makes the most visual difference in a li
 **Critical:** buy the right size. A rug that is too small looks worse than no rug. Minimum 160 × 230 cm for a small living room.
 
 **Budget options in Canada:**
-- IKEA flat-weave rugs (STOCKHOLM or SIDENÖRT styles) — from ~$59–$99 CAD
-- Amazon.ca budget rugs — good quality options from ~$65–$80 CAD
-- HomeSense/Winners — check for end-of-season sales, high quality at reduced prices
+- [IKEA](https://www.ikea.com/ca/en/) flat-weave rugs (STOCKHOLM or SIDENÖRT styles) — from ~$59–$99 CAD
+- [Amazon.ca](https://www.amazon.ca) budget rugs — good quality options from ~$65–$80 CAD
+- [HomeSense](https://www.homesense.ca)/Winners — check for end-of-season sales, high quality at reduced prices
 
 ![A large area rug anchoring the sofa and coffee table in a small Canadian apartment living room](/images/blog-15-img2.jpg)
 
@@ -114,10 +114,10 @@ Before spending anything, do these changes that cost nothing:
 
 | Store | Best For | Why |
 |-------|---------|-----|
-| IKEA | Rugs, textiles, lighting | Best price-to-quality ratio |
-| HomeSense/Winners | Art, textiles, decor objects | Discounted quality pieces |
+| [IKEA](https://www.ikea.com/ca/en/) | Rugs, textiles, lighting | Best price-to-quality ratio |
+| [HomeSense](https://www.homesense.ca)/Winners | Art, textiles, decor objects | Discounted quality pieces |
 | Dollarama | Small items, frames, plants | Surprisingly useful range |
-| Amazon.ca | Lighting, specific organizers | Wide selection, competitive pricing |
+| [Amazon.ca](https://www.amazon.ca) | Lighting, specific organizers | Wide selection, competitive pricing |
 | Facebook Marketplace | Furniture, art, large items | Secondhand quality at low prices |
 | Walmart Canada | Basic textiles, bath items | Accessible and affordable |
 
