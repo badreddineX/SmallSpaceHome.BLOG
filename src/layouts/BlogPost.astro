@@ -749,13 +749,16 @@ const catClass: Record<string, string> = {
 .toc-widget.is-collapsed .toc-widget__toggle-button--collapse { display: none;  }
 .toc-widget.is-collapsed .toc-widget__toggle-button--expand   { display: flex;  }
 .toc-widget__body {
-  overflow: hidden;
-  max-height: 2000px;
+  overflow-y: auto;
+  max-height: min(2000px, calc(100vh - var(--header-height) - 180px));
   transition: max-height 0.3s ease;
   border-top: 1px solid var(--toc-border);
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
 }
 .toc-widget.is-collapsed .toc-widget__body {
   max-height: 0;
+  overflow: hidden;
   border-top-color: transparent;
 }
 :global(.toc-widget__list) {
@@ -1051,6 +1054,23 @@ if (tocHeadings.length < 2) {
   });
 
   const links = Array.from(tocList?.querySelectorAll<HTMLAnchorElement>('.toc-widget__list-item-text') ?? []);
+  const tocBody = document.getElementById('toc-body');
+  let prevActiveIndex = -1;
+
+  function scrollTocToActive(index: number) {
+    if (!tocBody || index < 0) return;
+    const item = links[index]?.closest('li') as HTMLElement | null;
+    if (!item) return;
+    const itemTop    = item.offsetTop;
+    const itemBottom = itemTop + item.offsetHeight;
+    const scrollTop  = tocBody.scrollTop;
+    const height     = tocBody.clientHeight;
+    if (itemTop < scrollTop + 16) {
+      tocBody.scrollTop = itemTop - 16;
+    } else if (itemBottom > scrollTop + height - 16) {
+      tocBody.scrollTop = itemBottom - height + 16;
+    }
+  }
 
   // Scroll spy — mirrors Elementor's elementor-item-active logic
   function setActive() {
@@ -1063,6 +1083,10 @@ if (tocHeadings.length < 2) {
       if (i === activeIndex) l.classList.add('is-active');
       else l.classList.remove('is-active');
     });
+    if (activeIndex !== prevActiveIndex) {
+      prevActiveIndex = activeIndex;
+      scrollTocToActive(activeIndex);
+    }
   }
 
   setActive();
