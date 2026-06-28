@@ -595,6 +595,11 @@ const POSTS_PER_PAGE = 6;
   user-select: none;
 }
 
+@media (max-width: 480px) {
+  :global(.page-num) { width: 36px !important; height: 36px !important; font-size: 0.82rem !important; }
+  :global(.page-ellipsis) { width: 28px !important; height: 36px !important; font-size: 0.88rem !important; }
+}
+
 /* ── Responsive ── */
 @media (max-width: 860px) {
   .posts-grid { grid-template-columns: repeat(2, 1fr); gap: 32px 20px; }
@@ -605,8 +610,9 @@ const POSTS_PER_PAGE = 6;
   .posts-section { padding: 40px 16px 72px; }
   .posts-grid { grid-template-columns: repeat(2, 1fr); gap: 24px 14px; }
   .filter-tab { padding: 14px 16px; }
-  .page-num, .page-arrow, .page-ellipsis { min-width: 36px; height: 36px; }
-  .page-num { font-size: 0.875rem; }
+  .pagination { gap: 4px; }
+  .page-numbers { gap: 4px; }
+  .page-arrow { width: 36px; height: 36px; }
 }
 </style>
 
@@ -724,6 +730,10 @@ function renderPage() {
 }
 
 function renderPageNumbers(totalPages) {
+  const isMobile = window.innerWidth <= 480;
+  const win = isMobile ? 0 : 1;           // pages shown each side of current
+  const fullThreshold = isMobile ? 5 : 7; // show all pages below this count
+
   const makeDot = () => {
     const span = document.createElement('span');
     span.className = 'page-ellipsis';
@@ -740,15 +750,15 @@ function renderPageNumbers(totalPages) {
     pageNumbers.appendChild(btn);
   };
 
-  if (totalPages <= 7) {
+  if (totalPages <= fullThreshold) {
     for (let i = 1; i <= totalPages; i++) makeBtn(i);
   } else {
     makeBtn(1);
-    if (currentPage > 3) makeDot();
-    const start = Math.max(2, currentPage - 1);
-    const end   = Math.min(totalPages - 1, currentPage + 1);
+    if (currentPage > 2 + win) makeDot();
+    const start = Math.max(2, currentPage - win);
+    const end   = Math.min(totalPages - 1, currentPage + win);
     for (let i = start; i <= end; i++) makeBtn(i);
-    if (currentPage < totalPages - 2) makeDot();
+    if (currentPage < totalPages - 1 - win) makeDot();
     makeBtn(totalPages);
   }
 }
