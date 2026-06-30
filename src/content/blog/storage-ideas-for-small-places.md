@@ -183,7 +183,7 @@ Some Canadian apartments — especially older ones in Montreal and Toronto — h
 
 ---
 
-For a deeper look at storage solutions organized by room — including the kitchen, bathroom, and entryway — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) covers the highest-impact moves for under $100 CAD.
+For a deeper look at storage solutions organized by room — including the kitchen, bathroom, and entryway — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the highest-impact moves for under $100 CAD.
 
 ## The Storage Priority Order for Canadian Renters
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Storage Solutions for Small Apartments: 16 Ideas Canadian Renters Actually Use"
 description: "16 storage solutions for small Canadian apartments — tested, renter-friendly, and priced in CAD. From the bedroom closet to the kitchen pantry, every room covered."
 image: "/images/blog-11-img1.jpg"
@@ -148,4 +148,4 @@ Tackle in this order for maximum impact per dollar:
 
 These 16 solutions cover every room in a Canadian rental and all of them are fully reversible — no drilling, no damage deposit risk. Tackle the bedroom closet and under-bed space first, then move outward to the kitchen and living room.
 
-→ For more storage ideas including 23 options across every room, see [storage ideas for small places](/blog/storage-ideas-for-small-places/). And for bedroom-specific storage in depth, [small bedroom storage ideas](/blog/small-bedroom-storage-ideas/) covers every available inch with exact CAD prices.
+→ For more storage ideas including 23 options across every room, see [storage ideas for small places](/blog/storage-ideas-for-small-places/). And for bedroom-specific storage in depth, [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) covers every available inch with exact CAD prices.

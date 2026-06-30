@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Apartment Organization: The Complete Room-by-Room Guide for Canadian Renters"
 description: "A complete room-by-room organization system for small Canadian apartments. Declutter first, then organize — realistic, renter-friendly, no permanent changes required."
 image: "/images/blog-03-img1.jpg"
@@ -11,7 +11,7 @@ category: "Organization"
 readTime: 9
 faqs:
   - q: "How do I organize a small apartment when I have too much stuff?"
-    a: "Declutter before you organize — this is the step most renters skip. Sort into keep, donate, and trash. Once the excess is gone, organization becomes simpler and far cheaper. For a full room-by-room plan, our <a href='/blog/small-apartment-organization-ideas-budget'>17 organization ideas guide</a> covers exactly this approach."
+    a: "Declutter before you organize — this is the step most renters skip. Sort into keep, donate, and trash. Once the excess is gone, organization becomes simpler and far cheaper. For a full room-by-room plan, our <a href='/blog/small-apartment-organization-ideas-on-a-budget'>17 organization ideas guide</a> covers exactly this approach."
   - q: "What are the best organization products for small apartments in Canada?"
     a: "Slim velvet hangers (~$18 CAD, Amazon.ca) free 30–40% more closet space fast. IKEA SKUBB under-bed bags (~$14 CAD) tap unused bedroom storage. Stackable clear pantry bins ($5–$8 CAD each) transform kitchen cabinets. Command hooks add storage anywhere. Most renters can solve core problems for under $100 CAD."
   - q: "How do I stay organized in a small apartment long-term?"
@@ -160,4 +160,4 @@ One room at a time. Finish it completely before moving to the next.
 
 Organization in a small apartment is a system, not a one-time project. Get the declutter done, install the basics (hangers, bins, hooks), and build the three daily habits — one in one out, 10-minute reset, weekly zone check. Everything else is maintenance.
 
-→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) covers the most impactful changes for under $100 CAD total.
+→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the most impactful changes for under $100 CAD total.

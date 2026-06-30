@@ -1,4 +1,4 @@
----
+﻿---
 title: "15 Small Space Living Room Ideas That Actually Work in Canadian Apartments"
 description: "Transform your small living room with these 15 practical ideas tested in a real Canadian apartment. Renter-friendly, budget-conscious, and built for tight square footage."
 image: "/images/blog-01-img1.jpg"
@@ -64,7 +64,7 @@ In a small living room, your walls are more valuable real estate than your floor
 
 A floor-to-ceiling [KALLAX](https://www.ikea.com/ca/en/) or BILLY bookcase along one wall gives you massive storage without narrowing the walkable area. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian renter moves every 3–4 years — so every furniture decision should be both functional and easy to reassemble.
 
-→ We go deep on this in our guide to [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget) — covers every room including the living area.
+→ We go deep on this in our guide to [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) — covers every room including the living area.
 
 ## 5. Use Mirrors Strategically
 
@@ -177,4 +177,4 @@ These four changes — rug, mirror, accent wall, and cleared floors — will do 
 
 Once your living room layout is working, the bedroom is usually the next pain point. Storage under the bed, slim wardrobes, and floating nightstands solve most small bedroom problems without touching a wall.
 
-Read our guide on [small bedroom storage ideas for Canadian apartment renters](/blog/small-bedroom-storage-ideas) — 14 practical solutions that work in rooms as small as 90 sq ft.
+Read our guide on [small bedroom storage ideas for Canadian apartment renters](/blog/small-apartment-bedroom-storage-ideas) — 14 practical solutions that work in rooms as small as 90 sq ft.

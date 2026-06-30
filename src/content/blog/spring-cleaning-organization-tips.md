@@ -1,4 +1,4 @@
----
+﻿---
 title: "Spring Cleaning Organization Tips: The Complete Room-by-Room Guide for Canadian Apartments"
 description: "Spring cleaning and organization guide for Canadian apartment renters — room-by-room checklist, declutter strategies, and storage updates for a fresh start after winter."
 image: "/images/blog-21-img1.jpg"
@@ -209,6 +209,6 @@ The entryway takes the most abuse in a Canadian winter — wet boots, heavy coat
 
 Done over a weekend — one room per half-day — this is a complete reset for the apartment.
 
-Spring cleaning works best when it becomes the annual moment to ask: what storage system isn't working? Add the pantry bins you've been meaning to install. Fix the closet with slim velvet hangers. The clean comes first, then the upgrade. For organization ideas to install during the spring reset, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) covers everything from the bedroom closet to the kitchen pantry for under $100 CAD.
+Spring cleaning works best when it becomes the annual moment to ask: what storage system isn't working? Add the pantry bins you've been meaning to install. Fix the closet with slim velvet hangers. The clean comes first, then the upgrade. For organization ideas to install during the spring reset, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers everything from the bedroom closet to the kitchen pantry for under $100 CAD.
 
 → Once the kitchen is clean and organized, [small space kitchen organization](/blog/small-space-kitchen-organization/) gives you the full system for keeping it working through the rest of the year.

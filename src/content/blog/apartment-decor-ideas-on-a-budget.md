@@ -11,7 +11,7 @@ category: "Decor"
 readTime: 7
 faqs:
   - q: "How do I decorate my apartment cheaply in Canada?"
-    a: "Start with lighting (warm 2700K bulbs, ~$15 CAD) and textiles (rug + cushions + throw, ~$80–$120 CAD) — these two categories give the most visual return per dollar. Add a gallery wall with Command strips and printed photos. Total under $200 CAD. See our <a href='/blog/budget-apartment-decor-under-100'>budget apartment decor under $100 CAD</a> post for even tighter budgets."
+    a: "Start with lighting (warm 2700K bulbs, ~$15 CAD) and textiles (rug + cushions + throw, ~$80–$120 CAD) — these two categories give the most visual return per dollar. Add a gallery wall with Command strips and printed photos. Total under $200 CAD. See our <a href='/blog/apartment-decor-ideas-on-a-budget'>budget apartment decor under $100 CAD</a> post for even tighter budgets."
   - q: "What should I buy first when decorating a new apartment on a budget?"
     a: "Rug first (anchors the living room, biggest single-piece impact), then warm bulbs and one lamp (transforms the mood immediately), then throw cushions and a blanket (adds colour and warmth). These three purchases cover the fundamentals for under $200 CAD at IKEA, HomeSense, or Canadian Tire."
   - q: "Where can I find cheap apartment decor in Canada?"
@@ -135,7 +135,7 @@ Before spending anything, do these changes that cost nothing:
 | Photo prints (10) + frames | $25–$35 | Costco + Dollarama |
 | **Total** | **$131–$161** | |
 
-Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. If you want to push further with specific ideas under $100, [budget apartment decor under $100](/blog/budget-apartment-decor-under-100/) shows 12 high-impact moves that look far more expensive than they cost. And for deposit-safe ways to go beyond the basics, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
+Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. If you want to push further with specific ideas under $100, [budget apartment decor under $100](/blog/apartment-decor-ideas-on-a-budget/) shows 12 high-impact moves that look far more expensive than they cost. And for deposit-safe ways to go beyond the basics, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
 
 The apartment you want is achievable on a Canadian budget. Start with the free changes, then follow the priority order above. One purchase at a time beats a chaotic haul every time.
 

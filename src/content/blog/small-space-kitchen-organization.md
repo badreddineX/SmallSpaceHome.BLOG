@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Space Kitchen Organization: 14 Ideas for Canadian Apartment Kitchens"
 description: "14 kitchen organization ideas for small Canadian apartments — pantry, counters, cabinets, and drawers. Renter-friendly, real CAD prices, and what actually works."
 image: "/images/blog-17-img1.jpg"
@@ -152,4 +152,4 @@ This combination tackles pantry shelves, kitchen drawers, wall storage, cabinet 
 
 Zone first, buy second. A zoned kitchen where everything lives near where it's used is more functional than a perfectly organized one where tools are all in the wrong place. For the full apartment storage picture — including how the kitchen fits into a room-by-room system — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/).
 
-→ For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-budget/) — it covers the kitchen alongside every other room.
+→ For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) — it covers the kitchen alongside every other room.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Studio Apartment Ideas: How to Make a One-Room Space Actually Work"
 description: "Studio apartment ideas for Canadian renters — how to define zones, maximize storage, and make a one-room space feel like a proper home. All renter-friendly."
 image: "/images/blog-05-img1.jpg"
@@ -11,7 +11,7 @@ category: "Decor"
 readTime: 9
 faqs:
   - q: "How do I make my studio apartment not look like a studio?"
-    a: "Define zones with rugs, separate the bed from the living area using a bookcase or sofa back, and use distinct lighting in each zone. Our full <a href='/blog/how-to-organize-studio-apartment'>studio apartment organization guide</a> walks through the complete zone-by-zone system in one weekend — with CAD prices throughout."
+    a: "Define zones with rugs, separate the bed from the living area using a bookcase or sofa back, and use distinct lighting in each zone. Our full <a href='/blog/studio-apartment-ideas'>studio apartment organization guide</a> walks through the complete zone-by-zone system in one weekend — with CAD prices throughout."
   - q: "What's the best furniture for a studio apartment in Canada?"
     a: "An apartment-sized sofa (180 cm max), a storage bed frame like the IKEA NORDLI (~$399 CAD), a compact IKEA MICKE desk, and a BILLY or KALLAX as a room divider. Every piece should be multi-functional. More picks in our <a href='/blog/small-space-furniture'>small space furniture guide</a>."
   - q: "How do I add storage to a studio apartment without making it feel cramped?"
@@ -78,7 +78,7 @@ You cannot use floor space for storage in a studio without making the room feel 
 - Floating shelves above the desk, above the nightstand, or beside the bed
 - Over-door organizers on every door
 
-For a complete system to organize every zone of your studio, [how to organize a studio apartment](/blog/how-to-organize-studio-apartment/) covers the declutter-first approach room by room.
+For a complete system to organize every zone of your studio, [how to organize a studio apartment](/blog/studio-apartment-ideas/) covers the declutter-first approach room by room.
 
 ## 6. Choose a Bed with Storage Underneath
 
@@ -173,4 +173,4 @@ Even a studio with a tiny entry benefits from defining that space. A small rack 
 
 A studio apartment works when every decision is intentional — where the zones are, what furniture earns its floor space, and what lives on which surface. Start with the zones, get the storage working, and the rest follows naturally.
 
-→ For the full room-by-room organization plan, see [how to organize a studio apartment](/blog/how-to-organize-studio-apartment/) — a weekend-by-weekend breakdown of exactly what to tackle first.
+→ For the full room-by-room organization plan, see [how to organize a studio apartment](/blog/studio-apartment-ideas/) — a weekend-by-weekend breakdown of exactly what to tackle first.
