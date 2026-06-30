@@ -7,7 +7,7 @@ dateModified: "2026-03-01"
 author: "Badreddine Br"
 tags: ["budget organization", "small apartment", "Canada", "under $100", "renter-friendly"]
 featured: false
-category: "Organization"
+category: "Budget Tips"
 readTime: 7
 faqs:
   - q: "How do I organize a small apartment cheaply in Canada?"

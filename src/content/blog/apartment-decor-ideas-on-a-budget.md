@@ -7,7 +7,7 @@ dateModified: "2026-03-21"
 author: "Badreddine Br"
 tags: ["budget decor", "apartment decor", "Canada", "under $200", "renter-friendly"]
 featured: false
-category: "Decor"
+category: "Budget Tips"
 readTime: 7
 faqs:
   - q: "How do I decorate my apartment cheaply in Canada?"
