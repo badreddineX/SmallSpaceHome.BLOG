@@ -85,10 +85,10 @@ Use this palette for everything: furniture, textiles, art, decor objects. When e
 In a small apartment, every piece of furniture should do at least two things. Minimalism and multi-function are natural partners — fewer pieces that do more.
 
 **Multi-function essentials:**
-- **Storage bed** — sleeping and storage. [IKEA](https://www.ikea.com/ca/en/) NORDLI ~$399–$699 CAD
-- **Storage ottoman** — seating, coffee table, and storage. Available at [Wayfair Canada](https://www.wayfair.ca) and HomeSense in a wide range of sizes and fabrics
+- **Storage bed** — sleeping and storage. IKEA NORDLI ~$399–$699 CAD
+- **Storage ottoman** — seating, coffee table, and storage. Available at Wayfair Canada and HomeSense in a wide range of sizes and fabrics
 - **KALLAX bookcase** — storage and room divider
-- **Sofa bed** — for anyone who needs guest sleep space ([IKEA](https://www.ikea.com/ca/en/) FRIHETEN ~$999 CAD)
+- **Sofa bed** — for anyone who needs guest sleep space (IKEA FRIHETEN ~$999 CAD)
 
 When every piece does multiple jobs, you need fewer pieces total.
 

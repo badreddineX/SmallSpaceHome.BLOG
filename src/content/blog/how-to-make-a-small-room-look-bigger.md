@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Make a Small Room Look Bigger: 13 Tricks for Canadian Apartments"
 description: "13 visual tricks that make any small room in a Canadian apartment look bigger — colour, mirrors, lighting, furniture, and layout. No renovation required."
 image: "/images/blog-14-img1.jpg"
@@ -43,7 +43,7 @@ A mirror that faces a window reflects the outdoor light back into the room, effe
 - On the wall beside a window
 - At the end of a narrow hallway
 
-A leaning full-length mirror requires no installation. [IKEA HOVET](https://www.ikea.com/ca/en/) ~$279 CAD, or [Amazon.ca](https://www.amazon.ca) options from ~$89 CAD.
+A leaning full-length mirror requires no installation. IKEA HOVET ~$279 CAD, or Amazon.ca options from ~$89 CAD.
 
 ![A leaning full-length mirror opposite a window doubles the light and adds visual depth to a small room](/images/blog-14-img2.jpg)
 
@@ -60,7 +60,7 @@ This is one of the most effective tricks for making a small apartment feel large
 Furniture that sits on visible legs keeps the floor line unbroken — the eye reads this as more floor space and more room. Furniture that sits flat on the floor (platform beds, low sectionals, solid storage cubes) interrupts the floor plane and makes the room feel more compressed.
 
 Look for:
-- Beds with a visible frame and legs (the [IKEA NORDLI](https://www.ikea.com/ca/en/) is a good example)
+- Beds with a visible frame and legs (the IKEA NORDLI is a good example)
 - Sofas with legs, not to-the-floor fabric
 - Coffee tables and side tables on legs rather than solid bases
 

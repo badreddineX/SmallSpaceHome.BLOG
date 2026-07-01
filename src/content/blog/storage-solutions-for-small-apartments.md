@@ -30,9 +30,9 @@ Storage in a small Canadian apartment is not a products problem — it is a sequ
 
 ### 1. Under-Bed Storage With Flat Bins or SKUBB Bags
 
-The area under the bed is the most underused storage space in most small apartments. [IKEA SKUBB](https://www.ikea.com/ca/en/) under-bed bags ($14 CAD for 2) are flat, zip closed, and store off-season clothing and extra bedding with zero visual footprint.
+The area under the bed is the most underused storage space in most small apartments. IKEA SKUBB under-bed bags ($14 CAD for 2) are flat, zip closed, and store off-season clothing and extra bedding with zero visual footprint.
 
-If your bed sits too low, bed risers add 15 cm of clearance for ~$25 CAD at [Amazon.ca](https://www.amazon.ca).
+If your bed sits too low, bed risers add 15 cm of clearance for ~$25 CAD at Amazon.ca.
 
 ### 2. A Storage Bed Frame
 
@@ -44,7 +44,7 @@ The back of a bedroom closet door is storage you're ignoring. A 24-pocket over-d
 
 ### 4. Tension Rod for Double Hanging
 
-A second tension rod below the main closet rod creates a full extra tier of hanging space for shirts and short items. $15 CAD at [Amazon.ca](https://www.amazon.ca), requires no installation.
+A second tension rod below the main closet rod creates a full extra tier of hanging space for shirts and short items. $15 CAD at Amazon.ca, requires no installation.
 
 ### 5. Slim Velvet Hangers
 

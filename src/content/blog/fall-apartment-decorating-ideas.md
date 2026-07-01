@@ -37,7 +37,7 @@ The fastest way to shift a room from summer to fall is a textile swap. Replace l
 - Warm cream or ivory
 - Burgundy / wine red
 
-**Cost:** [IKEA](https://www.ikea.com/ca/en/) GURLI cushion covers ~$6 each. HomeSense chunky throws ~$30–$50 CAD.
+**Cost:** IKEA GURLI cushion covers ~$6 each. HomeSense chunky throws ~$30–$50 CAD.
 
 ![A cozy apartment living room with autumn-toned textiles and warm lamp lighting — the fall atmosphere starts with the sofa](/images/living-room-cozy.jpg)
 
@@ -98,7 +98,7 @@ This signals "cozy and lived-in" rather than "laundry pile."
 
 4–6 cushions on a sofa in autumn colours transform the room. Swap 2–3 of your regular cushion covers for rust, amber, or deep green ones.
 
-**Cost:** [Amazon.ca](https://www.amazon.ca), velvet cushion covers 2-pack ~$25–$35 CAD. [IKEA](https://www.ikea.com/ca/en/) GURLI ~$6 each.
+**Cost:** Amazon.ca, velvet cushion covers 2-pack ~$25–$35 CAD. IKEA GURLI ~$6 each.
 
 ## 8. Warm Up the Lighting
 
@@ -135,7 +135,7 @@ The kitchen can reflect autumn without becoming themed. A simple bowl of apples 
 
 For apartments with a private entry, a fall doormat in a warm colour or leaf pattern signals the season from the moment you arrive home. Functional and seasonal.
 
-**Cost:** [Amazon.ca](https://www.amazon.ca) or Canadian Tire, ~$20–$40 CAD.
+**Cost:** Amazon.ca or Canadian Tire, ~$20–$40 CAD.
 
 ---
 
@@ -143,7 +143,7 @@ For apartments with a private entry, a fall doormat in a warm colour or leaf pat
 
 | Item | Cost (CAD) | Where |
 |------|-----------|-------|
-| 2 rust cushion covers | ~$25 | [Amazon.ca](https://www.amazon.ca) or [Wayfair Canada](https://www.wayfair.ca) |
+| 2 rust cushion covers | ~$25 | Amazon.ca or Wayfair Canada |
 | Autumn scented candle | ~$20 | HomeSense |
 | Small pumpkin (3-pack) | ~$12 | Grocery store |
 | Dried botanicals (1 stem) | ~$15 | Floral shop |

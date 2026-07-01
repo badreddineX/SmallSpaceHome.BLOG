@@ -44,8 +44,8 @@ A rug is the single piece of decor that makes the most visual difference in a li
 **Critical:** buy the right size. A rug that is too small looks worse than no rug. Minimum 160 × 230 cm for a small living room.
 
 **Budget options in Canada:**
-- [IKEA](https://www.ikea.com/ca/en/) flat-weave rugs (STOCKHOLM or SIDENÖRT styles) — from ~$59–$99 CAD
-- [Amazon.ca](https://www.amazon.ca) budget rugs — good quality options from ~$65–$80 CAD
+- IKEA flat-weave rugs (STOCKHOLM or SIDENÖRT styles) — from ~$59–$99 CAD
+- Amazon.ca budget rugs — good quality options from ~$65–$80 CAD
 - HomeSense/Winners — check for end-of-season sales, high quality at reduced prices
 
 ![A large area rug anchoring the sofa and coffee table in a small Canadian apartment living room](/images/blog-15-img2.jpg)
@@ -114,10 +114,10 @@ Before spending anything, do these changes that cost nothing:
 
 | Store | Best For | Why |
 |-------|---------|-----|
-| [IKEA](https://www.ikea.com/ca/en/) | Rugs, textiles, lighting | Best price-to-quality ratio |
+| IKEA | Rugs, textiles, lighting | Best price-to-quality ratio |
 | HomeSense/Winners | Art, textiles, decor objects | Discounted quality pieces |
 | Dollarama | Small items, frames, plants | Surprisingly useful range |
-| [Amazon.ca](https://www.amazon.ca) | Lighting, specific organizers | Wide selection, competitive pricing |
+| Amazon.ca | Lighting, specific organizers | Wide selection, competitive pricing |
 | Facebook Marketplace | Furniture, art, large items | Secondhand quality at low prices |
 | Walmart Canada | Basic textiles, bath items | Accessible and affordable |
 

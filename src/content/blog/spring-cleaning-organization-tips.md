@@ -52,7 +52,7 @@ Spring is when you swap winter and summer wardrobes.
 - Winter coats, heavy sweaters, snow pants, and wool items → vacuum storage bags → under-bed or high shelf
 - Spring/summer clothing → front of closet and accessible drawers
 
-Vacuum bags compress winter clothing to a fraction of its size. ~$25–$30 CAD for a 6-bag set at [Amazon.ca](https://www.amazon.ca).
+Vacuum bags compress winter clothing to a fraction of its size. ~$25–$30 CAD for a 6-bag set at Amazon.ca.
 
 ### Deep Clean:
 - Wash all bedding including duvet cover and pillowcases
@@ -84,7 +84,7 @@ The kitchen accumulates more than any other room in a Canadian winter. Comfort f
 ### Pantry Rotation:
 Move older items to the front, newer items to the back. This prevents the "found a tin of tomatoes from 2023" problem.
 
-Then add clear stackable bins (~$5–$8 CAD each, [Amazon.ca](https://www.amazon.ca)) by category. The spring clean is the ideal time to install a proper pantry system you'll maintain all year. For larger storage pieces like a wardrobe or entryway bench, [IKEA Canada](https://www.ikea.com/ca/en/) and [Wayfair Canada](https://www.wayfair.ca) are worth checking during spring sales.
+Then add clear stackable bins (~$5–$8 CAD each, Amazon.ca) by category. The spring clean is the ideal time to install a proper pantry system you'll maintain all year. For larger storage pieces like a wardrobe or entryway bench, IKEA Canada and Wayfair Canada are worth checking during spring sales.
 
 ### Deep Clean:
 - Wipe down every cabinet surface inside and out

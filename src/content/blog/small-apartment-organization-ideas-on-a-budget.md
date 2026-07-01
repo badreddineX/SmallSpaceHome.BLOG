@@ -30,7 +30,7 @@ You do not need a $500 Container Store haul to get your apartment organized. Mos
 
 If you do only one thing in this entire list, do this. Switching from bulky plastic hangers to slim velvet ones typically frees 30–40% more hanging space in your closet — immediately, with no rearranging.
 
-**Where to buy:** [Amazon.ca](https://www.amazon.ca), 50-pack for ~$18 CAD.
+**Where to buy:** Amazon.ca, 50-pack for ~$18 CAD.
 
 ## 2. Command Hooks on Every Empty Wall (~$12–$15 CAD)
 
@@ -68,7 +68,7 @@ Dollarama's organization section is significantly better than most people expect
 
 Flat, zippable bags designed to slide under a bed frame. Store off-season clothes, extra linens, or anything you only need twice a year. If your bed sits too low, bed risers (~$25 CAD) add clearance.
 
-**Where to buy:** [IKEA Canada](https://www.ikea.com/ca/en/), 2-pack ~$14 CAD.
+**Where to buy:** IKEA Canada, 2-pack ~$14 CAD.
 
 ![Flat IKEA SKUBB under-bed bags make full use of the largest untapped storage space in a small bedroom](/images/blog-09-img3.jpg)
 
@@ -100,7 +100,7 @@ Shoes piled at the door create chaos and damage footwear. A 2-tier slim shoe rac
 
 If you have open KALLAX cubes or open shelves, baskets hide the contents — turning "storage shelf" into "styled decor." Wicker baskets from HomeSense, IKEA, or Dollarama work beautifully.
 
-**Where to buy:** HomeSense, [IKEA Canada](https://www.ikea.com/ca/en/), or Dollarama (for small baskets).
+**Where to buy:** HomeSense, IKEA Canada, or Dollarama (for small baskets).
 
 ## 13. Shelf Dividers for Folded Clothes (~$18–$26 CAD)
 
@@ -118,7 +118,7 @@ Labels make every storage system work better. When everything is clearly labeled
 
 Canadian winters mean storing heavy blankets, coats, and seasonal clothing for half the year. Vacuum storage bags compress bulky items to 1/4 their original size.
 
-**Where to buy:** [Amazon.ca](https://www.amazon.ca), 6-bag set ~$25–$30 CAD.
+**Where to buy:** Amazon.ca, 6-bag set ~$25–$30 CAD.
 
 ![Vacuum storage bags compressing bulky winter clothing for small apartment closet storage](/images/blog-09-img4.jpg)
 

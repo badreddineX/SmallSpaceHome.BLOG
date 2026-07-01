@@ -1,4 +1,4 @@
----
+﻿---
 title: "January Reset Organization Ideas: How to Start the Year Right in a Small Apartment"
 description: "15 January reset organization ideas for small Canadian apartments — declutter, reset every room, and build systems that actually hold through the year. Renter-friendly, budget-conscious."
 image: "/images/blog-03-img1.jpg"
@@ -62,9 +62,9 @@ The bedroom closet is where the most clutter hides in a small apartment. January
 - Bedding extras: one spare set is enough — more than that is taking space from things you actually use
 
 ### The closet organization reset:
-Slim velvet hangers (~$18 CAD at [Amazon.ca](https://www.amazon.ca)) immediately free 30–40% of rod space. After decluttering, this alone may solve most of the closet problem. Hang by category: tops, bottoms, dresses, outerwear. Heavy winter coats go at the far end or on a separate hook.
+Slim velvet hangers (~$18 CAD at Amazon.ca) immediately free 30–40% of rod space. After decluttering, this alone may solve most of the closet problem. Hang by category: tops, bottoms, dresses, outerwear. Heavy winter coats go at the far end or on a separate hook.
 
-Folded items: use shelf dividers (~$12–$15 CAD at [IKEA Canada](https://www.ikea.com/ca/en/)) to keep stacks from collapsing. Jeans, sweaters, and knitwear fold better than they hang anyway.
+Folded items: use shelf dividers (~$12–$15 CAD at IKEA Canada) to keep stacks from collapsing. Jeans, sweaters, and knitwear fold better than they hang anyway.
 
 ### Under-bed storage:
 January is the right time to reassess what lives under the bed. IKEA SKUBB under-bed bags (~$14 CAD) compress seasonal items — summer clothes, extra bedding — flat under the frame. Clear bins with lids work for anything you need to see and access occasionally.
@@ -84,7 +84,7 @@ The kitchen accumulates more over the holidays than any other room.
 - Donate non-expired items you genuinely won't use
 
 ### Organize what stays:
-Clear stackable bins (~$5–$8 CAD each at [Amazon.ca](https://www.amazon.ca) or [IKEA Canada](https://www.ikea.com/ca/en/)) by category work far better than loose items on shelves. Label each bin: grains, canned goods, snacks, baking, breakfast. Items behind other items get forgotten — bins solve this.
+Clear stackable bins (~$5–$8 CAD each at Amazon.ca or IKEA Canada) by category work far better than loose items on shelves. Label each bin: grains, canned goods, snacks, baking, breakfast. Items behind other items get forgotten — bins solve this.
 
 ### Kitchen tools and appliances:
 The holiday season tends to surface appliances that only come out once a year. January is when you decide: does this earn its space? In a small apartment kitchen, every inch of cabinet space is at a premium. A panini press used twice a year does not earn a cabinet.
@@ -101,7 +101,7 @@ Usually the most chaotic spot in a small apartment kitchen. In January, empty it
 The living area collects holiday decor, gifts, bags, and overflow from everywhere else.
 
 ### Remove holiday decor now:
-Box it, label the box by category (lights, ornaments, textiles), and store it. Label clearly — December-you will thank January-you. Boxes at [Wayfair Canada](https://www.wayfair.ca) or even repurposed shipping boxes from holiday deliveries work fine.
+Box it, label the box by category (lights, ornaments, textiles), and store it. Label clearly — December-you will thank January-you. Boxes at Wayfair Canada or even repurposed shipping boxes from holiday deliveries work fine.
 
 ### Declutter the shelves and surfaces:
 After the holidays, surfaces tend to have accumulated items that don't belong there. January reset rule: every surface gets cleared completely, then only intentional items go back. If you can't name why something is on a shelf, it doesn't go back.
@@ -121,7 +121,7 @@ The bathroom accumulates slowly and gets ignored until it's suddenly very full.
 - The rule for duplicates: finish one before opening the next
 
 ### Counter reset:
-In a small apartment bathroom, the counter should hold only daily-use items — everything else in a cabinet or drawer. January is the time to enforce this. A small tray (~$10–$20 CAD at [Wayfair Canada](https://www.wayfair.ca)) corrals daily items and stops the counter from accumulating.
+In a small apartment bathroom, the counter should hold only daily-use items — everything else in a cabinet or drawer. January is the time to enforce this. A small tray (~$10–$20 CAD at Wayfair Canada) corrals daily items and stops the counter from accumulating.
 
 ### Under-sink:
 Same approach as the kitchen. Empty completely, group by category (cleaning products, spare toiletries, hair tools), and use bins to keep groups together.
@@ -141,7 +141,7 @@ The deep-of-winter entryway needs to be functional above all else. Reduce it to 
 Everything else — seasonal footwear, extra bags, rarely-used outerwear — moves to the closet or under-bed storage.
 
 ### What to add if the entryway is chaotic:
-A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at [Amazon.ca](https://www.amazon.ca)) holds gloves, scarves, small items, and does not require drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, shoe storage, and surface for daily items simultaneously.
+A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) holds gloves, scarves, small items, and does not require drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, shoe storage, and surface for daily items simultaneously.
 
 ![A reset apartment entryway after January — coat hooks, boot tray, and a clear surface for daily essentials](/images/blog-03-img4.jpg)
 

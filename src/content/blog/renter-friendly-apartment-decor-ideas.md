@@ -39,7 +39,7 @@ One peel-and-stick accent wall transforms a room more dramatically than any othe
 **Best brands shipping to Canada:**
 - [Chasing Paper](https://www.chasingpaper.com) (wide pattern selection)
 - [Tempaper](https://www.tempaper.com) (premium, very clean removal)
-- [Amazon.ca](https://www.amazon.ca) has affordable options under $30/roll
+- Amazon.ca has affordable options under $30/roll
 
 **Application tip:** Prep the wall with a damp cloth, let it dry completely, and apply in vertical strips from top to bottom. Use a credit card to smooth out bubbles.
 
@@ -70,9 +70,9 @@ Look for peel-and-stick subway tile or hexagon tile panels on Amazon.ca (~$30–
 In an open-plan or studio apartment, a large area rug (at least 5×8 ft) defines the living area and grounds the furniture arrangement. It also adds warmth and absorbs sound — which matters a lot in apartment buildings.
 
 **Where to shop in Canada:**
-- [Wayfair Canada](https://www.wayfair.ca) (wide selection, frequent sales)
+- Wayfair Canada (wide selection, frequent sales)
 - HomeSense (check regularly — stock changes)
-- [IKEA Canada](https://www.ikea.com/ca/en/) (Adum, Stoense — reliable quality)
+- IKEA Canada (Adum, Stoense — reliable quality)
 
 ## 5. Floor Lamps and Table Lamps Over Overhead Lighting
 

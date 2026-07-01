@@ -43,16 +43,16 @@ You define zones with furniture arrangement, rugs, and lighting — not walls.
 The most effective way to visually separate the sleeping zone from the living zone in a studio is a piece of furniture placed between them.
 
 **Options:**
-- **Open bookcase** — [IKEA KALLAX](https://www.ikea.com/ca/en/) or BILLY placed behind the sofa creates a visual barrier without blocking light
+- **Open bookcase** — IKEA KALLAX or BILLY placed behind the sofa creates a visual barrier without blocking light
 - **Sofa facing away from the bed** — the back of the sofa naturally divides the space
-- **Curtain on a ceiling track** — the most flexible option, pulls closed for privacy (~$50–$80 CAD for curtain + track at [IKEA Canada](https://www.ikea.com/ca/en/))
+- **Curtain on a ceiling track** — the most flexible option, pulls closed for privacy (~$50–$80 CAD for curtain + track at IKEA Canada)
 
 ## 3. Invest in a Good Sofa Bed or Murphy Bed
 
 If your studio apartment is truly small (under 400 sq ft), a sofa bed or Murphy bed is worth serious consideration. During the day your sleeping area becomes a functional living room.
 
 **Canadian options:**
-- **[IKEA FRIHETEN](https://www.ikea.com/ca/en/) sofa bed** — ~$999 CAD, large storage chaise + sofa + bed in one
+- **IKEA FRIHETEN sofa bed** — ~$999 CAD, large storage chaise + sofa + bed in one
 - **IKEA HOLMSUND** — sleeker look, ~$799 CAD
 - **Murphy bed with desk combo** — wall-mounted, folds up to reveal a work surface. Available at Wayfair Canada from ~$1,200 CAD
 

@@ -59,7 +59,7 @@ This is the biggest visual upgrade available to renters. A peel-and-stick wallpa
 **What to look for:**
 - Repositionable adhesive (not permanent)
 - Water-based ink (won't damage paint underneath)
-- Brands: RoomMates, NuWallpaper, or Tempaper — all available on [Amazon.ca](https://www.amazon.ca)
+- Brands: RoomMates, NuWallpaper, or Tempaper — all available on Amazon.ca
 
 **Cost:** ~$40–$90 CAD per roll. A typical accent wall takes 2–3 rolls.
 
@@ -87,7 +87,7 @@ A well-done gallery wall is one of the most effective apartment decor upgrades y
 4. Mix frame sizes — a gallery wall with all the same size looks flat
 
 **Where to find affordable art in Canada:**
-- [IKEA](https://www.ikea.com/ca/en/) art prints (PJÄTTERYD series, ~$20–$50 CAD)
+- IKEA art prints (PJÄTTERYD series, ~$20–$50 CAD)
 - Society6 or Desenio for printed posters
 - Your own photos printed at Costco Canada (surprisingly cheap)
 - Thrift stores for interesting frames
@@ -100,7 +100,7 @@ Most rental apartments come with harsh overhead lighting that makes every room f
 - **Swap bulbs** — replace cool white bulbs (5000K) with warm white (2700K) throughout. ~$15–$25 CAD for a multipack at Canadian Tire
 - **Add a floor lamp** — fills corners, creates ambient light, and adds height to the room
 - **Use table lamps** — one on each side of the sofa or bed for a balanced, layered look
-- **LED strip lights** — behind the TV or under kitchen cabinets for accent lighting (~$20–$35 CAD on [Amazon.ca](https://www.amazon.ca))
+- **LED strip lights** — behind the TV or under kitchen cabinets for accent lighting (~$20–$35 CAD on Amazon.ca)
 
 ![Warm layered lighting with floor lamp and table lamps transforms a rental living room](/images/living-room-cozy.jpg)
 
@@ -123,7 +123,7 @@ A well-placed mirror does two things at once: it reflects light (making the room
 - A round mirror on the wall above the sofa or dresser — hung with Command strips
 - A small mirror in the entryway to brighten a typically dark hallway
 
-**Cost:** [IKEA](https://www.ikea.com/ca/en/) HOVET full-length mirror ~$279 CAD. Round mirrors from [Amazon.ca](https://www.amazon.ca) from ~$45 CAD.
+**Cost:** IKEA HOVET full-length mirror ~$279 CAD. Round mirrors from Amazon.ca from ~$45 CAD.
 
 ![A well-placed mirror doubles perceived space and reflects natural light throughout the room](/images/blog-02-img3.jpg)
 

@@ -53,8 +53,8 @@ In summer, a sofa has 2–3 cushions and maybe one throw. In winter, it should h
 
 **Where to buy in Canada:**
 - HomeSense and Winners: chunky throws ~$30–$60 CAD, velvet cushions ~$15–$35 CAD
-- [IKEA](https://www.ikea.com/ca/en/): POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
-- [Amazon.ca](https://www.amazon.ca): boucle and faux sheepskin cushion covers ~$20–$35 CAD each
+- IKEA: POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
+- Amazon.ca: boucle and faux sheepskin cushion covers ~$20–$35 CAD each
 
 ![Layered throw blankets and chunky cushions on a sofa — the quickest way to create a cozy Canadian winter apartment](/images/blog-19-img3.jpg)
 
@@ -71,7 +71,7 @@ How your home smells in winter is as important as how it looks. Scent is the fas
 **Delivery methods:**
 - Soy candles (~$20–$35 CAD at HomeSense or specialty shops)
 - Reed diffuser (~$25–$40 CAD — good for rooms where candles aren't practical)
-- Essential oil diffuser (~$30–$50 CAD at [Amazon.ca](https://www.amazon.ca)) — also adds moisture in dry heated apartments
+- Essential oil diffuser (~$30–$50 CAD at Amazon.ca) — also adds moisture in dry heated apartments
 
 ## Bring Winter Botanicals Indoors
 

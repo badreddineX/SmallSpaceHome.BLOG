@@ -63,7 +63,7 @@ Furniture that sits high off the ground makes a small bedroom feel taller (good)
 A mirror in a small bedroom does two things: it creates the visual illusion of depth, and it reflects light — making the room feel brighter and larger.
 
 **Best approaches:**
-- **Leaning mirror** — a full-length mirror leaning against the wall requires no installation and works immediately. [IKEA Canada](https://www.ikea.com/ca/en/) HOVET ~$279 CAD, or a full-length mirror from [Amazon.ca](https://www.amazon.ca) from ~$89 CAD
+- **Leaning mirror** — a full-length mirror leaning against the wall requires no installation and works immediately. IKEA Canada HOVET ~$279 CAD, or a full-length mirror from Amazon.ca from ~$89 CAD
 - **Mirrored wardrobe doors** — if you're replacing closet doors or getting a wardrobe, mirrored fronts double the perceived size of the room
 - **Small mirror above the dresser** — reflects light from the window
 
@@ -86,7 +86,7 @@ Curtain rods mounted as close to the ceiling as possible, with curtains that fal
 
 In a rental, a Command large curtain rod bracket (~$18 CAD) or a tension rod curtain system works without drilling.
 
-**Cost:** [IKEA Canada](https://www.ikea.com/ca/en/) LENDA curtain panels (2-pack) ~$30–$50 CAD, or browse curtain options on [Wayfair Canada](https://www.wayfair.ca), ceiling-height rod ~$25–$40 CAD.
+**Cost:** IKEA Canada LENDA curtain panels (2-pack) ~$30–$50 CAD, or browse curtain options on Wayfair Canada, ceiling-height rod ~$25–$40 CAD.
 
 ![Floor-to-ceiling curtains mounted near the ceiling make any small bedroom feel taller](/images/bedroom-shelves-reading.jpg)
 

@@ -82,7 +82,7 @@ Mirrors create the illusion of depth and reflect light, making any room feel lar
 - On the wall you see when you enter a room — creates the impression of more space
 - Full-length in the bedroom — simultaneously functional and space-expanding
 
-No drilling required: lean a large mirror against the wall ([IKEA](https://www.ikea.com/ca/en/) HOVET, ~$279 CAD) or use Command strips for lighter options.
+No drilling required: lean a large mirror against the wall (IKEA HOVET, ~$279 CAD) or use Command strips for lighter options.
 
 ## Rule 7: Layer Your Lighting
 
@@ -101,7 +101,7 @@ Warm bulbs (2700K) throughout. Avoid cool white or daylight bulbs in residential
 
 In a rental apartment where you can't change the walls, floors, or architecture, textiles do the most work.
 
-**A rug, throw cushions, and a blanket** transform the look and feel of a living room for under $200 CAD. You'll find solid options at [Wayfair Canada](https://www.wayfair.ca) and HomeSense — both carry a wide range of affordable textiles that travel well from apartment to apartment. Matching towels and a bath mat do the same for the bathroom for under $60 CAD.
+**A rug, throw cushions, and a blanket** transform the look and feel of a living room for under $200 CAD. You'll find solid options at Wayfair Canada and HomeSense — both carry a wide range of affordable textiles that travel well from apartment to apartment. Matching towels and a bath mat do the same for the bathroom for under $60 CAD.
 
 Textiles also pack when you move. Every cent spent on quality textiles follows you to the next apartment.
 

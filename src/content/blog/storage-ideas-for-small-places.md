@@ -30,7 +30,7 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 
 Most renters stop thinking at eye level. Everything above that — all the way to the ceiling — is unused real estate. Float shelves on Command strips for books, plants, and baskets. In the living room and bedroom, this is the single change with the highest impact per dollar.
 
-**What to buy:** [IKEA Canada](https://www.ikea.com/ca/en/) LACK shelf 2-pack (~$24 CAD) + Command Large Picture Hanging Strips.
+**What to buy:** IKEA Canada LACK shelf 2-pack (~$24 CAD) + Command Large Picture Hanging Strips.
 
 ## 2. A Tall Wardrobe Instead of a Dresser
 
@@ -81,7 +81,7 @@ Canadian winters mean you're storing a heavy coat, snow pants, sweaters, and bla
 
 Bedside tables eat precious floor space in a small bedroom. Floating nightstand shelves mounted with Command strips hold a lamp, phone, water glass, and book — and leave the floor completely clear.
 
-**Cost:** [Wayfair Canada](https://www.wayfair.ca) or [Amazon.ca](https://www.amazon.ca) options from ~$35–$65 CAD.
+**Cost:** Wayfair Canada or Amazon.ca options from ~$35–$65 CAD.
 
 ## 9. A Pegboard in the Kitchen
 
@@ -127,7 +127,7 @@ The inside surface of every kitchen cabinet door is wasted. Small wire racks or 
 
 A storage ottoman does three things: it's seating, a coffee table, and a storage chest. Use it for extra linens, blankets, board games, or anything you don't need daily.
 
-**Cost:** [Wayfair Canada](https://www.wayfair.ca) storage ottomans from ~$89–$150 CAD.
+**Cost:** Wayfair Canada storage ottomans from ~$89–$150 CAD.
 
 ![A storage ottoman does triple duty as seating, coffee table, and hidden storage](/images/storage-ottoman.jpg)
 
@@ -173,7 +173,7 @@ The system only works if everyone in the apartment can maintain it. Labels make 
 
 Most apartment kitchens have a gap between the top of the cabinets and the ceiling. This space is perfect for storing items you rarely use — large serving platters, seasonal kitchen tools, extra appliances. Use matching baskets to keep it looking intentional.
 
-**Cost:** Deep wicker or fabric baskets from HomeSense or [Amazon.ca](https://www.amazon.ca), ~$15–$35 CAD each.
+**Cost:** Deep wicker or fabric baskets from HomeSense or Amazon.ca, ~$15–$35 CAD each.
 
 ## 23. A Hanging Wardrobe Rack If You Have No Closet
 
