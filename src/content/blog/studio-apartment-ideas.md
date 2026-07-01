@@ -1,5 +1,5 @@
 ﻿---
-title: "Studio Apartment Ideas: How to Make a One-Room Space Actually Work"
+title: "Studio Apartment Ideas: Making a One-Room Space Work"
 description: "Studio apartment ideas for Canadian renters — how to define zones, maximize storage, and make a one-room space feel like a proper home. All renter-friendly."
 image: "/images/blog-05-img1.jpg"
 datePublished: "2026-02-13"

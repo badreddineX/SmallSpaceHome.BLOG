@@ -1,5 +1,5 @@
 ﻿---
-title: "Small Apartment Organization Ideas on a Budget: 15 Ways Under $100 CAD"
+title: "15 Apartment Organization Ideas Under $100 CAD"
 description: "15 budget organization ideas for small Canadian apartments, all under $100 CAD. Practical solutions that actually work from a Toronto renter — no expensive systems required."
 image: "/images/blog-09-img1.jpg"
 datePublished: "2026-03-01"

@@ -1,5 +1,5 @@
 ﻿---
-title: "Cozy Winter Apartment Decor: How to Make Your Canadian Rental Feel Warm All Season"
+title: "Cozy Winter Apartment Decor for Canadian Rentals"
 description: "Cozy winter apartment decor ideas for Canadian renters — textiles, lighting, scent, and seasonal touches that make a small apartment feel warm through a long winter."
 image: "/images/blog-19-img1.jpg"
 datePublished: "2026-10-15"

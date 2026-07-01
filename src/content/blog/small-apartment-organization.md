@@ -1,5 +1,5 @@
 ﻿---
-title: "Small Apartment Organization: The Complete Room-by-Room Guide for Canadian Renters"
+title: "Small Apartment Organization: Room-by-Room Guide"
 description: "A complete room-by-room organization system for small Canadian apartments. Declutter first, then organize — realistic, renter-friendly, no permanent changes required."
 image: "/images/blog-03-img1.jpg"
 datePublished: "2026-02-05"

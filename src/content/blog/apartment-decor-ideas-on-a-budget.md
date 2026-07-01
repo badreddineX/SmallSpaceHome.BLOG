@@ -1,5 +1,5 @@
 ﻿---
-title: "Apartment Decor Ideas on a Budget: Transform Any Space for Under $200 CAD"
+title: "Apartment Decor on a Budget: Under $200 CAD"
 description: "Transform your rental apartment for under $200 CAD. Budget-friendly decor ideas for Canadian renters — what to buy first, what to DIY, and what makes the biggest difference."
 image: "/images/blog-15-img1.jpg"
 datePublished: "2026-03-21"

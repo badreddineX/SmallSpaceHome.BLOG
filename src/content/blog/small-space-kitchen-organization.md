@@ -1,5 +1,5 @@
 ﻿---
-title: "Small Space Kitchen Organization: 14 Ideas for Canadian Apartment Kitchens"
+title: "14 Small Space Kitchen Organization Ideas"
 description: "14 kitchen organization ideas for small Canadian apartments — pantry, counters, cabinets, and drawers. Renter-friendly, real CAD prices, and what actually works."
 image: "/images/blog-17-img1.jpg"
 datePublished: "2026-03-29"

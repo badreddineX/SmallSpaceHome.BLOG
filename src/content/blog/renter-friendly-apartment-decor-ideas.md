@@ -123,6 +123,40 @@ Keep these on hand and you'll be able to handle almost any decor project:
 - **Peel-and-stick hooks** for lightweight items
 - **Velcro strips** for mirrors and light frames
 
+## 11. Seasonal Decor Swaps Without Permanent Changes
+
+One of the biggest advantages of renter-friendly decor is how easy it makes seasonal refreshes. Because nothing is permanent, you can completely change the feel of your apartment every few months with minimal effort and cost.
+
+**Fall/Winter:** Swap in heavier throw blankets, add warm amber lamps, replace lighter curtains with velvet or heavier linen panels. A faux fur rug layered over your existing area rug costs ~$35 CAD at HomeSense and transforms the space in minutes.
+
+**Spring/Summer:** Lighter cotton throws, swap in bright cushion covers ($8–$15 each at Dunelm or HomeSense), bring in fresh or dried botanicals, replace dark curtains with white linen panels for maximum light.
+
+None of these changes leave a single mark on the walls or floors. When you move, you take everything with you.
+
+## 12. Province-Specific Tips for Canadian Renters
+
+**Ontario (Toronto, Ottawa):** Lease law is clear — tenants can make minor alterations that don't cause damage. Command strips and removable wallpaper are universally acceptable. Some older Toronto buildings have textured walls — test removable wallpaper on a hidden corner first.
+
+**British Columbia (Vancouver):** BC residential tenancy agreements typically define "damage" as permanent changes. All ideas in this guide fall outside that definition. Vancouver apartments tend to have larger windows — invest in quality curtains hung high for maximum light.
+
+**Quebec (Montreal):** Montreal leases often reference the Civil Code of Quebec on alterations. Removable solutions are not alterations — no issue. Montreal apartments frequently have exposed brick walls; focus decor on freestanding and floor-level pieces rather than wall treatments on brick.
+
+**Alberta (Calgary, Edmonton):** Dry climate means removable wallpaper adhesive may grip more firmly — peel slowly and at a steeper angle than recommended. Add a light mist of water if resistance increases during removal.
+
+## 13. Moving Out: How to Remove Everything Cleanly
+
+When it's time to leave, the order of operations matters:
+
+1. **Remove Command strips and hooks** — pull the tab slowly downward at a low angle, never outward. Room temperature above 15°C makes removal significantly easier.
+2. **Peel removable wallpaper** — start at a corner, pull slowly at a 45-degree angle. If it has been up for more than 18 months, warm slightly with a hair dryer on low.
+3. **Clean adhesive residue** — Goo Gone (~$8 CAD at Canadian Tire) removes any adhesive trace without damaging paint.
+4. **Remove peel-and-stick tiles** — same technique as wallpaper. Warm with a hair dryer for 20–30 seconds per tile if they resist.
+5. **Patch anything** — even with renter-friendly products, conduct a walk-through with your landlord before the final inspection to address any edge cases.
+
+In practice, renters who use quality brands (Command, Tempaper, Chasing Paper) and follow removal instructions correctly leave apartments in move-in condition. Your deposit is safe.
+
+---
+
 Every idea in this post is reversible — which means your landlord has nothing to complain about and your deposit stays safe. Start with the removable wallpaper or the gallery wall, get comfortable with Command strips, and build from there. The best rental apartments look designed, not temporary.
 
 → For budget-specific versions of these ideas with exact Canadian prices, see [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/). And for the broader decorating principles behind all of these moves, [small space decorating](/blog/small-space-decorating/) explains the why behind what works.

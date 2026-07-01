@@ -1,5 +1,5 @@
 ﻿---
-title: "Minimalist Small Apartment Ideas: How to Live With Less and Love Your Space"
+title: "Minimalist Small Apartment Ideas That Actually Work"
 description: "Minimalist apartment ideas for small Canadian rentals — how to declutter, edit, and design a space that feels calm, spacious, and intentional without spending a fortune."
 image: "/images/blog-16-img1.jpg"
 datePublished: "2026-03-25"

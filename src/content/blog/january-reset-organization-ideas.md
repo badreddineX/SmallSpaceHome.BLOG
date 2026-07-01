@@ -1,5 +1,5 @@
 ﻿---
-title: "January Reset Organization Ideas: How to Start the Year Right in a Small Apartment"
+title: "January Reset: Small Apartment Organization Guide"
 description: "15 January reset organization ideas for small Canadian apartments — declutter, reset every room, and build systems that actually hold through the year. Renter-friendly, budget-conscious."
 image: "/images/blog-03-img1.jpg"
 datePublished: "2026-01-05"

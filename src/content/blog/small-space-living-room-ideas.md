@@ -1,5 +1,5 @@
 ﻿---
-title: "15 Small Space Living Room Ideas That Actually Work in Canadian Apartments"
+title: "15 Small Space Living Room Ideas for Apartments"
 description: "Transform your small living room with these 15 practical ideas tested in a real Canadian apartment. Renter-friendly, budget-conscious, and built for tight square footage."
 image: "/images/blog-01-img1.jpg"
 datePublished: "2026-06-27"

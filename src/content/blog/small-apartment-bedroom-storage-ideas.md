@@ -1,5 +1,5 @@
 ﻿---
-title: "Small Apartment Bedroom Storage Ideas: 13 Ways to Store More in Less Space"
+title: "13 Bedroom Storage Ideas for Small Apartments"
 description: "13 bedroom storage ideas for small Canadian apartments — closet, under-bed, wall, and furniture storage solutions. All renter-friendly with real CAD prices."
 image: "/images/blog-18-img1.jpg"
 datePublished: "2026-04-02"
@@ -130,6 +130,36 @@ If you have open shelves in the bedroom (BILLY bookcase, floating shelves, wardr
 
 Complete the first five steps before considering larger purchases. These five changes alone typically double usable bedroom storage for under $110 CAD.
 
-Bedroom storage is a sequence problem: closet first (hangers, tension rod, over-door organizer), then under-bed space, then wall storage. Get the basics working before investing in furniture changes. For more bedroom storage ideas including wall and furniture options, see [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/).
+Bedroom storage is a sequence problem: closet first (hangers, tension rod, over-door organizer), then under-bed space, then wall storage. Get the basics working before investing in furniture changes.
+
+## Bedroom Storage for Two People in a Small Canadian Apartment
+
+Sharing a small bedroom with a partner doubles the storage challenge. These solutions are specifically designed for two people in a single small bedroom:
+
+**Divide the closet in half — literally:** Use a tension rod or a simple hanging divider to split the closet cleanly. Each person has one side. This prevents the wardrobe drift that causes chaos in shared closets.
+
+**Two over-door organizers:** One on each side of the closet door, or one on the closet door and one on the bedroom door. Each person gets their own organizer for shoes, accessories, and daily items — no rummaging through each other's things.
+
+**A dresser each, stacked where possible:** Two slim 3-drawer dressers stacked vertically take the same floor footprint as one wide dresser while providing double the drawer capacity. IKEA NORDLI drawers are stackable and modular.
+
+**Separate under-bed zones:** Use a bed with built-in drawers (IKEA NORDLI) where each person owns one side of the drawers. If using flat bins, use different coloured bins per person or label them clearly.
+
+**A shared clothing audit once per season:** The primary source of closet overflow for two people is clothing that no longer fits or gets worn. A seasonal edit — 30 minutes per person per season — prevents the closet from slowly filling with unused items. Canadian Goodwill locations accept donations year-round.
+
+## Canadian Winter Bedroom Storage
+
+Canadian winters require seasonal storage management that doesn't apply in warmer climates. Here's the specific winter approach for Canadian apartment bedrooms:
+
+**Heavy coat storage:** Winter coats don't belong in the bedroom closet year-round. From May through October, store winter coats in vacuum storage bags (~$25–$30 CAD, Amazon.ca) compressed to quarter size, then placed under the bed or in a balcony deck box.
+
+**Boot storage:** Wet winter boots need a ventilated space to dry — not the bedroom closet. A boot tray at the entry with a slim shoe rack handles in-season boots. Off-season boots (summer sandals in winter, winter boots in summer) go into clear shoe boxes under the bed.
+
+**Winter bedding rotation:** Summer duvet and lightweight blankets go into SKUBB under-bed bags from October through April. Heavy winter duvet and flannel sheets stay on the bed. This single swap frees a significant amount of shelf space in the linen area of the bedroom closet.
+
+**Heating season tip:** Keep the bedroom closet door slightly ajar if possible. Canadian apartments with forced-air heating can get warm, and a slightly open closet door allows air circulation that prevents musty smells in stored clothing over a long winter.
+
+---
+
+Complete the first five steps of the priority order before considering larger purchases. These five changes alone typically double usable bedroom storage for under $110 CAD.
 
 → For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/).
