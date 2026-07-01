@@ -6,7 +6,7 @@ datePublished: "2026-02-05"
 dateModified: "2026-02-05"
 author: "Badreddine Br"
 tags: ["small apartment organization", "organization", "Canada", "renter-friendly", "declutter"]
-featured: false
+featured: true
 category: "Organization"
 readTime: 9
 faqs:
