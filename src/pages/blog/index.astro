@@ -107,10 +107,10 @@ const POSTS_PER_PAGE = 6;
                 data-category={post.data.category}
                 data-title={post.data.title.toLowerCase()}
                 data-desc={post.data.description.toLowerCase()}
-                data-slug={post.slug}
+                data-slug={post.id}
                 data-tags={(post.data.tags ?? []).join(' ').toLowerCase()}
               >
-                <a href={`/blog/${post.slug}`} class="post-img-link">
+                <a href={`/blog/${post.id}`} class="post-img-link">
                   <div class="post-img-wrap img-placeholder">
                     <img
                       src={post.data.image}
@@ -128,7 +128,7 @@ const POSTS_PER_PAGE = 6;
                     {post.data.category}
                   </span>
                   <h2 class="post-title">
-                    <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+                    <a href={`/blog/${post.id}`}>{post.data.title}</a>
                   </h2>
                   <p class="post-meta">
                     <time datetime={post.data.datePublished}>{date}</time>
