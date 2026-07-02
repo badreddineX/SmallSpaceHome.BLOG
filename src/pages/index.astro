@@ -115,7 +115,7 @@ const latest   = sorted.slice(0, 6);
               <!-- Primary large card -->
               {featured[0] && (
                 <article class="feat-primary">
-                  <a href={`/blog/${featured[0].slug}`} class="feat-primary-img-link">
+                  <a href={`/blog/${featured[0].id}`} class="feat-primary-img-link">
                     <div class="feat-primary-img img-placeholder" role="img" aria-label={featured[0].data.title}>
                       <img
                         src={featured[0].data.image}
@@ -130,10 +130,10 @@ const latest   = sorted.slice(0, 6);
                       {featured[0].data.category}
                     </span>
                     <h2 class="feat-primary-title">
-                      <a href={`/blog/${featured[0].slug}`}>{featured[0].data.title}</a>
+                      <a href={`/blog/${featured[0].id}`}>{featured[0].data.title}</a>
                     </h2>
                     <p class="feat-primary-desc">{featured[0].data.description}</p>
-                    <a href={`/blog/${featured[0].slug}`} class="text-link">Read article</a>
+                    <a href={`/blog/${featured[0].id}`} class="text-link">Read article</a>
                   </div>
                 </article>
               )}
@@ -142,7 +142,7 @@ const latest   = sorted.slice(0, 6);
               <div class="feat-side">
                 {sorted.slice(1, 6).map(post => (
                   <article class="feat-side-card">
-                    <a href={`/blog/${post.slug}`} class="feat-side-img-link">
+                    <a href={`/blog/${post.id}`} class="feat-side-img-link">
                       <div class="feat-side-img img-placeholder" role="img" aria-label={post.data.title}>
                         <img
                           src={post.data.image}
@@ -157,7 +157,7 @@ const latest   = sorted.slice(0, 6);
                         {post.data.category}
                       </span>
                       <h3 class="feat-side-title">
-                        <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+                        <a href={`/blog/${post.id}`}>{post.data.title}</a>
                       </h3>
                       <div class="feat-side-meta">
                         <time datetime={post.data.datePublished}>
@@ -211,7 +211,7 @@ const latest   = sorted.slice(0, 6);
             {latest.map(post => (
               <PostCard
                 title={post.data.title}
-                slug={post.slug}
+                slug={post.id}
                 description={post.data.description}
                 image={post.data.image}
                 category={post.data.category}

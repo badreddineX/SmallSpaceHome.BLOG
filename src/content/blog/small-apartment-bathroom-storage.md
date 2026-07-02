@@ -1,9 +1,9 @@
 ---
 title: "Small Apartment Bathroom Storage Ideas Canada"
 description: "12 renter-friendly bathroom storage ideas for small Canadian apartments — real CAD prices, no-drill options, Amazon.ca, IKEA, HomeSense."
-image: "/images/blog-23-img1.jpg"
-datePublished: "2026-07-01"
-dateModified: "2026-07-01"
+image: "/images/placeholder.svg"
+datePublished: "2026-05-12"
+dateModified: "2026-05-12"
 author: "Badreddine Br"
 tags: ["bathroom storage", "small apartment bathroom", "Canada", "renter-friendly", "apartment storage"]
 featured: false
@@ -45,7 +45,7 @@ A freestanding over-toilet shelf unit sits around the toilet tank and adds three
 
 **What to put on the shelves:** Decorative baskets on the top shelf (they hide clutter and look intentional), rolled towels on the middle shelf, daily toiletries on the bottom shelf within easy reach.
 
-![Freestanding three-tier over-toilet shelf unit in a small apartment bathroom providing vertical storage above the toilet without drilling](/images/blog-23-img2.jpg)
+![Freestanding three-tier over-toilet shelf unit in a small apartment bathroom providing vertical storage above the toilet without drilling](/images/placeholder.svg)
 
 ---
 
@@ -85,7 +85,7 @@ The medicine cabinet is the most efficient storage unit in the bathroom per squa
 
 The mirror exterior also eliminates the need for a separate bathroom mirror, freeing wall space for other uses.
 
-![Surface-mounted medicine cabinet with mirrored door installed above a bathroom sink in a small apartment providing deep shelf storage](/images/blog-23-img3.jpg)
+![Surface-mounted medicine cabinet with mirrored door installed above a bathroom sink in a small apartment providing deep shelf storage](/images/placeholder.svg)
 
 ---
 
@@ -136,7 +136,7 @@ The rule: only items used every single day live on the counter. Everything else 
 
 **What moves off the counter permanently:** extra makeup, cotton balls, hair accessories, backup products. These belong in the over-door organizer, medicine cabinet, or a drawer organizer.
 
-![Small bathroom counter organized with a single tray holding only daily-use items, leaving the rest of the counter surface clear](/images/blog-23-img4.jpg)
+![Small bathroom counter organized with a single tray holding only daily-use items, leaving the rest of the counter surface clear](/images/placeholder.svg)
 
 ---
 

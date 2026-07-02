@@ -15,7 +15,7 @@ faqs:
   - q: "What colours make a small living room feel bigger?"
     a: "Soft whites, warm creams, and light greige work best as the primary palette — they reflect light and push walls back visually. Use your accent colour only in cushions, art, and one or two decor objects. Keeping large furniture and walls light is the most reliable approach in any Canadian rental."
   - q: "How do I add storage to a small living room?"
-    a: "A KALLAX bookcase as a media console (~$79–$159 CAD), a storage ottoman as a coffee table, floating shelves above the sofa, and a wicker basket under the side table. These four moves add significant capacity without consuming floor space. See more in our <a href='/blog/storage-solutions-for-small-apartments'>storage solutions for small apartments</a> post."
+    a: "A KALLAX bookcase as a media console (~$79–$159 CAD), a storage ottoman as a coffee table, floating shelves above the sofa, and a wicker basket under the side table. These four moves add significant capacity without consuming floor space. See more in our <a href='/blog/storage-ideas-for-small-places'>storage solutions for small apartments</a> post."
   - q: "How do I make my small living room look more expensive?"
     a: "Three things signal quality on a budget: a large area rug sized correctly (front legs of the sofa sitting on it), ceiling-height curtains, and layered lighting — floor lamp plus table lamp, no harsh overhead. These three changes cost under $400 CAD combined and transform any rental living room."
 ---
