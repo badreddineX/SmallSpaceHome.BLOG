@@ -78,7 +78,7 @@ You cannot use floor space for storage in a studio without making the room feel 
 - Floating shelves above the desk, above the nightstand, or beside the bed
 - Over-door organizers on every door
 
-For a complete system to organize every zone of your studio, [how to organize a studio apartment](/blog/studio-apartment-ideas/) covers the declutter-first approach room by room.
+For a complete system to organize every zone of your studio, [small apartment organization](/blog/small-apartment-organization/) covers the declutter-first approach room by room.
 
 ## 6. Choose a Bed with Storage Underneath
 
@@ -173,4 +173,4 @@ Even a studio with a tiny entry benefits from defining that space. A small rack 
 
 A studio apartment works when every decision is intentional — where the zones are, what furniture earns its floor space, and what lives on which surface. Start with the zones, get the storage working, and the rest follows naturally.
 
-→ For the full room-by-room organization plan, see [how to organize a studio apartment](/blog/studio-apartment-ideas/) — a weekend-by-weekend breakdown of exactly what to tackle first.
+→ For the full room-by-room organization plan, see [small apartment organization](/blog/small-apartment-organization/) — a weekend-by-weekend breakdown of exactly what to tackle first.
