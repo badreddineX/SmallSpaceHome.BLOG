@@ -11,7 +11,7 @@ category: "Storage"
 readTime: 9
 faqs:
   - q: "What is the best storage solution for a small apartment in Canada?"
-    a: "Go vertical first — wall shelves, tall wardrobes, and over-door organizers add serious capacity without eating floor space. For furniture, the IKEA KALLAX (~$79 CAD) and PAX are the most flexible options. Our <a href='/blog/storage-solutions-for-small-apartments'>storage solutions for small apartments</a> guide covers 16 tested picks by room."
+    a: "Go vertical first — wall shelves, tall wardrobes, and over-door organizers add serious capacity without eating floor space. For furniture, the IKEA KALLAX (~$79 CAD) and PAX are the most flexible options. Our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks</a> guide covers the most flexible picks in detail."
   - q: "How do I add storage to an apartment without drilling?"
     a: "Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Freestanding shelving, tension rods, over-door organizers, and furniture with built-in storage are all drill-free and landlord-approved. See more no-drill ideas in our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly apartment decor guide</a>."
   - q: "What are the best stores for apartment storage solutions in Canada?"
@@ -183,7 +183,7 @@ Some Canadian apartments — especially older ones in Montreal and Toronto — h
 
 ---
 
-For a deeper look at storage solutions organized by room — including the kitchen, bathroom, and entryway — see [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the highest-impact moves for under $100 CAD.
+For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization/). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the highest-impact moves for under $100 CAD.
 
 ## The Storage Priority Order for Canadian Renters
 
@@ -197,4 +197,4 @@ If you're starting from zero, tackle this order for maximum impact per dollar:
 
 These 23 ideas work in any Canadian rental — and every single one is reversible. Start with under-bed and vertical wall storage, then layer in the furniture solutions as budget allows. A 510 sq ft apartment with smart storage genuinely feels bigger than a cluttered 700 sq ft one.
 
-→ For room-by-room storage solutions with exact product picks, check out [storage solutions for small apartments](/blog/storage-solutions-for-small-apartments/).
+→ For bedroom-specific storage with exact product picks, check out [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas/).
