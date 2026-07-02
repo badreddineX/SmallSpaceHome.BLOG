@@ -1,7 +1,7 @@
 ﻿---
 title: "January Reset: Small Apartment Organization Guide"
 description: "15 January reset organization ideas for small Canadian apartments — declutter, reset every room, and build systems that actually hold through the year. Renter-friendly, budget-conscious."
-image: "/images/blog-03-img1.jpg"
+image: "/images/blog-22-img1.jpg"
 datePublished: "2026-01-05"
 dateModified: "2026-01-05"
 author: "Badreddine Br"
@@ -69,7 +69,7 @@ Folded items: use shelf dividers (~$12–$15 CAD at IKEA Canada) to keep stacks 
 ### Under-bed storage:
 January is the right time to reassess what lives under the bed. IKEA SKUBB under-bed bags (~$14 CAD) compress seasonal items — summer clothes, extra bedding — flat under the frame. Clear bins with lids work for anything you need to see and access occasionally.
 
-![A decluttered apartment closet after the January reset — slim velvet hangers, shelf dividers, and seasonal items stored flat under the bed](/images/blog-03-img2.jpg)
+![A decluttered apartment closet after the January reset — slim velvet hangers, shelf dividers, and seasonal items stored flat under the bed](/images/blog-22-img2.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ The holiday season tends to surface appliances that only come out once a year. J
 ### The under-sink cabinet:
 Usually the most chaotic spot in a small apartment kitchen. In January, empty it completely. Install a tension rod across the middle to hang spray bottles. Use a turntable (~$10–$15 CAD) for products at the back. This one cabinet often looks dramatically better in 20 minutes.
 
-![An organized pantry with clear labeled bins after a January kitchen reset — every category visible and accessible](/images/blog-03-img3.jpg)
+![An organized pantry with clear labeled bins after a January kitchen reset — every category visible and accessible](/images/blog-22-img3.jpg)
 
 ---
 
@@ -143,7 +143,7 @@ Everything else — seasonal footwear, extra bags, rarely-used outerwear — mov
 ### What to add if the entryway is chaotic:
 A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) holds gloves, scarves, small items, and does not require drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, shoe storage, and surface for daily items simultaneously.
 
-![A reset apartment entryway after January — coat hooks, boot tray, and a clear surface for daily essentials](/images/blog-03-img4.jpg)
+![A reset apartment entryway after January — coat hooks, boot tray, and a clear surface for daily essentials](/images/blog-22-img4.jpg)
 
 ---
 
