@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "default": "/images/placeholder.svg",
+      "type": "string"
+    },
+    "datePublished": {
+      "type": "string"
+    },
+    "dateModified": {
+      "type": "string"
+    },
+    "author": {
+      "default": "Badreddine Br",
+      "type": "string"
+    },
+    "tags": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "featured": {
+      "default": false,
+      "type": "boolean"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Organization",
+        "Decor",
+        "Storage",
+        "Budget Tips"
+      ]
+    },
+    "readTime": {
+      "type": "number"
+    },
+    "faqs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "q": {
+            "type": "string"
+          },
+          "a": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "q",
+          "a"
+        ]
+      }
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "title",
+    "description",
+    "datePublished",
+    "dateModified",
+    "category",
+    "readTime"
+  ]
+}

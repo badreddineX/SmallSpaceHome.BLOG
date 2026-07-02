@@ -2,8 +2,8 @@
 title: "Fall Apartment Decorating Ideas: Canadian Renters"
 description: "Fall apartment decorating ideas for Canadian renters — seasonal textures, warm tones, and autumn touches that don't require permanent changes or a large budget."
 image: "/images/storage-ottoman.jpg"
-datePublished: "2026-06-29"
-dateModified: "2026-06-29"
+datePublished: "2026-06-09"
+dateModified: "2026-06-09"
 author: "Badreddine Br"
 tags: ["fall decor", "autumn apartment", "Canada", "seasonal decor", "renter-friendly"]
 featured: false

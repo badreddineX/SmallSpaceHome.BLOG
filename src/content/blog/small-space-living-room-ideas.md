@@ -2,8 +2,8 @@
 title: "15 Small Space Living Room Ideas for Apartments"
 description: "Transform your small living room with these 15 practical ideas tested in a real Canadian apartment. Renter-friendly, budget-conscious, and built for tight square footage."
 image: "/images/blog-01-img1.jpg"
-datePublished: "2026-06-27"
-dateModified: "2026-06-27"
+datePublished: "2026-04-21"
+dateModified: "2026-04-21"
 author: "Badreddine Br"
 tags: ["small space living room", "apartment decor", "small space ideas", "renter-friendly", "Canada"]
 featured: true

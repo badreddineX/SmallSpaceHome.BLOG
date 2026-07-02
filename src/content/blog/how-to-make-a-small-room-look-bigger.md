@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Make a Small Room Look Bigger: 13 Tricks"
 description: "13 visual tricks that make any small room in a Canadian apartment look bigger — colour, mirrors, lighting, furniture, and layout. No renovation required."
 image: "/images/blog-14-img1.jpg"
@@ -20,13 +20,24 @@ faqs:
     a: "When a sofa, bed, or chair sits on visible legs, the eye sees the unbroken floor beneath — and that continuous floor line makes the room read as larger. A solid platform bed or sofa that rests directly on the floor interrupts that line and makes the space feel more closed and compressed."
 ---
 
-Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian apartment renter lives in units under 700 sq ft — so these tricks apply to most of us. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment.
+Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian apartment renter lives in units under 700 sq ft — so these tricks apply to most of us. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment, grouped by what they actually work on: colour, floor space, height, and editing.
 
-**TL;DR:** Decluttering surfaces is the fastest, free change that works immediately. A large mirror opposite a window doubles natural light and creates visual depth. Furniture with visible legs keeps the floor line unbroken — the room looks larger. Ceiling-height curtains add the impression of height for under $90 CAD total.
+If you want to know where the biggest wins are before reading further:
+
+| Trick | Cost | Effect |
+|-------|------|--------|
+| Declutter every surface | Free | Immediate — the single biggest change |
+| Large mirror opposite a window | from ~$89 CAD | Doubles light, adds visual depth |
+| Furniture with visible legs | Varies | Unbroken floor line reads as more room |
+| Ceiling-height curtains | under $90 CAD | Adds perceived ceiling height |
 
 ---
 
-## 1. Use Light Colours as the Primary Palette
+## Colour and Light
+
+The eye judges the size of a room mostly by how light moves through it. These three tricks are where every small room should start.
+
+### Use Light Colours as the Primary Palette
 
 The most fundamental trick in small-space decorating: light colours make walls feel farther away. Dark colours make them feel closer.
 
@@ -34,7 +45,16 @@ Soft white, warm cream, light greige — these shades reflect natural light and 
 
 **In a rental where you can't paint:** if your walls are white or off-white, you're already in good shape. Complement with light-coloured bedding and a light rug.
 
-## 2. Add a Large Mirror Opposite a Light Source
+### Keep the Palette Cohesive
+
+A room with a unified colour palette reads as one intentional space. A room where colours clash or where every piece is a different shade reads as chaotic — and feels smaller.
+
+Pick three colours and stick to them throughout the room:
+- A neutral base (dominant colour, probably your walls)
+- A main colour (shows up in textiles and furniture)
+- An accent colour (cushions, art, and one or two objects)
+
+### Add a Large Mirror Opposite a Light Source
 
 A mirror that faces a window reflects the outdoor light back into the room, effectively doubling the brightness. It also creates the visual impression of a second room beyond the reflection — depth where there is none.
 
@@ -47,7 +67,7 @@ A leaning full-length mirror requires no installation. IKEA HOVET ~$279 CAD, or 
 
 ![A leaning full-length mirror opposite a window doubles the light and adds visual depth to a small room](/images/blog-14-img2.jpg)
 
-## 3. Hang Curtains at Ceiling Height
+### Hang Curtains at Ceiling Height
 
 Curtain rods mounted close to the ceiling — not at window height — make ceilings look dramatically higher. The vertical lines of curtains that fall from near the ceiling to the floor give the room a sense of height it doesn't technically have.
 
@@ -55,7 +75,11 @@ This is one of the most effective tricks for making a small apartment feel large
 
 ![Ceiling-height curtains falling to the floor make this small bedroom feel significantly taller](/images/blog-14-img3.jpg)
 
-## 4. Choose Furniture With Legs
+## Furniture and the Floor Line
+
+Visible floor is the strongest "this room is big" signal there is. Everything in this section protects it.
+
+### Choose Furniture With Legs
 
 Furniture that sits on visible legs keeps the floor line unbroken — the eye reads this as more floor space and more room. Furniture that sits flat on the floor (platform beds, low sectionals, solid storage cubes) interrupts the floor plane and makes the room feel more compressed.
 
@@ -64,7 +88,7 @@ Look for:
 - Sofas with legs, not to-the-floor fabric
 - Coffee tables and side tables on legs rather than solid bases
 
-## 5. Declutter Every Surface
+### Declutter Every Surface
 
 Nothing makes a room feel smaller faster than clutter. Every item sitting on a surface adds visual noise that the eye has to process. In a small room, this visual complexity reads as spatial compression.
 
@@ -72,25 +96,20 @@ The rule: only things that are beautiful or used daily are visible. Everything e
 
 This is completely free and often the single most impactful change.
 
-## 6. Use One Cohesive Colour Palette
-
-A room with a unified colour palette reads as one intentional space. A room where colours clash or where every piece is a different shade reads as chaotic — and feels smaller.
-
-Pick three colours and stick to them throughout the room:
-- A neutral base (dominant colour, probably your walls)
-- A main colour (shows up in textiles and furniture)
-- An accent colour (cushions, art, and one or two objects)
-
-## 7. Keep the Floor as Clear as Possible
+### Keep the Floor as Clear as Possible
 
 Visible floor space reads as room. The more floor you can see, the larger the room appears to be.
 
 This means:
 - No furniture stored on the floor (move it off the floor or into a closet)
 - Rugs that are the right size (a rug that covers the floor correctly doesn't interrupt the floor — a too-small rug creates a strange floating island effect)
-- Furniture with legs (see rule 4)
+- Furniture with legs (see above)
 
-## 8. Use Vertical Lines to Add Visual Height
+## Height and Proportion
+
+Once the floor is handled, the next dimension to work on is vertical.
+
+### Use Vertical Lines to Add Visual Height
 
 The eye follows lines. Vertical lines draw the eye upward, creating the impression of more ceiling height.
 
@@ -100,7 +119,7 @@ The eye follows lines. Vertical lines draw the eye upward, creating the impressi
 - Vertical stripes in wallpaper or art
 - Tall plants in a corner
 
-## 9. Layer Your Lighting
+### Layer Your Lighting
 
 Rooms lit only by a single overhead fixture look flat. Layered lighting — a floor lamp, a table lamp, and warm overhead — creates visual depth and makes the room feel like it has more dimension.
 
@@ -108,7 +127,7 @@ Warm bulbs (2700K) throughout. Avoid cool or daylight bulbs in living spaces.
 
 Cost: warm bulb swap ~$15 CAD. Floor lamp from ~$45 CAD.
 
-## 10. Size Your Rug Correctly
+### Size Your Rug Correctly
 
 A rug that is too small for the room creates a floating island effect that actually makes the room look smaller. A correctly sized rug — front legs of all furniture on the rug — creates a unified ground plane that makes the room look larger.
 
@@ -116,19 +135,23 @@ Minimum size for a small living room: 160 × 230 cm.
 
 ![A correctly sized area rug with furniture legs on it unifies the floor plane and makes the room look larger](/images/blog-14-img4.jpg)
 
-## 11. Reduce the Number of Items in the Room
+## Edit Ruthlessly
+
+The final group is about restraint — the discipline that makes all the other tricks land.
+
+### Reduce the Number of Items in the Room
 
 This is the anti-accumulation principle. Every item in a small room takes visual space. The fewer items, the more spacious the room feels.
 
 This doesn't mean bare minimalism. It means editing deliberately: keep what serves a purpose or brings genuine pleasure, remove the rest.
 
-## 12. Use Glass or Lucite for Secondary Furniture
+### Use Glass or Lucite for Secondary Furniture
 
 Glass and clear acrylic (Lucite) furniture are visually transparent — the eye reads through them rather than stopping at them. A glass coffee table or acrylic chair takes physical space but not visual space.
 
 **Budget option:** IKEA VITTSJÖ glass and metal shelving unit, ~$70–$130 CAD.
 
-## 13. Keep One Feature — Not Many
+### Keep One Feature — Not Many
 
 A room with a single strong feature (a gallery wall, a statement piece of art, a beautifully styled bookcase) reads as designed. A room with many competing features reads as busy and cramped.
 
