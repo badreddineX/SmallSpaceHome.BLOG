@@ -5,3 +5,6 @@ dist/
 
 # Astro generated types
 .astro/
+
+# Raw image originals kept locally, excluded from deploys
+public/images/*/

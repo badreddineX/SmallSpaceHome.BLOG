@@ -37,8 +37,8 @@ With that said — here's what works.
 One peel-and-stick accent wall transforms a room more dramatically than any other single change. Choose a pattern — a subtle linen texture, a botanical print, a classic stripe — and apply it to the wall behind your bed, sofa, or dining table.
 
 **Best brands shipping to Canada:**
-- [Chasing Paper](https://www.chasingpaper.com) (wide pattern selection)
-- [Tempaper](https://www.tempaper.com) (premium, very clean removal)
+- Chasing Paper (wide pattern selection)
+- Tempaper (premium, very clean removal)
 - Amazon.ca has affordable options under $30/roll
 
 **Application tip:** Prep the wall with a damp cloth, let it dry completely, and apply in vertical strips from top to bottom. Use a credit card to smooth out bubbles.
