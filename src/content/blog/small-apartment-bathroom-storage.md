@@ -1,7 +1,7 @@
 ---
 title: "Small Apartment Bathroom Storage Ideas Canada"
 description: "12 renter-friendly bathroom storage ideas for small Canadian apartments — real CAD prices, no-drill options, Amazon.ca, IKEA, HomeSense."
-image: "/images/placeholder.svg"
+image: "/images/unsplash-1552321554-5fefe8c9ef14.jpg"
 datePublished: "2026-05-12"
 dateModified: "2026-05-12"
 author: "Badreddine Br"
@@ -45,7 +45,7 @@ A freestanding over-toilet shelf unit sits around the toilet tank and adds three
 
 **What to put on the shelves:** Decorative baskets on the top shelf (they hide clutter and look intentional), rolled towels on the middle shelf, daily toiletries on the bottom shelf within easy reach.
 
-![Freestanding three-tier over-toilet shelf unit in a small apartment bathroom providing vertical storage above the toilet without drilling](/images/placeholder.svg)
+![Wall shelves above the toilet in a small apartment bathroom adding vertical storage for essentials without using floor space](/images/unsplash-1584622650111-993a426fbf0a.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ The medicine cabinet is the most efficient storage unit in the bathroom per squa
 
 The mirror exterior also eliminates the need for a separate bathroom mirror, freeing wall space for other uses.
 
-![Surface-mounted medicine cabinet with mirrored door installed above a bathroom sink in a small apartment providing deep shelf storage](/images/placeholder.svg)
+![Bathroom vanity with mirrored storage and a recessed wall niche shelf keeping toiletries organized and off the counter](/images/unsplash-1600566752355-35792bedcfea.jpg)
 
 ---
 
@@ -136,7 +136,7 @@ The rule: only items used every single day live on the counter. Everything else 
 
 **What moves off the counter permanently:** extra makeup, cotton balls, hair accessories, backup products. These belong in the over-door organizer, medicine cabinet, or a drawer organizer.
 
-![Small bathroom counter organized with a single tray holding only daily-use items, leaving the rest of the counter surface clear](/images/placeholder.svg)
+![Wooden tray corralling only daily-use toiletries in one spot, leaving the rest of the bathroom surfaces clear](/images/unsplash-1507652313519-d4e9174996dd.jpg)
 
 ---
 
