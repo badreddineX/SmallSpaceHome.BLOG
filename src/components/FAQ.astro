@@ -60,7 +60,7 @@ const { questions } = Astro.props;
 <style>
 .faq-section {
   margin: 3rem -24px 0;
-  padding: 40px 24px 48px;
+  padding: 32px 28px;
   background: var(--color-accent-dark);
   border-radius: 4px;
 }
@@ -70,14 +70,23 @@ const { questions } = Astro.props;
   font-weight: 700;
   font-style: italic;
   color: #fff;
-  margin-bottom: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 1.25rem;
   letter-spacing: -0.01em;
+}
+@media (min-width: 768px) {
+  .faq-section {
+    padding: 40px 40px 32px;
+  }
 }
 .faq-list {
   border-top: 1px solid rgba(255,255,255,0.12);
 }
 .faq-item {
   border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+.faq-item:last-child {
+  border-bottom: none;
 }
 .faq-question {
   display: flex;
