@@ -82,19 +82,30 @@ const { questions } = Astro.props;
 .faq-question {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   width: 100%;
-  padding: 18px 0;
+  padding: 20px 0;
   background: none;
   border: none;
   cursor: pointer;
   text-align: left;
   font-family: var(--font-body);
-  font-size: 1rem;
+  font-size: 0.94rem;
+  line-height: 1.5;
   font-weight: 600;
   color: rgba(255,255,255,0.85);
   gap: 16px;
   transition: color 0.2s ease;
+}
+.faq-question .faq-icon {
+  margin-top: 3px;
+}
+@media (min-width: 768px) {
+  .faq-question {
+    align-items: center;
+    font-size: 1rem;
+  }
+  .faq-question .faq-icon { margin-top: 0; }
 }
 .faq-question:hover { color: var(--color-accent); }
 .faq-question[aria-expanded="true"] { color: var(--color-accent); }

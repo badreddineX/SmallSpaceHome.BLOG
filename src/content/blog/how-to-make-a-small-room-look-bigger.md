@@ -20,7 +20,7 @@ faqs:
     a: "When a sofa, bed, or chair sits on visible legs, the eye sees the unbroken floor beneath — and that continuous floor line makes the room read as larger. A solid platform bed or sofa that rests directly on the floor interrupts that line and makes the space feel more closed and compressed."
 ---
 
-Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian apartment renter lives in units under 700 sq ft — so these tricks apply to most of us. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment, grouped by what they actually work on: colour, floor space, height, and editing.
+Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. According to CMHC, the average Canadian apartment renter lives in units under 700 sq ft — so these tricks apply to most of us. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment, grouped by what they actually work on: colour, floor space, height, and editing.
 
 If you want to know where the biggest wins are before reading further:
 

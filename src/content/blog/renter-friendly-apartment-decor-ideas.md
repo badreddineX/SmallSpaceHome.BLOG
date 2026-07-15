@@ -28,7 +28,7 @@ Moving into a Canadian rental doesn't mean living with beige walls and zero pers
 
 ## The Renter's Golden Rule
 
-Before anything else: read your lease. Most Canadian rental leases prohibit permanent modifications but are silent on removable solutions. The [Canada Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca) outlines tenant rights and responsibilities by province — worth knowing before you start any decorating project. When in doubt, email your landlord to ask. Get the response in writing.
+Before anything else: read your lease. Most Canadian rental leases prohibit permanent modifications but are silent on removable solutions. The Canada Mortgage and Housing Corporation outlines tenant rights and responsibilities by province — worth knowing before you start any decorating project. When in doubt, email your landlord to ask. Get the response in writing.
 
 With that said — here's what works.
 

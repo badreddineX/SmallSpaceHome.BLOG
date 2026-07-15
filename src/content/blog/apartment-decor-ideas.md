@@ -20,7 +20,7 @@ faqs:
     a: "Most leases allow small nail holes for art. For anything heavier, Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Always check your lease first — and if you ask your landlord, do it in writing so you have a record of their response."
 ---
 
-Decorating a rental apartment in Canada doesn't mean living with beige walls and zero personality. [CMHC](https://www.cmhc-schl.gc.ca) data shows that renters make up roughly one-third of all Canadian households — and most of them are decorating spaces they can't permanently modify. The no-damage rule is actually a creative constraint, not a dead end — and some of the best-looking apartments I've seen belong to renters who worked with the limitations instead of against them. I've decorated and redecorated my 510 sq ft Toronto apartment four times over three years. Here's what actually works.
+Decorating a rental apartment in Canada doesn't mean living with beige walls and zero personality. CMHC data shows that renters make up roughly one-third of all Canadian households — and most of them are decorating spaces they can't permanently modify. The no-damage rule is actually a creative constraint, not a dead end — and some of the best-looking apartments I've seen belong to renters who worked with the limitations instead of against them. I've decorated and redecorated my 510 sq ft Toronto apartment four times over three years. Here's what actually works.
 
 **TL;DR:** Pick a 3-colour palette before buying anything. Textiles (rug, cushions, throw) deliver the biggest visual impact for under $150 CAD. Warm 2700K bulbs transform the mood of every room for $15–$25 CAD. Command strips make gallery walls and floating shelves fully renter-friendly.
 

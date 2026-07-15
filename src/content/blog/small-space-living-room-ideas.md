@@ -62,7 +62,7 @@ Use a fixed or tilt wall mount (no full-motion arm needed in a small room). For 
 
 In a small living room, your walls are more valuable real estate than your floor. Wall shelves, floating media units, and tall bookshelves pull the eye upward and leave the floor clear — which is what makes a room feel spacious.
 
-A floor-to-ceiling KALLAX or BILLY bookcase along one wall gives you massive storage without narrowing the walkable area. According to [CMHC](https://www.cmhc-schl.gc.ca), the average Canadian renter moves every 3–4 years — so every furniture decision should be both functional and easy to reassemble.
+A floor-to-ceiling KALLAX or BILLY bookcase along one wall gives you massive storage without narrowing the walkable area. According to CMHC, the average Canadian renter moves every 3–4 years — so every furniture decision should be both functional and easy to reassemble.
 
 → We go deep on this in our guide to [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) — covers every room including the living area.
 
