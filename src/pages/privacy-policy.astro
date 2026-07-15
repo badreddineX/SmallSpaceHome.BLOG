@@ -23,15 +23,17 @@ import '../styles/global.css';
 
     <main class="legal-page">
       <div class="legal-container">
+        <span class="eyebrow legal-eyebrow">SmallSpace Home</span>
         <h1>Privacy Policy</h1>
         <p class="legal-date">Last updated: June 25, 2026</p>
+        <hr class="legal-rule" />
 
         <p>SmallSpaceHome.ca ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website.</p>
 
         <h2>Information We Collect</h2>
         <p>We do not require you to create an account or provide personal information to read our content. We may collect the following information automatically:</p>
         <ul>
-          <li><strong>Analytics data</strong> — page views, time on site, and general geographic region (via Google Analytics or similar), collected anonymously</li>
+          <li><strong>Analytics data</strong> — page views, time on site, and general geographic region (via Vercel Analytics), collected anonymously</li>
           <li><strong>Contact information</strong> — if you email us directly, we retain your email address to respond</li>
           <li><strong>Cookies</strong> — small files stored in your browser to remember preferences and enable analytics</li>
         </ul>
@@ -44,20 +46,13 @@ import '../styles/global.css';
         </ul>
 
         <h2>Third-Party Services</h2>
-        <p>We may use the following third-party services that have their own privacy policies:</p>
+        <p>We use the following third-party services that have their own privacy policies:</p>
         <ul>
-          <li><strong>Google Analytics</strong> — website traffic analysis (you can opt out via browser extensions)</li>
-          <li><strong>Vercel</strong> — website hosting and delivery</li>
+          <li><strong>Vercel</strong> — website hosting, delivery, and privacy-friendly analytics</li>
         </ul>
 
         <h2>Cookies</h2>
         <p>We use cookies for analytics purposes only. You can disable cookies in your browser settings. Disabling cookies does not affect your ability to read our content.</p>
-
-        <h2>Links to Other Websites</h2>
-        <p>Our articles may contain links to third-party websites (such as IKEA, Amazon.ca, Canadian Tire). We are not responsible for the privacy practices of those sites and encourage you to review their policies.</p>
-
-        <h2>Affiliate Links</h2>
-        <p>Some product links on this site may be affiliate links. This means we may earn a small commission if you make a purchase through our link, at no additional cost to you. We only link to products we genuinely recommend.</p>
 
         <h2>Children's Privacy</h2>
         <p>Our website is not directed at children under 13. We do not knowingly collect personal information from children.</p>
@@ -76,22 +71,35 @@ import '../styles/global.css';
 
 <style>
 .legal-page {
-  padding: 60px 24px 100px;
+  padding: 72px 24px 100px;
+  background: var(--color-bg);
 }
 .legal-container {
   max-width: 720px;
   margin: 0 auto;
 }
+.legal-eyebrow {
+  color: var(--color-accent-dark);
+  margin-bottom: 16px;
+}
 .legal-container h1 {
   font-family: var(--font-display);
-  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-size: clamp(1.9rem, 4vw, 2.8rem);
   font-weight: 400;
-  margin-bottom: 8px;
+  line-height: 1.1;
+  margin-bottom: 10px;
 }
 .legal-date {
   font-size: 0.82rem;
   color: var(--color-text-faint);
-  margin-bottom: 40px;
+  margin-bottom: 0;
+}
+.legal-rule {
+  width: 100%;
+  height: 1px;
+  background: var(--color-border);
+  border: none;
+  margin: 32px 0 40px;
 }
 .legal-container h2 {
   font-size: 1.1rem;

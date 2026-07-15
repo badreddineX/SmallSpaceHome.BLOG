@@ -23,8 +23,10 @@ import '../styles/global.css';
 
     <main class="legal-page">
       <div class="legal-container">
+        <span class="eyebrow legal-eyebrow">SmallSpace Home</span>
         <h1>Terms of Use</h1>
         <p class="legal-date">Last updated: June 25, 2026</p>
+        <hr class="legal-rule" />
 
         <p>By accessing and using SmallSpaceHome.ca (the "Site"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Site.</p>
 
@@ -35,12 +37,6 @@ import '../styles/global.css';
         <h2>Informational Purposes Only</h2>
         <p>The content on this Site is for general informational purposes only. Product recommendations, pricing, and availability may change. We make no warranty about the accuracy or completeness of any information on this Site.</p>
         <p>Prices listed in our articles are approximate and in Canadian dollars (CAD). Always verify current prices directly with the retailer.</p>
-
-        <h2>Affiliate Disclosure</h2>
-        <p>SmallSpaceHome.ca participates in affiliate programs. Some links on this Site are affiliate links — if you purchase through one of these links, we may earn a small commission at no extra cost to you. This does not influence our content or recommendations.</p>
-
-        <h2>Third-Party Links</h2>
-        <p>Our articles link to third-party websites for your convenience. We do not control those sites and are not responsible for their content, products, or privacy practices.</p>
 
         <h2>Limitation of Liability</h2>
         <p>SmallSpaceHome.ca is not liable for any loss or damage arising from your use of information on this Site, including any decisions made based on our content.</p>
@@ -62,22 +58,35 @@ import '../styles/global.css';
 
 <style>
 .legal-page {
-  padding: 60px 24px 100px;
+  padding: 72px 24px 100px;
+  background: var(--color-bg);
 }
 .legal-container {
   max-width: 720px;
   margin: 0 auto;
 }
+.legal-eyebrow {
+  color: var(--color-accent-dark);
+  margin-bottom: 16px;
+}
 .legal-container h1 {
   font-family: var(--font-display);
-  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-size: clamp(1.9rem, 4vw, 2.8rem);
   font-weight: 400;
-  margin-bottom: 8px;
+  line-height: 1.1;
+  margin-bottom: 10px;
 }
 .legal-date {
   font-size: 0.82rem;
   color: var(--color-text-faint);
-  margin-bottom: 40px;
+  margin-bottom: 0;
+}
+.legal-rule {
+  width: 100%;
+  height: 1px;
+  background: var(--color-border);
+  border: none;
+  margin: 32px 0 40px;
 }
 .legal-container h2 {
   font-size: 1.1rem;
