@@ -28,27 +28,36 @@ import '../styles/global.css';
         <p class="legal-date">Last updated: June 25, 2026</p>
         <hr class="legal-rule" />
 
-        <p>By accessing and using SmallSpaceHome.ca (the "Site"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Site.</p>
+        <div class="legal-summary">
+          <p class="legal-summary-label">In plain English</p>
+          <ul>
+            <li>Feel free to share our articles or quote a short excerpt with a link back — just don't republish our content wholesale.</li>
+            <li>Everything on this site is for general information. Prices and availability change, so always double-check before you buy.</li>
+            <li>We're a small, honest blog — not a store, and not liable for decisions you make based on what you read here.</li>
+          </ul>
+        </div>
+
+        <p>By accessing and using SmallSpaceHome.ca (the "Site"), you agree to be bound by these Terms of Use. If you don't agree with any part of them, please don't use the Site.</p>
 
         <h2>Content and Copyright</h2>
-        <p>All content on this Site — including articles, images, and design — is owned by SmallSpaceHome.ca and protected by Canadian copyright law. You may not reproduce, republish, or redistribute our content without written permission.</p>
-        <p>You are welcome to share links to our articles and to quote brief excerpts (under 100 words) with a clear attribution link back to the original article.</p>
+        <p>All content on this Site — articles, images, and design — is owned by SmallSpaceHome.ca and protected by Canadian copyright law. You may not reproduce, republish, or redistribute our content without written permission.</p>
+        <p>You're welcome to share links to our articles and to quote brief excerpts (under 100 words) with a clear attribution link back to the original article.</p>
 
         <h2>Informational Purposes Only</h2>
-        <p>The content on this Site is for general informational purposes only. Product recommendations, pricing, and availability may change. We make no warranty about the accuracy or completeness of any information on this Site.</p>
-        <p>Prices listed in our articles are approximate and in Canadian dollars (CAD). Always verify current prices directly with the retailer.</p>
+        <p>The content on this Site is for general informational purposes only, based on real testing in a real Canadian apartment. Product recommendations, pricing, and availability may change over time, and we make no warranty about the accuracy or completeness of any information on this Site.</p>
+        <p>Prices mentioned in our articles are approximate and listed in Canadian dollars (CAD). Always confirm current pricing before making a purchase.</p>
 
         <h2>Limitation of Liability</h2>
-        <p>SmallSpaceHome.ca is not liable for any loss or damage arising from your use of information on this Site, including any decisions made based on our content.</p>
+        <p>SmallSpaceHome.ca is not liable for any loss or damage arising from your use of information on this Site, including decisions you make based on our content.</p>
 
         <h2>Changes to These Terms</h2>
-        <p>We may update these Terms of Use at any time. Continued use of the Site after any changes constitutes acceptance of the new terms.</p>
+        <p>We may update these Terms of Use from time to time. Continued use of the Site after a change means you accept the updated terms.</p>
 
         <h2>Governing Law</h2>
-        <p>These Terms are governed by the laws of Ontario, Canada, without regard to conflict of law provisions.</p>
+        <p>These Terms are governed by the laws of Ontario, Canada, without regard to conflict-of-law provisions.</p>
 
         <h2>Contact</h2>
-        <p>Questions about these Terms? Contact us at: <a href="mailto:hello@smallspacehome.ca">hello@smallspacehome.ca</a></p>
+        <p>Questions about these Terms? Reach us at <a href="mailto:hello@smallspacehome.ca">hello@smallspacehome.ca</a> — we read and respond to every message personally.</p>
       </div>
     </main>
 
@@ -108,4 +117,29 @@ import '../styles/global.css';
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+.legal-summary {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 24px 28px;
+  margin-bottom: 40px;
+}
+.legal-summary-label {
+  font-family: var(--font-body);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-accent-dark);
+  margin-bottom: 14px !important;
+}
+.legal-summary ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+.legal-summary li {
+  font-size: 0.9rem;
+  margin-bottom: 0.6rem;
+}
+.legal-summary li:last-child { margin-bottom: 0; }
 </style>
