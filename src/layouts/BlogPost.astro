@@ -1,4 +1,5 @@
 ---
+import type { CollectionEntry } from 'astro:content';
 import SEO from '../components/SEO.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -17,7 +18,7 @@ interface Props {
   readTime: number;
   tags: string[];
   faqs?: { q: string; a: string }[];
-  related?: { slug: string; data: { title: string; category: string; readTime: number; description: string; image: string; datePublished: string } }[];
+  related?: CollectionEntry<'blog'>[];
 }
 
 const {
@@ -141,7 +142,7 @@ const catClass: Record<string, string> = {
                 <ul class="inline-related-list">
                   {related.slice(0, 2).map(p => (
                     <li>
-                      <a href={`/blog/${p.slug}`} class="inline-related-link">
+                      <a href={`/blog/${p.id}`} class="inline-related-link">
                         <div class="ilr-left">
                           <span class="ilr-cat">{p.data.category}</span>
                           <span class="ilr-title">{p.data.title}</span>
@@ -215,7 +216,7 @@ const catClass: Record<string, string> = {
                   day: 'numeric', month: 'short', year: 'numeric',
                 });
                 return (
-                  <a href={`/blog/${post.slug}`} class="rel-card">
+                  <a href={`/blog/${post.id}`} class="rel-card">
                     <div class="rel-card-img-wrap">
                       <img
                         src={post.data.image}
