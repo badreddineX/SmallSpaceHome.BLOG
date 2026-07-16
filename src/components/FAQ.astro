@@ -40,20 +40,7 @@ const { questions } = Astro.props;
         </div>
       ))}
     </div>
-
-    <!-- FAQPage JSON-LD schema -->
-    <script type="application/ld+json" set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": questions.map(item => ({
-        "@type": "Question",
-        "name": item.q,
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": item.a
-        }
-      }))
-    })} />
+    {/* FAQPage JSON-LD is emitted once by SEO.astro (head) to avoid duplicate structured data */}
   </section>
 )}
 
