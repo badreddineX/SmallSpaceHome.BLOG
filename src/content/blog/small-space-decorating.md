@@ -1,6 +1,6 @@
 ﻿---
 title: "14 Small Space Decorating Rules That Work"
-description: "14 small space decorating rules for Canadian apartment renters. Principles that work in any room — how to make compact spaces feel larger, lighter, and more livable."
+description: "14 small space decorating rules for Canadian renters — principles that work in any room to make compact spaces feel larger, lighter, and more livable."
 image: "/images/blog-08-img1.jpg"
 datePublished: "2026-02-25"
 dateModified: "2026-02-25"

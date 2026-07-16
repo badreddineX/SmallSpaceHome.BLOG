@@ -1,6 +1,6 @@
 ﻿---
-title: "23 Small Apartment Storage Ideas That Actually Work in Canada"
-description: "Running out of storage in your Canadian apartment? These 23 renter-friendly storage ideas use vertical space, hidden nooks, and smart furniture — no drilling required."
+title: "23 Small Apartment Storage Ideas"
+description: "Out of storage in your Canadian apartment? These 23 renter-friendly storage ideas use vertical space, hidden nooks, and smart furniture — no drilling."
 image: "/images/blog-04-img1.jpg"
 datePublished: "2026-02-09"
 dateModified: "2026-02-09"

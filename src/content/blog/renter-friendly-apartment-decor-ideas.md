@@ -1,5 +1,5 @@
 ﻿---
-title: "Renter-Friendly Apartment Decor Ideas That Actually Stick"
+title: "Renter-Friendly Apartment Decor Ideas"
 description: "Decorate your rental apartment without losing your deposit. These renter-friendly decor ideas use Command strips, removable wallpaper, and no-drill solutions."
 image: "/images/blog-13-img1.jpg"
 datePublished: "2026-02-03"

@@ -1,6 +1,6 @@
 ﻿---
-title: "15 IKEA Small Space Hacks for Canadian Apartments"
-description: "15 IKEA small space hacks for Canadian apartments — furniture combos, storage tricks, and unexpected uses. Real CAD prices and what actually makes a difference."
+title: "15 IKEA Small Space Hacks for Apartments"
+description: "15 IKEA small space hacks for Canadian apartments — furniture combos, storage tricks, and unexpected uses, with real CAD prices and what actually works."
 image: "/images/blog-12-img1.jpg"
 datePublished: "2026-03-13"
 dateModified: "2026-03-13"
