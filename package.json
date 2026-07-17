@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "compress-images": "node scripts/compress-images.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
@@ -15,6 +16,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
+    "sharp": "^0.35.3",
     "typescript": "^6.0.3"
   }
 }

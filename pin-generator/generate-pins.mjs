@@ -6,6 +6,7 @@
 import { chromium } from 'playwright';
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { resolve } from 'path';
+import { pathToFileURL } from 'url';
 
 const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">`;
@@ -107,7 +108,7 @@ const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePa
 const page = await browser.newPage({ viewport: { width: 1000, height: 1500 } });
 
 for (const pin of pins) {
-  const photo = pin.photo.startsWith('http') ? pin.photo : 'file://' + resolve(pin.photo);
+  const photo = pin.photo.startsWith('http') ? pin.photo : pathToFileURL(resolve(pin.photo)).href;
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>` +
     templates[pin.template]({ ...pin, photo }) + '</body></html>';
   const file = resolve(`out/${pin.slug}-${pin.template}.html`);
