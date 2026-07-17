@@ -11,3 +11,9 @@ dist/
 
 # Raw image originals kept locally, excluded from deploys
 public/images/*/
+
+# Generated pin/short exports
+out/
+out-instagram/
+out-shorts/
+pin-generator/*-demo.json

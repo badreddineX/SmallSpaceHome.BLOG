@@ -7,13 +7,13 @@
   {"slug":"apartment-decor-ideas","template":"B","kicker":"No Drilling &nbsp;·&nbsp; No Lost Deposit","headline":"Decor Ideas Canadian Renters Swear <em>By</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-02-img2.jpg"},
   {"slug":"apartment-decor-ideas","template":"C","kicker":"Rental Style Guide","headline":"Make a Rental Feel Like <em>Home</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-02-img2.jpg"},
 
-  {"slug":"cozy-winter-decor","template":"A","kicker":"Winter &nbsp;·&nbsp; Canadian Rentals","headline":"Cozy Winter Apartment <em>Decor</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-19-img1.jpg"},
+  {"slug":"cozy-winter-decor","template":"A","kicker":"Winter &nbsp;·&nbsp; Canadian Rentals","headline":"Cozy Winter Apartment <em>Decor</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-19-img1.jpg","brightPhoto":true},
   {"slug":"cozy-winter-decor","template":"B","kicker":"Hygge on a Budget","headline":"Make Your Apartment Feel <em>Warm</em> All Winter","domain":"smallspacehome.ca","photo":"./public/images/blog-19-img1.jpg"},
   {"slug":"cozy-winter-decor","template":"C","kicker":"Cozy Season Checklist","headline":"The <em>Cozy</em> Winter Rental Guide","domain":"smallspacehome.ca","photo":"./public/images/blog-19-img1.jpg"},
 
-  {"slug":"fall-apartment-decor","template":"A","kicker":"Autumn &nbsp;·&nbsp; Renter-Friendly","headline":"Fall Apartment Decorating <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/living-room-cozy.jpg"},
-  {"slug":"fall-apartment-decor","template":"B","kicker":"Cozy &nbsp;·&nbsp; Deposit-Safe","headline":"Bring <em>Fall</em> Into Your Rental","domain":"smallspacehome.ca","photo":"./public/images/living-room-cozy.jpg"},
-  {"slug":"fall-apartment-decor","template":"C","kicker":"Autumn Refresh","headline":"The Renter's Guide to <em>Fall</em> Decor","domain":"smallspacehome.ca","photo":"./public/images/living-room-cozy.jpg"},
+  {"slug":"fall-apartment-decor","template":"A","kicker":"Autumn &nbsp;·&nbsp; Renter-Friendly","headline":"Fall Apartment Decorating <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-06-img1.jpg"},
+  {"slug":"fall-apartment-decor","template":"B","kicker":"Cozy &nbsp;·&nbsp; Deposit-Safe","headline":"Bring <em>Fall</em> Into Your Rental","domain":"smallspacehome.ca","photo":"./public/images/blog-06-img1.jpg"},
+  {"slug":"fall-apartment-decor","template":"C","kicker":"Autumn Refresh","headline":"The Renter's Guide to <em>Fall</em> Decor","domain":"smallspacehome.ca","photo":"./public/images/blog-06-img1.jpg"},
 
   {"slug":"decorate-small-living-room","template":"A","kicker":"Step-by-Step Guide","headline":"How to Decorate a Small Living <em>Room</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-10-img3.jpg"},
   {"slug":"decorate-small-living-room","template":"B","kicker":"From Empty to Styled","headline":"Decorate a Tiny Living Room Like a <em>Pro</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-10-img3.jpg"},
@@ -39,7 +39,7 @@
   {"slug":"renter-friendly-decor","template":"B","kicker":"No Nails &nbsp;·&nbsp; No Drama","headline":"Decorate Without Losing Your <em>Deposit</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-13-img1.jpg"},
   {"slug":"renter-friendly-decor","template":"C","kicker":"Renter-Approved Ideas","headline":"Style Your Rental, Keep the <em>Deposit</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-13-img1.jpg"},
 
-  {"slug":"bathroom-storage","template":"A","kicker":"38 Sq Ft &nbsp;·&nbsp; Solved","headline":"Small Bathroom <em>Storage</em> Ideas","domain":"smallspacehome.ca","photo":"./public/images/unsplash-1552321554-5fefe8c9ef14.jpg"},
+  {"slug":"bathroom-storage","template":"A","kicker":"38 Sq Ft &nbsp;·&nbsp; Solved","headline":"Small Bathroom <em>Storage</em> Ideas","domain":"smallspacehome.ca","photo":"./public/images/unsplash-1552321554-5fefe8c9ef14.jpg","brightPhoto":true},
   {"slug":"bathroom-storage","template":"B","kicker":"No Drilling &nbsp;·&nbsp; Under $180","headline":"Tiny Bathroom? <em>Double</em> the Storage","domain":"smallspacehome.ca","photo":"./public/images/unsplash-1552321554-5fefe8c9ef14.jpg"},
   {"slug":"bathroom-storage","template":"C","kicker":"Rental Bathrooms","headline":"12 <em>Storage</em> Ideas for Tiny Bathrooms","domain":"smallspacehome.ca","photo":"./public/images/unsplash-1552321554-5fefe8c9ef14.jpg"},
 
@@ -47,9 +47,9 @@
   {"slug":"bedroom-storage","template":"B","kicker":"Under-Bed to Over-Door","headline":"13 Ways to <em>Hide</em> More in a Tiny Bedroom","domain":"smallspacehome.ca","photo":"./public/images/blog-18-img1.jpg"},
   {"slug":"bedroom-storage","template":"C","kicker":"Small Bedroom Storage","headline":"Where All Your Stuff <em>Goes</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-18-img1.jpg"},
 
-  {"slug":"organization-under-100","template":"A","kicker":"Under $100 CAD","headline":"15 Apartment Organization <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-09-img1.jpg"},
-  {"slug":"organization-under-100","template":"B","kicker":"Dollarama to IKEA","headline":"Get <em>Organized</em> for Under $100","domain":"smallspacehome.ca","photo":"./public/images/blog-09-img1.jpg"},
-  {"slug":"organization-under-100","template":"C","kicker":"Budget Organization","headline":"The <em>$100</em> Organization Plan","domain":"smallspacehome.ca","photo":"./public/images/blog-09-img1.jpg"},
+  {"slug":"organization-under-100","template":"A","kicker":"Under $100 CAD","headline":"15 Apartment Organization <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-09-img2.jpg"},
+  {"slug":"organization-under-100","template":"B","kicker":"Dollarama to IKEA","headline":"Get <em>Organized</em> for Under $100","domain":"smallspacehome.ca","photo":"./public/images/blog-09-img2.jpg"},
+  {"slug":"organization-under-100","template":"C","kicker":"Budget Organization","headline":"The <em>$100</em> Organization Plan","domain":"smallspacehome.ca","photo":"./public/images/blog-09-img2.jpg"},
 
   {"slug":"apartment-organization","template":"A","kicker":"Room-by-Room Guide","headline":"Small Apartment <em>Organization</em>","domain":"smallspacehome.ca","photo":"./public/images/studio-apartment-living.jpg"},
   {"slug":"apartment-organization","template":"B","kicker":"Kitchen to Closet","headline":"Organize Every Room of a Small <em>Apartment</em>","domain":"smallspacehome.ca","photo":"./public/images/studio-apartment-living.jpg"},

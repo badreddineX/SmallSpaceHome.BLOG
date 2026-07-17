@@ -30,7 +30,9 @@ const templates = {
     <style>${BASE_CSS}
       body{display:flex;flex-direction:column;justify-content:flex-end;padding:96px 90px;
         background:
-          linear-gradient(180deg, rgba(20,26,18,0) 30%, rgba(20,26,18,.50) 55%, rgba(14,18,12,.94) 100%),
+          ${p.brightPhoto
+            ? "linear-gradient(180deg, rgba(20,26,18,0) 15%, rgba(20,26,18,.60) 45%, rgba(14,18,12,.97) 100%)"
+            : "linear-gradient(180deg, rgba(20,26,18,0) 30%, rgba(20,26,18,.50) 55%, rgba(14,18,12,.94) 100%)"},
           url('${p.photo}') center/cover no-repeat;}
       .accent-rule{width:64px;height:3px;background:var(--tan-light);margin-bottom:26px}
       .kicker{color:var(--tan-light);margin-bottom:24px}
@@ -101,21 +103,31 @@ const templates = {
     </div>`,
 };
 
-const pins = JSON.parse(readFileSync(process.argv[2] ?? 'pins.json', 'utf8'));
-mkdirSync('out', { recursive: true });
+// --ig renders Instagram's native 4:5 feed size (1080x1350) instead of
+// Pinterest's 2:3 (1000x1500), reusing the same templates — the CSS is
+// mostly flex-based and aspect-agnostic, so only the canvas size changes.
+const IS_IG = process.argv.includes('--ig');
+const pinsArg = process.argv[2] && !process.argv[2].startsWith('--') ? process.argv[2] : 'pins.json';
+const [W, H] = IS_IG ? [1080, 1350] : [1000, 1500];
+const OUT_DIR = IS_IG ? 'out-instagram' : 'out';
+const SUFFIX = IS_IG ? '-ig' : '';
+const SIZE_OVERRIDE = `<style>html,body{width:${W}px !important;height:${H}px !important}</style>`;
+
+const pins = JSON.parse(readFileSync(pinsArg, 'utf8'));
+mkdirSync(OUT_DIR, { recursive: true });
 
 const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
-const page = await browser.newPage({ viewport: { width: 1000, height: 1500 } });
+const page = await browser.newPage({ viewport: { width: W, height: H } });
 
 for (const pin of pins) {
   const photo = pin.photo.startsWith('http') ? pin.photo : pathToFileURL(resolve(pin.photo)).href;
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>` +
-    templates[pin.template]({ ...pin, photo }) + '</body></html>';
-  const file = resolve(`out/${pin.slug}-${pin.template}.html`);
+    templates[pin.template]({ ...pin, photo }) + SIZE_OVERRIDE + '</body></html>';
+  const file = resolve(`${OUT_DIR}/${pin.slug}-${pin.template}${SUFFIX}.html`);
   writeFileSync(file, html);
   await page.goto('file://' + file, { waitUntil: 'networkidle' });
   await page.evaluate(() => document.fonts.ready);
-  await page.screenshot({ path: `out/${pin.slug}-${pin.template}.png` });
-  console.log(`✓ out/${pin.slug}-${pin.template}.png`);
+  await page.screenshot({ path: `${OUT_DIR}/${pin.slug}-${pin.template}${SUFFIX}.png` });
+  console.log(`✓ ${OUT_DIR}/${pin.slug}-${pin.template}${SUFFIX}.png`);
 }
 await browser.close();
