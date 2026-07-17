@@ -98,62 +98,10 @@ const organizationJsonLd = JSON.stringify({
   <!-- Newsletter -->
   <div class="footer-newsletter">
     <div class="container newsletter-inner">
-      <div class="newsletter-text">
-        <span class="newsletter-icon" aria-hidden="true">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-            <rect x="2" y="4" width="20" height="16" rx="2.5"/>
-            <path d="m2.5 5.5 9 7 9-7"/>
-          </svg>
-        </span>
-        <div>
-          <p class="newsletter-label">Stay in the loop</p>
-          <p class="newsletter-desc">New ideas for small Canadian apartments — straight to your inbox.</p>
-        </div>
+      <div class="newsletter-form">
+        <script src="https://cdn-reach.hostinger.com/js/embed.js"></script>
+        <div data-reach-form="099c22bc-3249-4e01-b6ad-2bca6f3c9d13"></div>
       </div>
-      <form
-        class="newsletter-form"
-        action="https://formsubmit.co/hello@smallspacehome.ca"
-        method="POST"
-      >
-        <input type="hidden" name="_subject" value="New SmallSpaceHome Newsletter Signup" />
-        <input type="hidden" name="_captcha" value="false" />
-        <input type="hidden" name="_template" value="table" />
-        <input type="hidden" name="_next" value="https://smallspacehome.ca/thank-you?src=newsletter" />
-        <input
-          type="hidden"
-          name="_autoresponse"
-          value="Hi there,
-
-Thanks for subscribing to SmallSpace Home! You're now on the list for practical organization and decor ideas for small Canadian apartments — renter-friendly, budget-conscious, and tested in real spaces, not showrooms.
-
-You'll hear from us with new posts and seasonal guides. No spam, ever, and you can unsubscribe any time by replying to one of our emails.
-
-In the meantime, browse the latest posts here: https://smallspacehome.ca/blog
-
-Talk soon,
-The SmallSpace Home team
-hello@smallspacehome.ca"
-        />
-        <input type="text" name="_honey" style="display:none" />
-        <div class="newsletter-field">
-          <input
-            type="email"
-            name="email"
-            placeholder="your@email.com"
-            required
-            autocomplete="email"
-            class="newsletter-input"
-            aria-label="Email address"
-          />
-          <button type="submit" class="newsletter-btn">
-            Subscribe
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <path d="M5 12h14"/><path d="m13 6 6 6-6 6"/>
-            </svg>
-          </button>
-        </div>
-        <p class="newsletter-trust">Free · No spam, ever · Unsubscribe any time</p>
-      </form>
     </div>
   </div>
 
@@ -312,103 +260,12 @@ hello@smallspacehome.ca"
 }
 .newsletter-inner {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 40px;
-  flex-wrap: wrap;
-}
-.newsletter-text {
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-}
-.newsletter-icon {
-  display: flex;
-  align-items: center;
   justify-content: center;
-  width: 42px;
-  height: 42px;
-  flex-shrink: 0;
-  border-radius: 50%;
-  background: rgba(196,168,130,0.1);
-  border: 1px solid rgba(196,168,130,0.25);
-  color: var(--color-accent);
 }
-.newsletter-label {
-  font-size: 0.6rem;
-  font-weight: 600;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--color-accent);
-  margin: 0 0 6px;
-}
-.newsletter-desc {
-  font-size: 0.88rem;
-  color: rgba(255,255,255,0.45);
-  font-weight: 300;
-  line-height: 1.6;
-  margin: 0;
-  max-width: 340px;
-}
-.newsletter-form { flex-shrink: 0; }
-.newsletter-field {
-  display: flex;
-  align-items: stretch;
-  gap: 0;
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 6px;
-  overflow: hidden;
-  transition: border-color 0.2s ease;
-}
-.newsletter-field:focus-within {
-  border-color: var(--color-accent);
-}
-.newsletter-input {
-  background: transparent;
-  border: none;
-  outline: none;
-  padding: 13px 18px;
-  font-family: var(--font-body);
-  font-size: 0.88rem;
-  color: rgba(255,255,255,0.9);
-  width: 240px;
-}
-.newsletter-input::placeholder { color: rgba(255,255,255,0.32); }
-.newsletter-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: var(--color-accent-dark);
-  color: #fff;
-  border: none;
-  padding: 13px 22px;
-  font-family: var(--font-body);
-  font-size: 0.7rem;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  cursor: pointer;
-  transition: background 0.2s ease, transform 0.15s ease;
-  white-space: nowrap;
-}
-.newsletter-btn:hover { background: #7a6040; }
-.newsletter-btn:active { transform: scale(0.97); }
-.newsletter-btn svg { transition: transform 0.2s ease; }
-.newsletter-btn:hover svg { transform: translateX(2px); }
-
-.newsletter-trust {
-  margin: 10px 0 0;
-  font-size: 0.72rem;
-  color: rgba(255,255,255,0.32);
-  font-weight: 300;
-  letter-spacing: 0.01em;
-}
+.newsletter-form { width: 100%; max-width: 400px; }
 
 @media (max-width: 640px) {
   .newsletter-inner { flex-direction: column; align-items: flex-start; gap: 24px; }
-  .newsletter-input { width: 100%; }
-  .newsletter-field { width: 100%; }
   .newsletter-form { width: 100%; }
 }
 
