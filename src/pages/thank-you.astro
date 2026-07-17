@@ -10,7 +10,7 @@ import '../styles/global.css';
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <title>Message Sent — SmallSpace Home</title>
+    <title id="ty-title">Message Sent — SmallSpace Home</title>
     <meta name="robots" content="noindex" />
   </head>
   <body>
@@ -19,8 +19,8 @@ import '../styles/global.css';
     <main class="ty-page">
       <div class="container ty-inner">
         <span class="ty-icon" aria-hidden="true">✓</span>
-        <h1 class="ty-h">Message received!</h1>
-        <p class="ty-p">
+        <h1 class="ty-h" id="ty-heading">Message received!</h1>
+        <p class="ty-p" id="ty-body">
           Thanks for reaching out. I read every message and will reply within 2–3 business days.
         </p>
         <div class="ty-ctas">
@@ -31,6 +31,15 @@ import '../styles/global.css';
     </main>
 
     <Footer />
+
+    <script>
+      if (new URLSearchParams(window.location.search).get('src') === 'newsletter') {
+        document.getElementById('ty-title')!.textContent = 'Subscribed — SmallSpace Home';
+        document.getElementById('ty-heading')!.textContent = "You're subscribed!";
+        document.getElementById('ty-body')!.textContent =
+          "Thanks for joining — new ideas for small Canadian apartments will land straight in your inbox, no spam.";
+      }
+    </script>
   </body>
 </html>
 
