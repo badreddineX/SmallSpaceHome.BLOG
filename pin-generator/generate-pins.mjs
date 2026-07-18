@@ -117,7 +117,10 @@ const pins = JSON.parse(readFileSync(pinsArg, 'utf8'));
 mkdirSync(OUT_DIR, { recursive: true });
 
 const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
-const page = await browser.newPage({ viewport: { width: W, height: H } });
+// deviceScaleFactor: 2 renders at retina (2x) pixel density — e.g. a 1000x1500
+// pin outputs as a 2000x3000 PNG, sharp on high-DPI displays and Pinterest's
+// own upscaling, instead of the previous 1x (1000x1500 native) renders.
+const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
 
 for (const pin of pins) {
   const photo = pin.photo.startsWith('http') ? pin.photo : pathToFileURL(resolve(pin.photo)).href;

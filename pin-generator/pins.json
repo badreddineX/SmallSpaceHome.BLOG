@@ -31,9 +31,9 @@
   {"slug":"january-reset","template":"B","kicker":"Declutter &nbsp;·&nbsp; Organize &nbsp;·&nbsp; Breathe","headline":"Reset Your Apartment for the New <em>Year</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-03-img3.jpg"},
   {"slug":"january-reset","template":"C","kicker":"January Reset Plan","headline":"Start the Year <em>Organized</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-03-img3.jpg"},
 
-  {"slug":"minimalist-apartment","template":"A","kicker":"Less Stuff &nbsp;·&nbsp; More Space","headline":"Minimalist Small Apartment <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-16-img1.jpg"},
-  {"slug":"minimalist-apartment","template":"B","kicker":"Calm &nbsp;·&nbsp; Clutter-Free","headline":"Minimalism That Actually <em>Works</em> in Rentals","domain":"smallspacehome.ca","photo":"./public/images/blog-16-img1.jpg"},
-  {"slug":"minimalist-apartment","template":"C","kicker":"The Minimalist Method","headline":"A <em>Calmer</em> Small Apartment","domain":"smallspacehome.ca","photo":"./public/images/blog-16-img1.jpg"},
+  {"slug":"minimalist-apartment","template":"A","kicker":"Less Stuff &nbsp;·&nbsp; More Space","headline":"Minimalist Small Apartment <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/minimalist-apartment-pin.jpg"},
+  {"slug":"minimalist-apartment","template":"B","kicker":"Calm &nbsp;·&nbsp; Clutter-Free","headline":"Minimalism That Actually <em>Works</em> in Rentals","domain":"smallspacehome.ca","photo":"./public/images/minimalist-apartment-pin.jpg"},
+  {"slug":"minimalist-apartment","template":"C","kicker":"The Minimalist Method","headline":"A <em>Calmer</em> Small Apartment","domain":"smallspacehome.ca","photo":"./public/images/minimalist-apartment-pin.jpg"},
 
   {"slug":"renter-friendly-decor","template":"A","kicker":"Deposit-Safe &nbsp;·&nbsp; Canada","headline":"Renter-Friendly Decor That <em>Sticks</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-13-img1.jpg"},
   {"slug":"renter-friendly-decor","template":"B","kicker":"No Nails &nbsp;·&nbsp; No Drama","headline":"Decorate Without Losing Your <em>Deposit</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-13-img1.jpg"},
@@ -83,7 +83,7 @@
   {"slug":"storage-ideas","template":"B","kicker":"Tested in a 500 Sq Ft Rental","headline":"23 Storage Ideas That Actually <em>Work</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-04-img1.jpg"},
   {"slug":"storage-ideas","template":"C","kicker":"Small-Space Storage","headline":"23 Storage Ideas for Small <em>Places</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-04-img1.jpg"},
 
-  {"slug":"studio-apartment","template":"A","kicker":"One Room &nbsp;·&nbsp; Every Function","headline":"Studio Apartment <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-05-img2.jpg"},
-  {"slug":"studio-apartment","template":"B","kicker":"Sleep &nbsp;·&nbsp; Work &nbsp;·&nbsp; Live","headline":"Make One Room Do <em>Everything</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-05-img2.jpg"},
-  {"slug":"studio-apartment","template":"C","kicker":"Studio Living","headline":"The One-Room <em>Layout</em> Guide","domain":"smallspacehome.ca","photo":"./public/images/blog-05-img2.jpg"}
+  {"slug":"studio-apartment","template":"A","kicker":"One Room &nbsp;·&nbsp; Every Function","headline":"Studio Apartment <em>Ideas</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-05-img4.jpg"},
+  {"slug":"studio-apartment","template":"B","kicker":"Sleep &nbsp;·&nbsp; Work &nbsp;·&nbsp; Live","headline":"Make One Room Do <em>Everything</em>","domain":"smallspacehome.ca","photo":"./public/images/blog-05-img4.jpg"},
+  {"slug":"studio-apartment","template":"C","kicker":"Studio Living","headline":"The One-Room <em>Layout</em> Guide","domain":"smallspacehome.ca","photo":"./public/images/blog-05-img4.jpg"}
 ]
