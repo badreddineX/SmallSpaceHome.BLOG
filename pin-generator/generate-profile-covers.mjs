@@ -26,12 +26,14 @@ const BASE_CSS = `
 // even cropped tiny. NOTE: the cover itself isn't clickable — the actual
 // destination links live on the link-sticker inside each Story you add
 // to the highlight, pointing at that Story's blog post.
+// Matches the site's own 4 real categories exactly (see content.config.ts
+// enum + footer nav filters: /blog?category=Organization|Decor|Storage|Budget+Tips) —
+// not an invented split. Photo picked from an actual post inside that category.
 const HIGHLIGHT_PHOTOS = {
-  storage: './public/images/blog-18-img1.jpg',      // bedroom storage/closet
-  budget: './public/images/blog-09-img2.jpg',        // organization under $100
-  ikea: './public/images/blog-12-img1.jpg',          // IKEA small space hacks
-  living: './public/images/blog-01-img1.jpg',        // small space living room
-  organize: './public/images/blog-03-img3.jpg',      // january reset / organization
+  organization: './public/images/blog-03-img3.jpg',  // january-reset-organization-ideas
+  decor: './public/images/blog-01-img1.jpg',         // small-space-living-room-ideas
+  storage: './public/images/blog-18-img1.jpg',       // small-apartment-bedroom-storage-ideas
+  budget: './public/images/blog-15-img1.jpg',        // apartment-decor-ideas-on-a-budget
 };
 
 const highlightCover = (photoPath) => `
