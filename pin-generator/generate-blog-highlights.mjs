@@ -122,7 +122,7 @@ mkdirSync('out-profile/highlights', { recursive: true });
 mkdirSync('out-profile/stories', { recursive: true });
 
 const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome' });
-const page = await browser.newPage({ deviceScaleFactor: 2 });
+const page = await browser.newPage({ deviceScaleFactor: 1 });
 
 for (const { slug, title, image } of posts) {
   if (!title || !image) {
@@ -136,16 +136,16 @@ for (const { slug, title, image } of posts) {
   let file = resolve(`out-profile/highlights/${slug}.html`);
   writeFileSync(file, html);
   await page.goto('file://' + file, { waitUntil: 'networkidle' });
-  await page.screenshot({ path: `out-profile/highlights/${slug}.png` });
-  console.log(`✓ out-profile/highlights/${slug}.png`);
+  await page.screenshot({ path: `out-profile/highlights/${slug}.jpg`, type: 'jpeg', quality: 90 });
+  console.log(`✓ out-profile/highlights/${slug}.jpg`);
 
   await page.setViewportSize({ width: 1080, height: 1920 });
   html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>${highlightStory(title, slug, photoUrl)}</body></html>`;
   file = resolve(`out-profile/stories/${slug}.html`);
   writeFileSync(file, html);
   await page.goto('file://' + file, { waitUntil: 'networkidle' });
-  await page.screenshot({ path: `out-profile/stories/${slug}.png` });
-  console.log(`✓ out-profile/stories/${slug}.png`);
+  await page.screenshot({ path: `out-profile/stories/${slug}.jpg`, type: 'jpeg', quality: 90 });
+  console.log(`✓ out-profile/stories/${slug}.jpg`);
 }
 
 await browser.close();
