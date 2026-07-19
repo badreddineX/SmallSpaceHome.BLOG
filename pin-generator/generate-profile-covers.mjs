@@ -75,15 +75,13 @@ const boardCover = (name) => `
   </div>
 `;
 
+// Simplified to the site's 4 real categories (matches the Instagram
+// highlights fix) instead of the original 8 topic-specific boards.
 const boards = [
-  'Small Apartment\nIdeas',
-  'Small Living Room\nIdeas',
-  'Small Bedroom Ideas\n& Storage',
-  'Apartment\nOrganization',
-  'Budget Apartment\nDecor',
-  'Renter-Friendly\nDecor',
-  'IKEA Small\nSpace Hacks',
-  'Studio Apartment\nLiving',
+  'Organization',
+  'Decor',
+  'Storage',
+  'Budget Tips',
 ];
 
 const browser = await chromium.launch();
