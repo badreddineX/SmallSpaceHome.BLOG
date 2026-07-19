@@ -71,42 +71,72 @@ const highlightIcon = (photoUrl) => `
   <div class="ring"><div class="photo"></div></div>
 `;
 
-// ── Highlight story content — 1080x1920, full-bleed cover photo with the
-// post title and the actual blog link baked into the image.
+// ── Highlight story content — 1080x1920. Deliberately NOT the pin look
+// (no editorial gradient-scrim-over-photo stack). Instead this mimics real
+// Instagram Story chrome — progress segments, avatar/username row, and a
+// white link-sticker widget — so it reads as native Story content rather
+// than a repurposed Pinterest pin, while still using the site's palette.
 const highlightStory = (title, slug, photoUrl) => `
   <style>${BASE_CSS}
-    body{width:1080px;height:1920px;position:relative;background:var(--dark);
+    body{width:1080px;height:1920px;position:relative;background:var(--ink);
       font-family:'Inter',sans-serif;}
-    .photo{position:absolute;inset:0;background:url('${photoUrl}') center/cover no-repeat;}
-    .scrim-top{position:absolute;top:0;left:0;right:0;height:420px;
-      background:linear-gradient(180deg, rgba(28,25,23,.65), rgba(28,25,23,0));}
-    .scrim-bottom{position:absolute;bottom:0;left:0;right:0;height:900px;
-      background:linear-gradient(0deg, rgba(28,25,23,.94) 20%, rgba(28,25,23,.55) 60%, rgba(28,25,23,0));}
-    .kicker{position:absolute;top:72px;left:72px;right:72px;
-      display:flex;align-items:center;gap:16px;
-      font-weight:700;font-size:26px;letter-spacing:.28em;text-transform:uppercase;
-      color:var(--cream);}
-    .kicker .dot{width:10px;height:10px;border-radius:50%;background:var(--tan);}
-    .content{position:absolute;left:72px;right:72px;bottom:150px;
-      display:flex;flex-direction:column;gap:36px;}
-    h1{font-family:'Playfair Display',serif;font-weight:600;font-size:76px;line-height:1.18;
-      color:#fff;text-shadow:0 2px 24px rgba(0,0,0,.35);}
-    .cta{align-self:flex-start;display:flex;align-items:center;gap:14px;
-      background:linear-gradient(135deg, var(--tan), var(--tan-deep));
-      color:var(--ink);font-weight:700;font-size:30px;
-      padding:24px 40px;border-radius:100px;box-shadow:0 12px 30px rgba(0,0,0,.35);}
-    .cta .arrow{font-size:32px;line-height:1}
-    .link{font-weight:600;font-size:28px;letter-spacing:.02em;color:var(--tan);
-      opacity:.95}
+    .frame{position:absolute;inset:24px;border-radius:40px;overflow:hidden;
+      background:var(--dark);}
+    .photo{position:absolute;top:210px;left:0;right:0;height:1180px;
+      background:url('${photoUrl}') center/cover no-repeat;}
+    .photo::after{content:'';position:absolute;inset:0;
+      background:linear-gradient(0deg, var(--dark) 0%, rgba(44,36,32,0) 22%);}
+    .progress{position:absolute;top:32px;left:32px;right:32px;height:5px;
+      display:flex;gap:8px;}
+    .progress span{flex:1;height:100%;border-radius:4px;background:rgba(255,255,255,.28);}
+    .progress span.active{background:var(--cream);}
+    .idrow{position:absolute;top:56px;left:32px;right:32px;
+      display:flex;align-items:center;gap:18px;}
+    .avatar{width:64px;height:64px;border-radius:50%;
+      background:linear-gradient(135deg, var(--tan), var(--sage));
+      display:flex;align-items:center;justify-content:center;
+      font-family:'Playfair Display',serif;font-weight:700;font-size:32px;color:#fff;}
+    .idrow .name{font-weight:700;font-size:30px;color:#fff;}
+    .idrow .time{font-weight:500;font-size:26px;color:rgba(255,255,255,.65);margin-left:-4px;}
+    .caption{position:absolute;left:56px;right:56px;top:1120px;}
+    .caption h1{font-family:'Playfair Display',serif;font-weight:600;font-size:64px;
+      line-height:1.22;color:var(--cream);}
+    .sticker{position:absolute;left:56px;right:56px;top:1440px;
+      background:var(--cream);border-radius:24px;padding:30px 36px;
+      display:flex;align-items:center;gap:20px;box-shadow:0 18px 40px rgba(0,0,0,.35);}
+    .sticker .icon{width:44px;height:44px;border-radius:50%;border:4px solid var(--ink);
+      display:flex;align-items:center;justify-content:center;font-size:26px;color:var(--ink);
+      flex:none;}
+    .sticker .text{display:flex;flex-direction:column;gap:4px;}
+    .sticker .label{font-weight:700;font-size:22px;letter-spacing:.12em;text-transform:uppercase;
+      color:var(--tan-deep);}
+    .sticker .url{font-weight:600;font-size:28px;color:var(--ink);}
+    .swipe{position:absolute;left:0;right:0;top:1650px;display:flex;flex-direction:column;
+      align-items:center;gap:10px;}
+    .swipe .chevron{font-size:34px;color:rgba(255,255,255,.85);}
+    .swipe .label{font-weight:600;font-size:24px;letter-spacing:.14em;text-transform:uppercase;
+      color:rgba(255,255,255,.75);}
   </style>
-  <div class="photo"></div>
-  <div class="scrim-top"></div>
-  <div class="scrim-bottom"></div>
-  <div class="kicker"><span class="dot"></span>Small Space Home</div>
-  <div class="content">
-    <h1>${title}</h1>
-    <div class="link">${SITE}/blog/${slug}</div>
-    <div class="cta">Read the full guide <span class="arrow">&#8594;</span></div>
+  <div class="frame">
+    <div class="photo"></div>
+    <div class="progress"><span class="active"></span><span></span><span></span></div>
+    <div class="idrow">
+      <div class="avatar">S</div>
+      <div class="name">smallspacehome</div>
+      <div class="time">· 1h</div>
+    </div>
+    <div class="caption"><h1>${title}</h1></div>
+    <div class="sticker">
+      <div class="icon">&#128279;</div>
+      <div class="text">
+        <div class="label">Tap the link</div>
+        <div class="url">${SITE}/blog/${slug}</div>
+      </div>
+    </div>
+    <div class="swipe">
+      <div class="chevron">&#8963;</div>
+      <div class="label">See more</div>
+    </div>
   </div>
 `;
 
