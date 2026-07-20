@@ -105,6 +105,22 @@ legitimate growth channel entirely separate from Reddit itself, but
 surfaced during Reddit research so documented here. No specific targets
 identified yet — next step is finding a shortlist of good-fit accounts.
 
+### Phase 5 — AMA + paid ads, once credibility is established (later)
+Sourced from a marketing-agency article (Brandit, 2023) — mixed quality
+overall (see guardrail below), but two ideas in it are genuinely
+legitimate and worth keeping for later:
+
+- **Host a Reddit AMA** once there's real account history/credibility —
+  e.g. *"I've spent 3 years optimizing a 510 sq ft Toronto apartment —
+  AMA."* High-engagement, fully authentic format Reddit communities
+  respond well to. Needs Phase 1-2 groundwork first; posting an AMA from
+  a brand-new account with no history reads as suspicious/promotional.
+- **Reddit Ads** (Reddit's own official advertising product) — a
+  legitimate paid channel, not a gray area like the manipulation tactics
+  below. Worth considering later if organic traction proves the niche
+  works and there's budget for it. Separate entirely from organic
+  strategy — doesn't require any of the karma/trust-building above.
+
 ---
 
 ## Guardrail: how to tell legitimate advice from a manipulation pitch
@@ -134,7 +150,19 @@ distinction explicit for future reference:
   brand/product by name as part of the "help," rather than giving the
   help itself and letting people ask if curious. Re-read Phase 2-3 before
   writing any comment that references smallspacehome.ca directly.
+- **"Build a Reddit bot" advice** (Brandit article, 2023): recommends
+  automated scripts to comment/engage/monetize. **Same category as
+  upvote manipulation** — an undisclosed engagement bot violates
+  Reddit's ToS and is detectable. Legitimate bots exist (utility bots
+  explicitly disclosed and mod-approved, e.g. auto-flairing), but a
+  stealth promotional bot is not one of them. Excluded entirely.
+- **"Affiliate marketing on niche subreddits" advice** (same article):
+  many subreddits explicitly ban affiliate links outright (same bucket
+  as self-promotion bans). Not directly applicable here anyway — this
+  project shares original blog content, not affiliate/commission links
+  — but worth remembering if that ever changes.
 
 **Rule going forward: never pay for votes, engagement, or artificial
-traffic on Reddit, under any framing.** Everything in Phases 1-4 above is
-built entirely on genuine participation instead.
+traffic on Reddit, and never automate posting/commenting, under any
+framing.** Everything in Phases 1-5 above is built entirely on genuine,
+manual participation instead.
