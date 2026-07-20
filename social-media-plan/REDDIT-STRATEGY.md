@@ -62,6 +62,19 @@ a real, specific, helpful answer using actual expertise. No link, no
 mention of the blog. This builds karma and account trust, which every
 later phase depends on.
 
+**Thread-picking filter (from r/seogrowth, 2026-07-20):** prioritize
+*"problem threads"* over *"discussion threads"* — a problem thread is
+someone actively stuck on a specific issue (high intent to act on advice),
+versus a generic open-ended discussion. Sort a subreddit by "Top of week"
+to surface threads already gaining traction, rather than scrolling new/hot
+at random.
+
+**Bonus upside beyond direct traffic (same source):** genuinely helpful
+Reddit comments are increasingly surfaced directly by AI answer engines
+(ChatGPT, Perplexity, Google AI Overviews) — so a well-written, expert
+comment can build visibility even for readers who never click through to
+Reddit itself, independent of the karma/traffic mechanics below.
+
 ### Phase 2 — Original text posts, still no links (~1-2 weeks in)
 Once there's some karma, post genuine advice as a native Reddit text post
 — e.g. *"How I organized my 510 sq ft Toronto apartment for under $100
@@ -113,6 +126,14 @@ distinction explicit for future reference:
   strategy advice — ignore the manipulation-adjacent parts even if some
   surrounding content (e.g. generic GA4/UTM tracking advice) is fine on
   its own.
+- **Disguised self-promotion in the wild** (seen live in the r/seogrowth
+  thread, 2026-07-20): an account dropped *"I work at [Company] and we
+  focus on exactly that for brands"* two comments into a thread that was
+  itself *about* not doing this. Easy trap to fall into once a few weeks
+  in and eager to mention the blog — the tell is mentioning the
+  brand/product by name as part of the "help," rather than giving the
+  help itself and letting people ask if curious. Re-read Phase 2-3 before
+  writing any comment that references smallspacehome.ca directly.
 
 **Rule going forward: never pay for votes, engagement, or artificial
 traffic on Reddit, under any framing.** Everything in Phases 1-4 above is
