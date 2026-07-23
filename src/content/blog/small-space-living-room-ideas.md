@@ -23,7 +23,7 @@ faqs:
 
 Your living room is the first room guests see and the room you spend the most time in. When it's 200 square feet and doubles as your dining room and home office, every decision matters.
 
-I've lived in a 520 sq ft Toronto apartment for three years. The living room is roughly 180 sq ft. Here's what I've learned — and what I'd do differently if I were starting from scratch today.
+I've lived in a 520 sq ft Toronto apartment for three years. The living room is roughly 180 sq ft. Here's what I've learned — and what I'd do differently if I were starting from scratch today. If you want the step-by-step sequence instead of a straight list, our guide on [how to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through the same ideas in the order to tackle them.
 
 **TL;DR:** The biggest wins in a small living room are a properly sized sofa, one large rug instead of multiple small ones, vertical storage, and mirrors to double the visual space. Do those four things before anything else.
 

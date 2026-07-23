@@ -151,4 +151,6 @@ For how to make the living room side of this work, see [small space living room 
 
 Buy the multi-function pieces first, then fill in secondary items. When in doubt, buy the smaller size — a slightly small piece makes a room feel open, a slightly large one makes it feel cramped.
 
+If you're setting up a desk in any of these rooms, see [small apartment home office ideas](/blog/small-apartment-home-office-ideas/) for furniture picks sized specifically for a corner or closet setup.
+
 → For inspiration on how to style the furniture you choose, [small space living room ideas](/blog/small-space-living-room-ideas/) shows how layout and decor choices work together.

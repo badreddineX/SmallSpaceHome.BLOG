@@ -160,4 +160,4 @@ One room at a time. Finish it completely before moving to the next.
 
 Organization in a small apartment is a system, not a one-time project. Get the declutter done, install the basics (hangers, bins, hooks), and build the three daily habits — one in one out, 10-minute reset, weekly zone check. Everything else is maintenance.
 
-→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the most impactful changes for under $100 CAD total.
+→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the most impactful changes for under $100 CAD total. Starting the year fresh? Our [January reset guide](/blog/january-reset-organization-ideas) applies this same priority order as a focused one-weekend project.
