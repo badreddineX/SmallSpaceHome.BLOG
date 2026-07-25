@@ -130,7 +130,7 @@ The living room collects winter detritus — extra blankets that were never put 
 
 ## The Bathroom
 
-The bathroom is a small room that fills up fast. Products accumulate, expired items stay out of habit, and the counter slowly fills with things that should be in a drawer.
+The bathroom is a small room that fills up fast. Products accumulate, expired items stay out of habit, and the counter slowly fills with things that should be in a drawer. For a full storage overhaul rather than just a spring reset, see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage/).
 
 ### Declutter:
 - Every product: check expiry date. Sunscreen, medications, and makeup all expire

@@ -56,12 +56,27 @@ const articleJsonLd = isArticle ? JSON.stringify({
     "logo": {
       "@type": "ImageObject",
       "url": `${siteUrl}/favicon.svg`
-    }
+    },
+    "sameAs": [
+      "https://www.facebook.com/people/SmallSpace-Home/61592431767425/",
+      "https://www.instagram.com/smallspace_home/",
+      "https://www.pinterest.com/SmallSpaceHomecad/",
+    ]
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": fullUrl
   }
+}) : null;
+
+const breadcrumbJsonLd = isArticle ? JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": siteUrl },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": `${siteUrl}/blog` },
+    { "@type": "ListItem", "position": 3, "name": title, "item": fullUrl }
+  ]
 }) : null;
 
 const faqJsonLd = faqs.length > 0 ? JSON.stringify({
@@ -108,6 +123,9 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
 
 <!-- Article JSON-LD -->
 {isArticle && articleJsonLd && <script type="application/ld+json" set:html={articleJsonLd} />}
+
+<!-- Breadcrumb JSON-LD -->
+{isArticle && breadcrumbJsonLd && <script type="application/ld+json" set:html={breadcrumbJsonLd} />}
 
 <!-- FAQ JSON-LD -->
 {faqJsonLd && <script type="application/ld+json" set:html={faqJsonLd} />}

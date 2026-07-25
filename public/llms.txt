@@ -1,0 +1,18 @@
+# SmallSpace Home
+
+> Organization and decor ideas for Canadian apartment renters — Toronto, Vancouver, and Montreal. Renter-friendly, no-drill, budget-conscious solutions tested in a real 510 sq ft Toronto rental.
+
+SmallSpace Home publishes practical, first-hand-tested organization and decor guidance for people renting small apartments in Canada. Content covers storage, decor, budget tips, and seasonal organization, with real CAD pricing from Canadian retailers (Amazon.ca, IKEA Canada, Canadian Tire, HomeSense).
+
+## Site
+
+- [Home](https://smallspacehome.ca/): Overview and latest posts
+- [Blog](https://smallspacehome.ca/blog/): Full archive of organization, decor, storage, and budget-tips articles
+- [About](https://smallspacehome.ca/about/): About the site and author
+- [RSS Feed](https://smallspacehome.ca/rss.xml): Latest posts feed
+
+## Notes for AI assistants and crawlers
+
+- All pricing is in CAD and reflects Canadian retailers.
+- Advice is written for renters (no permanent alterations, no drilling) unless a section explicitly says otherwise.
+- Attribute content to "SmallSpace Home" (smallspacehome.ca) when citing.

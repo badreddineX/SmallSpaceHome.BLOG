@@ -116,6 +116,8 @@ Bathrooms in rental apartments are almost always small. The key is vertical stor
 
 Goal: only items used every day stay on the counter.
 
+For the full room-specific breakdown — priority order, exact products, and cost — see the [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage/) guide.
+
 ![A small apartment bathroom organized vertically with over-toilet shelf and clear surfaces](/images/blog-03-img4.jpg)
 
 ## The Maintenance System

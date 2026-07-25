@@ -5,7 +5,7 @@ export default defineConfig({
   site: 'https://smallspacehome.ca',
   integrations: [
     sitemap({
-      filter: (page) => !page.includes('/thank-you'),
+      filter: (page) => !page.includes('/thank-you') && !page.includes('/404'),
     }),
   ],
   redirects: {
