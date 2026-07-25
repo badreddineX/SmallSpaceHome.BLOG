@@ -172,4 +172,4 @@ Five changes. No purchases. The room looks larger by tonight.
 
 These 13 tricks work in any room — living room, bedroom, or studio. Apply the free changes first, then invest in the ones that will make the most difference for your specific space. In most Canadian apartments, the mirror and lighting changes deliver the highest impact per dollar.
 
-→ To apply these tricks specifically to your living room, see [small space living room ideas](/blog/small-space-living-room-ideas). For a minimalist approach that combines most of these principles into one design philosophy, [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas) is the natural next read.
+→ To apply these tricks specifically to your living room, see [small space living room ideas](/blog/small-space-living-room-ideas) or the full [step-by-step guide to decorating a small living room](/blog/how-to-decorate-a-small-living-room). For a minimalist approach that combines most of these principles into one design philosophy, [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas) is the natural next read.

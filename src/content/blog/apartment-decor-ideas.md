@@ -200,6 +200,8 @@ A cohesive, decorated apartment takes time — but you don't have to do it all a
 
 → Ready to take it further on a tight budget? See [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) for the highest-impact moves under $200 CAD.
 
+→ Living room specifically? [How to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through layout, lighting, and colour in the right order.
+
 ## The Rental Apartment Decor Priority Order
 
 Do these first for the fastest transformation:

@@ -157,3 +157,5 @@ The goal is a room where everything has a purpose and nothing is just sitting th
 Follow the 10-step sequence above and the living room transforms without a renovation budget. Start with the free changes (layout, rearranging, decluttering) before spending anything. The rug is the first purchase that makes the biggest visual difference.
 
 → For more inspiration on how to make a small living room feel larger, see [small space living room ideas](/blog/small-space-living-room-ideas). And for deposit-safe ways to add personality, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers the no-drill toolkit every Canadian renter needs.
+
+→ Still shopping for Step 2? [Small space furniture for apartments](/blog/small-space-furniture) breaks down exact pieces and CAD prices by room.

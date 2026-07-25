@@ -58,6 +58,8 @@ Furniture that sits high off the ground makes a small bedroom feel taller (good)
 - Nightstands with legs or floating shelves rather than solid cubes
 - A tall, narrow dresser rather than a wide, low one
 
+For exact pieces and CAD prices across every room, see [small space furniture for apartments](/blog/small-space-furniture).
+
 ## 4. Mirrors Are Non-Negotiable
 
 A mirror in a small bedroom does two things: it creates the visual illusion of depth, and it reflects light — making the room feel brighter and larger.
