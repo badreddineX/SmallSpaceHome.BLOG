@@ -149,6 +149,6 @@ The cost of minimalism:
 
 Net cost: usually zero or negative (savings from stopping impulse purchases).
 
-Minimalism in a small apartment is a practice, not a one-time project. The ongoing edit — once a season, walking through each room and asking "does this still earn its space?" — is what keeps the apartment calm and livable long-term. For more on the visual side of small-space design, [small space decorating](/blog/small-space-decorating/) covers the principles that underpin minimalist and non-minimalist approaches alike. Applied to the bedroom specifically, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas/) shows what a pared-back bedroom looks like in practice.
+Minimalism in a small apartment is a practice, not a one-time project. The ongoing edit — once a season, walking through each room and asking "does this still earn its space?" — is what keeps the apartment calm and livable long-term. For more on the visual side of small-space design, [small space decorating](/blog/small-space-decorating) covers the principles that underpin minimalist and non-minimalist approaches alike. Applied to the bedroom specifically, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas) shows what a pared-back bedroom looks like in practice.
 
-→ For a practical guide to making any room look bigger using minimalist principles, see [how to make a small room look bigger](/blog/how-to-make-a-small-room-look-bigger/) — 13 tricks that cost almost nothing.
+→ For a practical guide to making any room look bigger using minimalist principles, see [how to make a small room look bigger](/blog/how-to-make-a-small-room-look-bigger) — 13 tricks that cost almost nothing.

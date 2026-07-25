@@ -151,6 +151,6 @@ For apartments with a private entry, a fall doormat in a warm colour or leaf pat
 
 These four items are all you need for a proper fall refresh. The natural elements (pinecones, leaves, branches) from outside are free. The textile swap and scent do the rest.
 
-Fall decorating works best when it's a layer over a well-organized, cohesive base — not a seasonal overhaul of an already-cluttered space. If the apartment needs a reset before bringing in seasonal touches, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers the foundations worth having in place year-round.
+Fall decorating works best when it's a layer over a well-organized, cohesive base — not a seasonal overhaul of an already-cluttered space. If the apartment needs a reset before bringing in seasonal touches, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers the foundations worth having in place year-round.
 
-→ When autumn transitions to winter, [cozy winter apartment decor](/blog/cozy-winter-apartment-decor/) picks up exactly where this guide leaves off — with the deeper layering and lighting changes that carry you through to spring.
+→ When autumn transitions to winter, [cozy winter apartment decor](/blog/cozy-winter-apartment-decor) picks up exactly where this guide leaves off — with the deeper layering and lighting changes that carry you through to spring.

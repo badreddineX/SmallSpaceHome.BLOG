@@ -135,8 +135,8 @@ Before spending anything, do these changes that cost nothing:
 | Photo prints (10) + frames | $25–$35 | Costco + Dollarama |
 | **Total** | **$131–$161** | |
 
-Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. If you want to push further with specific ideas under $100, [budget apartment decor under $100](/blog/apartment-decor-ideas-on-a-budget/) shows 12 high-impact moves that look far more expensive than they cost. And for deposit-safe ways to go beyond the basics, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
+Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. If you want to push further with specific ideas under $100, [budget apartment decor under $100](/blog/apartment-decor-ideas-on-a-budget) shows 12 high-impact moves that look far more expensive than they cost. And for deposit-safe ways to go beyond the basics, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
 
 The apartment you want is achievable on a Canadian budget. Start with the free changes, then follow the priority order above. One purchase at a time beats a chaotic haul every time.
 
-→ Ready to take the next step beyond $200? See [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) for the full range of deposit-safe upgrades available to Canadian renters.
+→ Ready to take the next step beyond $200? See [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) for the full range of deposit-safe upgrades available to Canadian renters.

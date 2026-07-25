@@ -162,6 +162,6 @@ Canadian winters require seasonal storage management that doesn't apply in warme
 
 Complete the first five steps of the priority order before considering larger purchases. These five changes alone typically double usable bedroom storage for under $110 CAD.
 
-→ Once storage is sorted, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas/) covers the visual side — colour, lighting, and layout for a bedroom that feels calm, not just organized.
+→ Once storage is sorted, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas) covers the visual side — colour, lighting, and layout for a bedroom that feels calm, not just organized.
 
-→ For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/).
+→ For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget).

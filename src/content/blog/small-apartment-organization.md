@@ -97,7 +97,7 @@ The bedroom serves two purposes: sleep and storage. Most small apartment bedroom
 - Second tension rod below the existing one for shirts and jackets
 - Over-door organizer on the closet door for shoes and accessories (~$25–$35 CAD)
 
-If you're working with a tight budget, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the highest-impact moves for under $50 CAD total.
+If you're working with a tight budget, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the highest-impact moves for under $50 CAD total.
 
 **Under the bed:**
 The biggest untapped storage in the bedroom. Flat lidded bins for seasonal clothes, extra bedding, and shoes. IKEA SKUBB under-bed bags ~$14 CAD for a 2-pack. Bed risers add clearance if needed (~$25 CAD).
@@ -116,7 +116,7 @@ Bathrooms in rental apartments are almost always small. The key is vertical stor
 
 Goal: only items used every day stay on the counter.
 
-For the full room-specific breakdown — priority order, exact products, and cost — see the [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage/) guide.
+For the full room-specific breakdown — priority order, exact products, and cost — see the [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) guide.
 
 ![A small apartment bathroom organized vertically with over-toilet shelf and clear surfaces](/images/blog-03-img4.jpg)
 
@@ -134,7 +134,7 @@ Getting organized is one thing. Staying organized is the real challenge.
 
 ![A consistently maintained organized closet — the result of simple daily habits](/images/closet-wardrobe-open.jpg)
 
-For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places/) — it covers every room including the entryway and kitchen. And if the kitchen is your biggest challenge, [small space kitchen organization](/blog/small-space-kitchen-organization/) goes deep on pantry bins, drawer dividers, and pegboards.
+For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places) — it covers every room including the entryway and kitchen. And if the kitchen is your biggest challenge, [small space kitchen organization](/blog/small-space-kitchen-organization) goes deep on pantry bins, drawer dividers, and pegboards.
 
 ## Best Organization Products in Canada
 
@@ -162,4 +162,4 @@ One room at a time. Finish it completely before moving to the next.
 
 Organization in a small apartment is a system, not a one-time project. Get the declutter done, install the basics (hangers, bins, hooks), and build the three daily habits — one in one out, 10-minute reset, weekly zone check. Everything else is maintenance.
 
-→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the most impactful changes for under $100 CAD total. Starting the year fresh? Our [January reset guide](/blog/january-reset-organization-ideas) applies this same priority order as a focused one-weekend project.
+→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the most impactful changes for under $100 CAD total. Starting the year fresh? Our [January reset guide](/blog/january-reset-organization-ideas) applies this same priority order as a focused one-weekend project.

@@ -183,7 +183,7 @@ Some Canadian apartments — especially older ones in Montreal and Toronto — h
 
 ---
 
-For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization/). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) covers the highest-impact moves for under $100 CAD.
+For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the highest-impact moves for under $100 CAD.
 
 ## The Storage Priority Order for Canadian Renters
 
@@ -197,4 +197,4 @@ If you're starting from zero, tackle this order for maximum impact per dollar:
 
 These 23 ideas work in any Canadian rental — and every single one is reversible. Start with under-bed and vertical wall storage, then layer in the furniture solutions as budget allows. A 510 sq ft apartment with smart storage genuinely feels bigger than a cluttered 700 sq ft one.
 
-→ For bedroom-specific storage with exact product picks, check out [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas/). And for the room this list covers least — the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage/) for no-drill solutions sized for tiny Canadian bathrooms.
+→ For bedroom-specific storage with exact product picks, check out [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas). And for the room this list covers least — the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for no-drill solutions sized for tiny Canadian bathrooms.

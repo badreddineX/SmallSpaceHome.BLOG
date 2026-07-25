@@ -159,4 +159,4 @@ In practice, renters who use quality brands (Command, Tempaper, Chasing Paper) a
 
 Every idea in this post is reversible — which means your landlord has nothing to complain about and your deposit stays safe. Start with the removable wallpaper or the gallery wall, get comfortable with Command strips, and build from there. The best rental apartments look designed, not temporary.
 
-→ For budget-specific versions of these ideas with exact Canadian prices, see [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/). And for the broader decorating principles behind all of these moves, [small space decorating](/blog/small-space-decorating/) explains the why behind what works.
+→ For budget-specific versions of these ideas with exact Canadian prices, see [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget). And for the broader decorating principles behind all of these moves, [small space decorating](/blog/small-space-decorating) explains the why behind what works.

@@ -30,7 +30,7 @@ IKEA is the default furniture store for Canadian apartment renters for good reas
 
 Place the KALLAX 2×4 vertically between the sleeping and living zones in a studio apartment. It creates a visual divider without blocking all the light, and both sides of the bookcase can be used for storage and display.
 
-Add plants on top of the divider to make the transition feel designed, not improvised. For more configurations and hacks specific to this unit, see [IKEA KALLAX hacks for small spaces](/blog/storage-ideas-for-small-places/).
+Add plants on top of the divider to make the transition feel designed, not improvised. For more configurations and hacks specific to this unit, see [IKEA KALLAX hacks for small spaces](/blog/storage-ideas-for-small-places).
 
 **Cost:** KALLAX 2×4 ~$159 CAD.
 
@@ -130,7 +130,7 @@ The JONAXEL system is designed to stand freely without wall attachment — ideal
 
 **Cost:** JONAXEL frame + hanging rod + shelf ~$150–$250 CAD depending on configuration.
 
-For a more specific look at budget-conscious organization, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/) pairs well with this list — it covers what to buy first when you're starting from scratch.
+For a more specific look at budget-conscious organization, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) pairs well with this list — it covers what to buy first when you're starting from scratch.
 
 ---
 
@@ -151,4 +151,4 @@ Total for the essentials: **~$650–$1,050 CAD** — a complete small apartment 
 
 These IKEA picks have been tested in real Canadian apartments and they hold up. Start with whatever solves your biggest problem — the NORDLI if storage is the issue, the KALLAX if you need a living room anchor, the BILLY if you're drowning in books. Get one piece working before adding the next.
 
-→ Want to go deeper on specific KALLAX configurations? [IKEA KALLAX hacks for small spaces](/blog/storage-ideas-for-small-places/) covers 11 creative uses with exact setup instructions and CAD costs.
+→ Want to go deeper on specific KALLAX configurations? [IKEA KALLAX hacks for small spaces](/blog/storage-ideas-for-small-places) covers 11 creative uses with exact setup instructions and CAD costs.

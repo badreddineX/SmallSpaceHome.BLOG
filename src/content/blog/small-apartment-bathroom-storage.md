@@ -205,6 +205,6 @@ Two people sharing a small apartment bathroom doubles the product count and the 
 
 Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves 50% of the clutter problem in a small Canadian apartment bathroom.
 
-→ For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget/).
+→ For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget).
 
-→ For bedroom-specific storage solutions using the same no-drill principles, see [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/).
+→ For bedroom-specific storage solutions using the same no-drill principles, see [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas).

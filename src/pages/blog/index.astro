@@ -95,6 +95,11 @@ const POSTS_PER_PAGE = 6;
         </nav>
       </div>
 
+      <p class="tag-filter-status" id="tag-filter-status" hidden>
+        Showing posts tagged <strong id="tag-filter-name"></strong> —
+        <button type="button" id="tag-filter-clear" class="tag-filter-clear">Clear</button>
+      </p>
+
       <!-- Posts grid -->
       <section class="posts-section">
         <div class="posts-grid" id="posts-grid">
@@ -389,6 +394,26 @@ const POSTS_PER_PAGE = 6;
   font-weight: 500;
 }
 
+/* ── Tag filter status ── */
+.tag-filter-status {
+  max-width: var(--wide-width);
+  margin: 20px auto 0;
+  padding: 0 24px;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+.tag-filter-status strong { color: var(--color-ink); text-transform: capitalize; }
+.tag-filter-clear {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  color: var(--color-accent-dark);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.tag-filter-clear:hover { color: var(--color-ink); }
+
 /* ── Posts grid ── */
 .posts-section {
   padding: 56px 24px 80px;
@@ -676,6 +701,7 @@ document.addEventListener('click', (e) => {
 });
 
 let activeCat  = 'All';
+let activeTag  = null;
 let searchQ    = '';
 let currentPage = 1;
 let filteredItems = [];
@@ -683,13 +709,32 @@ let filteredItems = [];
 function getFilteredItems() {
   return allItems.filter(item => {
     const catMatch  = activeCat === 'All' || item.dataset.category === activeCat;
+    const tagMatch  = !activeTag || (item.dataset.tags ?? '').includes(activeTag);
     const keyword   = searchQ.trim().toLowerCase();
     const textMatch = !keyword ||
       (item.dataset.title  ?? '').includes(keyword) ||
       (item.dataset.desc   ?? '').includes(keyword) ||
       (item.dataset.category ?? '').toLowerCase().includes(keyword);
-    return catMatch && textMatch;
+    return catMatch && tagMatch && textMatch;
   });
+}
+
+function clearTagFilter() {
+  activeTag = null;
+  const status = document.getElementById('tag-filter-status');
+  if (status) status.hidden = true;
+  currentPage = 1;
+  renderPage();
+}
+
+function setTagFilter(tag) {
+  activeTag = tag.toLowerCase();
+  const status = document.getElementById('tag-filter-status');
+  const nameEl = document.getElementById('tag-filter-name');
+  if (nameEl) nameEl.textContent = tag;
+  if (status) status.hidden = false;
+  currentPage = 1;
+  renderPage();
 }
 
 function renderPage() {
@@ -813,8 +858,15 @@ clearBtn?.addEventListener('click', () => {
   renderPage();
 });
 
-// URL category param
-const urlCat = new URLSearchParams(window.location.search).get('category');
+document.getElementById('tag-filter-clear')?.addEventListener('click', clearTagFilter);
+
+// URL params: category and/or tag (a tag can span multiple categories, so it
+// doesn't force a category tab change — it filters on top of "All")
+const params  = new URLSearchParams(window.location.search);
+const urlCat  = params.get('category');
+const urlTag  = params.get('tag');
+
+if (urlTag) setTagFilter(urlTag);
 if (urlCat) {
   setCategory(urlCat);
 } else {

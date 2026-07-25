@@ -136,7 +136,7 @@ Before spending a dollar on decor:
 - Remove anything that doesn't belong in the room
 - Find storage for items that need to stay but shouldn't be visible
 
-Once you can see your actual space — the furniture, the proportions, the light — you'll make much better decor decisions. If decluttering feels overwhelming, the [complete small apartment organization guide](/blog/small-apartment-organization/) walks through it room by room.
+Once you can see your actual space — the furniture, the proportions, the light — you'll make much better decor decisions. If decluttering feels overwhelming, the [complete small apartment organization guide](/blog/small-apartment-organization) walks through it room by room.
 
 ## 10. Scent Is Part of the Atmosphere
 
@@ -194,11 +194,11 @@ Generic decor makes a space look like a showroom. Personal objects make it feel 
 
 ---
 
-If your budget is tight, start with the free and under-$50 moves in our guide to [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/) before buying anything. And if you want specifically renter-focused ideas, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) goes deeper on deposit-safe upgrades.
+If your budget is tight, start with the free and under-$50 moves in our guide to [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) before buying anything. And if you want specifically renter-focused ideas, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) goes deeper on deposit-safe upgrades.
 
 A cohesive, decorated apartment takes time — but you don't have to do it all at once. Start with the colour palette (free), add textiles (under $150 CAD), then fix the lighting. Everything else builds from there. Once those three foundations are in place, even the smallest Toronto or Vancouver apartment feels intentional and genuinely livable.
 
-→ Ready to take it further on a tight budget? See [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget/) for the highest-impact moves under $200 CAD.
+→ Ready to take it further on a tight budget? See [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) for the highest-impact moves under $200 CAD.
 
 ## The Rental Apartment Decor Priority Order
 

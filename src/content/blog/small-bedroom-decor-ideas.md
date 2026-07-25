@@ -116,7 +116,7 @@ When floor space is limited, walls become the main design canvas. Floating shelv
 - A wall-mounted reading light instead of a bedside lamp (frees nightstand space)
 - A tall piece of art rather than a wide one
 
-If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) prioritizes the highest-impact moves first. And if you're renting and want deposit-safe upgrades beyond just the bedroom, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/) covers the whole apartment.
+If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) prioritizes the highest-impact moves first. And if you're renting and want deposit-safe upgrades beyond just the bedroom, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers the whole apartment.
 
 ![Floating shelves above a reading nook add storage and personality without taking floor space](/images/decor-floating-shelves.jpg)
 
@@ -155,4 +155,4 @@ In a small bedroom, the bed is 60–70% of the visual space. Make it and the who
 
 Once the decor fundamentals are in place, storage is the next layer. If the bedroom still feels cramped after these changes, the problem is usually too much stuff without a proper system for it.
 
-→ For the full storage side of a small bedroom, see [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas/) — every closet, under-bed, and wall option covered with CAD prices.
+→ For the full storage side of a small bedroom, see [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) — every closet, under-bed, and wall option covered with CAD prices.
