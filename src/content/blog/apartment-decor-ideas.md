@@ -119,7 +119,7 @@ A healthy plant transforms a corner that would otherwise be dead space. Plants a
 A well-placed mirror does two things at once: it reflects light (making the room brighter) and creates the visual illusion of more space.
 
 **Best mirror placements in a rental apartment:**
-- Leaning a full-length mirror against the wall in the bedroom or living room — no installation needed
+- Leaning a full-length mirror against the wall in the [bedroom](/blog/small-bedroom-decor-ideas) or living room — no installation needed
 - A round mirror on the wall above the sofa or dresser — hung with Command strips
 - A small mirror in the entryway to brighten a typically dark hallway
 
@@ -211,3 +211,5 @@ Do these first for the fastest transformation:
 3. **Fix the lighting** — swap bulbs, add floor lamp. Changes the mood instantly
 4. **Hang art with Command strips** — fills blank walls without touching paint
 5. **Add plants** — cheap, alive, and better than any fake decor
+
+→ Decorating for the season? [Fall apartment decorating ideas](/blog/fall-apartment-decorating-ideas) and [cozy winter apartment decor](/blog/cozy-winter-apartment-decor) apply these same principles with seasonal textures and touches.
