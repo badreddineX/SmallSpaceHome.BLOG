@@ -26,7 +26,7 @@ const latest = sorted.filter(p => !shown.has(p.id)).slice(0, 6);
 // Small side-card slots don't need the full hero-sized original image.
 const thumb = (image: string) => image === '/images/placeholder.svg'
   ? image
-  : image.replace('/images/', '/images/thumb/');
+  : image.replace('/images/', '/images/thumb/').replace(/\.(jpe?g|png)$/i, '.webp');
 
 
 ---
@@ -135,7 +135,7 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
                   <a href={`/blog/${featured[0].id}`} class="feat-primary-img-link">
                     <div class="feat-primary-img img-placeholder" role="img" aria-label={featured[0].data.title}>
                       <img
-                        src={featured[0].data.image.replace('/images/', '/images/featured/')}
+                        src={featured[0].data.image.replace('/images/', '/images/featured/').replace(/\.(jpe?g|png)$/i, '.webp')}
                         alt={featured[0].data.title}
                         loading="eager"
                         width="760" height="570"

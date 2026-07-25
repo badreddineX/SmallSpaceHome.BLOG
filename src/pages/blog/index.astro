@@ -13,7 +13,7 @@ const sorted   = allPosts.sort(
 // Grid cards don't need the full hero-sized original image.
 const thumb = (image: string) => image === '/images/placeholder.svg'
   ? image
-  : image.replace('/images/', '/images/thumb/');
+  : image.replace('/images/', '/images/thumb/').replace(/\.(jpe?g|png)$/i, '.webp');
 
 const categories = ['All', 'Organization', 'Decor', 'Storage', 'Budget Tips'];
 

@@ -32,7 +32,7 @@ const catClass: Record<string, string> = {
 // (public/images/thumb/, ~20KB avg) covers it with room for retina.
 const thumbSrc = image === '/images/placeholder.svg'
   ? image
-  : image.replace('/images/', '/images/thumb/');
+  : image.replace('/images/', '/images/thumb/').replace(/\.(jpe?g|png)$/i, '.webp');
 ---
 
 <article class={`post-card${size === 'featured' ? ' post-card--featured' : ''}`}>
