@@ -1,0 +1,152 @@
+---
+import { getCollection } from 'astro:content';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import PostCard from '../../../components/PostCard.astro';
+import SEO from '../../../components/SEO.astro';
+import '../../../styles/global.css';
+
+const CATEGORY_SLUGS: Record<string, string> = {
+  'organization': 'Organization',
+  'decor':        'Decor',
+  'storage':      'Storage',
+  'budget-tips':  'Budget Tips',
+};
+
+const CATEGORY_DESCRIPTIONS: Record<string, string> = {
+  'Organization': 'Declutter and organize a small Canadian apartment, room by room — systems that actually hold, no permanent changes required.',
+  'Decor':        'Renter-friendly decor ideas for small Canadian apartments — style on a budget, no drilling, no lost deposits.',
+  'Storage':      'Storage solutions for small Canadian apartments — every centimetre counts, no-drill and fully renter-friendly.',
+  'Budget Tips':  'Smart, low-cost ways to organize and decorate a small Canadian apartment without overspending.',
+};
+
+export async function getStaticPaths() {
+  const slugs = ['organization', 'decor', 'storage', 'budget-tips'];
+  return slugs.map(category => ({ params: { category } }));
+}
+
+const { category: categorySlug } = Astro.params;
+const categoryName = CATEGORY_SLUGS[categorySlug as string];
+
+const allPosts = await getCollection('blog');
+const posts = allPosts
+  .filter(p => p.data.category === categoryName)
+  .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime());
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title={`${categoryName} Ideas for Canadian Apartments`}
+      description={CATEGORY_DESCRIPTIONS[categoryName]}
+      path={`/blog/category/${categorySlug}`}
+      type="website"
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main>
+      <section class="cat-hero">
+        <div class="container">
+          <nav class="breadcrumb" aria-label="Breadcrumb">
+            <a href="/">Home</a>
+            <span aria-hidden="true">›</span>
+            <a href="/blog">Blog</a>
+            <span aria-hidden="true">›</span>
+            <span aria-current="page">{categoryName}</span>
+          </nav>
+          <h1 class="cat-hero-title">{categoryName}</h1>
+          <p class="cat-hero-desc">{CATEGORY_DESCRIPTIONS[categoryName]}</p>
+        </div>
+      </section>
+
+      <section class="cat-posts">
+        <div class="container">
+          <div class="cat-posts-grid">
+            {posts.map(post => (
+              <PostCard
+                title={post.data.title}
+                slug={post.id}
+                description={post.data.description}
+                image={post.data.image}
+                category={post.data.category}
+                datePublished={post.data.datePublished}
+                readTime={post.data.readTime}
+              />
+            ))}
+          </div>
+          <a href="/blog" class="cat-all-link">See all posts →</a>
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.cat-hero {
+  padding: 56px 24px 40px;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  color: var(--color-text-faint);
+  margin-bottom: 20px;
+}
+.breadcrumb a { color: var(--color-text-faint); text-decoration: none; }
+.breadcrumb a:hover { color: var(--color-ink); }
+.cat-hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 5vw, 3rem);
+  font-weight: 700;
+  font-style: italic;
+  color: var(--color-ink);
+  margin: 0 0 12px;
+}
+.cat-hero-desc {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  max-width: 620px;
+  line-height: 1.7;
+  margin: 0;
+}
+.cat-posts {
+  padding: 48px 24px 80px;
+  max-width: var(--wide-width);
+  margin: 0 auto;
+}
+.cat-posts-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 28px 20px;
+}
+.cat-all-link {
+  display: inline-block;
+  margin-top: 40px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-accent-dark);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-accent-dark);
+  padding-bottom: 2px;
+}
+.cat-all-link:hover { color: var(--color-ink); border-color: var(--color-ink); }
+
+@media (min-width: 560px) {
+  .cat-posts-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 900px) {
+  .cat-posts-grid { grid-template-columns: repeat(3, 1fr); }
+}
+</style>
