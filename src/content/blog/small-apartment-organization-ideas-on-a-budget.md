@@ -142,3 +142,5 @@ Choose based on your biggest pain point. If the kitchen is the problem, swap the
 Under $100 CAD, completely renter-friendly, and you'll feel the difference the same day. The closet, the entryway, the kitchen pantry — pick the one causing you the most daily friction and start there.
 
 → For the full room-by-room system, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) — it builds on these 15 ideas with a complete priority order.
+
+→ For the bathroom specifically, [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers 12 no-drill options with real CAD prices.

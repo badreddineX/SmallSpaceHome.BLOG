@@ -76,7 +76,7 @@ This creates a proper mudroom-style entry in the smallest apartments.
 
 ## RASKOG as Kitchen or Bathroom Cart
 
-The RASKOG 3-tier cart (~$39 CAD) works beautifully as a kitchen cart that rolls out during cooking for extra counter space, then tucks away. In the bathroom it holds towels, toiletries, and a small plant. If you can't find the RASKOG in stock, Amazon.ca carries several nearly identical rolling carts at the same price point, and Wayfair Canada has a wider selection of kitchen carts if you want something with a more finished look.
+The RASKOG 3-tier cart (~$39 CAD) works beautifully as a kitchen cart that rolls out during cooking for extra counter space, then tucks away. In the bathroom it holds towels, toiletries, and a small plant — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for more no-drill options in the same price range. If you can't find the RASKOG in stock, Amazon.ca carries several nearly identical rolling carts at the same price point, and Wayfair Canada has a wider selection of kitchen carts if you want something with a more finished look.
 
 In a small apartment where rooms serve multiple purposes, the rollability is actually the feature.
 

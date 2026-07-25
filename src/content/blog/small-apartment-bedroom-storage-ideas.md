@@ -165,3 +165,5 @@ Complete the first five steps of the priority order before considering larger pu
 → Once storage is sorted, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas) covers the visual side — colour, lighting, and layout for a bedroom that feels calm, not just organized.
 
 → For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget).
+
+→ Same no-drill principles apply in the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for renter-friendly options under $180 CAD.
