@@ -14,9 +14,9 @@
   --color-heading:      #1C1917;
   --color-text:         #292524;
   --color-text-muted:   #78716C;
-  --color-text-faint:   #A8A29E;
+  --color-text-faint:   #7A7268; /* darkened from #A8A29E — 2.41:1 on --color-bg failed WCAG AA (needs 4.5:1); now 4.53:1 */
   --color-primary:      #8FAF8A;
-  --color-primary-dark: #6B8F66;
+  --color-primary-dark: #4F7249; /* darkened from #6B8F66 — 3.49:1 on --color-bg failed WCAG AA; now 5.24:1 */
   --color-accent:       #C4A882;
   --color-accent-dark:  #8B6F47;
   --color-border:       #E5DDD3;
@@ -238,8 +238,8 @@ strong { font-weight: 600; }
   color: var(--color-text-muted);
 }
 .cat-organization { color: var(--color-primary-dark); }
-.cat-decor        { color: #8B7355; }
-.cat-storage      { color: #6B7C5A; }
+.cat-decor        { color: #7C6249; } /* darkened from #8B7355 — 4.29:1 failed WCAG AA; now 5.43:1 */
+.cat-storage      { color: #5A6A4C; } /* darkened from #6B7C5A — 4.31:1 failed WCAG AA; now 5.58:1 */
 .cat-budget-tips  { color: var(--color-accent-dark); }
 
 /* ══════════════════════════════════════════
