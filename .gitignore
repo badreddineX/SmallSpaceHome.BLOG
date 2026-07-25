@@ -13,6 +13,7 @@ dist/
 public/images/*/
 # ...except generated deploy-required assets:
 !public/images/thumb/
+!public/images/featured/
 
 # Generated pin/short exports
 out/

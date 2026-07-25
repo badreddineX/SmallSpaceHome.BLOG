@@ -58,6 +58,8 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
         <div class="hero-bg">
           <img
             src="/images/about-hero-apartment.jpg"
+            srcset="/images/about-hero-apartment-mobile.jpg 900w, /images/about-hero-apartment.jpg 1800w"
+            sizes="100vw"
             alt=""
             class="hero-bg-img"
             loading="eager"
@@ -133,9 +135,10 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
                   <a href={`/blog/${featured[0].id}`} class="feat-primary-img-link">
                     <div class="feat-primary-img img-placeholder" role="img" aria-label={featured[0].data.title}>
                       <img
-                        src={featured[0].data.image}
+                        src={featured[0].data.image.replace('/images/', '/images/featured/')}
                         alt={featured[0].data.title}
                         loading="eager"
+                        width="760" height="570"
                         onerror="this.style.display='none'"
                       />
                     </div>
