@@ -12,7 +12,16 @@ const sorted   = allPosts.sort(
 );
 
 const featured = sorted.filter(p => p.data.featured).slice(0, 3);
-const latest   = sorted.slice(0, 6);
+
+// Each homepage section must show posts nobody else on the page is already showing —
+// otherwise the same title/description renders twice (confirmed: featured[0] used to
+// also appear in both the side-card list and the "Latest" grid).
+const shown = new Set(featured[0] ? [featured[0].id] : []);
+
+const sideItems = sorted.filter(p => !shown.has(p.id)).slice(0, 5);
+sideItems.forEach(p => shown.add(p.id));
+
+const latest = sorted.filter(p => !shown.has(p.id)).slice(0, 6);
 
 
 ---
@@ -66,7 +75,7 @@ const latest   = sorted.slice(0, 6);
             <div class="hero-rule" aria-hidden="true"></div>
             <p class="hero-sub">
               Organization and decor ideas for Toronto, Vancouver, and Montreal apartments —
-              renter-friendly, budget-conscious, genuinely useful.
+              renter-friendly, budget-conscious, and beautifully organized.
             </p>
             <div class="hero-ctas">
               <a href="/blog"  class="btn hero-btn-primary">Browse Ideas</a>
@@ -141,7 +150,7 @@ const latest   = sorted.slice(0, 6);
 
               <!-- Secondary stacked cards -->
               <div class="feat-side">
-                {sorted.slice(1, 6).map(post => (
+                {sideItems.map(post => (
                   <article class="feat-side-card">
                     <a href={`/blog/${post.id}`} class="feat-side-img-link">
                       <div class="feat-side-img img-placeholder" role="img" aria-label={post.data.title}>

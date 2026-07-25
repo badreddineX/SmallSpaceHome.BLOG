@@ -93,6 +93,8 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
 }) : null;
 ---
 
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
 <!-- Font preconnect + async stylesheet (moved out of global.css's @import to break the
      render-blocking fetch chain; preload+swap keeps a plain <link rel=stylesheet> from
      blocking first paint — safe here because font-display=swap already handles the FOUT). -->
