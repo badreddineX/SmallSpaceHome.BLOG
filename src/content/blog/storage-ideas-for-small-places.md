@@ -153,7 +153,7 @@ Stacks of folded sweaters and jeans always topple. Shelf dividers keep each stac
 
 ## A Slim Bookshelf as a Room Divider
 
-In a studio apartment, a tall, slim bookshelf placed perpendicular to a wall creates a visual divide between the sleeping and living areas — and adds two sides of storage at the same time.
+In a studio apartment, a tall, slim bookshelf placed perpendicular to a wall creates a visual divide between the sleeping and living areas — and adds two sides of storage at the same time. See [studio apartment ideas](/blog/studio-apartment-ideas) for more zoning tricks that work in a one-room space.
 
 **Cost:** IKEA BILLY bookcase (narrow) ~$79–$99 CAD.
 

@@ -13,7 +13,7 @@ faqs:
   - q: "What furniture is best for a small apartment in Canada?"
     a: "Multi-functional pieces every time: storage ottoman, sofa bed for guests, bed with built-in drawers, nesting tables. The IKEA KALLAX, PAX wardrobe, FRIHETEN sofa bed (~$999 CAD), and NORDLI storage bed are the most useful anchors. Our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks guide</a> shows how to configure each one."
   - q: "How do I furnish a studio apartment in Canada on a budget?"
-    a: "Cover the essentials first — a place to sleep, a place to sit, and storage. Then fill in secondary items. IKEA Canada is the best value-for-money starting point. Facebook Marketplace and Kijiji in most Canadian cities have solid second-hand IKEA pieces for 40–60% off retail."
+    a: "Cover the essentials first — a place to sleep, a place to sit, and storage. Then fill in secondary items. IKEA Canada is the best value-for-money starting point. Facebook Marketplace and Kijiji in most Canadian cities have solid second-hand IKEA pieces for 40–60% off retail. Our <a href='/blog/studio-apartment-ideas'>studio apartment ideas guide</a> covers zoning a one-room space so furniture placement does double duty."
   - q: "What should I avoid buying for a small apartment?"
     a: "Large sectionals, king beds in tight bedrooms, coffee tables that block walking paths, and multiple single-purpose pieces where one would do. When in doubt, always buy the smaller size. You can add later, but returning a sofa that overwhelms the room is a real logistical headache."
   - q: "Is IKEA furniture good for a small apartment?"
