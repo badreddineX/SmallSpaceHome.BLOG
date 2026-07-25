@@ -134,7 +134,7 @@ const latest   = sorted.slice(0, 6);
                       <a href={`/blog/${featured[0].id}`}>{featured[0].data.title}</a>
                     </h2>
                     <p class="feat-primary-desc">{featured[0].data.description}</p>
-                    <a href={`/blog/${featured[0].id}`} class="text-link">Read article</a>
+                    <a href={`/blog/${featured[0].id}`} class="text-link" aria-label={`Read article: ${featured[0].data.title}`}>Read article</a>
                   </div>
                 </article>
               )}
@@ -204,7 +204,7 @@ const latest   = sorted.slice(0, 6);
               <span class="eyebrow" style="margin:0; color:var(--color-ink);">From the blog</span>
               <h2 id="latest-heading" style="margin-top:8px;">Latest</h2>
             </div>
-            <a href="/blog" class="text-link">See all</a>
+            <a href="/blog" class="text-link" aria-label="See all organization, decor, and storage posts">See all</a>
           </div>
           <hr class="rule" style="margin:20px 0 48px;" />
 

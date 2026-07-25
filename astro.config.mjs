@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://smallspacehome.ca',
+  trailingSlash: 'never',
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/thank-you') && !page.includes('/404'),
