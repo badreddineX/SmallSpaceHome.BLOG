@@ -10,6 +10,11 @@ const sorted   = allPosts.sort(
   (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
 );
 
+// Grid cards don't need the full hero-sized original image.
+const thumb = (image: string) => image === '/images/placeholder.svg'
+  ? image
+  : image.replace('/images/', '/images/thumb/');
+
 const categories = ['All', 'Organization', 'Decor', 'Storage', 'Budget Tips'];
 
 const catClass: Record<string, string> = {
@@ -119,12 +124,12 @@ const POSTS_PER_PAGE = 6;
                 <a href={`/blog/${post.id}`} class="post-img-link">
                   <div class="post-img-wrap img-placeholder">
                     <img
-                      src={post.data.image}
+                      src={thumb(post.data.image)}
                       alt={post.data.title}
                       loading={i < 6 ? 'eager' : 'lazy'}
                       decoding={i < 6 ? 'sync' : 'async'}
-                      width="800"
-                      height="1066"
+                      width="480"
+                      height="640"
                       onerror="this.parentElement.classList.add('img-error')"
                     />
                   </div>

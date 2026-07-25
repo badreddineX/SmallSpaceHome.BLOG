@@ -26,6 +26,13 @@ const catClass: Record<string, string> = {
   'Storage':      'cat-storage',
   'Budget Tips':  'cat-budget-tips',
 };
+
+// Cards render this image at ~380px wide max — the full hero-sized original
+// (often 500KB+) is wasted bytes here. A pre-generated 480x360 thumbnail
+// (public/images/thumb/, ~20KB avg) covers it with room for retina.
+const thumbSrc = image === '/images/placeholder.svg'
+  ? image
+  : image.replace('/images/', '/images/thumb/');
 ---
 
 <article class={`post-card${size === 'featured' ? ' post-card--featured' : ''}`}>
@@ -33,10 +40,10 @@ const catClass: Record<string, string> = {
   <a href={`/blog/${slug}`} class="card-img-link" tabindex="-1" aria-hidden="true">
     <div class="card-img-wrap img-placeholder">
       <img
-        src={image}
+        src={thumbSrc}
         alt={title}
         loading="lazy"
-        width="800" height="600"
+        width="480" height="360"
         onerror="this.style.display='none'"
       />
     </div>

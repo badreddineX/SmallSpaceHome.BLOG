@@ -23,6 +23,11 @@ sideItems.forEach(p => shown.add(p.id));
 
 const latest = sorted.filter(p => !shown.has(p.id)).slice(0, 6);
 
+// Small side-card slots don't need the full hero-sized original image.
+const thumb = (image: string) => image === '/images/placeholder.svg'
+  ? image
+  : image.replace('/images/', '/images/thumb/');
+
 
 ---
 
@@ -155,9 +160,10 @@ const latest = sorted.filter(p => !shown.has(p.id)).slice(0, 6);
                     <a href={`/blog/${post.id}`} class="feat-side-img-link">
                       <div class="feat-side-img img-placeholder" role="img" aria-label={post.data.title}>
                         <img
-                          src={post.data.image}
+                          src={thumb(post.data.image)}
                           alt={post.data.title}
                           loading="lazy"
+                          width="480" height="480"
                           onerror="this.style.display='none'"
                         />
                       </div>

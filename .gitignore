@@ -11,6 +11,8 @@ dist/
 
 # Raw image originals kept locally, excluded from deploys
 public/images/*/
+# ...except generated deploy-required assets:
+!public/images/thumb/
 
 # Generated pin/short exports
 out/
