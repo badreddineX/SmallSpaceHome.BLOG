@@ -13,6 +13,13 @@ const CATEGORY_SLUGS: Record<string, string> = {
   'budget-tips':  'Budget Tips',
 };
 
+const CATEGORY_TITLES: Record<string, string> = {
+  'Organization': 'Organization Ideas for Canadian Apartments',
+  'Decor':        'Decor Ideas for Canadian Apartments',
+  'Storage':      'Storage Ideas for Canadian Apartments',
+  'Budget Tips':  'Budget Tips for Canadian Apartments',
+};
+
 const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   'Organization': 'Declutter and organize a small Canadian apartment, room by room — systems that actually hold, no permanent changes required.',
   'Decor':        'Renter-friendly decor ideas for small Canadian apartments — style on a budget, no drilling, no lost deposits.',
@@ -41,7 +48,7 @@ const posts = allPosts
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <SEO
-      title={`${categoryName} Ideas for Canadian Apartments`}
+      title={CATEGORY_TITLES[categoryName]}
       description={CATEGORY_DESCRIPTIONS[categoryName]}
       path={`/blog/category/${categorySlug}`}
       type="website"
