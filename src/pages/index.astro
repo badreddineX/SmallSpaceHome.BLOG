@@ -293,6 +293,9 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
               I turned a small rental into a home I love without touching the walls.
               I share what actually works so you don't have to figure it out the hard way.
             </p>
+            <p class="about-strip-byline">
+              Written by <a href="/about"><strong>Badreddine Br</strong></a> — Canadian apartment renter, testing every idea in a real 510 sq ft rental before it's published here.
+            </p>
             <a href="/about" class="btn btn-outline">Read My Story</a>
           </div>
         </div>
@@ -681,6 +684,16 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
   line-height: 1.9;
   margin-bottom: 28px;
 }
+
+.about-strip-byline {
+  font-size: 0.8rem;
+  color: var(--color-text-faint);
+  font-weight: 300;
+  line-height: 1.7;
+  margin: -12px 0 28px;
+}
+.about-strip-byline a { color: var(--color-accent-dark); text-decoration: none; }
+.about-strip-byline a:hover { text-decoration: underline; }
 
 .about-strip .btn { width: 100%; justify-content: center; }
 
