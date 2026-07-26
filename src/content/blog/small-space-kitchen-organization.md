@@ -3,9 +3,9 @@ title: "14 Small Kitchen Organization Ideas"
 description: "14 kitchen organization ideas for small Canadian apartments — pantry, counters, cabinets, and drawers. Renter-friendly, with real CAD prices."
 image: "/images/blog-17-img1.jpg"
 datePublished: "2026-03-29"
-dateModified: "2026-07-25"
+dateModified: "2026-07-26"
 author: "Badreddine Br"
-tags: ["kitchen organization", "small kitchen", "Canada", "apartment kitchen", "pantry"]
+tags: ["kitchen organization", "small kitchen", "Canada", "apartment kitchen", "pantry", "fridge organization"]
 featured: false
 category: "Organization"
 readTime: 7
@@ -18,6 +18,8 @@ faqs:
     a: "Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca), bamboo drawer dividers (~$22–$32 CAD), IKEA SKADIS pegboard (~$15 CAD), IKEA RASKOG cart (~$39 CAD), and over-door cabinet organizers (~$15–$22 CAD). These five together solve most small Canadian kitchen problems for under $100 CAD total."
   - q: "How do I store pots and pans in a small apartment kitchen?"
     a: "Vertical storage works best. A pegboard or magnetic wall strip holds pans flat and keeps them accessible. A pot lid organizer in a drawer stops the lid avalanche. If cabinet space is tight, the IKEA RASKOG rolling cart doubles as portable pot storage that tucks out of sight after cooking."
+  - q: "How do I organize my fridge in a small apartment?"
+    a: "Group items into clear bins by category — dairy, produce, leftovers, condiments — so nothing gets lost at the back. Add a small lazy Susan for jars and condiments, and stackable clear organizers on the door shelving to use vertical space the fixed shelves waste. A full bin-and-organizer set runs ~$20–$35 CAD on Amazon.ca."
 ---
 
 A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. I have a galley kitchen in my 510 sq ft Toronto apartment, and here's what has actually made the most difference over three years. The CMHC notes that a growing share of Canadian households rent rather than own, which means working within kitchen limitations — not renovating around them — is the reality for millions of renters.
@@ -113,11 +115,17 @@ Loose pot lids take up enormous space in a small kitchen. A vertical lid organiz
 
 **Where to buy:** Amazon.ca, ~$15–$20 CAD.
 
-## 11. Refrigerator Door Organizers
+## 11. Fridge Organization That Actually Looks Good
 
-The inside of the fridge door has fixed shelving that rarely uses vertical space efficiently. Small stackable organizers and can dispensers add tiers inside the same space.
+The fridge is the one spot where "organized" and "looks good" can finally be the same thing — clear bins, matching containers, and visible labels turn a cramped apartment fridge into something that doesn't make you wince every time you open the door. It's also where small-apartment fridges lose the most usable space: fixed door shelving rarely uses vertical room efficiently, and loose produce and half-used containers eat the rest.
 
-**Where to buy:** Amazon.ca fridge organizer set, ~$20–$30 CAD.
+**The system that works in a small Canadian fridge:**
+- **Clear bins by category** — dairy, produce, leftovers, condiments — so nothing gets pushed to the back and forgotten
+- **A lazy Susan on the main shelf** for condiments and small jars, same idea as the pantry turntable above
+- **Stackable clear organizers on the door** for cans and small jars, replacing the fixed shelving's wasted vertical gaps
+- **Labels** — even just masking tape and a marker — so leftovers actually get eaten before they go bad
+
+**Where to buy:** Amazon.ca clear fridge bin sets, ~$20–$35 CAD for a full set of 4–6 bins plus a door organizer.
 
 ## 12. A Fruit Basket Instead of a Fruit Bowl
 

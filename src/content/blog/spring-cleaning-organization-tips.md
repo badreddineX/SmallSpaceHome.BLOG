@@ -3,15 +3,17 @@ title: "Spring Cleaning Tips for Apartments"
 description: "Spring cleaning and organization guide for Canadian renters — a room-by-room checklist, declutter strategies, and storage updates for a fresh start."
 image: "/images/blog-21-img1.jpg"
 datePublished: "2026-03-20"
-dateModified: "2026-03-20"
+dateModified: "2026-07-26"
 author: "Badreddine Br"
-tags: ["spring cleaning", "organization", "Canada", "declutter", "apartment cleaning"]
+tags: ["spring cleaning", "organization", "Canada", "declutter", "apartment cleaning", "natural cleaning"]
 featured: false
 category: "Organization"
 readTime: 9
 faqs:
   - q: "How do I start spring cleaning a small apartment?"
     a: "One room at a time, finish it completely before moving to the next. Bedroom first (highest daily impact), then kitchen, living room, bathroom, entryway. For each room: declutter first, clean second, organize third. Our <a href='/blog/small-apartment-organization'>room-by-room organization guide</a> covers the same sequence in detail year-round."
+  - q: "What are natural cleaning products I can use for spring cleaning?"
+    a: "White vinegar diluted 1:1 with water handles glass, mirrors, and hard-water spots. Baking soda paste works on bathtub grime, stovetop grease, and inside the oven without the fumes of commercial oven cleaner. Plain dish soap and warm water covers most of what's left. A jug of vinegar costs ~$3–$5 CAD and replaces most single-purpose sprays — useful in a small apartment where cabinet space for five different bottles doesn't exist."
   - q: "What should I donate or throw away in a spring clean?"
     a: "Clothes not worn in 12 months, duplicate kitchen tools, expired bathroom products, books you won't read again, decor you don't genuinely like, single-purpose appliances that rarely get used, and anything stored 'just in case' that hasn't actually come up. Be ruthless — in a small apartment, the payoff is immediate."
   - q: "How long does spring cleaning a small apartment take?"
@@ -34,6 +36,17 @@ The sequence matters. Do this in every room:
 3. **Organize** — with less stuff and clean surfaces, reorganize what remains
 
 Most people skip step 1 and wonder why step 3 doesn't last. It doesn't last because there is too much stuff. Decluttering is not optional.
+
+## Skip the Cabinet Full of Cleaners
+
+Before you buy a single specialty cleaner, know that most of a spring deep-clean can be done with white vinegar, baking soda, and dish soap — the same three things I've used for three years in my own apartment, and they cost a fraction of name-brand sprays.
+
+**The basics:**
+- **White vinegar + water (1:1)** — glass, mirrors, most hard surfaces, and it cuts through the hard-water spots Canadian tap water leaves on faucets and shower doors
+- **Baking soda paste** — bathtub grime, stovetop grease, and the inside of the oven (skip the fumes from commercial oven cleaner entirely)
+- **Dish soap + warm water** — everything else, including most of the kitchen and bathroom
+
+A jug of white vinegar runs ~$3–$5 CAD at any grocery store and outlasts a whole spring clean. It's not just cheaper — it means one bottle under the sink instead of five different single-purpose sprays taking up cabinet space you don't have in a small apartment.
 
 ## The Bedroom
 
