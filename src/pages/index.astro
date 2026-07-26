@@ -103,7 +103,9 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
       ══════════════════════════════════════ -->
       <section class="section intro-section" aria-labelledby="intro-heading">
         <div class="container intro-inner">
+          <span class="eyebrow" style="color:var(--color-accent-dark);">Welcome to SmallSpace Home</span>
           <h2 id="intro-heading" class="intro-h">Small space, big ideas — no renovation required</h2>
+          <hr class="rule intro-rule" />
           <p class="intro-p">
             I live in a 510 sq ft rental in Toronto, and everything on this site got tested here first —
             not in a staged studio, not with a renovation budget. Just what actually works in a real
@@ -415,8 +417,11 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
 .intro-h {
   font-size: clamp(1.4rem, 6vw, 2rem);
   font-weight: 400;
-  margin: 0 0 20px;
+  margin: 8px 0 0;
   line-height: 1.25;
+}
+.intro-rule {
+  margin: 24px 0 28px;
 }
 .intro-p {
   font-size: 0.92rem;
