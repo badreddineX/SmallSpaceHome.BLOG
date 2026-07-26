@@ -421,7 +421,7 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
   line-height: 1.25;
 }
 .intro-rule {
-  margin: 24px 0 28px;
+  display: none; /* pure decoration -- skip on mobile, adds scroll with no benefit */
 }
 .intro-p {
   font-size: 0.92rem;
@@ -712,6 +712,8 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
 }
 
 @media (min-width: 768px) {
+
+  .intro-rule { display: block; margin: 24px 0 28px; }
 
   .cat-strip-inner { width: 100%; }
   .cat-strip-label { display: block; flex-shrink: 0; padding-right: 24px; border-right: 1px solid var(--color-border); }

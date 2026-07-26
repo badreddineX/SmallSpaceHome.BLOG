@@ -1,5 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import sharp from 'sharp';
+import { join } from 'node:path';
 import SEO from '../components/SEO.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -48,6 +50,23 @@ const catClass: Record<string, string> = {
   'Storage':      'cat-storage',
   'Budget Tips':  'cat-budget-tips',
 };
+
+// The hero banner is a wide (~2:1) crop. object-fit: cover looks fine on wide
+// source photos but crops portrait/square photos brutally -- e.g. an 933x1400
+// portrait would show only a thin horizontal sliver. Below this ratio, switch
+// to a letterboxed treatment (full photo visible, no cropping) instead.
+let isPortraitHero = false;
+if (!image.startsWith('http')) {
+  try {
+    const imgPath = join(process.cwd(), 'public', image);
+    const meta = await sharp(imgPath).metadata();
+    if (meta.width && meta.height) {
+      isPortraitHero = (meta.width / meta.height) < 1.3;
+    }
+  } catch {
+    // Leave false -- worst case is the existing crop behavior, not a build failure.
+  }
+}
 ---
 
 <!doctype html>
@@ -81,7 +100,7 @@ const catClass: Record<string, string> = {
     <main>
 
       <!-- ① FULL-BLEED HERO IMAGE -->
-      <div class="post-hero-wrap">
+      <div class:list={["post-hero-wrap", isPortraitHero && "portrait-hero"]}>
         <img
           src={image}
           alt={title}
@@ -287,6 +306,16 @@ const catClass: Record<string, string> = {
   object-fit: cover;
   object-position: center 40%;
   display: block;
+}
+/* Portrait/square source photos crop badly under object-fit: cover in this
+   wide banner -- show the full photo instead, letterboxed on a dark backdrop
+   rather than cutting off the top/bottom of the composition. */
+.portrait-hero {
+  background: var(--color-ink);
+}
+.portrait-hero .post-hero-img {
+  object-fit: contain;
+  object-position: center center;
 }
 .post-hero-scrim {
   position: absolute;
