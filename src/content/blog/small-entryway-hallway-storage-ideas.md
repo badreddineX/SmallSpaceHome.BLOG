@@ -1,7 +1,7 @@
 ---
 title: "Small Entryway & Hallway Storage Ideas for Apartments"
 description: "No-drill entryway storage ideas for small Canadian rentals: freestanding shoe racks, tension-rod coat racks, drop zones, and slim console tables."
-image: "/images/blog-09-img3.jpg"
+image: "/images/blog-13-img4.jpg"
 datePublished: "2026-07-27"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
