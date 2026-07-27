@@ -1,7 +1,7 @@
 ---
 title: "Small Living Room Storage Ideas: Furniture That Hides Everything"
 description: "Small living room storage ideas that use furniture, not walls — storage ottomans, coffee tables with shelves, and TV consoles that hide the clutter."
-image: "/images/blog-02-img3.jpg"
+image: "/images/blog-19-img3.jpg"
 datePublished: "2026-07-27"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
@@ -48,7 +48,7 @@ My own ottoman is a $99 CAD Amazon.ca cube version, and it fits every board game
 
 **Cost:** Cube ottomans ~$70–$110 CAD. Bench ottomans ~$110–$180 CAD. Tufted lift-top versions ~$130–$220 CAD.
 
-![A grey fabric storage ottoman with the lift-top lid open, showing folded blankets stored inside in a small apartment living room](/images/blog-02-img3.jpg)
+![A grey fabric storage ottoman with the lift-top lid open, showing folded blankets stored inside in a small apartment living room](/images/blog-19-img3.jpg)
 
 ## Coffee Tables With Built-In Storage
 
