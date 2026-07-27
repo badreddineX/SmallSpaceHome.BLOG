@@ -185,6 +185,20 @@ Some Canadian apartments — especially older ones in Montreal and Toronto — h
 
 For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the highest-impact moves for under $100 CAD.
 
+## Storage Guides for Every Room
+
+Want to go deeper on a specific space? These cover one room or one situation in full detail:
+
+- [Small closet organization ideas for rental apartments](/blog/small-closet-organization-rental-apartment)
+- [Under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment)
+- [Small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas)
+- [Living room storage solutions for small apartments](/blog/small-living-room-storage-solutions)
+- [Laundry storage ideas for small apartments](/blog/small-apartment-laundry-storage-ideas)
+- [Balcony and patio storage ideas](/blog/small-apartment-balcony-storage-ideas)
+- [Seasonal storage: rotating off-season clothes and gear](/blog/seasonal-storage-off-season-clothes-gear)
+- [September student move-in storage guide](/blog/september-student-move-in-storage-guide)
+- [Quebec Moving Day (July 1) storage and packing guide](/blog/quebec-moving-day-storage-guide)
+
 ## The Storage Priority Order for Canadian Renters
 
 If you're starting from zero, tackle this order for maximum impact per dollar:

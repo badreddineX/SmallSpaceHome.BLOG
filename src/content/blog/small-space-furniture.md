@@ -81,6 +81,14 @@ The 40 cm wide version fits almost anywhere. Floor-to-ceiling in a small bedroom
 **IKEA PAX wardrobe** — from ~$179 CAD per frame
 The complete closet system. A 100 cm wide, 201 cm tall PAX stores more than most built-in closets and costs less than a dresser-plus-wardrobe combination.
 
+### Bathroom Storage Units
+
+Small apartment bathrooms have unique storage challenges: most rental bathrooms have zero undersink cabinet space, limited wall space, and the constraint of no permanent installation (no drilling). 
+
+IKEA storage solutions work differently in bathrooms than in living rooms or bedrooms. Over-toilet shelves (freestanding, ~$20–$70 CAD depending on material) and corner units are the main furniture options, but the real game-changer is how you combine them with no-drill solutions.
+
+[For a complete no-drill bathroom storage system with Canadian retailer options and exact product recommendations, see our bathroom storage guide](/blog/small-apartment-bathroom-storage/).
+
 ### Coffee Tables and Side Tables
 
 **Storage ottoman with tray** — ~$89–$150 CAD (Wayfair Canada)
