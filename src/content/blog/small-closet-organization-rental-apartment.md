@@ -1,7 +1,7 @@
 ---
 title: "Small Closet Organization Ideas for Rental Apartments"
 description: "No-drill closet organization for Canadian renters — slim hangers, over-door racks, and stackable bins that fit tiny apartment closets without losing your deposit."
-image: "/images/placeholder.svg"
+image: "/images/blog-13-img2.jpg"
 datePublished: "2026-07-27"
 dateModified: "2026-07-27"
 author: "Badreddine Br"

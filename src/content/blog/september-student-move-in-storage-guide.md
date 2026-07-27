@@ -1,7 +1,7 @@
 ---
 title: "September Student Move-In Storage Setup Guide"
 description: "Moving into your first Canadian apartment this September? Here's the room-by-room storage checklist, real CAD prices, and where to buy cheap or secondhand."
-image: "/images/placeholder.svg"
+image: "/images/studio-apartment-living.jpg"
 datePublished: "2026-07-27"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
