@@ -11,11 +11,12 @@ export async function GET(context) {
     title: 'SmallSpace Home',
     description: 'Organization and decor ideas for Canadian apartment renters.',
     site: context.site,
+    trailingSlash: false,
     items: sorted.map((post) => ({
       title: post.data.title,
       description: post.data.description,
       pubDate: post.data.datePublished,
-      link: `/blog/${post.id}/`,
+      link: `/blog/${post.id}`,
     })),
     customData: `<language>en-ca</language>`,
   });
