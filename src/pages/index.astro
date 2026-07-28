@@ -28,6 +28,13 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
   ? image
   : image.replace('/images/', '/images/thumb/').replace(/\.(jpe?g|png)$/i, '.webp');
 
+// The feat-side cards render at ~173x130 CSS px on mobile (measured via PSI) --
+// thumb() above is sized for the much larger blog-listing cards (480x640), so
+// it's ~30x more pixels than this slot needs. Dedicated smaller variant.
+const featSideImg = (image: string) => image === '/images/placeholder.svg'
+  ? image
+  : image.replace('/images/', '/images/feat-side/').replace(/\.(jpe?g|png)$/i, '.webp');
+
 
 ---
 
@@ -190,10 +197,10 @@ const thumb = (image: string) => image === '/images/placeholder.svg'
                     <a href={`/blog/${post.id}`} class="feat-side-img-link">
                       <div class="feat-side-img img-placeholder" role="img" aria-label={post.data.title}>
                         <img
-                          src={thumb(post.data.image)}
+                          src={featSideImg(post.data.image)}
                           alt={post.data.title}
                           loading="lazy"
-                          width="480" height="480"
+                          width="600" height="450"
                           onerror="this.style.display='none'"
                         />
                       </div>
