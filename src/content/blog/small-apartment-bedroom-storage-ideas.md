@@ -39,9 +39,9 @@ The area under the bed is the largest storage zone in most bedrooms, and it is a
 
 ![IKEA SKUBB flat under-bed bags make full use of the largest storage zone in a small bedroom](/images/blog-18-img2.jpg)
 
-## 2. Slim Velvet Hangers in the Closet
+## 2. Slim Velvet Hangers in the Closet (The Wardrobe Reset Starting Point)
 
-Switching from plastic to slim velvet hangers is the highest-value closet upgrade available. Plastic hangers are 2–2.5 cm thick. Velvet hangers are 0.5 cm thick. Replacing 30 hangers frees 45–60 cm of rod space — room for 15–20 additional garments.
+Switching from plastic to slim velvet hangers is the highest-value closet upgrade available, and it's also the easiest first step in a full wardrobe reset — the same declutter-and-rehang pass works whether it's a seasonal changeover or just a closet that's gotten out of hand. Plastic hangers are 2–2.5 cm thick. Velvet hangers are 0.5 cm thick. Replacing 30 hangers frees 45–60 cm of rod space — room for 15–20 additional garments.
 
 **Cost:** Amazon.ca, 50-pack ~$18 CAD.
 

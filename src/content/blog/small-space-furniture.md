@@ -100,6 +100,19 @@ The most-purchased IKEA item for good reason. Clean, simple, and works as a nigh
 **Nesting tables** — ~$70–$120 CAD (IKEA or Amazon.ca)
 Two or three tables that stack together when not in use. Pull one out for extra surface, tuck them away when done.
 
+### A Comfortable Reading Chair for Small Spaces
+
+Searches for a comfortable reading chair for small spaces have climbed sharply this year — a single well-chosen chair does more for a small apartment than a matching set of two.
+
+**IKEA POÄNG chair** — ~$149 CAD
+The small-space reading chair standard for a reason: a slim bentwood frame that doesn't visually crowd a room the way a boxy armchair does, with a cushion set sold separately if the original wears out.
+
+**Slipper chair (armless)** — ~$120–$200 CAD (Wayfair Canada)
+No arms means it tucks into a corner other chairs can't fit into, while still giving a real place to sit and read instead of perching on the sofa arm.
+
+**Swivel accent chair** — ~$180–$280 CAD (Amazon.ca or Wayfair)
+Worth the extra cost if the chair needs to do double duty — facing the room for conversation, then swiveling toward a window or reading lamp.
+
 ### Desks
 
 **IKEA MICKE desk** — ~$99 CAD

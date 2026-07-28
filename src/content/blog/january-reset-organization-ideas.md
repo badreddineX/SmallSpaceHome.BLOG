@@ -180,6 +180,8 @@ A beautiful organization system that requires too many steps to maintain will no
 
 ---
 
+This is the same idea behind what's now widely called the "reset aesthetic" — a full declutter-and-reorganize pass done in one focused block, not spread out over weeks. It doesn't have to happen in January specifically. If you're reading this in a different month and the apartment has drifted, the same weekend system works as a mid-year reset too.
+
 The January reset takes one weekend. By Sunday evening, the apartment is at a better baseline than it was in November — before the holidays added everything it collected. From there, the systems you reset or installed do the ongoing work. For the room-by-room organization system that keeps a small apartment working through the rest of the year, [small apartment organization ideas](/blog/small-apartment-organization) covers every room in depth. And for the budget-conscious version — the highest-impact changes under $100 CAD — [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) prioritizes what to tackle first.
 
 → Once the apartment is reset, [small space kitchen organization](/blog/small-space-kitchen-organization) gives you the full system for keeping the kitchen — the room that fills fastest — working all year.

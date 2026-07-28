@@ -107,6 +107,8 @@ A cheaper option is a rolling garment rack with a fabric cover, which runs $35�
 
 **What to buy:** IKEA PAX wardrobe frame (~$179 CAD+) or Amazon.ca rolling rack + cover (~$65–100 CAD combined).
 
+**A closet reading nook, if you have the space to spare.** If a closet is unusually deep or a second closet in the apartment sits mostly empty, a small chair, a clip lamp, and a shelf turn it into a genuine reading nook instead of dead storage space — a trend worth considering before defaulting to more shelving in every closet.
+
 ---
 
 ## The Closet Organization Priority Order for Canadian Renters

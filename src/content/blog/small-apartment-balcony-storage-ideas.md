@@ -20,7 +20,7 @@ faqs:
     a: "Technically most no-drill, freestanding items don't require permission, but many condo and apartment buildings restrict what's visible on balconies regardless of installation method. Always check your lease or condo bylaws first — some buildings ban bikes, grills, or anything above railing height entirely."
 ---
 
-A balcony is the one piece of outdoor space most small-apartment renters in Canada actually get, and most of us waste it. It's also the trickiest storage zone in the whole apartment: everything has to survive rain, snow, and freeze-thaw cycles, and almost nothing can be drilled or bolted down. I've spent three summers testing gear on a 6x8 foot balcony in Toronto, and these are the setups that actually held up.
+A balcony is the one piece of outdoor space most small-apartment renters in Canada actually get, and most of us waste it. A real balcony makeover starts with solving storage first — there's no point styling a space that's covered in a bike and a bin nobody can move. It's also the trickiest storage zone in the whole apartment: everything has to survive rain, snow, and freeze-thaw cycles, and almost nothing can be drilled or bolted down. I've spent three summers testing gear on a 6x8 foot balcony in Toronto, and these are the setups that actually held up.
 
 ---
 
