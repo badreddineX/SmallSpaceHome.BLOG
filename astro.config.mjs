@@ -46,19 +46,5 @@ export default defineConfig({
   ],
   redirects: {
     '/blog/storage-solutions-for-small-apartments': '/blog/storage-ideas-for-small-places',
-    // Cannibalization consolidation, 2026-07-29: merged near-duplicate/low-value
-    // posts into their stronger sibling rather than leaving them competing for
-    // the same query. Seasonal (fall/winter) and room-specific long-tail posts
-    // were deliberately left separate -- distinct search intent, not duplicates.
-    '/blog/january-reset-organization-ideas': '/blog/small-apartment-organization',
-    '/blog/spring-cleaning-organization-tips': '/blog/small-apartment-organization',
-    '/blog/small-apartment-organization-ideas-on-a-budget': '/blog/small-apartment-organization',
-    '/blog/small-space-kitchen-organization': '/blog/small-apartment-organization',
-    '/blog/apartment-decor-ideas-on-a-budget': '/blog/small-space-decorating',
-    '/blog/apartment-decor-ideas': '/blog/small-space-decorating',
-    '/blog/small-living-room-storage-solutions': '/blog/small-space-living-room-ideas',
-    '/blog/small-closet-organization-rental-apartment': '/blog/storage-ideas-for-small-places',
-    '/blog/small-entryway-hallway-storage-ideas': '/blog/storage-ideas-for-small-places',
-    '/blog/under-bed-storage-ideas-small-apartment': '/blog/small-apartment-bedroom-storage-ideas',
   },
 });

@@ -21,9 +21,9 @@ faqs:
     a: "IKEA KALLAX (~$79 CAD) for storage, a large area rug from IKEA or HomeSense (~$129–$199 CAD), and removable wallpaper for an accent wall. These three changes deliver the biggest visual impact for under $300 CAD. More ideas in our <a href='/blog/apartment-decor-ideas-on-a-budget'>apartment decor ideas on a budget</a> post."
 ---
 
-Your living room is the first room guests see and the room you spend the most time in — it's also where the "vibey apartment living room aesthetic" people are chasing lately actually gets built, not through one statement piece but through the layered small decisions below. When it's 180 square feet and doubles as your dining room and [home office](/blog/small-apartment-home-office-ideas), every decision matters.
+Your living room is the first room guests see and the room you spend the most time in — it's also where the "vibey apartment living room aesthetic" people are chasing lately actually gets built, not through one statement piece but through the layered small decisions below. When it's 200 square feet and doubles as your dining room and [home office](/blog/small-apartment-home-office-ideas), every decision matters.
 
-I've lived in a 510 sq ft Toronto apartment for three years. The living room is roughly 180 sq ft. Here's what I've learned — and what I'd do differently if I were starting from scratch today. If you want the step-by-step sequence instead of a straight list, our guide on [how to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through the same ideas in the order to tackle them.
+I've lived in a 520 sq ft Toronto apartment for three years. The living room is roughly 180 sq ft. Here's what I've learned — and what I'd do differently if I were starting from scratch today. If you want the step-by-step sequence instead of a straight list, our guide on [how to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through the same ideas in the order to tackle them.
 
 **TL;DR:** The biggest wins in a small living room are a properly sized sofa, one large rug instead of multiple small ones, vertical storage, and mirrors to double the visual space. Do those four things before anything else.
 
