@@ -85,7 +85,7 @@ Start eight to ten weeks before July 1 by booking your moving truck or company, 
 
 **Moving day:** Move your labelled essentials box last, into your own car if possible, not the truck. Do a final walkthrough of the old unit for the landlord.
 
-**Week after:** Unpack room by room using your colour-coded system, and set up your [small apartment organization](/blog/small-apartment-organization) basics, entry hooks, under-bed bins, and shelving, before you unpack everything else. A functioning entryway and bedroom make the rest of the unpacking feel far less overwhelming.
+**Week after:** Unpack room by room using your colour-coded system, and set up your [small apartment organization](/blog/small-apartment-organization) basics, entry hooks, under-bed bins, and shelving, before you unpack everything else. A functioning entryway and bedroom make the rest of the unpacking feel far less overwhelming. The bathroom is worth tackling early too — our [small apartment bathroom storage guide](/blog/small-apartment-bathroom-storage) covers a no-drill system you can set up in an afternoon, before toiletries end up living on the counter for the next six months.
 
 Does this all sound like a lot to plan around one date? It is, and that's exactly why Quebec renters treat late spring as unofficial moving season, even if their own lease doesn't turn over until July.
 

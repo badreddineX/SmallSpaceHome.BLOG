@@ -63,7 +63,7 @@ A gallery wall with 8–12 frames of different sizes makes any wall feel intenti
 
 The kitchen backsplash in most rentals is outdated or just blank wall. Peel-and-stick tile panels give you the look of real tile for a fraction of the cost and come off without residue.
 
-Look for peel-and-stick subway tile or hexagon tile panels on Amazon.ca (~$30–$60 CAD per pack). They're especially impactful in kitchens and bathroom vanity areas.
+Look for peel-and-stick subway tile or hexagon tile panels on Amazon.ca (~$30–$60 CAD per pack). They're especially impactful in kitchens and bathroom vanity areas — pair this with proper storage and a tiny rental bathroom can feel genuinely finished; our [small apartment bathroom storage guide](/blog/small-apartment-bathroom-storage) covers the no-drill systems that work alongside a tile refresh.
 
 ## 4. A Statement Rug to Define Zones
 
