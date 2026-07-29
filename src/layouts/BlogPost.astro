@@ -101,6 +101,9 @@ if (!image.startsWith('http')) {
 
       <!-- ① FULL-BLEED HERO IMAGE -->
       <div class:list={["post-hero-wrap", isPortraitHero && "portrait-hero"]}>
+        {isPortraitHero && (
+          <div class="post-hero-bg" style={`background-image:url(${image})`} aria-hidden="true"></div>
+        )}
         <img
           src={image}
           alt={title}
@@ -313,7 +316,16 @@ if (!image.startsWith('http')) {
 .portrait-hero {
   background: var(--color-ink);
 }
+.post-hero-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: blur(40px) brightness(0.55);
+  transform: scale(1.15);
+}
 .portrait-hero .post-hero-img {
+  position: relative;
   object-fit: contain;
   object-position: center center;
 }
