@@ -1,7 +1,7 @@
 ﻿---
 title: "Small Space Furniture for Apartments"
 description: "The best small space furniture for Canadian apartment renters — what to buy, what to avoid, and exact CAD prices for IKEA, Wayfair Canada, and more."
-image: "/images/blog-01-img1.jpg"
+image: "/images/blog-07-img1.jpg"
 datePublished: "2026-02-21"
 dateModified: "2026-02-21"
 author: "Badreddine Br"
