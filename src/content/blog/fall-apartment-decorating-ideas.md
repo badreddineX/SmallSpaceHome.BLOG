@@ -1,7 +1,7 @@
 ﻿---
 title: "Fall Apartment Decorating Ideas (Canada)"
 description: "Fall apartment decorating ideas for Canadian renters — seasonal textures, warm tones, and autumn touches that need no permanent changes or a big budget."
-image: "/images/blog-01-img1.jpg"
+image: "/images/hero-living-room.jpg"
 datePublished: "2025-10-09"
 dateModified: "2025-10-09"
 author: "Badreddine Br"
