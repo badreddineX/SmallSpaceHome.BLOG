@@ -22,7 +22,7 @@ faqs:
     a: "Yes — if you work full days from home, the chair matters more than the desk. A dining chair wrecks your back over months. You don't need a $1,500 Herman Miller; a supportive mid-range chair (~$200–$400 CAD from Wayfair Canada or Structube) is the single best investment for a home office. Pick one that tucks fully under the desk to save floor space."
 ---
 
-Working from home in a 520 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert. I've worked full-time from my Toronto apartment for three years, and the desk setup has moved four times before I landed on something that actually works. Here's what I learned — the desks worth buying, where to put them, and how to make a workspace feel intentional instead of like a laptop balanced on the kitchen table.
+Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert. I've worked full-time from my Toronto apartment for three years, and the desk setup has moved four times before I landed on something that actually works. Here's what I learned — the desks worth buying, where to put them, and how to make a workspace feel intentional instead of like a laptop balanced on the kitchen table.
 
 **TL;DR:** You don't need a spare room to work from home well. Pick a desk sized to your space (the IKEA MICKE at ~$99 CAD is the standard), put it near a window, invest in a real chair before anything else, and build storage *up* the wall instead of out across the floor. A defined corner beats a cramped whole room.
 
