@@ -108,8 +108,6 @@ A few well-placed plants do more for a space than almost anything else. For rent
 - ZZ plant (low water, slow growing)
 - Rubber tree (dramatic and easy)
 
-![Low-maintenance plants on shelves in a small Canadian apartment — easy, organic decor that requires no installation](/images/blog-13-img4.jpg)
-
 ---
 
 ## The No-Drill Toolkit Every Renter Needs

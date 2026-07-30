@@ -1,7 +1,7 @@
 ---
 title: "Small Apartment Home Office Ideas"
 description: "How to set up a home office in a small Canadian apartment — real desk picks, CAD prices, and renter-friendly ideas for working from home in tight spaces."
-image: "/images/blog-23-img1.jpg"
+image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-07-17"
 dateModified: "2026-07-17"
 author: "Badreddine Br"

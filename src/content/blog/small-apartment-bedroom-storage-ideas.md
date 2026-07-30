@@ -1,7 +1,7 @@
 ﻿---
 title: "Bedroom Storage Ideas for Apartments"
 description: "13 bedroom storage ideas for small Canadian apartments — closet, under-bed, wall, and furniture storage solutions. All renter-friendly with real CAD prices."
-image: "/images/blog-06-img1.jpg"
+image: "/images/bedroom-storage-closet.jpg"
 datePublished: "2026-04-02"
 dateModified: "2026-07-25"
 author: "Badreddine Br"
