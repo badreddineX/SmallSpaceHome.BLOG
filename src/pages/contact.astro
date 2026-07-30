@@ -1,0 +1,221 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="Contact Us"
+      description="Get in touch with SmallSpace Home — questions, collabs, or just want to say hello. We read every message and reply within a few days."
+      path="/contact"
+      type="website"
+    />
+  </head>
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MCBQG6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <Header />
+
+    <main class="contact-page">
+      <section class="contact-section">
+        <div class="contact-inner">
+
+          <div class="contact-left">
+            <span class="section-eyebrow">Get In Touch</span>
+            <h1 class="contact-heading">Let's Connect</h1>
+            <p class="contact-desc">
+              Have a small space question, a product you want us to test, feedback on a guide, or just
+              want to say hello? We read every message personally and reply within a few days.
+            </p>
+            <ol class="contact-steps">
+              <li><span class="step-num">01</span><span>Fill in your name and email address</span></li>
+              <li><span class="step-num">02</span><span>Tell us what's on your mind — questions, collabs, or just a hello</span></li>
+              <li><span class="step-num">03</span><span>We'll get back to you within 2–3 business days</span></li>
+            </ol>
+            <p class="contact-alt">
+              Prefer email directly? Reach us at <a href="mailto:hello@smallspacehome.ca">hello@smallspacehome.ca</a>
+            </p>
+          </div>
+
+          <div class="contact-right">
+            <form class="contact-form" method="POST" action="https://formsubmit.co/hello@smallspacehome.ca">
+              <input type="hidden" name="_subject" value="SmallSpaceHome - New Contact Message" />
+              <input type="hidden" name="_captcha" value="false" />
+              <input type="hidden" name="_template" value="table" />
+              <input type="hidden" name="_next" value="https://smallspacehome.ca/thank-you" />
+              <input
+                type="hidden"
+                name="_autoresponse"
+                value="Hi there,
+
+Thanks for reaching out to SmallSpace Home! I've received your message and read every one personally - I'll get back to you within 2-3 business days.
+
+In the meantime, feel free to browse the latest posts: https://smallspacehome.ca/blog
+
+Talk soon,
+The SmallSpace Home team
+hello@smallspacehome.ca"
+              />
+              <input type="text" name="_honey" style="display:none" />
+              <div class="form-row">
+                <div class="form-field">
+                  <label for="cf-name">Full Name</label>
+                  <input type="text" id="cf-name" name="name" placeholder="Your name" autocomplete="name" required />
+                </div>
+                <div class="form-field">
+                  <label for="cf-email">Email Address</label>
+                  <input type="email" id="cf-email" name="email" placeholder="your@email.com" autocomplete="email" required />
+                </div>
+              </div>
+              <div class="form-field">
+                <label for="cf-city">City / Province <span class="optional">(optional)</span></label>
+                <input type="text" id="cf-city" name="city" placeholder="e.g. Toronto, ON" autocomplete="address-level2" />
+              </div>
+              <div class="form-field">
+                <label for="cf-message">Message</label>
+                <textarea id="cf-message" name="message" rows="5" placeholder="What's on your mind?" required></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary form-submit">Send Message</button>
+            </form>
+          </div>
+
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.contact-page { padding-bottom: 0; }
+
+.contact-section {
+  padding: 96px 24px 112px;
+  background: var(--color-surface);
+}
+.contact-inner {
+  max-width: 1040px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: start;
+}
+.contact-left { padding-top: 8px; }
+.section-eyebrow {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--color-accent-dark);
+  display: block;
+  margin-bottom: 12px;
+}
+.contact-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  font-weight: 400;
+  color: var(--color-heading);
+  margin: 20px 0 20px;
+  line-height: 1.1;
+}
+.contact-desc {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  margin-bottom: 36px;
+  max-width: 380px;
+}
+.contact-steps {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.contact-steps li {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  font-size: 0.88rem;
+  color: var(--color-text);
+  line-height: 1.6;
+  margin: 0;
+}
+.step-num {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--color-accent-dark);
+  font-weight: 400;
+  flex-shrink: 0;
+  line-height: 1.4;
+}
+.contact-alt {
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+}
+.contact-alt a { color: var(--color-accent-dark); }
+.contact-right {
+  background: var(--color-white);
+  padding: 48px 44px;
+}
+.contact-form { display: flex; flex-direction: column; gap: 28px; }
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.form-field { display: flex; flex-direction: column; gap: 8px; }
+.form-field label {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+}
+.optional {
+  font-size: 0.58rem;
+  letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+  font-weight: 400;
+  text-transform: none;
+}
+.form-field input,
+.form-field textarea {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  border-radius: 0;
+  padding: 10px 0;
+  font-family: var(--font-body);
+  font-size: 16px;
+  color: var(--color-ink);
+  outline: none;
+  transition: border-color var(--transition);
+  width: 100%;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.form-field input::placeholder,
+.form-field textarea::placeholder { color: var(--color-text-muted); font-size: 0.88rem; }
+.form-field input:focus,
+.form-field textarea:focus { border-bottom-color: var(--color-ink); }
+.form-field textarea { resize: vertical; min-height: 120px; line-height: 1.7; }
+.form-submit { align-self: flex-start; margin-top: 4px; padding-left: 36px; padding-right: 36px; }
+
+@media (max-width: 860px) {
+  .contact-inner { grid-template-columns: 1fr; gap: 40px; }
+  .contact-desc { max-width: 100%; }
+  .contact-section { padding: 64px 20px 80px; }
+}
+@media (max-width: 480px) {
+  .contact-right { padding: 32px 20px; }
+  .form-row { grid-template-columns: 1fr; }
+  .form-submit { align-self: stretch; }
+}
+</style>

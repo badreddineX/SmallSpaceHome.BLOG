@@ -1,0 +1,181 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="Editorial Policy"
+      description="How SmallSpace Home researches, writes, tests, and updates content — our sourcing standards, correction policy, and independence from brands."
+      path="/editorial-policy"
+      type="website"
+    />
+  </head>
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MCBQG6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <Header />
+
+    <main class="policy-page">
+      <section class="policy-hero">
+        <div class="policy-hero-inner">
+          <span class="section-eyebrow">How We Work</span>
+          <h1 class="policy-heading">Editorial Policy</h1>
+          <p class="policy-sub">How we research, write, test, and correct what we publish.</p>
+        </div>
+      </section>
+
+      <section class="policy-body">
+        <div class="policy-inner">
+
+          <div class="policy-block">
+            <h2>Who writes this</h2>
+            <p>
+              SmallSpace Home is written and maintained by Badreddine Br, a renter living in a 510 sq ft
+              Toronto apartment. This is not a large editorial team — it's one person testing real
+              products and layouts in a real rental, then writing up what actually worked and what
+              didn't. See the <a href="/about">About page</a> for the full story.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>How we research and write</h2>
+            <p>
+              Every guide starts from a real constraint — a small kitchen, a rented living room, a
+              closet with no organizer system — and works through solutions we've either tried
+              ourselves or researched carefully from Canadian retailers (IKEA Canada, Amazon.ca,
+              HomeSense, Wayfair Canada, Canadian Tire, Structube) so prices and availability are
+              accurate for a Canadian audience, not adapted from US content.
+            </p>
+            <p>
+              We use AI-assisted tools to help with research, drafting, and editing efficiency. Every
+              piece of advice, every price, and every product recommendation is reviewed by a human
+              before publishing — nothing goes live unchecked.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>Product recommendations</h2>
+            <p>
+              We recommend specific products (often IKEA or Amazon.ca items) because they're genuinely
+              useful for small Canadian apartments, not because of a paid placement. If a post ever
+              contains a sponsored product or affiliate link, it will be clearly disclosed at the top
+              of that article. As of now, this site does not run affiliate links or sponsored content.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>Corrections and updates</h2>
+            <p>
+              Prices, retailer stock, and product availability change. If you spot something outdated
+              or incorrect, <a href="/contact">let us know</a> — we update posts when we confirm an
+              error, and note significant changes in the post's "last updated" date rather than
+              silently editing published claims.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>What we don't do</h2>
+            <ul>
+              <li>We don't publish staged, unrealistic "after" photos we haven't actually recreated in a real small space.</li>
+              <li>We don't inflate prices or omit cheaper alternatives to make a paid product look better.</li>
+              <li>We don't accept payment in exchange for a positive review.</li>
+            </ul>
+          </div>
+
+          <div class="policy-block">
+            <p class="policy-contact-line">
+              Questions about how a specific post was researched or written? <a href="/contact">Contact us</a> — we're happy to explain.
+            </p>
+          </div>
+
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.policy-page { padding-bottom: 0; }
+
+.policy-hero {
+  background: var(--color-ink);
+  padding: 96px 24px 64px;
+}
+.policy-hero-inner { max-width: 780px; margin: 0 auto; }
+.section-eyebrow {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  display: block;
+  margin-bottom: 16px;
+}
+.policy-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  font-weight: 400;
+  color: #fff;
+  margin: 0 0 16px;
+  line-height: 1.1;
+}
+.policy-sub {
+  font-size: 1rem;
+  color: rgba(255,255,255,0.7);
+  margin: 0;
+}
+
+.policy-body {
+  background: var(--color-white);
+  padding: 72px 24px 96px;
+}
+.policy-inner { max-width: 780px; margin: 0 auto; }
+.policy-block { margin-bottom: 44px; }
+.policy-block:last-child { margin-bottom: 0; }
+.policy-block h2 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--color-ink);
+  margin: 0 0 16px;
+}
+.policy-block p {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text-muted);
+  margin: 0 0 1.1rem;
+}
+.policy-block p:last-child { margin-bottom: 0; }
+.policy-block a { color: var(--color-accent-dark); }
+.policy-block ul {
+  margin: 0;
+  padding-left: 1.3rem;
+  color: var(--color-text-muted);
+}
+.policy-block ul li {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  margin-bottom: 0.5rem;
+}
+.policy-contact-line {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem !important;
+  color: var(--color-accent-dark) !important;
+}
+
+@media (max-width: 640px) {
+  .policy-hero { padding: 64px 20px 48px; }
+  .policy-body { padding: 48px 20px 64px; }
+}
+</style>

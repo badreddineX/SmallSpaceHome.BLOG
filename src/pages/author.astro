@@ -1,0 +1,179 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="About the Author — Badreddine Br"
+      description="Meet Badreddine Br, the writer behind SmallSpace Home — a Toronto renter testing real small-apartment storage and decor solutions since 2023."
+      path="/author"
+      type="website"
+    />
+  </head>
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MCBQG6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <Header />
+
+    <main class="author-page">
+      <section class="author-hero">
+        <div class="author-hero-inner">
+          <div class="author-avatar-circle">
+            <span class="author-initials">BB</span>
+          </div>
+          <span class="section-eyebrow">Written By</span>
+          <h1 class="author-heading">Badreddine Br</h1>
+          <p class="author-sub">Toronto renter · 510 sq ft apartment · Writing since 2023</p>
+        </div>
+      </section>
+
+      <section class="author-body">
+        <div class="author-inner">
+
+          <div class="author-block">
+            <h2>Background</h2>
+            <p>
+              I've lived in a 510 sq ft Toronto apartment for three years. Before starting SmallSpace
+              Home, I spent months trying to make the space work using advice built for houses with
+              basements and garages — none of it translated to a small Canadian rental where you can't
+              drill into the walls and every square foot has to earn its place.
+            </p>
+            <p>
+              I'm not a professional interior designer or organizer. What I bring is direct, repeated
+              experience testing storage systems, furniture, and layouts in a real rental — and being
+              honest in writing about what actually held up and what fell apart after a month.
+            </p>
+          </div>
+
+          <div class="author-block">
+            <h2>What I actually do for this site</h2>
+            <ul>
+              <li>Test products in my own apartment before recommending them — prices and availability checked against Canadian retailers (IKEA Canada, Amazon.ca, HomeSense, Wayfair Canada, Canadian Tire, Structube)</li>
+              <li>Write every guide from a renter's constraints: no drilling, no permanent changes, real CAD budgets</li>
+              <li>Update posts when prices or product availability change, rather than leaving stale information live</li>
+              <li>Reply personally to every message sent through <a href="/contact">the contact page</a></li>
+            </ul>
+          </div>
+
+          <div class="author-block">
+            <h2>Editorial approach</h2>
+            <p>
+              Full detail on how content here gets researched, written, and corrected is on the
+              <a href="/editorial-policy">Editorial Policy page</a>. Short version: real testing where
+              possible, accurate Canadian pricing always, and no sponsored placements dressed up as
+              genuine recommendations.
+            </p>
+          </div>
+
+          <div class="author-cta">
+            <a href="/blog" class="btn btn-primary">Read the Blog →</a>
+            <a href="/contact" class="btn">Get in Touch</a>
+          </div>
+
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.author-page { padding-bottom: 0; }
+
+.author-hero {
+  background: var(--color-surface);
+  padding: 80px 24px 56px;
+  text-align: center;
+  border-bottom: 1px solid var(--color-border);
+}
+.author-hero-inner { max-width: 560px; margin: 0 auto; }
+.author-avatar-circle {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  background: var(--color-ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 24px;
+}
+.author-initials {
+  font-family: var(--font-body);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.05em;
+}
+.section-eyebrow {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--color-accent-dark);
+  display: block;
+  margin-bottom: 12px;
+}
+.author-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  font-weight: 400;
+  color: var(--color-ink);
+  margin: 0 0 12px;
+  line-height: 1.1;
+}
+.author-sub {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.author-body { background: var(--color-white); padding: 72px 24px 96px; }
+.author-inner { max-width: 700px; margin: 0 auto; }
+.author-block { margin-bottom: 44px; }
+.author-block:last-of-type { margin-bottom: 0; }
+.author-block h2 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--color-ink);
+  margin: 0 0 16px;
+}
+.author-block p {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text-muted);
+  margin: 0 0 1.1rem;
+}
+.author-block p:last-child { margin-bottom: 0; }
+.author-block a { color: var(--color-accent-dark); }
+.author-block ul {
+  margin: 0;
+  padding-left: 1.3rem;
+  color: var(--color-text-muted);
+}
+.author-block ul li {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  margin-bottom: 0.5rem;
+}
+.author-cta {
+  display: flex;
+  gap: 16px;
+  margin-top: 48px;
+}
+
+@media (max-width: 640px) {
+  .author-hero { padding: 56px 20px 40px; }
+  .author-body { padding: 48px 20px 64px; }
+  .author-cta { flex-direction: column; }
+}
+</style>
