@@ -69,8 +69,6 @@ Folded items: use shelf dividers (~$12–$15 CAD at IKEA Canada) to keep stacks 
 ### Under-bed storage:
 January is the right time to reassess what lives under the bed. IKEA SKUBB under-bed bags (~$14 CAD) compress seasonal items — summer clothes, extra bedding — flat under the frame. Clear bins with lids work for anything you need to see and access occasionally.
 
-![A decluttered apartment closet after the January reset — slim velvet hangers, shelf dividers, and seasonal items stored flat under the bed](/images/blog-22-img2.jpg)
-
 ---
 
 ## 2. Kitchen and Pantry Reset

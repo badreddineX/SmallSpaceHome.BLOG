@@ -132,8 +132,6 @@ Getting organized is one thing. Staying organized is the real challenge.
 
 **Weekly zone check** — one zone per week, 15 minutes. Check that things are in their right place and nothing has accumulated that should not be there.
 
-![A consistently maintained organized closet — the result of simple daily habits](/images/closet-wardrobe-open.jpg)
-
 For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places) — it covers every room including the entryway and kitchen. And if the kitchen is your biggest challenge, [small space kitchen organization](/blog/small-space-kitchen-organization) goes deep on pantry bins, drawer dividers, and pegboards.
 
 ## Best Organization Products in Canada

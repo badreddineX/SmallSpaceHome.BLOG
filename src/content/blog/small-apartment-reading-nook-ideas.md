@@ -45,8 +45,6 @@ The single biggest mistake is dragging in a full-size armchair meant for a livin
 - **IKEA POÄNG** (~$139 CAD) — the budget option, lightweight enough to move for cleaning
 - **Wayfair Canada slipper chairs** — armless designs from ~$220 CAD, the narrowest footprint of the four
 
-![A compact accent chair anchors a small reading nook in the corner of a living room](/images/living-room-cozy.jpg)
-
 ## 3. Get the Lighting Right — This Is Non-Negotiable
 
 A reading nook without dedicated light is just a chair. Overhead lighting isn't enough for actually reading; you need a light source pointed at the page.
@@ -77,8 +75,6 @@ The "closet reading nook for adults" trend (+55% search growth) is exactly what 
 - A single clip-on or battery-powered light, since closets often lack a nearby outlet
 
 For everything else that closet could be doing instead, see [small closet organization for rental apartments](/blog/small-closet-organization-rental-apartment).
-
-![A cozy reading corner with layered textiles and a floor lamp in a small apartment](/images/bedroom-minimalist.jpg)
 
 ## 7. Layer in Soft Textiles
 

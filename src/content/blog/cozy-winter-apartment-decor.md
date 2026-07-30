@@ -56,8 +56,6 @@ In summer, a sofa has 2–3 cushions and maybe one throw. In winter, it should h
 - IKEA: POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
 - Amazon.ca: boucle and faux sheepskin cushion covers ~$20–$35 CAD each
 
-![Layered throw blankets and chunky cushions on a sofa — the quickest way to create a cozy Canadian winter apartment](/images/blog-19-img3.jpg)
-
 ## Add Winter-Appropriate Scent
 
 How your home smells in winter is as important as how it looks. Scent is the fastest trigger of the cozy feeling.

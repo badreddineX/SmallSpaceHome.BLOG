@@ -66,8 +66,6 @@ Rugs are the single most powerful tool in a studio apartment. A rug under the so
 
 **Cost:** IKEA flat-weave rugs from ~$59 CAD. Wayfair Canada for wider selection.
 
-![Two rugs define separate living and sleeping zones in a studio apartment](/images/blog-05-img2.jpg)
-
 ## 5. Go Vertical for Storage
 
 You cannot use floor space for storage in a studio without making the room feel crowded. Go up.
@@ -87,8 +85,6 @@ The area under a studio apartment bed is some of the most valuable real estate i
 - **Storage bed frame** — IKEA NORDLI with drawers, ~$399–$699 CAD depending on size
 - **Bed risers** — add 15 cm of clearance for flat storage bins. ~$25 CAD at Amazon.ca
 - **IKEA SKUBB under-bed bags** — ~$14 CAD for 2
-
-![A minimalist studio bedroom with storage bed frame — no floor clutter, maximum calm](/images/bedroom-minimalist.jpg)
 
 ## 7. Create a Dedicated Workspace
 

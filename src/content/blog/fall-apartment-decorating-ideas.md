@@ -39,8 +39,6 @@ The fastest way to shift a room from summer to fall is a textile swap. Replace l
 
 **Cost:** IKEA GURLI cushion covers ~$6 each. HomeSense chunky throws ~$30–$50 CAD.
 
-![A cozy apartment living room with autumn-toned textiles and warm lamp lighting — the fall atmosphere starts with the sofa](/images/living-room-cozy.jpg)
-
 ## 2. Add Autumn Candles and Scent
 
 The scent of autumn — spiced apple, cinnamon, pumpkin, warm wood, nutmeg — is one of the fastest mood-setters available. A single autumn-scented candle changes how a room feels.
@@ -63,8 +61,6 @@ Autumn produces free decor. A walk in any Canadian park yields:
 - Small branches with changing leaves in a simple vase
 
 These cost nothing and look more authentic than anything purchased.
-
-![A bookcase styled with autumn botanicals and organic textures — natural elements from outside are the most authentic fall decor](/images/decor-bookcase-scandi.jpg)
 
 ## 4. Add a Pumpkin or Gourd Arrangement
 

@@ -38,8 +38,6 @@ Command large hooks hold up to 4.5 kg each and peel off the wall cleanly when yo
 
 **Where to buy:** Canadian Tire or Walmart Canada, 4-pack ~$12–$15 CAD.
 
-![Command hooks at a small apartment entryway keep coats, bags, and keys off the floor](/images/blog-09-img2.jpg)
-
 ## 3. Over-Door Organizer (~$25–$35 CAD)
 
 The back of a door is storage you're not using. An over-door organizer with pockets transforms the back of a closet door into shoe storage, or a bathroom door into a holder for hair tools and products.

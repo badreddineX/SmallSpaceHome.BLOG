@@ -106,8 +106,6 @@ The IVAR system is IKEA's most flexible storage system — it expands, reconfigu
 
 The HOVET full-length mirror (~$279 CAD) leans against the wall (no installation) and immediately makes any small bedroom feel significantly larger. It reflects light from the window and creates the illusion of a second doorway.
 
-![An open wardrobe system in a small bedroom — visible, accessible, and zero wasted space](/images/closet-wardrobe-open.jpg)
-
 ## FRIHETEN as a Guest Bed for Studio Apartments
 
 If you live in a studio and sometimes have overnight guests, the FRIHETEN sofa bed (~$999 CAD) solves both the "sofa" and "guest bed" problems in one piece. The storage chaise adds significant storage capacity.

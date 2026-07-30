@@ -69,8 +69,6 @@ A mirror in a small bedroom does two things: it creates the visual illusion of d
 - **Mirrored wardrobe doors** — if you're replacing closet doors or getting a wardrobe, mirrored fronts double the perceived size of the room
 - **Small mirror above the dresser** — reflects light from the window
 
-![A leaning full-length mirror makes any small bedroom feel larger and brighter](/images/blog-06-img2.jpg)
-
 ## 5. Fix the Lighting
 
 The overhead light in most Canadian apartment bedrooms is a single central fixture with a harsh bulb. This makes the room feel flat and institutional.
@@ -89,8 +87,6 @@ Curtain rods mounted as close to the ceiling as possible, with curtains that fal
 In a rental, a Command large curtain rod bracket (~$18 CAD) or a tension rod curtain system works without drilling.
 
 **Cost:** IKEA Canada LENDA curtain panels (2-pack) ~$30–$50 CAD, or browse curtain options on Wayfair Canada, ceiling-height rod ~$25–$40 CAD.
-
-![Floor-to-ceiling curtains mounted near the ceiling make any small bedroom feel taller](/images/bedroom-shelves-reading.jpg)
 
 ## 7. Bedding That Matches the Walls
 
@@ -119,8 +115,6 @@ When floor space is limited, walls become the main design canvas. Floating shelv
 - A tall piece of art rather than a wide one
 
 If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) prioritizes the highest-impact moves first. And if you're renting and want deposit-safe upgrades beyond just the bedroom, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers the whole apartment.
-
-![Floating shelves above a reading nook add storage and personality without taking floor space](/images/decor-floating-shelves.jpg)
 
 ## 10. One Plant, Deliberately Placed
 
