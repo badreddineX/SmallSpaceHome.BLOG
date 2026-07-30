@@ -161,3 +161,5 @@ This combination tackles pantry shelves, kitchen drawers, wall storage, cabinet 
 Zone first, buy second. A zoned kitchen where everything lives near where it's used is more functional than a perfectly organized one where tools are all in the wrong place. For the full apartment storage picture — including how the kitchen fits into a room-by-room system — see [storage solutions for small apartments](/blog/storage-ideas-for-small-places).
 
 → For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) — it covers the kitchen alongside every other room. The same zone-first approach works just as well in the smallest room in the apartment — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage).
+
+→ If your laundry lives in a kitchen closet or a shared building room, [small apartment laundry storage ideas](/blog/small-apartment-laundry-storage-ideas) covers both setups with no-drill options.

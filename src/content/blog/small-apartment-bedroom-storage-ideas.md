@@ -167,3 +167,7 @@ Complete the first five steps of the priority order before considering larger pu
 → For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget).
 
 → Same no-drill principles apply in the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for renter-friendly options under $180 CAD.
+
+→ Want the under-bed step in more depth? [Under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment) covers risers, lidded bins vs. vacuum bags, and what never to store under a bed.
+
+→ For the closet specifically, [small closet organization ideas for rental apartments](/blog/small-closet-organization-rental-apartment) goes deeper on slim hangers, over-door racks, and stackable bins.

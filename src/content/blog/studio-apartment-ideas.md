@@ -176,3 +176,5 @@ A studio apartment works when every decision is intentional — where the zones 
 → Working from home in a studio? [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) covers how to carve out a real work zone without dedicating a full room to it.
 
 → For the full room-by-room organization plan, see [small apartment organization](/blog/small-apartment-organization) — a weekend-by-weekend breakdown of exactly what to tackle first.
+
+→ Moving into your first studio for September? [September student move-in storage guide](/blog/september-student-move-in-storage-guide) covers the dorm-to-studio transition specifically.

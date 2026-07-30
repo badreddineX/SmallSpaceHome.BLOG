@@ -225,3 +225,5 @@ Done over a weekend — one room per half-day — this is a complete reset for t
 Spring cleaning works best when it becomes the annual moment to ask: what storage system isn't working? Add the pantry bins you've been meaning to install. Fix the closet with slim velvet hangers. The clean comes first, then the upgrade. For organization ideas to install during the spring reset, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers everything from the bedroom closet to the kitchen pantry for under $100 CAD.
 
 → Once the kitchen is clean and organized, [small space kitchen organization](/blog/small-space-kitchen-organization) gives you the full system for keeping it working through the rest of the year.
+
+→ Spring reset also means swapping out what's out of season — [seasonal storage for off-season clothes and gear](/blog/seasonal-storage-off-season-clothes-gear) covers exactly what to pack away and how.
