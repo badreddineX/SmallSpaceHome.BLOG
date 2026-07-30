@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Small Room Look Bigger"
 description: "13 visual tricks that make any small room in a Canadian apartment look bigger — colour, mirrors, lighting, furniture, and layout. No renovation required."
-image: "/images/blog-14-img1.jpg"
+image: "/images/bright-bedroom-mirror.jpg"
 datePublished: "2026-03-17"
 dateModified: "2026-03-17"
 author: "Badreddine Br"
