@@ -1,0 +1,15 @@
+<!-- Paste into Fourthwall: Store settings → Advanced → Footer code -->
+
+<!-- Google tag (gtag.js) -- reuses smallspacehome.ca's own GA4 property
+     (G-8RQLW4BWHR, found live in the blog's src/components/SEO.astro) so
+     store traffic and blog traffic land in the same GA4 property, just
+     under a different hostname. This is the simplest way to see blog→store
+     conversion in one place without creating a second GA4 property/stream
+     via the Admin API. -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8RQLW4BWHR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-8RQLW4BWHR');
+</script>
