@@ -26,9 +26,9 @@ The bedroom in a small Canadian apartment has to do double duty: sleep and stora
 
 ---
 
-## 1. Under-Bed Storage First
+## 1. Why Should Under-Bed Storage Come First?
 
-The area under the bed is the largest storage zone in most bedrooms, and it is almost always underused.
+The area under the bed is the largest storage zone in most bedrooms, and it is almost always underused. IKEA SKUBB under-bed bags run about $14 CAD for two, and bed risers (~$25 CAD) add roughly 15 cm of clearance for anyone whose frame sits too low to use the space at all.
 
 **Options:**
 - **IKEA SKUBB under-bed bags** (~$14 CAD for 2) — flat, zippable, dust-resistant. Ideal for off-season clothes and extra bedding. Available at IKEA Canada
@@ -39,65 +39,65 @@ The area under the bed is the largest storage zone in most bedrooms, and it is a
 
 ![IKEA SKUBB flat under-bed bags make full use of the largest storage zone in a small bedroom](/images/blog-18-img2.jpg)
 
-## 2. Slim Velvet Hangers in the Closet (The Wardrobe Reset Starting Point)
+## 2. Why Are Slim Velvet Hangers the Best Closet Upgrade?
 
-Switching from plastic to slim velvet hangers is the highest-value closet upgrade available, and it's also the easiest first step in a full wardrobe reset — the same declutter-and-rehang pass works whether it's a seasonal changeover or just a closet that's gotten out of hand. Plastic hangers are 2–2.5 cm thick. Velvet hangers are 0.5 cm thick. Replacing 30 hangers frees 45–60 cm of rod space — room for 15–20 additional garments.
+Switching from plastic to slim velvet hangers is the highest-value closet upgrade available, and it's also the easiest first step in a full wardrobe reset — the same declutter-and-rehang pass works whether it's a seasonal changeover or just a closet that's gotten out of hand. Swapping just 30 hangers from 2–2.5 cm plastic to 0.5 cm velvet frees 45–60 cm of rod space — room for 15–20 more garments — for about $18 CAD for a 50-pack. Plastic hangers are 2–2.5 cm thick. Velvet hangers are 0.5 cm thick. Replacing 30 hangers frees 45–60 cm of rod space — room for 15–20 additional garments.
 
 **Cost:** Amazon.ca, 50-pack ~$18 CAD.
 
 ## 3. Tension Rod for Double Hanging
 
-A second tension rod installed below the main closet rod creates a full second tier for short items — shirts, folded blazers, folded trousers, jackets. Five minutes to install, no tools required.
+A second tension rod installed below the main closet rod creates a full second tier for short items — shirts, folded blazers, folded trousers, jackets. At about $15 CAD and five minutes to install, it doubles the usable hanging tiers in the same closet footprint. Five minutes to install, no tools required.
 
 **Cost:** Amazon.ca, tension rod ~$15 CAD.
 
 ![A second tension rod installed below the main closet rod doubles hanging space for short items instantly](/images/blog-18-img3.jpg)
 
-## 4. Over-Door Closet Organizer
+## 4. What's the Best Over-Door Closet Organizer?
 
-The back of the bedroom closet door is typically empty. A 24-pocket over-door organizer holds shoes, accessories, belts, scarves, and socks cleanly.
+The back of the bedroom closet door is typically empty. A 24-pocket over-door organizer costs about $28–$35 CAD and turns the empty back of the door into storage for shoes, belts, and accessories without touching a single shelf.
 
 **Cost:** Amazon.ca, ~$28–$35 CAD.
 
-## 5. A Storage Bed Frame
+## 5. Is a Storage Bed Frame Worth It?
 
-IKEA NORDLI bed frame with built-in drawers (~$399–$699 CAD, Queen) has two large drawers on each side — enough to replace a full dresser in most small bedrooms. Removing the dresser frees significant floor space and makes the room feel larger.
+IKEA NORDLI bed frame with built-in drawers (~$399–$699 CAD, Queen) has two large drawers on each side — enough to replace a full dresser in most small bedrooms. At $399–$699 CAD, it replaces a full dresser with two large drawers on each side, freeing all the floor space a separate dresser would otherwise take. Removing the dresser frees significant floor space and makes the room feel larger.
 
 This is the most impactful single furniture purchase for a small bedroom.
 
-## 6. Floating Shelves as a Nightstand
+## 6. Can Floating Shelves Replace a Nightstand?
 
-A bedside table takes 40–50 cm × 40 cm of floor space. A floating shelf (IKEA LACK, ~$15 CAD) mounted at nightstand height with Command strips provides the same function with zero floor footprint.
+A bedside table takes 40–50 cm × 40 cm of floor space, while two LACK floating shelves cost about $30 CAD total and free roughly 4,000 sq cm of floor area doing the same job. A floating shelf (IKEA LACK, ~$15 CAD) mounted at nightstand height with Command strips provides the same function with zero floor footprint.
 
 Two floating shelves — one on each side of the bed — cost ~$30 CAD and free approximately 4,000 sq cm of floor space.
 
 ## 7. Shelf Dividers for Folded Clothes
 
-Stacks of folded sweaters, jeans, and T-shirts on closet shelves always topple. Shelf dividers clip onto any closet shelf and keep each stack in its lane.
+Stacks of folded sweaters, jeans, and T-shirts on closet shelves always topple. A 6-pack of shelf dividers costs about $18–$26 CAD and keeps every folded stack in its own lane instead of toppling into the next one.
 
 **Cost:** Amazon.ca, 6-pack ~$18–$26 CAD.
 
 ## 8. A Wall-Mounted Wardrobe Mirror With Storage
 
-A mirror that doubles as a storage cabinet is a classic small apartment solution. Wall-mounted mirrored jewelry armoires open to reveal storage for accessories.
+A mirror that doubles as a storage cabinet is a classic small apartment solution. At about $80–$150 CAD, it combines a full-length mirror with hidden accessory storage in one piece instead of buying both separately. Wall-mounted mirrored jewelry armoires open to reveal storage for accessories.
 
 **Cost:** Amazon.ca or Wayfair Canada, ~$80–$150 CAD.
 
-## 9. Over-the-Door Hooks on the Bedroom Door
+## 9. Do Over-the-Door Hooks Actually Add Storage?
 
-The bedroom door itself is storage space. An over-door hook rack or row of Command hooks holds bathrobes, tomorrow's outfit, and handbags.
+The bedroom door itself is storage space. An over-door hook rack costs about $15–$25 CAD, or a 4-pack of Command large hooks runs roughly $12 CAD — either way turning the door into storage for bathrobes, tomorrow's outfit, and handbags.
 
 **Cost:** Amazon.ca over-door hook rack, ~$15–$25 CAD. Command large hooks ~$12 CAD for a 4-pack.
 
-## 10. Vacuum Storage Bags for Seasonal Clothes
+## 10. How Do Vacuum Storage Bags Help With Seasonal Clothes?
 
-Off-season clothes are the primary driver of closet overflow in a Canadian apartment. Heavy winter coats, snow pants, and sweaters compress to a quarter of their normal size in vacuum storage bags.
+Off-season clothes are the primary driver of closet overflow in a Canadian apartment. A 6-bag set costs about $25–$30 CAD and compresses heavy winter coats, snow pants, and sweaters to roughly a quarter of their normal size, reclaiming closet space that off-season bulk would otherwise eat all year.
 
 **Cost:** Amazon.ca, 6-bag set ~$25–$30 CAD.
 
-## 11. A PAX Wardrobe for Apartments Without Closets
+## 11. Is a PAX Wardrobe Worth It for Apartments Without Closets?
 
-Some older Toronto and Montreal apartments have inadequate or no bedroom closets. An IKEA PAX wardrobe system solves this completely: it's freestanding, customizable, and provides more organized storage than most built-in closets.
+Some older Toronto and Montreal apartments have inadequate or no bedroom closets. A PAX frame starts at about $179 CAD, with a full 100 cm × 201 cm configuration running $400–$800 CAD — still typically less than replacing a missing closet with a dresser-plus-wardrobe combination. An IKEA PAX wardrobe system solves this completely: it's freestanding, customizable, and provides more organized storage than most built-in closets.
 
 A 100 cm wide × 201 cm tall PAX with interior organizers stores full wardrobes for one person.
 
@@ -107,17 +107,19 @@ A 100 cm wide × 201 cm tall PAX with interior organizers stores full wardrobes 
 
 ## 12. A Tall Dresser Instead of a Wide One
 
-If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide one (3–4 drawers across). Tall dressers use vertical space, leaving more floor footprint for movement. Wide, low dressers consume floor space without adding much capacity.
+If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide one (3–4 drawers across). A tall dresser stores the same drawer count in less floor footprint than a wide 3–4 drawer model, leaving more room for movement. Tall dressers use vertical space, leaving more floor footprint for movement. Wide, low dressers consume floor space without adding much capacity.
 
 ## 13. Wicker Baskets on Open Shelves for Accessible Storage
 
-If you have open shelves in the bedroom (BILLY bookcase, floating shelves, wardrobe shelves without doors), wicker baskets hide contents while keeping them accessible. One basket per category: scarves, workout clothes, bags, etc.
+If you have open shelves in the bedroom (BILLY bookcase, floating shelves, wardrobe shelves without doors), wicker baskets hide contents while keeping them accessible. At $10–$25 CAD each, a full set covering scarves, workout clothes, and bags typically stays under $75 CAD total. One basket per category: scarves, workout clothes, bags, etc.
 
 **Cost:** Wicker baskets from HomeSense, IKEA Canada, or Amazon.ca, ~$10–$25 each.
 
 ---
 
 ## The Bedroom Storage Priority Order
+
+The first five steps below — hangers, under-bed bags, tension rod, over-door organizer, and shelf dividers — total roughly $93–$108 CAD combined and typically double usable bedroom storage.
 
 | Step | Action | Cost (CAD) |
 |------|--------|-----------|
@@ -132,9 +134,9 @@ Complete the first five steps before considering larger purchases. These five ch
 
 Bedroom storage is a sequence problem: closet first (hangers, tension rod, over-door organizer), then under-bed space, then wall storage. Get the basics working before investing in furniture changes.
 
-## Bedroom Storage for Two People in a Small Canadian Apartment
+## How Do You Store Bedroom Items for Two People in a Small Canadian Apartment?
 
-Sharing a small bedroom with a partner doubles the storage challenge. These solutions are specifically designed for two people in a single small bedroom:
+Sharing a small bedroom with a partner doubles the storage challenge. A seasonal clothing audit takes about 30 minutes per person, and doing it once each season is often what keeps a shared closet from creeping back to full within a few months. These solutions are specifically designed for two people in a single small bedroom:
 
 **Divide the closet in half — literally:** Use a tension rod or a simple hanging divider to split the closet cleanly. Each person has one side. This prevents the wardrobe drift that causes chaos in shared closets.
 
@@ -146,9 +148,9 @@ Sharing a small bedroom with a partner doubles the storage challenge. These solu
 
 **A shared clothing audit once per season:** The primary source of closet overflow for two people is clothing that no longer fits or gets worn. A seasonal edit — 30 minutes per person per season — prevents the closet from slowly filling with unused items. Canadian Goodwill locations accept donations year-round.
 
-## Canadian Winter Bedroom Storage
+## How Should You Handle Bedroom Storage Through a Canadian Winter?
 
-Canadian winters require seasonal storage management that doesn't apply in warmer climates. Here's the specific winter approach for Canadian apartment bedrooms:
+Canadian winters require seasonal storage management that doesn't apply in warmer climates. Moving winter coats into $25–$30 CAD vacuum bags from May through October, compressed to quarter size, frees noticeably more closet space than leaving them on hangers year-round. Here's the specific winter approach for Canadian apartment bedrooms:
 
 **Heavy coat storage:** Winter coats don't belong in the bedroom closet year-round. From May through October, store winter coats in vacuum storage bags (~$25–$30 CAD, Amazon.ca) compressed to quarter size, then placed under the bed or in a balcony deck box.
 

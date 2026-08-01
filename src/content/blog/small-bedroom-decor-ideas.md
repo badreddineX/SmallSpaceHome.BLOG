@@ -26,9 +26,21 @@ A small bedroom does not need to feel like a storage closet with a bed in it. Th
 
 ---
 
-## 1. Keep the Colour Palette Light and Cohesive
+## Quick Comparison: Small Bedroom Upgrades by Cost
+
+| Upgrade | Cost (CAD) | Impact |
+|---|---|---|
+| Warm 2700K bulb swap | ~$5 | Fastest way to transform the room |
+| Leaning full-length mirror | $89–$279 | Adds depth, reflects light |
+| Command curtain rod bracket | ~$18 | Ceiling-height curtains without drilling |
+| Curtain panels (2-pack) | $30–$50 | Visually raises the ceiling |
+| Ceiling-height curtain rod | $25–$40 | Pairs with curtain panels above |
+
+## 1. What Colour Palette Makes a Small Bedroom Feel Bigger?
 
 The fastest way to make a small bedroom feel bigger is colour. Dark, heavy colours make walls feel like they're closing in. Light, warm neutrals push walls back visually.
+
+Soft whites and warm creams are the two most reliable choices because they reflect the most natural light of any wall tone, which is why they push a small bedroom's walls back visually more than any darker neutral can.
 
 **Best colours for a small bedroom:**
 - Soft white (not bright white — too harsh)
@@ -38,18 +50,19 @@ The fastest way to make a small bedroom feel bigger is colour. Dark, heavy colou
 
 If you can't paint (most Canadian renters can't), you work with what you have. White walls are actually ideal. Complement them with light-coloured bedding and textiles.
 
-## 2. Position the Bed Correctly
+## 2. How Do You Position the Bed Correctly?
 
 Bed placement is the single biggest factor in how a small bedroom feels. The standard rule is to position the bed against the longest wall, away from the door if possible.
 
 **What this achieves:**
+
 - Maximizes open floor space in front of the bed
 - Creates a clear sightline when you walk in, which reads as spacious
 - Leaves room for two nightstands (one on each side), which makes the room feel balanced
 
 If the room only has one layout option, work with it. But if you have flexibility, try the longest-wall approach first.
 
-## 3. Choose Low-Profile Furniture
+## 3. What Kind of Furniture Works Best in a Small Bedroom?
 
 Furniture that sits high off the ground makes a small bedroom feel taller (good). Furniture that sits low and heavy makes it feel cramped (bad).
 
@@ -60,18 +73,22 @@ Furniture that sits high off the ground makes a small bedroom feel taller (good)
 
 For exact pieces and CAD prices across every room, see [small space furniture for apartments](/blog/small-space-furniture).
 
-## 4. Mirrors Are Non-Negotiable
+## 4. Why Are Mirrors Non-Negotiable in a Small Bedroom?
 
 A mirror in a small bedroom does two things: it creates the visual illusion of depth, and it reflects light — making the room feel brighter and larger.
+
+A leaning full-length mirror runs anywhere from about $89 CAD on Amazon.ca to $279 CAD for the IKEA Canada HOVET, and needs zero installation, which makes it one of the highest-impact no-drill upgrades in this list.
 
 **Best approaches:**
 - **Leaning mirror** — a full-length mirror leaning against the wall requires no installation and works immediately. IKEA Canada HOVET ~$279 CAD, or a full-length mirror from Amazon.ca from ~$89 CAD
 - **Mirrored wardrobe doors** — if you're replacing closet doors or getting a wardrobe, mirrored fronts double the perceived size of the room
 - **Small mirror above the dresser** — reflects light from the window
 
-## 5. Fix the Lighting
+## 5. How Do You Fix Bedroom Lighting?
 
 The overhead light in most Canadian apartment bedrooms is a single central fixture with a harsh bulb. This makes the room feel flat and institutional.
+
+Swapping the overhead bulb for a warm 2700K bulb costs about $5 CAD and is the single fastest lighting change in this guide, instantly making a harsh central fixture feel warm instead of institutional.
 
 **The bedroom lighting upgrade:**
 1. Replace the overhead bulb with a warm 2700K bulb immediately (~$5 CAD)
@@ -80,9 +97,11 @@ The overhead light in most Canadian apartment bedrooms is a single central fixtu
 
 Now you have layered lighting you can adjust for reading, relaxing, or getting ready. The room instantly feels more like a retreat and less like a hotel room.
 
-## 6. Curtains That Go Floor to Ceiling
+## 6. Do Floor-to-Ceiling Curtains Actually Make a Room Look Bigger?
 
 Curtain rods mounted as close to the ceiling as possible, with curtains that fall to the floor, visually increase the room's height dramatically. This is one of the most effective tricks in a small bedroom.
+
+A Command large curtain rod bracket costs about $18 CAD and, paired with a full-length curtain panel, is enough to raise the visual ceiling height without a single drilled hole.
 
 In a rental, a Command large curtain rod bracket (~$18 CAD) or a tension rod curtain system works without drilling.
 
@@ -105,7 +124,7 @@ Every item left on a surface in a small bedroom adds visual noise that makes the
 - Dresser: nothing unless intentional decor (one plant, one small tray for jewelry)
 - Floor: nothing except furniture legs
 
-## 9. Use Vertical Wall Space for Storage and Decor
+## 9. How Do You Use Vertical Wall Space for Storage and Decor?
 
 When floor space is limited, walls become the main design canvas. Floating shelves, small framed art arranged vertically, or a tall headboard all draw the eye upward — which makes the room feel taller.
 
@@ -133,9 +152,11 @@ Every piece in a small bedroom needs to earn its floor space. If you don't use i
 
 ![Floating shelves above the bed maximize vertical wall space without taking any floor space](/images/blog-06-img4.jpg)
 
-## 12. Make the Bed Every Morning
+## 12. Why Does Making the Bed Every Morning Matter So Much?
 
 This is a decor tip, not a lifestyle lecture. An unmade bed is the biggest source of visual chaos in a small bedroom. When the bed is made, the room looks 10 times tidier — even if nothing else is perfect.
+
+In a small bedroom, the bed occupies roughly 60-70% of the visual space, which is why making it every morning has more impact on how tidy the whole room looks than almost any other single habit.
 
 In a small bedroom, the bed is 60–70% of the visual space. Make it and the whole room improves.
 

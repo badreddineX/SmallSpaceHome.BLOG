@@ -22,13 +22,15 @@ faqs:
     a: "Swap seasonal storage (winter clothes out, spring/summer in — vacuum bags ~$25–$30 CAD on Amazon.ca are ideal). Update systems that stopped working over winter. Do a full pantry rotation. This is also a great time to add any <a href='/blog/storage-ideas-for-small-places'>small-space storage solutions</a> you identified as gaps during the colder months."
 ---
 
-Spring in Canada means the apartment shows the full accumulation of a long winter — extra blankets that never made it back to storage, winter clothes piled with nowhere to go, a pantry full of comfort food. Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to. According to CMHC, rental apartments are home to a growing share of Canadians, and a seasonal reset is one of the most practical ways renters can maintain a well-functioning space without permanent changes. After three years in a 510 sq ft Toronto apartment, I do this reset every April without fail — it genuinely makes the space feel new again. This guide takes you through every room in the right order. If you also did a [January reset](/blog/january-reset-organization-ideas) at the start of the year, this spring pass is the second checkpoint — the systems you built in January get tested here.
+Spring in Canada means the apartment shows the full accumulation of a long winter — extra blankets that never made it back to storage, winter clothes piled with nowhere to go, a pantry full of comfort food. Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to. According to CMHC, rental apartments are home to a growing share of Canadians, and a seasonal reset is one of the most practical ways renters can maintain a well-functioning space without permanent changes.
+
+After three years in a 510 sq ft Toronto apartment, I do this reset every April without fail — it genuinely makes the space feel new again. This guide takes you through every room in the right order. If you also did a [January reset](/blog/january-reset-organization-ideas) at the start of the year, this spring pass is the second checkpoint — the systems you built in January get tested here.
 
 **TL;DR:** Declutter before cleaning — remove what doesn't belong before washing what does. The best order is bedroom, then kitchen, then living room, then bathroom, then entryway. Spring is the perfect time to do the winter-to-summer clothing swap (vacuum storage bags, ~$25–$30 CAD, Amazon.ca). Use this reset to install any storage systems that stopped working over winter.
 
 ---
 
-## Before You Start: The Spring Cleaning Sequence
+## What's the Right Order for Spring Cleaning?
 
 The sequence matters. Do this in every room:
 1. **Declutter** — remove everything that doesn't belong
@@ -37,9 +39,19 @@ The sequence matters. Do this in every room:
 
 Most people skip step 1 and wonder why step 3 doesn't last. It doesn't last because there is too much stuff. Decluttering is not optional.
 
-## Skip the Cabinet Full of Cleaners
+## Quick Comparison: The Three-Product Cleaning Kit
+
+| Product | Cost (CAD) | Use For |
+|---|---|---|
+| White vinegar + water (1:1) | ~$3–$5 | Glass, mirrors, hard-water spots |
+| Baking soda paste | ~$2–$4 | Bathtub grime, stovetop grease, oven interior |
+| Dish soap + warm water | ~$3–$5 | Most other surfaces, kitchen and bathroom |
+
+## Do You Really Need a Cabinet Full of Cleaners?
 
 Before you buy a single specialty cleaner, know that most of a spring deep-clean can be done with white vinegar, baking soda, and dish soap — the same three things I've used for three years in my own apartment, and they cost a fraction of name-brand sprays.
+
+White vinegar costs about $3 to $5 CAD per jug and, combined with baking soda and dish soap, replaces the five or more single-purpose cleaning sprays that would otherwise crowd a small apartment's under-sink cabinet.
 
 **The basics:**
 - **White vinegar + water (1:1)** — glass, mirrors, most hard surfaces, and it cuts through the hard-water spots Canadian tap water leaves on faucets and shower doors
@@ -48,9 +60,11 @@ Before you buy a single specialty cleaner, know that most of a spring deep-clean
 
 A jug of white vinegar runs ~$3–$5 CAD at any grocery store and outlasts a whole spring clean. It's not just cheaper — it means one bottle under the sink instead of five different single-purpose sprays taking up cabinet space you don't have in a small apartment.
 
-## The Bedroom
+## How Do You Spring Clean the Bedroom?
 
 Start in the bedroom. It has the highest daily impact — you start and end every day in this room.
+
+The bedroom clothing rule is simple: anything not worn in the last 12 months gets donated, and a 6-bag vacuum storage set (~$25–$30 CAD on Amazon.ca) compresses whatever winter clothing survives the cut down to a fraction of its closet space.
 
 ### Declutter:
 - Pull everything out of the closet. Everything.
@@ -83,9 +97,11 @@ Vacuum bags compress winter clothing to a fraction of its size. ~$25–$30 CAD f
 
 ---
 
-## The Kitchen
+## How Do You Spring Clean the Kitchen?
 
 The kitchen accumulates more than any other room in a Canadian winter. Comfort food ingredients, holiday baking supplies, extra snacks — all of it needs a review in spring.
+
+Spices older than 12 to 18 months lose most of their potency and should be replaced, while a set of clear stackable pantry bins (~$5–$8 CAD each on Amazon.ca) is what actually keeps a reorganized pantry from sliding back into clutter.
 
 ### Declutter:
 - Remove everything from every cabinet and the pantry
@@ -115,7 +131,7 @@ Then add clear stackable bins (~$5–$8 CAD each, Amazon.ca) by category. The sp
 
 ---
 
-## The Living Room
+## How Do You Spring Clean the Living Room?
 
 The living room collects winter detritus — extra blankets that were never put away, seasonal decor that should have come down in January, accumulated books and magazines.
 
@@ -144,6 +160,8 @@ The living room collects winter detritus — extra blankets that were never put 
 ## The Bathroom
 
 The bathroom is a small room that fills up fast. Products accumulate, expired items stay out of habit, and the counter slowly fills with things that should be in a drawer. For a full storage overhaul rather than just a spring reset, see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage).
+
+Skincare and haircare products that haven't been used in the last 3 months are the most common bathroom-cabinet clutter, and clearing them out first is what makes the rest of the reorganization actually stick.
 
 ### Declutter:
 - Every product: check expiry date. Sunscreen, medications, and makeup all expire

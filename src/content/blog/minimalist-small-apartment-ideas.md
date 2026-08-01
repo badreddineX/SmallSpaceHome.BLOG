@@ -20,13 +20,24 @@ faqs:
     a: "It's actually cheaper than most decorating approaches because you buy fewer things. The real cost is time spent decluttering, not a shopping budget. If you want to reinvest the savings, our <a href='/blog/small-space-furniture'>small space furniture guide</a> covers the best multi-functional picks at real CAD prices."
 ---
 
-Minimalism in a small Canadian apartment is not a style choice — it's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in. Minimalism means having exactly what you need and genuinely love, and nothing else. Here's how to approach it without turning your home into an empty showroom. According to CMHC, average rents in major Canadian cities have risen sharply, which means more people are staying in smaller apartments for longer — making livability even more important. I've lived in a 510 sq ft Toronto rental for over three years, and committing to the surfaces rule below was the change that made the biggest difference in how the apartment felt day to day.
+Minimalism in a small Canadian apartment is not a style choice — it's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in. Minimalism means having exactly what you need and genuinely love, and nothing else. Here's how to approach it without turning your home into an empty showroom.
+
+According to CMHC, average rents in major Canadian cities have risen sharply, which means more people are staying in smaller apartments for longer — making livability even more important. I've lived in a 510 sq ft Toronto rental for over three years, and committing to the surfaces rule below was the change that made the biggest difference in how the apartment felt day to day.
 
 **TL;DR:** Start by decluttering one room completely — everything out, then only what serves a clear purpose or brings genuine pleasure goes back. Surface discipline is the daily habit that separates minimalist apartments from the rest: surfaces are either empty or deliberately styled, never used as landing zones. Multi-functional furniture (storage bed, storage ottoman, KALLAX) means you need fewer pieces total. Minimalism costs nothing — the work is editing, not buying.
 
 ---
 
-## What Minimalism Is Not
+## Quick Comparison: Multi-Function Furniture Picks
+
+| Piece | Cost (CAD) | Replaces |
+|---|---|---|
+| IKEA NORDLI storage bed | $399–$699 | Bed + dresser (built-in storage) |
+| Storage ottoman | Varies (Wayfair/HomeSense range) | Coffee table + seating + storage |
+| KALLAX bookcase | Varies (standard IKEA pricing) | Bookshelf + room divider |
+| IKEA FRIHETEN sofa bed | ~$999 | Sofa + guest bed |
+
+## What Does Minimalism Not Mean?
 
 Before getting into the how, it helps to be clear about what minimalist apartment living is not.
 
@@ -42,7 +53,7 @@ It is:
 - A calm feeling when you walk through the door
 - Spaces that are easy to clean and easy to maintain
 
-## Step 1: Declutter One Room Completely
+## Step 1: How Do You Declutter One Room Completely?
 
 Pick one room — ideally the one that bothers you most. Remove everything. Every item on every surface. Every piece of furniture. Then bring back only what serves a clear purpose or brings genuine pleasure.
 
@@ -55,7 +66,7 @@ If the answer to all three is no, it leaves.
 
 This is the entire method. It works in every room. It just takes time and decisive action.
 
-## Step 2: The Surfaces Rule
+## Step 2: What Is the Surfaces Rule?
 
 The single habit that separates minimalist apartments from regular ones is surface discipline. In a minimalist apartment, surfaces are either empty or deliberately styled — never used as landing zones for random objects.
 
@@ -69,7 +80,7 @@ When you come home, things go to their homes — not onto surfaces.
 
 ![A minimalist apartment living room with clear surfaces — every object intentional, nothing left as clutter](/images/blog-16-img2.jpg)
 
-## Step 3: Choose a Colour Palette and Stick to It
+## Step 3: How Do You Choose a Minimalist Colour Palette?
 
 A minimalist apartment has a restrained, cohesive palette. In a small apartment this also makes the space feel larger.
 
@@ -80,9 +91,11 @@ A minimalist apartment has a restrained, cohesive palette. In a small apartment 
 
 Use this palette for everything: furniture, textiles, art, decor objects. When every piece belongs to the same palette, the apartment reads as one unified, calm space.
 
-## Step 4: Multi-Functional Furniture Only
+## Step 4: What Counts as Multi-Functional Furniture?
 
 In a small apartment, every piece of furniture should do at least two things. Minimalism and multi-function are natural partners — fewer pieces that do more.
+
+The IKEA NORDLI storage bed ($399–$699 CAD) and FRIHETEN sofa bed (~$999 CAD) are two examples of furniture that each replace two separate purchases, which is why multi-function pieces let a minimalist apartment need fewer items overall.
 
 **Multi-function essentials:**
 - **Storage bed** — sleeping and storage. IKEA NORDLI ~$399–$699 CAD
@@ -138,9 +151,11 @@ Before buying: one thing in, one thing out.
 
 ---
 
-## What Minimalism Actually Costs in a Canadian Apartment
+## What Does Minimalism Actually Cost in a Canadian Apartment?
 
 The irony of minimalism: the initial declutter is free. You don't buy anything. You remove things.
+
+Because minimalism's only real cost is decluttering time — with occasional targeted purchases to fill a genuine gap — most renters find the net cost of the whole process lands at zero or even negative once impulse spending drops.
 
 The cost of minimalism:
 - Donation or disposal of items you remove (typically free)

@@ -32,7 +32,7 @@ Working from home in a 510 sq ft apartment means your office is also your living
 
 Roughly 22% of Canadians worked from home in some capacity as of late 2025, and about 17% do so most of the time ([Statistics Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/240118/dq240118c-eng.htm), 2025). A huge share of those people are renters in exactly the kind of small urban apartments you find across Toronto, Vancouver, and Montreal — where a dedicated office is a luxury almost nobody has.
 
-So if your "office" is a corner of the bedroom, you're in the majority. The goal isn't a magazine-worthy study. It's a spot that's comfortable for eight hours, doesn't take over the apartment, and can stay set up so you're not rebuilding it every morning.
+With about 22% of Canadians working from home in some capacity and 17% doing so most of the time, the vast majority of remote workers in small Canadian apartments are working from an improvised corner, not a dedicated room. So if your "office" is a corner of the bedroom, you're in the majority. The goal isn't a magazine-worthy study. It's a spot that's comfortable for eight hours, doesn't take over the apartment, and can stay set up so you're not rebuilding it every morning.
 
 ## Where Do You Put a Desk When There's No Office?
 
@@ -51,7 +51,7 @@ Avoid putting the desk where you'll constantly pack it away. The single biggest 
 
 ## What's the Best Desk for a Small Apartment?
 
-The best small-apartment desk is one sized to your actual space, not the biggest one you can afford. A desk that's too deep eats the room; one that's too small leaves you cramped. For most apartments, a 70–100 cm wide surface is the sweet spot.
+The best small-apartment desk is one sized to your actual space, not the biggest one you can afford. A desk that's too deep eats the room; one that's too small leaves you cramped. For most apartments, a 70–100 cm wide surface is the sweet spot, with prices ranging from about $99 CAD for the IKEA MICKE up to $150 CAD for a wall-mounted fold-down option — a functional desk rarely costs more than $150 CAD in Canada.
 
 Here are the picks I'd actually recommend, with real Canadian prices:
 
@@ -77,9 +77,9 @@ For how these fit alongside the rest of your furniture, our [small space furnitu
 
 ![A corner desk with floating shelves above it in a small apartment home office](/images/blog-23-img2.jpg)
 
-## Buy the Chair Before Anything Else
+## Should You Buy the Chair Before Anything Else?
 
-If you work full days, the chair matters more than the desk. A dining chair or a kitchen stool feels fine for an hour and quietly wrecks your back over months. This is the one place in a small home office where spending money pays off.
+If you work full days, the chair matters more than the desk. A dining chair or a kitchen stool feels fine for an hour and quietly wrecks your back over months. A supportive mid-range office chair runs about $200–$400 CAD at Wayfair Canada or Structube — a fraction of the $1,500 CAD price tag on a premium designer chair — making it the single highest-impact purchase for a full-time small-apartment workspace. This is the one place in a small home office where spending money pays off.
 
 You don't need a $1,500 designer chair. A supportive mid-range office chair runs ~$200–$400 CAD at Wayfair Canada or Structube, and it's the best single investment you can make for a workspace. Two things to look for in a small apartment:
 
@@ -90,7 +90,7 @@ If floor space is at an absolute premium, a folding ergonomic chair you store be
 
 ## How Do You Add Storage Without Losing Floor Space?
 
-Build storage *up*, not out. In a small home office, the wall above your desk is the most valuable real estate you have — a floating shelf or two frees the entire desktop and keeps supplies within reach without a single extra piece on the floor.
+Build storage *up*, not out. In a small home office, the wall above your desk is the most valuable real estate you have — a floating shelf or two frees the entire desktop and keeps supplies within reach without a single extra piece on the floor. Floating shelves run about $25–$40 CAD each, a rolling drawer unit like the IKEA ALEX costs roughly $100 CAD, and a monitor riser adds another $30–$60 CAD — together building a full storage system without a single extra piece on the floor.
 
 My setup, from most to least useful:
 
@@ -105,7 +105,7 @@ The rule: if it's on the desktop and you don't use it every day, it belongs on t
 
 ## How Do You Separate Work From Living in One Room?
 
-Create a visual boundary so the workspace reads as its own zone, even without a wall. Your brain needs the signal that work happens *here* and stops *there* — and in a studio or one-bedroom, that boundary is what protects your evenings.
+Create a visual boundary so the workspace reads as its own zone, even without a wall. Your brain needs the signal that work happens *here* and stops *there* — and in a studio or one-bedroom, that boundary is what protects your evenings. A folding screen costs about $80–$150 CAD at Wayfair Canada or Structube and folds away entirely when the workday ends, unlike a rug or bookshelf divider that stays in place permanently.
 
 The easiest ways to divide a work zone in a small apartment:
 
@@ -132,6 +132,8 @@ If you lean minimal, our [minimalist small apartment ideas](/blog/minimalist-sma
 ---
 
 ## Where to Buy Home Office Pieces in Canada
+
+Facebook Marketplace and Kijiji list second-hand desks and chairs at roughly 40–60% off retail, making them worth checking before paying full price at IKEA or Wayfair Canada.
 
 | Store | Best For | Price Range |
 |-------|----------|-------------|

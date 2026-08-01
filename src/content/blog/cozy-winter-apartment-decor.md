@@ -20,15 +20,31 @@ faqs:
     a: "Everything cozy is freestanding or temporary — throw blankets, cushions, candles, plants, warm bulbs, and a floor lamp. None require installation or wall damage. Remove them in spring and the apartment looks exactly as it did when you moved in. Zero deposit risk."
 ---
 
-Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. CMHC data shows that renters occupy roughly one-third of all Canadian households, and most of those apartments rely entirely on portable changes to create warmth and comfort. After three winters in a 510 sq ft Toronto apartment, I can say honestly that the lighting swap and a single chunky throw made the single biggest difference — everything else was a bonus. Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
+Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. CMHC data shows that renters occupy roughly one-third of all Canadian households, and most of those apartments rely entirely on portable changes to create warmth and comfort.
+
+After three winters in a 510 sq ft Toronto apartment, I can say honestly that the lighting swap and a single chunky throw made the single biggest difference — everything else was a bonus. Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
 
 **TL;DR:** Warm 2700K bulbs (swap every cool-white overhead, ~$15–$25 CAD) plus a floor lamp is the single most effective cozy upgrade. Layer textiles: add a chunky throw and heavier cushions to what you already have (HomeSense throws ~$30–$60 CAD). Add winter scent with soy candles (~$20–$35 CAD). A dedicated reading corner with a lamp and blanket turns the apartment into somewhere you actually want to be in February.
 
 ---
 
-## The Cozy Apartment Foundation: Lighting
+## Quick Comparison: Cozy Winter Upgrades by Cost
+
+| Upgrade | Cost (CAD) | Impact |
+|---|---|---|
+| Warm 2700K bulb swap | $15–$25 | Single most effective cozy upgrade |
+| Chunky knit throw | $30–$60 | Layers warmth onto existing sofa/bed textiles |
+| Soy candle | $20–$35 | Fastest trigger of the "cozy" feeling |
+| Reed diffuser | $25–$40 | Scent where candles aren't practical |
+| Essential oil diffuser | $30–$50 | Scent plus adds moisture in dry heated apartments |
+| Small humidifier | $40–$80 | Fixes winter dry-air discomfort |
+| **Full cozy checklist (bulbs, lamp, candles, throw, cushions)** | **$100–$180** | Complete room transformation |
+
+## What's the Foundation of a Cozy Winter Apartment?
 
 Warm lighting is the single most powerful tool for creating a cozy winter atmosphere. Cool white overhead lighting makes a space feel clinical and cold. Warm, low-level lamp lighting makes it feel like a refuge.
+
+Swapping every bulb to warm white 2700K LEDs costs about $15–$25 CAD for a multipack at Canadian Tire, making it the cheapest single change that shifts an apartment from clinical to cozy for the winter.
 
 **The winter lighting switch:**
 1. Replace every bulb with warm white 2700K LEDs — ~$15–$25 CAD for a multipack at Canadian Tire
@@ -41,9 +57,11 @@ Candles are the cozy lighting secret. Even when they're not lit, they signal war
 
 **Good Canadian candle brands:** Paddywax, P.F. Candle Co. (available at HomeSense), and Homesick. Soy candles burn cleaner and longer than paraffin.
 
-## Layer Textiles for Warmth
+## How Do You Layer Textiles for Warmth?
 
 In summer, a sofa has 2–3 cushions and maybe one throw. In winter, it should have 4–6 cushions, two throws, and a heavier-weight blanket available.
+
+Moving from a summer setup of 2–3 cushions to a winter layer of 4–6 cushions plus two throws — including a chunky knit throw from HomeSense at roughly $30–$60 CAD — is the textile shift that does the most to make a sofa feel winter-ready.
 
 **The winter textile layering approach:**
 - **Base:** whatever cushions and throws you already have
@@ -56,7 +74,7 @@ In summer, a sofa has 2–3 cushions and maybe one throw. In winter, it should h
 - IKEA: POLARVIDE throw ~$10 CAD, GURLI cushion covers ~$6 each
 - Amazon.ca: boucle and faux sheepskin cushion covers ~$20–$35 CAD each
 
-## Add Winter-Appropriate Scent
+## What Scents Work Best for a Winter Apartment?
 
 How your home smells in winter is as important as how it looks. Scent is the fastest trigger of the cozy feeling.
 
@@ -65,6 +83,8 @@ How your home smells in winter is as important as how it looks. Scent is the fas
 - Spices: cinnamon, clove, nutmeg
 - Vanilla and amber
 - Winter botanicals: pine, eucalyptus, juniper
+
+Soy candles (~$20–$35 CAD), reed diffusers (~$25–$40 CAD), and essential oil diffusers (~$30–$50 CAD) are the three main ways to add winter scent, with candles delivering the fastest emotional shift toward feeling cozy.
 
 **Delivery methods:**
 - Soy candles (~$20–$35 CAD at HomeSense or specialty shops)
@@ -89,9 +109,11 @@ You don't need a separate room for this. A dedicated corner in the living room, 
 
 ![A winter reading corner with a floor lamp, blanket, and side table — small apartment comfort at its best](/images/blog-19-img4.jpg)
 
-## Upgrade the Bedroom for Winter
+## How Do You Upgrade the Bedroom for Winter?
 
 The bedroom needs a different treatment in winter than in summer. More warmth, more softness, heavier bedding.
+
+Swapping to a 300–400 GSM duvet insert is the single bedding change that makes the most difference for a Canadian winter, since it adds real warmth without changing anything else about the room.
 
 **Bedroom winter upgrades:**
 - Swap to a heavier duvet insert — 300–400 GSM for Canadian winters
@@ -108,9 +130,11 @@ These small additions signal winter intentionally without being overwhelmingly t
 - **Battery-operated fairy lights** on the bookcase or windowsill — warm white, not blinking
 - **A hot drinks station** — if you have the counter space, a small tray with the kettle, mugs, and a selection of teas feels deliberate and welcoming
 
-## Managing Condensation and Dry Air
+## How Do You Manage Condensation and Dry Air?
 
 One practical winter apartment challenge in Canada: heated apartments become very dry (relative humidity can drop below 20%), which is uncomfortable and hard on plants, skin, and wooden furniture.
+
+Heated Canadian apartments can see relative humidity drop below 20%, and a small humidifier (~$40–$80 CAD at Amazon.ca or Canadian Tire) is the most direct fix for the dry air that results.
 
 **Solutions:**
 - A small humidifier in the bedroom (~$40–$80 CAD at Amazon.ca or Canadian Tire)

@@ -20,13 +20,15 @@ faqs:
     a: "Three things signal quality on a budget: a large area rug sized correctly (front legs of the sofa sitting on it), ceiling-height curtains, and layered lighting — floor lamp plus table lamp, no harsh overhead. These three changes cost under $400 CAD combined and transform any rental living room."
 ---
 
-A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor. My living room is about 15 sq m in a 510 sq ft Toronto apartment, and here's the step-by-step process that made it feel like a proper room. According to CMHC, the average Canadian renter's apartment is under 800 sq ft — so these constraints are widely shared. After three years in this Toronto rental, repositioning the sofa was the single most impactful change I made before spending a dollar.
+A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor. My living room is about 15 sq m in a 510 sq ft Toronto apartment, and here's the step-by-step process that made it feel like a proper room.
+
+According to CMHC, the average Canadian renter's apartment is under 800 sq ft — so these constraints are widely shared. After three years in this Toronto rental, repositioning the sofa was the single most impactful change I made before spending a dollar.
 
 **TL;DR:** Get the sofa positioned first — facing the focal point, floated slightly from the wall. Size the rug correctly (160 x 230 cm minimum, front legs of sofa on it). Fix the lighting with warm 2700K bulbs plus a floor lamp. Curtains hung near the ceiling make the room feel taller without any drilling.
 
 ---
 
-## Step 1: Clear Everything and Start Fresh
+## Step 1: How Do You Start a Small Living Room Makeover?
 
 Before rearranging or buying anything, clear the living room completely. Move all furniture out of the way if you can. Stand in the empty room and observe:
 - Where is the natural light coming from?
@@ -36,9 +38,11 @@ Before rearranging or buying anything, clear the living room completely. Move al
 
 These observations determine your layout before you move a single piece of furniture.
 
-## Step 2: Get the Furniture Layout Right
+## Step 2: How Do You Arrange Furniture in a Small Living Room?
 
 The sofa is the anchor. Everything else is arranged around it.
+
+Keeping the sofa under 70% of the wall's length and maintaining at least 90 cm of walking clearance in front of it are the two measurements that most reliably prevent a small living room from feeling cramped.
 
 **Sofa placement rules for a small living room:**
 - Position the sofa facing the main focal point (TV wall or window)
@@ -54,9 +58,11 @@ Once the sofa is placed, the coffee table, rug, and side tables follow naturally
 
 ![A small living room with the sofa floated slightly from the wall and a correctly scaled coffee table](/images/blog-10-img2.jpg)
 
-## Step 3: Size the Rug Correctly
+## Step 3: What Size Rug Do You Need for a Small Living Room?
 
 A rug that is too small is one of the most common living room decorating mistakes. It makes the room feel disconnected and actually smaller.
+
+A rug sized at least 160 × 230 cm — with the front legs of the sofa and seating resting on it — is the minimum size needed to visually unify a small living room, and flat-weave options start around $59 CAD at IKEA.
 
 **Correct sizing for a small living room:**
 - The front legs of the sofa and all seating should be on the rug
@@ -65,9 +71,11 @@ A rug that is too small is one of the most common living room decorating mistake
 
 **Cost:** IKEA flat-weave rugs from ~$59 CAD. Wayfair Canada for more options.
 
-## Step 4: Fix the Lighting Before Buying Decor
+## Step 4: How Do You Fix Small Living Room Lighting?
 
 Single overhead lights make living rooms feel institutional. Layered lighting transforms the feel of the space.
+
+Switching to 2700K warm bulbs (about $15–$25 CAD) and adding a floor lamp ($45–$150 CAD) covers the two cheapest lighting upgrades that make the biggest visible difference in a small living room.
 
 **The three living room lighting layers:**
 - **Ambient:** floor lamp in a corner (soft, diffuse light)
@@ -86,15 +94,19 @@ Most Canadian rental apartments have horizontal blinds or basic roller blinds. T
 
 Curtain panels hung from as close to the ceiling as possible, falling to the floor, transform the feeling of the room. They add height, softness, and colour.
 
+Command curtain rod brackets run about $18 CAD and IKEA LENDA panels $30–$50 CAD, meaning a full ceiling-height curtain upgrade in a rental typically costs $55–$90 CAD without any drilling.
+
 **Renter installation options:**
 - Tension curtain rods (no drilling) — work well for lighter curtains
 - Command large curtain rod brackets (~$18 CAD) — hold heavier curtains without drilling
 
 **Cost:** IKEA LENDA curtain panels (2-pack) ~$30–$50 CAD. Rod ~$25–$40 CAD. HomeSense also carries curtain panels at comparable prices if you want more variety.
 
-## Step 6: Add a Focal Point Feature
+## Step 6: What Makes a Good Focal Point in a Small Living Room?
 
 Every well-designed living room has a clear focal point — the thing your eye goes to first when you enter.
+
+A gallery wall of 6 to 12 framed prints hung with Command strips creates enough visual density to serve as a room's single focal point without a single nail in the wall.
 
 **Renter-friendly focal point ideas:**
 - **Gallery wall** above the sofa — a collection of 6–12 framed prints creates a strong visual anchor. Use Command strips
@@ -105,6 +117,8 @@ Every well-designed living room has a clear focal point — the thing your eye g
 ## Step 7: Add Textiles for Warmth and Colour
 
 Textiles are the fastest way to change the feel of a living room. In a rental where you can't change the walls or floors, they're your primary design tool.
+
+Four to six throw cushions in a single accent colour, paired with one draped blanket, is enough textile layering to change the entire feel of a rental sofa without a full furniture swap.
 
 **The living room textile checklist:**
 - Rug (sized correctly — see Step 3)
@@ -124,7 +138,7 @@ A small living room needs storage, but it shouldn't look like a storage room.
 - **Floating shelves above the sofa** — books and plants, styled intentionally
 - **Wicker basket beside the sofa** — for extra cushions and throws
 
-## Step 9: Plants and Life
+## Step 9: What Plants Work Best in a Small Living Room?
 
 A healthy plant or two in the living room adds the organic element that no designed object can replicate. They add colour, texture, and life.
 

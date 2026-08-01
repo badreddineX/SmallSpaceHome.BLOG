@@ -26,9 +26,23 @@ Decorating a rental apartment in Canada doesn't mean living with beige walls and
 
 ---
 
-## 1. Start With a Colour Story
+## Quick Comparison: Highest-Impact Upgrades by Cost
+
+| Upgrade | Cost (CAD) | Impact |
+|---|---|---|
+| Colour palette | Free | Foundation for every other decision |
+| Textiles (rug, cushions, throw) | Under $150 | Biggest visual impact for the money |
+| Warm 2700K bulb swap | $15–$25 | Changes room mood instantly |
+| Command strip gallery wall | Under $75 (10-piece) | Fills blank walls, zero wall damage |
+| Removable wallpaper accent wall | $40–$90/roll | Biggest single visual upgrade available to renters |
+| Entryway setup | $80–$120 | Defines the first impression of the apartment |
+| Bathroom refresh | $60–$100 | Full no-installation upgrade |
+
+## 1. How Do You Start a Colour Story?
 
 Before you buy a single thing, decide on a colour palette. This is the step most renters skip — and it's why their apartment ends up looking like a random collection of purchases rather than a cohesive home.
+
+A three-colour palette, one neutral base, one main colour, and one accent, keeps every purchase decision fast and consistent, since anything that doesn't fit one of the three gets an automatic no.
 
 Pick 3 colours and stick to them:
 - **A neutral base** — white, cream, beige, or warm grey (usually your walls)
@@ -43,6 +57,8 @@ This costs nothing and makes every decor decision ten times easier.
 
 If you're renting and can't touch the walls or floors, textiles are your best tool. They add colour, warmth, and texture instantly — and they move with you when you leave.
 
+A living room rug needs to measure at least 160 × 230 cm to properly anchor the seating area, small rugs floating under just the coffee table are the most common textile mistake renters make.
+
 **The textile checklist for a rental apartment:**
 - A rug that anchors the living room (160 × 230 cm minimum)
 - Throw cushions in your accent colour — 4 to 6 on the sofa
@@ -52,9 +68,11 @@ If you're renting and can't touch the walls or floors, textiles are your best to
 
 None of these require installation. All of them dramatically change how a space feels.
 
-## 3. Removable Wallpaper for a Feature Wall
+## 3. How Do You Add a Feature Wall Without Damaging It?
 
 This is the biggest visual upgrade available to renters. A peel-and-stick wallpaper feature wall behind the sofa or the bed transforms the feel of an entire room — and it peels off cleanly when you move out.
+
+A typical accent wall takes 2–3 rolls of peel-and-stick wallpaper at $40–$90 CAD per roll, a fraction of the cost of paint and prep work, and it comes off cleanly when the lease ends.
 
 **What to look for:**
 - Repositionable adhesive (not permanent)
@@ -65,9 +83,11 @@ This is the biggest visual upgrade available to renters. A peel-and-stick wallpa
 
 ![Removable peel-and-stick wallpaper transforms a rental bedroom wall without any damage](/images/blog-02-img2.jpg)
 
-## 4. Use Command Strips for Everything on the Walls
+## 4. How Do You Use Command Strips for Everything on the Walls?
 
 Command strips and hooks have completely changed what's possible in a rental apartment. You can hang art, mirrors, shelves, and even curtain rods without touching a wall with a drill.
+
+Command Large Picture Strips hold up to 7.5 kg per set and a pack of 8 costs about $12–$15 CAD, enough weight capacity for framed art or a small floating shelf without ever touching a drill.
 
 **What Command products can hold:**
 - Command Large Picture Strips — up to 7.5 kg per set
@@ -76,9 +96,11 @@ Command strips and hooks have completely changed what's possible in a rental apa
 
 Available at Canadian Tire, Walmart Canada, and Amazon.ca. A pack of 8 large strips runs ~$12–$15 CAD.
 
-## 5. Gallery Walls Make Blank Walls Disappear
+## 5. How Do Gallery Walls Make Blank Walls Disappear?
 
 A well-done gallery wall is one of the most effective apartment decor upgrades you can make. It adds personality, fills dead wall space, and costs far less than a single large piece of art.
+
+IKEA's PJÄTTERYD series alone runs $20–$50 CAD per print, cheap enough to build a full gallery wall of 6–8 frames without spending anywhere close to the price of one large statement piece.
 
 **How to build one without stress:**
 1. Lay all your frames on the floor first and arrange them until you're happy
@@ -92,9 +114,11 @@ A well-done gallery wall is one of the most effective apartment decor upgrades y
 - Your own photos printed at Costco Canada (surprisingly cheap)
 - Thrift stores for interesting frames
 
-## 6. Upgrade Your Lighting
+## 6. How Do You Upgrade Your Lighting on a Budget?
 
 Most rental apartments come with harsh overhead lighting that makes every room feel like a hospital waiting room. Changing the feel of your lighting costs very little and makes a bigger difference than almost anything else.
+
+Swapping cool white 5000K bulbs for warm white 2700K ones costs just $15–$25 CAD for a multipack, making it the cheapest single change that alters how every room in the apartment feels.
 
 **Easy lighting upgrades:**
 - **Swap bulbs** — replace cool white bulbs (5000K) with warm white (2700K) throughout. ~$15–$25 CAD for a multipack at Canadian Tire
@@ -106,15 +130,19 @@ Most rental apartments come with harsh overhead lighting that makes every room f
 
 A healthy plant transforms a corner that would otherwise be dead space. Plants add colour, life, and texture — and they improve air quality in a small apartment.
 
+A pothos or snake plant costs as little as $5–$15 CAD at most garden centres, making plants one of the cheapest ways to fill a dead corner with colour and life.
+
 **Low-maintenance options for Canadian renters:**
 - **Pothos** — thrives in low light, nearly impossible to kill, $5–$15 CAD at most garden centres
 - **ZZ plant** — survives irregular watering, perfect for busy renters
 - **Snake plant** — does well in dim apartments, very low maintenance
 - **Peace lily** — one of the few flowering plants that grows in low light
 
-## 8. Mirrors Multiply Your Space
+## 8. How Do Mirrors Multiply Your Space?
 
 A well-placed mirror does two things at once: it reflects light (making the room brighter) and creates the visual illusion of more space.
+
+A full-length leaning mirror like IKEA's HOVET runs about $279 CAD, while a round wall mirror from Amazon.ca starts around $45 CAD, so brightening a room with reflected light doesn't have to mean a big spend.
 
 **Best mirror placements in a rental apartment:**
 - Leaning a full-length mirror against the wall in the [bedroom](/blog/small-bedroom-decor-ideas) or living room — no installation needed
@@ -125,7 +153,7 @@ A well-placed mirror does two things at once: it reflects light (making the room
 
 ![A well-placed mirror doubles perceived space and reflects natural light throughout the room](/images/blog-02-img3.jpg)
 
-## 9. Declutter Before You Decorate
+## 9. Why Declutter Before You Decorate?
 
 This sounds obvious but most people skip it. You cannot decorate your way out of clutter. More stuff on top of existing clutter just creates more visual noise.
 
@@ -140,14 +168,18 @@ Once you can see your actual space — the furniture, the proportions, the light
 
 How your home smells matters as much as how it looks. A beautifully decorated apartment that smells stale doesn't feel like a home.
 
+An essential oil diffuser costs $30–$50 CAD and doubles as a small humidifier, useful given how dry Canadian apartments get in winter, on top of layering in scent.
+
 **Easy options:**
 - Soy candles — long burning, clean scent, no residue. Canadian brands like P.F. Candle Co. available at HomeSense
 - A reed diffuser for rooms where candles aren't practical
 - An essential oil diffuser — doubles as a small humidifier in dry Canadian winters (~$30–$50 CAD at Amazon.ca)
 
-## 11. Create a Real Entryway
+## 11. How Do You Create a Real Entryway?
 
 Most Canadian apartments have a small awkward entry. A defined entryway sets the tone for the whole apartment.
+
+A full renter-friendly entryway setup, bench, hooks, mirror, and a plant, costs about $80–$120 CAD total and takes only a few hours to put together.
 
 **Renter-friendly entryway setup:**
 - A small bench or shoe rack for footwear (important in Canadian winters)
@@ -169,9 +201,11 @@ Shelves that are just storage look like storage. Shelves that are styled look li
 
 ![Styled shelves with books, plants, and woven baskets — the formula for intentional decor](/images/blog-02-img4.jpg)
 
-## 13. Upgrade Your Bathroom Without Renovating
+## 13. How Do You Upgrade a Bathroom Without Renovating?
 
 The bathroom is often the most neglected room in a rental. You can't retile or replace the fixtures, but you can make it look significantly better.
+
+A complete no-installation bathroom refresh, new bath mat, towels, a plant, and a framed print, costs about $60–$100 CAD total, cheap compared to any actual renovation work a renter can't do anyway.
 
 **Bathroom decor that requires zero installation:**
 - A new bath mat and matching towels in your colour palette
@@ -198,7 +232,7 @@ A cohesive, decorated apartment takes time — but you don't have to do it all a
 
 → Living room specifically? [How to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through layout, lighting, and colour in the right order.
 
-## The Rental Apartment Decor Priority Order
+## What's the Rental Apartment Decor Priority Order?
 
 Do these first for the fastest transformation:
 

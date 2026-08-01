@@ -20,13 +20,24 @@ faqs:
     a: "Light as the base — bright white, warm cream, or soft greige make walls recede and spaces feel larger. Dark accents work well in cushions, art, and small accessories, but keep the main surfaces light. Even in a rental with fixed wall colours, light bedding and rugs go a long way."
 ---
 
-Most small space decorating advice is a product list. That's useful, but it skips the more important question: why does small space decorating work differently? Once you understand why light colours expand a space and why furniture with legs makes a room feel larger, you can apply those principles to every decision. Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment. According to CMHC, rental apartments make up a significant share of Canada's housing stock — and most renters can't alter their walls, which makes knowing these principles even more valuable.
+Most small space decorating advice is a product list. That's useful, but it skips the more important question: why does small space decorating work differently? Once you understand why light colours expand a space and why furniture with legs makes a room feel larger, you can apply those principles to every decision. Here are the 14 principles I've learned from three years in a 510 sq ft Toronto apartment.
+
+According to CMHC, rental apartments make up a significant share of Canada's housing stock — and most renters can't alter their walls, which makes knowing these principles even more valuable.
 
 **TL;DR:** Light colours, mirrors, and furniture with visible legs are the three principles that deliver the most visual space. Area rugs must be correctly sized — a too-small rug makes a room feel smaller, not larger. One cohesive 3-colour palette throughout makes the whole apartment read as one unified space. Clear surfaces are non-negotiable: clutter visually compresses every room.
 
 ---
 
-## Rule 1: Light Colours Expand, Dark Colours Contract
+## Quick Comparison: Highest-Impact Rules by Cost
+
+| Rule | Cost (CAD) | Impact |
+|---|---|---|
+| Light colour palette | Free (work with existing walls) | Makes walls appear farther away |
+| Textiles (rug, cushions, throw) | Under $200 | Most design impact per dollar in a rental |
+| Leaning full-length mirror | ~$279 | Reflects light, creates depth |
+| Matching bath textiles | Under $60 | Same textile-first principle for the bathroom |
+
+## Rule 1: What Colours Make a Small Space Feel Bigger?
 
 This is the most fundamental principle in small space decorating. Light, warm neutrals — soft white, cream, warm greige — reflect light and make walls appear farther away. Dark colours absorb light and make walls feel closer.
 
@@ -34,9 +45,11 @@ For renters who can't paint: work with what you have. If your walls are white, k
 
 Use dark colours as accents only — a navy cushion, a black picture frame, a dark green plant pot.
 
-## Rule 2: Scale Furniture to the Room
+## Rule 2: How Do You Scale Furniture to a Small Room?
 
 A sofa that's 240 cm long in a 300 cm wide living room is going to dominate the space completely. Always measure before buying.
+
+Keeping the sofa under 70% of the facing wall, sizing the coffee table at roughly two-thirds the sofa's length, and leaving 90 cm of walkway clearance are the three measurements that keep furniture proportional in a small room.
 
 **The proportional guide:**
 - Sofa: no longer than 70% of the wall it faces
@@ -45,7 +58,7 @@ A sofa that's 240 cm long in a 300 cm wide living room is going to dominate the 
 
 When in doubt, buy the smaller size. A slightly small piece of furniture makes a room feel open. A slightly large one makes it feel cramped.
 
-## Rule 3: Furniture With Legs Creates Visual Breathing Room
+## Rule 3: Why Does Furniture With Legs Create Visual Breathing Room?
 
 Low, solid furniture that sits on the floor (platform beds, storage cubes, blocky sofas) creates a visual heaviness in a small room. Furniture with legs lets the floor continue underneath — the eye reads this as more space.
 
@@ -65,7 +78,7 @@ The space above eye level in most Canadian apartments is completely unused. This
 - Hang art in tall vertical configurations rather than wide horizontal ones
 - Curtain rods as close to the ceiling as possible, curtains to the floor
 
-## Rule 5: One Strong Focal Point Per Room
+## Rule 5: What Should the Focal Point of Each Room Be?
 
 A small room with competing focal points — a busy gallery wall, a patterned sofa, a colourful rug, and a colourful accent wall all in the same room — feels chaotic and smaller than it is.
 
@@ -73,9 +86,11 @@ Choose one focal point per room and make it strong. Everything else plays a supp
 
 In a living room, the focal point is usually the sofa and the wall behind it. In a bedroom, it's the bed wall. Design to that point and keep the rest restrained.
 
-## Rule 6: Mirrors in Strategic Positions
+## Rule 6: Where Should You Place Mirrors in a Small Space?
 
 Mirrors create the illusion of depth and reflect light, making any room feel larger and brighter. The key is placement.
+
+A leaning full-length mirror like the IKEA HOVET, at around $279 CAD, needs no drilling and works simply by being propped opposite or beside a window.
 
 **Best mirror placements:**
 - Opposite or beside a window — reflects natural light back into the room
@@ -84,7 +99,7 @@ Mirrors create the illusion of depth and reflect light, making any room feel lar
 
 No drilling required: lean a large mirror against the wall (IKEA HOVET, ~$279 CAD) or use Command strips for lighter options.
 
-## Rule 7: Layer Your Lighting
+## Rule 7: How Do You Layer Lighting in a Small Apartment?
 
 Single overhead lights make every room feel flat. Layered lighting — ambient, task, and accent — creates depth and warmth that makes a small apartment feel like a home.
 
@@ -101,6 +116,8 @@ Warm bulbs (2700K) throughout. Avoid cool white or daylight bulbs in residential
 
 In a rental apartment where you can't change the walls, floors, or architecture, textiles do the most work.
 
+A rug, throw cushions, and a blanket can transform a living room's feel for under $200 CAD, while matching bathroom textiles do the same job for under $60 CAD — making textiles the cheapest design lever in a rental.
+
 **A rug, throw cushions, and a blanket** transform the look and feel of a living room for under $200 CAD. You'll find solid options at Wayfair Canada and HomeSense — both carry a wide range of affordable textiles that travel well from apartment to apartment. Matching towels and a bath mat do the same for the bathroom for under $60 CAD.
 
 Textiles also pack when you move. Every cent spent on quality textiles follows you to the next apartment.
@@ -113,7 +130,7 @@ The goal: only things that are beautiful or used daily are visible. Everything e
 
 Start with one surface — clear it completely, then style it intentionally with 1–3 objects. That's how a styled surface looks different from a cluttered one.
 
-## Rule 10: Use One Cohesive Colour Palette Throughout
+## Rule 10: How Do You Use One Cohesive Colour Palette Throughout?
 
 A small apartment that feels cohesive feels larger than one with a different colour story in every room. Pick 3 colours and carry them throughout:
 - A neutral base (walls, larger furniture)
@@ -122,9 +139,11 @@ A small apartment that feels cohesive feels larger than one with a different col
 
 When every room shares the same palette, the whole apartment reads as one unified space — which makes it feel bigger.
 
-## Rule 11: Area Rugs Define and Separate
+## Rule 11: How Do Area Rugs Define and Separate a Small Space?
 
 In a studio apartment, rugs create zones where there are no walls. In a regular apartment, they anchor furniture groupings and give each room a sense of defined space.
+
+The rug in a bedroom should extend 50–60 cm past each side of the bed, which is the sizing rule that keeps a too-small rug from making the room look smaller instead of larger.
 
 **Sizing is critical:** a too-small rug makes a room feel smaller, not larger. The front legs of the sofa should be on the rug in the living room. The rug in the bedroom should extend 50–60 cm on either side of the bed.
 
@@ -140,9 +159,11 @@ One rule: only buy plants you can keep alive. A healthy pothos is infinitely bet
 
 A small apartment filled with 20 mediocre furniture and decor pieces looks worse than one with 8 carefully chosen pieces with room to breathe.
 
+A small apartment furnished with around 8 carefully chosen pieces reads as more spacious than one filled with 20 mediocre ones, since each additional item adds visual weight regardless of quality.
+
 Buy less, choose carefully, and leave space. The empty space is not waste — it is part of the design.
 
-## Rule 14: Edit Regularly
+## Rule 14: How Often Should You Edit a Small Apartment?
 
 Small spaces require ongoing curation. Things accumulate. New items come in, old ones don't leave. The one-in-one-out rule is the simplest maintenance habit: every time something new arrives, something old leaves.
 

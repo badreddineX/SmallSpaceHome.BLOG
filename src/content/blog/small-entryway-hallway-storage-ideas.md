@@ -32,6 +32,15 @@ Small apartment entryways get almost no design attention, but they take the most
 
 ---
 
+## Quick Comparison: Entryway Storage by Cost
+
+| Item | Cost (CAD) | Solves |
+|---|---|---|
+| Drop-zone tray | $2–$20 | Keys/wallet/mail scatter |
+| Freestanding shoe bench or rack | $25–$59 | Shoes piled at the door |
+| Tension-rod or over-door coat storage | $12–$35 | Missing coat closet |
+| Slim console table (20–25 cm deep) | $60–$120 | Landing surface in a narrow hallway |
+
 ## What's the Best No-Drill Shoe Storage for a Small Entryway?
 
 A freestanding shoe bench with open cubbies underneath holds 8–10 pairs and needs zero wall mounting, since the whole unit sits on its own legs. IKEA's TJUSIG bench (~$59 CAD) is the option I keep recommending because it doubles as a place to sit while you put boots on. I've used one in two different rentals and moved it between apartments without a single tool.
@@ -88,9 +97,9 @@ A drop zone is a fixed spot near your door for keys, wallet, and mail so you're 
 
 ---
 
-## The Entryway Priority Order for Canadian Renters
+## What's the Entryway Priority Order for Canadian Renters?
 
-Start with whichever piece solves your biggest daily friction point, then layer in the rest as budget allows:
+Start with whichever piece solves your biggest daily friction point, then layer in the rest as budget allows. Together, the four pieces on this list range from a $2 CAD drop-zone tray up to a $120 CAD console table, so a full entryway setup can land anywhere from about $40 CAD to just under $250 CAD depending on what you already own.
 
 1. **Drop-zone tray** ($2–$20 CAD) — cheapest fix, biggest daily habit change
 2. **Freestanding shoe bench or rack** ($25–$59 CAD) — clears the floor immediately

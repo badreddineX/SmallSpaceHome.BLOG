@@ -32,6 +32,19 @@ This guide covers both situations: the in-suite stacked closet, and the shared b
 > - A $4–$6 CAD Dollarama caddy is the single best upgrade for shared building laundry rooms.
 > - Full in-suite setup: $90–$140 CAD. Shared-laundry setup: under $50 CAD.
 
+## Quick Comparison: In-Suite vs. Shared Laundry Storage
+
+| Solution | Cost (CAD) | Best For |
+|---|---|---|
+| Tension-rod shelf above stacked machines | $35–$50 | Closets under 3 ft wide with dead space above the unit |
+| Narrow wire shelving unit | $40–$60 | Closets where a tension shelf won't fit the exact width |
+| Over-door detergent rack | $22–$32 | Adding a second storage zone with zero tools |
+| IKEA RASKOG rolling cart | ~$39 | Floor space beside a stacked unit |
+| Dollarama plastic caddy | $4–$6 | Carrying supplies to a shared building laundry room |
+| Canvas laundry tote | $20–$30 | Sturdier carry for a longer walk to the laundry room |
+| **Full in-suite system** | **$90–$140** | Shelf + door rack + rolling cart combined |
+| **Shared-laundry setup** | **Under $50** | Caddy + rolling hamper only |
+
 ## How Do You Organize a Tight In-Suite Laundry Closet?
 
 Most stacked washer/dryer closets in Canadian apartments are under 3 feet wide, with nothing above the machines but dead air. Statistics Canada's most recent housing data shows in-suite laundry is now included in roughly a third of newer purpose-built rental units ([CMHC Rental Market Survey](https://www.cmhc-schl.gc.ca/), 2024), yet almost none come with built-in storage.
@@ -48,7 +61,7 @@ If a tension shelf won't fit your closet's exact width, a freestanding wire shel
 
 ## What Goes on an Over-the-Door Detergent Rack?
 
-An over-door rack turns the back of your laundry closet door into a second storage zone, holding detergent pods, stain sticks, and lint roller refills at eye level. It clips over a standard door in under two minutes with zero tools or drilling required.
+An over-door rack turns the back of your laundry closet door into a second storage zone, holding detergent pods, stain sticks, and lint roller refills at eye level. It clips over a standard door in under two minutes with zero tools or drilling required, and at $22–$32 CAD it's one of the fastest, cheapest storage upgrades available for a rental laundry closet.
 
 Keep the heaviest items, full detergent jugs, on the lowest shelf so the rack doesn't sag or pull the door hinge over time. In my current apartment, moving detergent off the dryer top and onto a door rack freed up the only flat surface in the closet, which now holds my drying rack when it's folded down.
 
@@ -56,7 +69,7 @@ Keep the heaviest items, full detergent jugs, on the lowest shelf so the rack do
 
 ## Should You Add a Rolling Cart Beside the Laundry Closet?
 
-A rolling cart parked beside your stacked unit solves the "no floor space" problem by adding storage that moves out of the way when you need to open the dryer door fully. It holds a hamper, folded towels, or a stain-treatment kit on wheels.
+A rolling cart parked beside your stacked unit solves the "no floor space" problem by adding storage that moves out of the way when you need to open the dryer door fully. The IKEA RASKOG cart runs about $39 CAD and measures roughly 18 inches wide, narrow enough to slide into the gap beside most stacked units without blocking the dryer door. It holds a hamper, folded towels, or a stain-treatment kit on wheels.
 
 The IKEA RASKOG cart (~$39 CAD) is the standard pick here, same one recommended in our <a href="/blog/storage-ideas-for-small-places">small apartment storage ideas</a> guide, because its narrow footprint (about 18 inches wide) slides into the gap next to most stacked units. Roll it out to sort laundry, roll it back when you're done.
 
@@ -84,7 +97,7 @@ If your building laundry room still runs on coins, a small labelled jar by your 
 
 ## How Do You Sort Laundry in a Small Apartment Without a Dedicated Room?
 
-Sorting laundry without a mudroom or laundry room means using stackable bins or a divided hamper that lives in a closet or bedroom corner. A three-section hamper (darks, lights, delicates) keeps sorting passive instead of becoming a weekly chore.
+Sorting laundry without a mudroom or laundry room means using stackable bins or a divided hamper that lives in a closet or bedroom corner. A three-section hamper stand like IKEA's JÄLL costs about $40 CAD and sorts darks, lights, and delicates automatically, turning a weekly chore into a passive habit instead of a pile that needs re-sorting on wash day.
 
 Place the hamper inside a closet on a slim shelf, using the same vertical-storage logic covered in our <a href="/blog/small-apartment-organization">small apartment organization guide</a>, so it doesn't eat floor space in the bedroom itself.
 

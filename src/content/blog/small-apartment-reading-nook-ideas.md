@@ -26,18 +26,18 @@ Pinterest searches for "comfy reading chair small spaces" are up 455% year over 
 
 ---
 
-## 1. Claim a Corner, Not a Room
+## 1. How Do You Claim a Corner Instead of a Room?
 
-You don't need four walls for a reading nook — you need one corner that isn't doing anything else. The most common candidates in a Canadian apartment: a window corner in the living room, the awkward gap beside a bookcase, or the dead zone at the end of a hallway.
+You don't need four walls for a reading nook — you need one corner that isn't doing anything else. A reading nook needs at least 70 cm × 70 cm of clear floor space for the chair — smaller than that, and even a compact accent chair won't fit without blocking a walkway. The most common candidates in a Canadian apartment: a window corner in the living room, the awkward gap beside a bookcase, or the dead zone at the end of a hallway.
 
 **What makes a corner work:**
 - At least 70 cm × 70 cm of clear floor space for the chair
 - Access to natural light or an outlet for a lamp
 - Not a walkway — if people have to step around it daily, it won't stay a nook for long
 
-## 2. Pick a Chair That's Actually Scaled to the Space
+## 2. What Chair Is Actually Scaled to a Reading Nook?
 
-The single biggest mistake is dragging in a full-size armchair meant for a living room. A reading nook chair should be narrower and lower-profile.
+The single biggest mistake is dragging in a full-size armchair meant for a living room. Prices span from about $139 CAD for the IKEA POÄNG up to $399 CAD for the Structube Zoe swivel — a roughly $260 CAD range depending on how much the chair needs to do. A reading nook chair should be narrower and lower-profile.
 
 **Apartment-scaled options:**
 - **IKEA STRANDMON** (~$379 CAD) — wing-back style, classic reading-chair shape, fits most corners
@@ -45,9 +45,9 @@ The single biggest mistake is dragging in a full-size armchair meant for a livin
 - **IKEA POÄNG** (~$139 CAD) — the budget option, lightweight enough to move for cleaning
 - **Wayfair Canada slipper chairs** — armless designs from ~$220 CAD, the narrowest footprint of the four
 
-## 3. Get the Lighting Right — This Is Non-Negotiable
+## 3. Why Is Lighting Non-Negotiable in a Reading Nook?
 
-A reading nook without dedicated light is just a chair. Overhead lighting isn't enough for actually reading; you need a light source pointed at the page.
+A reading nook without dedicated light is just a chair. An arc floor lamp runs about $89 CAD versus $45 CAD for a basic task lamp, and either should use a warm 2700K bulb — never a cool white one — to keep the corner reading as cozy rather than clinical. Overhead lighting isn't enough for actually reading; you need a light source pointed at the page.
 
 - **Arc floor lamp** — angles light directly over the chair without needing a side table underneath it. IKEA ~$89 CAD.
 - **Task floor lamp with adjustable head** — Amazon.ca options from ~$45 CAD, more affordable but less design impact.
@@ -55,19 +55,19 @@ A reading nook without dedicated light is just a chair. Overhead lighting isn't 
 
 ## 4. Add One Small Surface
 
-You need somewhere for a mug, your phone, or the book you're not currently reading. It doesn't need to be a full side table.
+You need somewhere for a mug, your phone, or the book you're not currently reading. The IKEA LACK side table costs about $14.99 CAD, the cheapest option that still looks intentional rather than improvised. It doesn't need to be a full side table.
 
 - **IKEA LACK side table** (~$14.99 CAD) — the cheapest option that still looks intentional
 - **A wall-mounted floating shelf** at arm height, if floor space is genuinely too tight for a table
 - **A small stool** repurposed as a side table works in a pinch
 
-## 5. Anchor the Corner With a Rug
+## 5. Does a Rug Really Anchor the Corner?
 
-Even a small rug (roughly 90 cm × 150 cm) visually separates the reading nook from the rest of the room, the same zoning trick that works in a [studio apartment](/blog/studio-apartment-ideas). IKEA flat-weave rugs in this size run ~$39 CAD.
+Even a small rug (roughly 90 cm × 150 cm) visually separates the reading nook from the rest of the room, the same zoning trick that works in a [studio apartment](/blog/studio-apartment-ideas). At about $39 CAD for an IKEA flat-weave option in this size, even that small a rug is enough to make the corner read as its own zone.
 
 ## 6. Build a "Closet Reading Nook" If You're Truly Out of Space
 
-The "closet reading nook for adults" trend (+55% search growth) is exactly what it sounds like — converting an underused closet into a tiny reading corner. This works best with a walk-in or reach-in closet that isn't earning its space as storage.
+The "closet reading nook for adults" trend (+55% search growth) is exactly what it sounds like — converting an underused closet into a tiny reading corner. Searches for this idea are up 55% year over year, and the trend works best in a walk-in or reach-in closet that isn't already earning its keep as storage. This works best with a walk-in or reach-in closet that isn't earning its space as storage.
 
 **What it takes:**
 - Remove the closet door, or replace it with a curtain on a tension rod
@@ -78,24 +78,24 @@ For everything else that closet could be doing instead, see [small closet organi
 
 ## 7. Layer in Soft Textiles
 
-A throw blanket and one or two cushions do more to make a corner feel like a "nook" than almost anything else on this list, and they cost almost nothing by comparison.
+A throw blanket and one or two cushions do more to make a corner feel like a "nook" than almost anything else on this list, and they cost almost nothing by comparison. A chunky knit throw runs about $35–$60 CAD and two cushions add another $15–$25 CAD each — a combined cost that does more for the room than almost anything else in this list.
 
 - Chunky knit throw — Simons or HomeSense, ~$35–$60 CAD
 - 2 cushions in a complementary texture — Amazon.ca or HomeSense, ~$15–$25 CAD each
 
-## 8. Use a Bookshelf as a Backdrop, Not Just Storage
+## 8. Can a Bookshelf Double as a Backdrop, Not Just Storage?
 
 If your reading nook sits beside a bookcase, treat the shelf itself as part of the design — not just a place books happen to live. An IKEA BILLY or KALLAX placed behind or beside the chair does double duty: storage and atmosphere.
 
 This is also a good spot to apply the [small apartment organization](/blog/small-apartment-organization) principle of keeping every surface intentional — one nook, one clear purpose, nothing spilling onto the floor around it.
 
-## 9. Make It Renter-Friendly by Default
+## 9. How Do You Make a Reading Nook Renter-Friendly by Default?
 
-Every item on this list is freestanding or removable. If you want wall art or string lights above the nook, Command strips (rated to 3.6 kg per pair, available at Canadian Tire and Amazon.ca) hang picture frames and light strings without any wall damage — full deposit back at move-out.
+Every item on this list is freestanding or removable. Command strips are rated to hold 3.6 kg per pair, enough for picture frames or light strings above the nook without a single nail or lost deposit. If you want wall art or string lights above the nook, Command strips (rated to 3.6 kg per pair, available at Canadian Tire and Amazon.ca) hang picture frames and light strings without any wall damage — full deposit back at move-out.
 
-## 10. Add a Reading Light That Doubles as a Nightlight
+## 10. Can a Reading Light Double as a Nightlight?
 
-If the nook is anywhere near a bedroom or hallway, a floor lamp on a smart plug (~$15 CAD at Amazon.ca) lets you use the same fixture as ambient lighting at night, which makes the corner feel used even when you're not actively reading there.
+If the nook is anywhere near a bedroom or hallway, a floor lamp on a smart plug (~$15 CAD at Amazon.ca) lets you use the same fixture as ambient lighting at night. At about $15 CAD, that smart plug turns the same reading lamp into an ambient nightlight, so the corner looks used even when no one is actually reading there.
 
 ---
 

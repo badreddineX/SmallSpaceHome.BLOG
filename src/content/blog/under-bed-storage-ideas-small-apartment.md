@@ -20,7 +20,9 @@ faqs:
     a: "Standard flat storage bins need about 15 cm (6 inches) of clearance. Measure your bed's actual gap with a tape measure before buying — many platform and low-profile frames only clear 8–10 cm without risers."
 ---
 
-The space under your bed can hold two full storage bins per side, yet most Canadian renters use it for a stray sock and a suitcase. I measured my own bed frame before writing this: 11 cm of clearance, just short of the 15 cm most bins need. A $22 CAD set of risers fixed that in ten minutes. This post is a deep dive on that one zone specifically. For the full-room approach, see our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide, and for storage across the whole apartment, check our [small apartment storage ideas](/blog/storage-ideas-for-small-places) roundup.
+The space under your bed can hold two full storage bins per side, yet most Canadian renters use it for a stray sock and a suitcase. I measured my own bed frame before writing this: 11 cm of clearance, just short of the 15 cm most bins need. A $22 CAD set of risers fixed that in ten minutes.
+
+This post is a deep dive on that one zone specifically. For the full-room approach, see our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide, and for storage across the whole apartment, check our [small apartment storage ideas](/blog/storage-ideas-for-small-places) roundup.
 
 > **Key Takeaways**
 > - Bed risers (~$25 CAD) add roughly 15 cm of clearance and are usually the single best first purchase for this zone.
@@ -30,6 +32,16 @@ The space under your bed can hold two full storage bins per side, yet most Canad
 > - Measure clearance with a tape measure before buying anything.
 
 ---
+
+## Quick Comparison: Under-Bed Storage Options
+
+| Option | Cost (CAD) | Clearance Needed | Best For |
+|---|---|---|---|
+| Bed risers | $20–$28 | Adds ~12–15 cm | The first fix if clearance is under 15 cm |
+| Flat lidded bins | Varies (bin cost) | ~15 cm | Shape-sensitive items: shoes, folded sweaters |
+| IKEA SKUBB bags | ~$14 (2-pack) | ~12 cm | Off-season clothes and linens, softer-sided |
+| Vacuum-seal bags | $25–$30 (6-pack) | Works in tight clearance | Bulky items: duvets, winter coats |
+| Rolling drawers | $40–$70 | 15–18 cm minimum | Frequent access, platform beds with enough gap |
 
 ## Why Bed Risers Are the First Thing to Buy
 

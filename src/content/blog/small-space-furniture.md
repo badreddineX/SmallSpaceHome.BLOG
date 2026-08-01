@@ -26,9 +26,9 @@ Furnishing a small Canadian apartment is a decision-making exercise disguised as
 
 ---
 
-## The Multi-Function Rule
+## What's the Multi-Function Rule for Small-Space Furniture?
 
-In a small space, every major piece of furniture should do at least two things. This is not optional — it's the organizing principle of small-space furnishing.
+In a small space, every major piece of furniture should do at least two things. This is not optional — it's the organizing principle of small-space furnishing. In a Canadian apartment under 600 sq ft, a single piece that only does one job — a coffee table that's just a coffee table — is wasted floor space you can't get back.
 
 - Sofa → sofa + sleeping surface
 - Ottoman → seating + coffee table + storage
@@ -38,7 +38,9 @@ In a small space, every major piece of furniture should do at least two things. 
 
 When you shop with this principle in mind, your choices narrow considerably — and the space works much better.
 
-## The Best Small Space Furniture Picks in Canada
+## What Are the Best Small Space Furniture Picks in Canada?
+
+Prices for the picks below span roughly $19 CAD for a LACK side table up to $999 CAD for the FRIHETEN sofa bed, covering every furniture category a small Canadian apartment needs in one list.
 
 ### Sofas
 
@@ -159,7 +161,7 @@ For how to make the living room side of this work, see [small space living room 
 
 ---
 
-## Where to Buy Furniture in Canada
+## Where Should You Buy Furniture in Canada?
 
 | Store | Best For | Price Range |
 |-------|---------|-------------|

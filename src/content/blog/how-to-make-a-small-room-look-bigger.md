@@ -20,7 +20,9 @@ faqs:
     a: "When a sofa, bed, or chair sits on visible legs, the eye sees the unbroken floor beneath — and that continuous floor line makes the room read as larger. A solid platform bed or sofa that rests directly on the floor interrupts that line and makes the space feel more closed and compressed."
 ---
 
-Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase. According to CMHC, the average Canadian apartment renter lives in units under 700 sq ft — so these tricks apply to most of us. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment, grouped by what they actually work on: colour, floor space, height, and editing.
+Making a small room look bigger is mostly visual psychology. The eye is easily tricked by light, colour, lines, and scale — and once you understand the tricks, you can apply them to any room in your apartment. None of these require a renovation. Most don't even require a significant purchase.
+
+According to CMHC, the average Canadian apartment renter lives in units under 700 sq ft — so these tricks apply to most of us. Here are the 13 that have made the biggest difference in my 510 sq ft Toronto apartment, grouped by what they actually work on: colour, floor space, height, and editing.
 
 If you want to know where the biggest wins are before reading further:
 
@@ -33,11 +35,11 @@ If you want to know where the biggest wins are before reading further:
 
 ---
 
-## Colour and Light
+## What Colours and Lighting Make a Room Look Bigger?
 
 The eye judges the size of a room mostly by how light moves through it. These three tricks are where every small room should start.
 
-### Use Light Colours as the Primary Palette
+### What Colours Should You Use as the Primary Palette?
 
 The most fundamental trick in small-space decorating: light colours make walls feel farther away. Dark colours make them feel closer.
 
@@ -54,9 +56,11 @@ Pick three colours and stick to them throughout the room:
 - A main colour (shows up in textiles and furniture)
 - An accent colour (cushions, art, and one or two objects)
 
-### Add a Large Mirror Opposite a Light Source
+### Do Mirrors Actually Make a Room Look Bigger?
 
 A mirror that faces a window reflects the outdoor light back into the room, effectively doubling the brightness. It also creates the visual impression of a second room beyond the reflection — depth where there is none.
+
+A leaning full-length mirror opposite a window costs as little as $89 CAD on Amazon.ca, or $279 CAD for the IKEA HOVET, and needs zero installation to double the perceived light in a small room.
 
 **Best placement:**
 - Leaning against the wall opposite a window
@@ -75,11 +79,11 @@ This is one of the most effective tricks for making a small apartment feel large
 
 ![Ceiling-height curtains falling to the floor make this small bedroom feel significantly taller](/images/blog-14-img3.jpg)
 
-## Furniture and the Floor Line
+## How Does Furniture Choice Affect How Big a Room Looks?
 
 Visible floor is the strongest "this room is big" signal there is. Everything in this section protects it.
 
-### Choose Furniture With Legs
+### Does Furniture With Legs Really Make a Room Look Bigger?
 
 Furniture that sits on visible legs keeps the floor line unbroken — the eye reads this as more floor space and more room. Furniture that sits flat on the floor (platform beds, low sectionals, solid storage cubes) interrupts the floor plane and makes the room feel more compressed.
 
@@ -105,11 +109,11 @@ This means:
 - Rugs that are the right size (a rug that covers the floor correctly doesn't interrupt the floor — a too-small rug creates a strange floating island effect)
 - Furniture with legs (see above)
 
-## Height and Proportion
+## How Do You Add Visual Height to a Small Room?
 
 Once the floor is handled, the next dimension to work on is vertical.
 
-### Use Vertical Lines to Add Visual Height
+### How Do Vertical Lines Add Visual Height?
 
 The eye follows lines. Vertical lines draw the eye upward, creating the impression of more ceiling height.
 
@@ -127,29 +131,29 @@ Warm bulbs (2700K) throughout. Avoid cool or daylight bulbs in living spaces.
 
 Cost: warm bulb swap ~$15 CAD. Floor lamp from ~$45 CAD.
 
-### Size Your Rug Correctly
+### What Size Rug Makes a Room Look Bigger?
 
 A rug that is too small for the room creates a floating island effect that actually makes the room look smaller. A correctly sized rug — front legs of all furniture on the rug — creates a unified ground plane that makes the room look larger.
 
-Minimum size for a small living room: 160 × 230 cm.
+At minimum 160 × 230 cm — with the front legs of every seating piece resting on it — a rug creates the unified ground plane that keeps a small living room from looking visually fragmented.
 
 ![A correctly sized area rug with furniture legs on it unifies the floor plane and makes the room look larger](/images/blog-14-img4.jpg)
 
-## Edit Ruthlessly
+## Why Does Editing Ruthlessly Make a Room Look Bigger?
 
 The final group is about restraint — the discipline that makes all the other tricks land.
 
-### Reduce the Number of Items in the Room
+### Does Removing Items Actually Make a Room Feel Bigger?
 
 This is the anti-accumulation principle. Every item in a small room takes visual space. The fewer items, the more spacious the room feels.
 
 This doesn't mean bare minimalism. It means editing deliberately: keep what serves a purpose or brings genuine pleasure, remove the rest.
 
-### Use Glass or Lucite for Secondary Furniture
+### Does Glass or Lucite Furniture Make a Room Look Bigger?
 
 Glass and clear acrylic (Lucite) furniture are visually transparent — the eye reads through them rather than stopping at them. A glass coffee table or acrylic chair takes physical space but not visual space.
 
-**Budget option:** IKEA VITTSJÖ glass and metal shelving unit, ~$70–$130 CAD.
+The IKEA VITTSJÖ glass and metal shelving unit, at roughly $70–$130 CAD, is a budget example of furniture that takes up physical floor space without registering as visual clutter.
 
 ### Keep One Feature — Not Many
 

@@ -26,7 +26,19 @@ A studio apartment challenges you to sleep, eat, work, and relax in a single spa
 
 ---
 
-## 1. Define Zones Before You Arrange Furniture
+## Quick Comparison: Studio Zone-Divider Options by Cost
+
+| Option | Cost (CAD) | Best For |
+|---|---|---|
+| IKEA flat-weave rug | From ~$59 | Anchoring a zone without any furniture change |
+| Ceiling curtain track + panels | $60–$100 | Fully closing off a sleeping alcove |
+| BILLY bookcase (floor-to-ceiling) | $79–$159 | Room divider + maximum vertical storage |
+| IKEA NORDLI storage bed | $399–$699 | Replaces a dresser with built-in under-bed storage |
+| Bed risers | ~$25 | Adds 15 cm clearance for under-bed bins |
+| IKEA FRIHETEN sofa bed | ~$999 | Sofa + guest bed in studios under 400 sq ft |
+| IKEA MICKE desk | ~$99 | Compact dedicated workspace |
+
+## 1. How Do You Define Zones in a Studio Apartment?
 
 The biggest mistake in a studio apartment is treating it like one big room. It isn't. It's a bedroom, a living room, and sometimes an office — all in one space. Your job is to make each zone clear.
 
@@ -38,27 +50,33 @@ The biggest mistake in a studio apartment is treating it like one big room. It i
 
 You define zones with furniture arrangement, rugs, and lighting — not walls.
 
-## 2. Use a Bookshelf or Sofa as a Room Divider
+## 2. What's the Best Way to Divide a Studio Apartment?
 
 The most effective way to visually separate the sleeping zone from the living zone in a studio is a piece of furniture placed between them.
+
+A curtain-and-track divider runs about $50–$80 CAD at IKEA Canada, making it the most flexible of the three room-divider options since it can be pulled open or closed depending on the moment.
 
 **Options:**
 - **Open bookcase** — IKEA KALLAX or BILLY placed behind the sofa creates a visual barrier without blocking light
 - **Sofa facing away from the bed** — the back of the sofa naturally divides the space
 - **Curtain on a ceiling track** — the most flexible option, pulls closed for privacy (~$50–$80 CAD for curtain + track at IKEA Canada)
 
-## 3. Invest in a Good Sofa Bed or Murphy Bed
+## 3. Is a Sofa Bed or Murphy Bed Worth It in a Studio?
 
 If your studio apartment is truly small (under 400 sq ft), a sofa bed or Murphy bed is worth serious consideration. During the day your sleeping area becomes a functional living room.
+
+The IKEA FRIHETEN sofa bed (~$999 CAD) and HOLMSUND (~$799 CAD) both cost less than a wall-mounted Murphy bed with desk combo (from ~$1,200 CAD at Wayfair Canada), making a sofa bed the more budget-friendly route for studios under 400 sq ft.
 
 **Canadian options:**
 - **IKEA FRIHETEN sofa bed** — ~$999 CAD, large storage chaise + sofa + bed in one
 - **IKEA HOLMSUND** — sleeker look, ~$799 CAD
 - **Murphy bed with desk combo** — wall-mounted, folds up to reveal a work surface. Available at Wayfair Canada from ~$1,200 CAD
 
-## 4. Anchor Each Zone With a Rug
+## 4. How Do You Anchor Each Zone With a Rug?
 
 Rugs are the single most powerful tool in a studio apartment. A rug under the sofa and coffee table creates a clear living zone. A rug beside the bed creates a sleeping zone. Two rugs make two rooms out of one space.
+
+A living-zone rug needs at least 160 × 230 cm while a bedroom rug only needs to extend 50–60 cm past the bed, and both are available as IKEA flat-weave rugs starting around $59 CAD.
 
 **Sizing guide:**
 - Living zone rug: 160 × 230 cm minimum, front legs of sofa on the rug
@@ -70,6 +88,8 @@ Rugs are the single most powerful tool in a studio apartment. A rug under the so
 
 You cannot use floor space for storage in a studio without making the room feel crowded. Go up.
 
+A floor-to-ceiling IKEA BILLY bookcase, at roughly $79–$159 CAD, delivers the most vertical storage per dollar of any option in a studio apartment.
+
 **Vertical storage solutions:**
 - Floor-to-ceiling IKEA BILLY bookcase (~$79–$159 CAD) — maximum vertical storage, minimal floor impact
 - IKEA PAX wardrobe columns — a complete closet system where there was none
@@ -78,17 +98,21 @@ You cannot use floor space for storage in a studio without making the room feel 
 
 For a complete system to organize every zone of your studio, [small apartment organization](/blog/small-apartment-organization) covers the declutter-first approach room by room.
 
-## 6. Choose a Bed with Storage Underneath
+## 6. What's the Best Bed for Under-Storage in a Studio?
 
 The area under a studio apartment bed is some of the most valuable real estate in your home.
+
+An IKEA NORDLI storage bed runs $399–$699 CAD depending on size, while bed risers (~$25 CAD) and SKUBB under-bed bags (~$14 CAD) are the cheaper add-ons that make the space under any bed frame usable.
 
 - **Storage bed frame** — IKEA NORDLI with drawers, ~$399–$699 CAD depending on size
 - **Bed risers** — add 15 cm of clearance for flat storage bins. ~$25 CAD at Amazon.ca
 - **IKEA SKUBB under-bed bags** — ~$14 CAD for 2
 
-## 7. Create a Dedicated Workspace
+## 7. How Do You Create a Dedicated Workspace in a Studio?
 
 Working from home in a studio apartment is only manageable if the work zone is physically separate from the relaxing zone. If you work from the sofa, you'll never fully relax there.
+
+The IKEA MICKE desk (~$99 CAD) and a wall-mounted fold-down desk (~$80–$150 CAD) are the two cheapest ways to carve out a dedicated workspace that disappears when the studio needs to feel like just a living room again.
 
 **Compact workspace options:**
 - **IKEA MICKE desk** (~$99 CAD) — narrow footprint, built-in cable management
@@ -109,7 +133,9 @@ In a studio apartment, overhead lighting makes the entire space feel like one un
 - Working zone: desk lamp with focused task lighting
 - Overhead: switch to warm 2700K bulbs
 
-## 9. Use a Multi-Function Coffee Table
+## 9. What Makes a Good Multi-Function Coffee Table?
+
+A storage ottoman ($89–$150 CAD), lift-top table ($150–$250 CAD), and nesting tables ($70–$120 CAD) each solve the same problem — a coffee table that does more than hold a coffee — at three different price points.
 
 **Good options:**
 - **Storage ottoman with tray** — soft, storable, surface when needed. Wayfair Canada ~$89–$150 CAD
@@ -122,9 +148,11 @@ In a studio apartment, the surfaces that are visible from the bed, from the sofa
 
 **The one-surface rule:** only one thing is allowed on each surface that isn't there by design. One book on the nightstand. One candle on the coffee table. Everything else has a drawer, basket, or shelf.
 
-## 11. Use Mirrors Strategically
+## 11. Where Should Mirrors Go in a Studio Apartment?
 
 A large mirror makes a studio apartment feel significantly larger. Place it where it will reflect the most light and create the deepest visual illusion.
+
+An IKEA HOVET full-length mirror (~$279 CAD) or a smaller round wall mirror (~$45–$80 CAD) both work by reflecting the most available light back into the room.
 
 **Best mirror placement:**
 - Leaning against the wall in the sleeping or living zone — reflects depth
@@ -138,11 +166,15 @@ IKEA HOVET full-length mirror (~$279 CAD) or a round wall mirror (~$45–$80 CAD
 
 If your studio has a sleeping alcove or a specific corner where the bed lives, a curtain on a ceiling-mounted track gives you the ability to close it off completely — effectively creating a "bedroom" that didn't exist before.
 
+An IKEA ceiling curtain track system with panels costs about $60–$100 CAD total, cheap enough to fully wall off a sleeping alcove without ever touching a drill.
+
 IKEA ceiling curtain track system + curtain panels: ~$60–$100 CAD total.
 
 ![Ceiling curtains create a private sleeping area inside a studio apartment](/images/blog-05-img4.jpg)
 
-## 13. Choose Furniture That Scales to the Space
+## 13. How Do You Choose Furniture That Scales to a Studio?
+
+Leaving at least 60 cm of walkway clearance around any large piece is the minimum measurement worth checking before buying furniture sized for a studio.
 
 Before buying any large piece, measure:
 - The piece itself
@@ -174,3 +206,5 @@ A studio apartment works when every decision is intentional — where the zones 
 → For the full room-by-room organization plan, see [small apartment organization](/blog/small-apartment-organization) — a weekend-by-weekend breakdown of exactly what to tackle first.
 
 → Moving into your first studio for September? [September student move-in storage guide](/blog/september-student-move-in-storage-guide) covers the dorm-to-studio transition specifically.
+
+→ Want a cosy corner inside one of your zones? [15 small apartment reading nook ideas](/blog/small-apartment-reading-nook-ideas) shows how to carve one out without dedicating extra square footage.

@@ -26,9 +26,9 @@ Organization in a small apartment is not about buying more storage bins. It is a
 
 ---
 
-## Start Here: Declutter Before You Organize
+## Where Should You Start Organizing a Small Apartment?
 
-Before you touch a single shelf or buy a single bin, go through every room and remove what does not belong.
+Before you touch a single shelf or buy a single bin, go through every room and remove what does not belong. The keep/donate/trash rule hinges on one test — used in the last 6 months with a clear purpose stays, everything else goes — which is what actually shrinks the pile before you spend a cent on bins.
 
 The rule is simple:
 - **Keep** — used in the last 6 months, has a clear purpose
@@ -39,9 +39,9 @@ In a small apartment, there is no room for maybes. If you have not used it in si
 
 Do this before you shop for anything.
 
-## The Entryway: First In, First Out
+## How Do You Organize the Entryway First In, First Out?
 
-The entryway sets the tone for the whole apartment. If it is chaotic when you walk in, the rest feels chaotic too.
+The entryway sets the tone for the whole apartment. If it is chaotic when you walk in, the rest feels chaotic too. Command large hooks run about $12 CAD for a 4-pack, and the entryway system passes or fails on a single test: can you grab your keys, put on shoes, and be out the door in 60 seconds?
 
 **The minimal entryway system:**
 - Hooks — one per person plus one spare. Command large hooks (~$12 CAD for a 4-pack at Canadian Tire)
@@ -53,9 +53,9 @@ The test: can you grab your keys, put on shoes, and be out the door in 60 second
 
 ![A minimal apartment entryway system with hooks, shoe rack, and a tray for daily essentials](/images/storage-wicker-shelf.jpg)
 
-## The Living Room: Surfaces and Systems
+## How Do You Organize Living Room Surfaces and Systems?
 
-The living room is the hardest to keep organized because it is used most and has the most surfaces for things to land on.
+The living room is the hardest to keep organized because it is used most and has the most surfaces for things to land on. The 10-minute evening reset is faster than a weekly clean yet keeps a living room feeling organized every single day, which is why it outperforms buying more storage bins.
 
 **Three-step living room organization:**
 
@@ -70,9 +70,9 @@ Every evening, 10 minutes returning everything to its home. Faster than a weekly
 
 ![A well-organized small apartment living room with KALLAX storage and clear surfaces](/images/blog-03-img2.jpg)
 
-## The Kitchen: Zone Everything
+## How Do You Zone a Small Kitchen for Organization?
 
-A small apartment kitchen requires systems, not just tidiness. Everything needs a place that makes sense for how you actually cook.
+A small apartment kitchen requires systems, not just tidiness. Stackable clear pantry bins run about $5–$8 CAD each and the SKADIS pegboard costs roughly $15 CAD — together the cheapest way to zone a kitchen by task instead of by whatever fits. Everything needs a place that makes sense for how you actually cook.
 
 **Zone your kitchen by task:**
 - Prep zone: cutting boards, knives, bowls near the counter space
@@ -88,9 +88,9 @@ A small apartment kitchen requires systems, not just tidiness. Everything needs 
 
 ![A zoned small apartment kitchen with clear pantry bins and a pegboard for utensils](/images/blog-03-img3.jpg)
 
-## The Bedroom: Closet First, Then Everything Else
+## How Do You Organize the Bedroom — Closet First?
 
-The bedroom serves two purposes: sleep and storage. Most small apartment bedrooms do the storage part badly, which affects the sleep part.
+The bedroom serves two purposes: sleep and storage. Slim velvet hangers cost about $18 CAD for a 50-pack and free 30–40% more hanging space immediately — the single highest-return move in the whole bedroom system. Most small apartment bedrooms do the storage part badly, which affects the sleep part.
 
 **Start with the closet:**
 - Slim velvet hangers throughout — frees 30–40% more hanging space for ~$18 CAD (50-pack, Amazon.ca)
@@ -105,9 +105,9 @@ The biggest untapped storage in the bedroom. Flat lidded bins for seasonal cloth
 **The nightstand:**
 Lamp, phone charger, water, one book. Anything else is clutter. A floating shelf on Command strips works better than a full nightstand in a small bedroom — no floor footprint.
 
-## The Bathroom: Go Vertical
+## How Do You Organize a Small Bathroom Vertically?
 
-Bathrooms in rental apartments are almost always small. The key is vertical storage and keeping surfaces completely clear.
+Bathrooms in rental apartments are almost always small. An over-toilet shelf costs about $40–$70 CAD at Amazon.ca or Canadian Tire and adds 2–3 shelves of storage in a bathroom that otherwise has almost none. The key is vertical storage and keeping surfaces completely clear.
 
 - Over-toilet shelf — uses dead space, adds 2–3 shelves (~$40–$70 CAD, Amazon.ca or Canadian Tire)
 - Over-door organizer on the bathroom door for hair tools and products
@@ -122,7 +122,7 @@ For the full room-specific breakdown — priority order, exact products, and cos
 
 ## The Maintenance System
 
-Getting organized is one thing. Staying organized is the real challenge.
+Getting organized is one thing. Staying organized is the real challenge. The three habits below take almost no time individually — a 10-minute evening reset and a 15-minute weekly zone check — but consistency, not any single bin, is what keeps an organized apartment from sliding back.
 
 **Three habits that work:**
 
@@ -135,6 +135,8 @@ Getting organized is one thing. Staying organized is the real challenge.
 For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places) — it covers every room including the entryway and kitchen. And if the kitchen is your biggest challenge, [small space kitchen organization](/blog/small-space-kitchen-organization) goes deep on pantry bins, drawer dividers, and pegboards.
 
 ## Best Organization Products in Canada
+
+These seven products span from about $12 CAD for entryway hooks up to $79 CAD for a KALLAX unit, covering every room in a small apartment for well under $200 CAD combined.
 
 | Product | Use | Cost (CAD) | Where |
 |---------|-----|-----------|-------|

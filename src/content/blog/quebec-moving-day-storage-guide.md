@@ -22,6 +22,19 @@ faqs:
 
 If you've never lived in Quebec, the idea of an entire province moving apartments on the exact same day sounds made up. I promise it isn't. Every July 1, U-Hauls line every street in Montreal, mattresses lean against every stop sign, and every elevator in every triplex is booked solid from 8 a.m. to dark. I've done two Moving Days here, and the difference between a smooth one and a miserable one comes down almost entirely to what you do in the weeks before, not on the day itself.
 
+## Moving Day Timeline at a Glance
+
+This timeline spans roughly ten weeks, from booking a truck 8–10 weeks before July 1 to unpacking room by room the week after — the single biggest predictor of a smooth move is how early the first two rows get done.
+
+| Timeframe | Action | Cost (CAD) |
+|---|---|---|
+| 8–10 weeks before | Book movers or truck rental | Varies by company |
+| 3–4 weeks before | Start collecting boxes, sort belongings | Free–$3/box (Dollarama) |
+| Mid-June | Stock up on packing supplies before the rush | ~$40–$60 total (tape, dolly rental portion) |
+| 1–2 weeks before | Pack everything except essentials, confirm elevator booking | — |
+| Moving day | Move labelled essentials box yourself, final walkthrough | — |
+| Week after | Unpack room by room, set up entryway/bedroom basics | — |
+
 ## What Matters Most on Moving Day
 
 Book your truck or movers by mid-May, not June — Montreal moving companies routinely sell out their July 1 slots eight to ten weeks in advance, according to reports from local movers' associations every spring. If you wait until three weeks out, you're looking at DIY with a rented van and whoever you can bribe with pizza.

@@ -28,9 +28,11 @@ My bathroom in my Toronto rental is 38 square feet. That is not a typo. There is
 - **Under $180 CAD total** covers the four most impactful changes for most Canadian rental bathrooms
 - All solutions on this list work in Toronto, Vancouver, and Calgary rental apartments — no permanent wall changes required
 
+Want a printable checklist for the rest of the apartment too? Grab the free [23-Point Storage Checklist](/free-storage-checklist).
+
 ---
 
-## 1. Over-Toilet Shelving — The Highest-Value Move
+## 1. What's the Best Over-Toilet Shelving Option?
 
 In a small bathroom, the wall above the toilet is the only large open vertical zone. Most small rental bathrooms waste it entirely.
 
@@ -49,7 +51,7 @@ A freestanding over-toilet shelf unit sits around the toilet tank and adds three
 
 ---
 
-## 2. Over-Door Organizers — The Most Underused Space
+## 2. What's the Most Underused Storage Space in a Bathroom?
 
 The back of the bathroom door is typically empty in Canadian rental bathrooms. An over-door organizer converts that vertical surface into usable storage with zero wall damage.
 
@@ -70,9 +72,11 @@ A clear pocket over-door organizer (24 pockets, ~$20–$30 CAD on Amazon.ca) hol
 
 ---
 
-## 3. Medicine Cabinet Upgrade
+## 3. Should You Upgrade the Medicine Cabinet?
 
 The medicine cabinet is the most efficient storage unit in the bathroom per square centimetre of wall space. Most builder-grade cabinets in Canadian rental apartments are shallow (8–10 cm deep) and have two or three shelves. A replacement adds usable depth and shelf count.
+
+Most builder-grade medicine cabinets in Canadian rentals are only 8–10 cm deep with two or three shelves, which is why swapping to a deeper surface-mount unit is one of the highest-value bathroom upgrades per square centimetre of wall space.
 
 **Surface-mounted vs. recessed:**
 - **Surface-mounted** (attached to the wall surface with screws): fine to swap in a rental. Remove the old one, install the new one, patch four screw holes with renter-safe filler when you leave.
@@ -89,9 +93,11 @@ The mirror exterior also eliminates the need for a separate bathroom mirror, fre
 
 ---
 
-## 4. Under-Sink Organization
+## 4. How Do You Organize Under the Sink?
 
 A pedestal sink has no under-sink storage at all. A vanity cabinet has under-sink space, but it is usually a single open cavity with a pipe running through the middle — disorganized by design.
+
+A tension rod (~$10–$15 CAD) or a slim rolling cart (~$30 CAD) each solve under-sink chaos for a fraction of the ~$30–$60 CAD total cost of a full under-sink storage upgrade, depending on whether you have a pedestal sink or a vanity cabinet.
 
 Two approaches, depending on your sink type:
 
@@ -123,11 +129,13 @@ Shower storage in a small apartment bathroom almost always means a tension showe
 
 ---
 
-## 6. Counter Declutter — Keep Only Daily Items
+## 6. How Do You Keep the Counter Decluttered?
 
 Counter space in a small bathroom is the most valuable surface area you have. Every item left on the counter permanently reduces your functional workspace and makes the bathroom feel smaller.
 
 The rule: only items used every single day live on the counter. Everything else gets a home off the counter.
+
+A slim two-tier countertop organizer (~$20–$30 CAD) or a wall-mounted toothbrush holder (~$12–$18 CAD) can each double usable counter space for well under $30 CAD, which matters most in a bathroom where counter space is the scarcest surface.
 
 **Counter organization tools:**
 - A small tray or catchall dish keeps daily items (soap, toothbrush holder, face wash) organized in one zone rather than scattered (~$10–$20 CAD, HomeSense)
@@ -140,9 +148,11 @@ The rule: only items used every single day live on the counter. Everything else 
 
 ---
 
-## 7. Towel Storage Without a Towel Bar
+## 7. How Do You Store Towels Without a Towel Bar?
 
 Most small Canadian rental bathrooms have one towel bar. That is rarely enough for more than one person, and towel bars require drilling if you want to add more. Three renter-friendly alternatives:
+
+An over-door hook rack (~$35–$45 CAD) or a freestanding ladder-style towel rack (~$30–$60 CAD) both solve the one-towel-bar problem without drilling, for roughly the same cost as a single new towel bar installation.
 
 **Option 1: Over-door towel hooks**
 An over-door hook rack on the bathroom door holds four to six towels without any wall contact. The OXO Good Grips 4-hook over-door rack (~$35–$45 CAD, Amazon.ca) fits doors up to 3.8 cm thick.
@@ -158,6 +168,8 @@ Command large hook strips (rated 2–3 kg each) hold hand towels on any wall sur
 ## 8. Renter Rules — The No-Drill Framework
 
 Canadian standard residential tenancy agreements in Ontario, BC, and Alberta all include clauses about alterations to the unit. The practical line for bathroom storage:
+
+Most no-drill bathroom fixes — freestanding shelves, over-door organizers, tension rods, and Command strips — fall under normal use in Ontario, BC, and Alberta rental agreements, covering roughly 90% of the storage changes covered in this guide.
 
 **Generally fine without landlord permission:**
 - Freestanding furniture (over-toilet shelves, rolling carts, ladder racks)
@@ -194,6 +206,8 @@ Complete steps 1 through 3 before spending on anything else. These three changes
 ## Bathroom Storage for Two in a Small Apartment
 
 Two people sharing a small apartment bathroom doubles the product count and the friction. Three changes make the biggest difference:
+
+Two IKEA RÅSKOG rolling carts (~$30 CAD each, $60 CAD total) give a shared bathroom two fully independent storage units, which is often enough to eliminate most of the day-to-day storage friction between roommates or partners.
 
 **Divide the medicine cabinet by shelf.** Each person gets one to two shelves, clearly assigned. No mixing. No searching through someone else's products to find your own.
 

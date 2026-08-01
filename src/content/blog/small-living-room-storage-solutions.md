@@ -28,6 +28,20 @@ This isn't a decor list. If you want layout, colour, and styling advice for the 
 
 ---
 
+## Quick Comparison: Hidden Storage Furniture by Cost
+
+| Piece | Cost (CAD) | Best For |
+|---|---|---|
+| Cube ottoman | $70–$110 | Daily-use items, doubles as seating |
+| Bench ottoman (100+ cm) | $110–$180 | Bulky items like extra bedding, seats two |
+| Tufted lift-top ottoman | $130–$220 | Sturdy table surface plus storage |
+| IKEA LACK coffee table w/ shelf | ~$50 | Visible open storage, books and remotes |
+| Lift-top coffee table | $140–$260 | Hidden compartment plus laptop-desk surface |
+| TV console with doors (IKEA BESTÅ) | $120–$220 | Hiding cables, remotes, media clutter |
+| Nesting side tables (set of 2) | $60–$90 | Dead space beside the sofa |
+| Drum-style storage side table | $45–$85 | Single armchair, doubles as footstool |
+| **Full room set (ottoman + coffee table + console)** | **$250–$450** | Complete living room storage overhaul |
+
 ## What Counts as Hidden Storage Furniture?
 
 Hidden storage furniture is any piece with a compartment, drawer, or lift-top panel built into its structure, not a separate bin sitting on a shelf. A CMHC report notes the average Canadian rental unit runs under 800 sq ft ([CMHC](https://www.cmhc-schl.gc.ca), 2024), which is exactly why furniture needs to multitask.
@@ -50,7 +64,7 @@ My own ottoman is a $99 CAD Amazon.ca cube version, and it fits every board game
 
 ![A grey fabric storage ottoman with the lift-top lid open, showing folded blankets stored inside in a small apartment living room](/images/blog-19-img3.jpg)
 
-## Coffee Tables With Built-In Storage
+## Which Coffee Tables Have Built-In Storage?
 
 A coffee table with a shelf, drawer, or lift-top surface adds a second storage layer in the same footprint as a plain table, which matters most in a living room under 200 sq ft where every piece of furniture has to earn its floor space twice over.
 
@@ -64,9 +78,9 @@ Most people buy a coffee table before they buy an ottoman, but in a room under 1
 
 **Cost:** IKEA LACK with shelf ~$50 CAD. Lift-top storage coffee tables from Amazon.ca or Wayfair Canada, ~$140–$260 CAD.
 
-## TV Consoles and Media Units With Hidden Storage
+## Which TV Consoles Hide Storage Best?
 
-A TV console with closed cabinet doors or fabric baskets hides remotes, cables, gaming controllers, and media clutter that would otherwise sit exposed on open shelving. Closed storage matters here specifically because cables and cords look messy no matter how neatly they're arranged.
+A TV console with closed cabinet doors or fabric baskets hides remotes, cables, gaming controllers, and media clutter that would otherwise sit exposed on open shelving. A console with doors like IKEA's BESTÅ starts around $120–$220 CAD depending on size, while fabric bins for open shelving run $12–$20 CAD each, making the bins the cheaper fix if a full console isn't in the budget yet. Closed storage matters here specifically because cables and cords look messy no matter how neatly they're arranged.
 
 Look for a console with at least one enclosed cabinet section and a cable cutout at the back, so you're not drilling extra holes into rental-owned furniture. Fabric bins that slide into open cube sections work as a cheaper alternative to built-in doors.
 
@@ -74,9 +88,9 @@ Look for a console with at least one enclosed cabinet section and a cable cutout
 
 For more furniture-based storage across the rest of the apartment, not just the living room, [storage ideas for small places](/blog/storage-ideas-for-small-places) covers the bedroom, kitchen, and entry.
 
-## Storage Side Tables and Nesting Tables
+## What Are the Best Storage Side Tables and Nesting Tables?
 
-A side table with a drawer or an enclosed cabinet turns dead space beside the sofa into storage for chargers, coasters, or reading glasses, instead of leaving that spot as pure surface area. Nesting tables with a lower shelf add a second tier without expanding the table's footprint when nested.
+A side table with a drawer or an enclosed cabinet turns dead space beside the sofa into storage for chargers, coasters, or reading glasses, instead of leaving that spot as pure surface area. IKEA nesting side tables run $60–$90 CAD for a set of two, while drum-style storage side tables from HomeSense cost $45–$85 CAD each, both well under the price of a single accent chair. Nesting tables with a lower shelf add a second tier without expanding the table's footprint when nested.
 
 **Drum-style side tables** with a hinged lid work well next to a single armchair, and many double as an extra footstool when guests are over.
 
@@ -96,7 +110,7 @@ Tracking my own three pieces over eight months, the ottoman gets used daily, the
 
 ---
 
-## Start With the Piece That's Doing the Least Right Now
+## Which Piece Should You Replace First?
 
 Look at your current coffee table, side table, and TV stand. Whichever one is just a flat surface with nothing hidden underneath is your first upgrade. Replace that one piece before buying anything else, live with it for a few weeks, then decide if the next piece is worth it.
 

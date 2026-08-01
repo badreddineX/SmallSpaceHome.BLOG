@@ -20,15 +20,19 @@ faqs:
     a: "Natural elements are free — collect pinecones, dried leaves, and seed pods on any walk. Dollarama has pumpkin and gourd decor for $1–$4 each. HomeSense and Winners carry quality cushions and throws at discount. Canadian Tire for seasonal candles. Total autumn refresh well under $75 CAD."
 ---
 
-Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. CMHC notes that renters make up roughly one-third of Canadian households — and seasonal decorating is one of the most satisfying ways to make a rental feel like a real home. In my Toronto apartment, two new cushion covers and a cinnamon candle from HomeSense was all it took to shift the whole feel of the living room for autumn. The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
+Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. CMHC notes that renters make up roughly one-third of Canadian households — and seasonal decorating is one of the most satisfying ways to make a rental feel like a real home.
+
+In my Toronto apartment, two new cushion covers and a cinnamon candle from HomeSense was all it took to shift the whole feel of the living room for autumn. The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
 
 **TL;DR:** Swap 2–3 summer cushion covers for rust, amber, or deep green ones (IKEA GURLI ~$6 each, or Amazon.ca velvet 2-pack ~$25–$35 CAD). Add one autumn-scented candle from HomeSense (~$20 CAD). Natural elements from outside — pinecones, coloured leaves, dried seed pods — cost nothing and look more authentic than anything purchased. Total fall refresh under $75 CAD.
 
 ---
 
-## 1. Swap to Autumn Textiles
+## 1. What's the Fastest Way to Shift a Room From Summer to Fall?
 
 The fastest way to shift a room from summer to fall is a textile swap. Replace light summer cushion covers with heavier, deeper-toned ones. Add a chunky throw in a warm autumn colour.
+
+IKEA GURLI cushion covers run about $6 each, so swapping 2-3 of them for rust or amber tones is one of the cheapest single changes that shifts a whole room's mood from summer to fall.
 
 **Autumn textile colours:**
 - Terracotta / rust
@@ -39,7 +43,7 @@ The fastest way to shift a room from summer to fall is a textile swap. Replace l
 
 **Cost:** IKEA GURLI cushion covers ~$6 each. HomeSense chunky throws ~$30–$50 CAD.
 
-## 2. Add Autumn Candles and Scent
+## 2. How Do You Bring Autumn Scent Into an Apartment?
 
 The scent of autumn — spiced apple, cinnamon, pumpkin, warm wood, nutmeg — is one of the fastest mood-setters available. A single autumn-scented candle changes how a room feels.
 
@@ -52,7 +56,7 @@ The scent of autumn — spiced apple, cinnamon, pumpkin, warm wood, nutmeg — i
 
 Available at HomeSense, Winners, Canadian Tire, and specialty candle shops across Canada.
 
-## 3. Bring in Natural Elements for Free
+## 3. What Free Natural Elements Work Best for Fall Decor?
 
 Autumn produces free decor. A walk in any Canadian park yields:
 - Coloured leaves (press them between book pages, frame them)
@@ -62,9 +66,11 @@ Autumn produces free decor. A walk in any Canadian park yields:
 
 These cost nothing and look more authentic than anything purchased.
 
-## 4. Add a Pumpkin or Gourd Arrangement
+## 4. Where Do You Find Affordable Pumpkins and Gourds in Canada?
 
 Small decorative gourds and pumpkins are the most universally recognized autumn decor. Grouped on a table, windowsill, or front step, they signal the season immediately.
+
+Real pumpkins cost $3 to $8 CAD each at most Canadian grocery stores in September and October, and clustering three of them in different sizes reads as far more intentional than a single large one.
 
 **Buying tips for Canada:**
 - Real pumpkins: available at most grocery stores and garden centres in September–October, $3–$8 CAD each
@@ -73,13 +79,13 @@ Small decorative gourds and pumpkins are the most universally recognized autumn 
 
 Cluster 3 pumpkins or gourds in different sizes on the coffee table or entryway — odd numbers look more natural.
 
-## 5. Switch to a Warmer Rug
+## 5. Should You Switch to a Warmer Rug for Fall?
 
 If you have two rugs of different weights or textures, swap to the warmer one for fall. A higher-pile or deeper-toned rug reads as autumn-appropriate.
 
 If you only have one rug, a small woven runner in a warm tone for the entryway adds seasonal colour for ~$30–$50 CAD.
 
-## 6. Layer Blankets More Visibly
+## 6. How Do You Layer Blankets to Look Styled, Not Messy?
 
 In summer, blankets live in storage. In fall, they come out. But where you put them matters for the look of the room.
 
@@ -90,21 +96,27 @@ In summer, blankets live in storage. In fall, they come out. But where you put t
 
 This signals "cozy and lived-in" rather than "laundry pile."
 
-## 7. Add Autumn-Tone Cushions
+## 7. How Many Cushions Does an Autumn Sofa Actually Need?
 
 4–6 cushions on a sofa in autumn colours transform the room. Swap 2–3 of your regular cushion covers for rust, amber, or deep green ones.
 
+Four to six cushions in autumn tones is the range that reads as intentionally styled rather than sparse or cluttered, and swapping just 2-3 covers for rust or amber ones (Amazon.ca 2-packs run ~$25–$35 CAD) gets you there.
+
 **Cost:** Amazon.ca, velvet cushion covers 2-pack ~$25–$35 CAD. IKEA GURLI ~$6 each.
 
-## 8. Warm Up the Lighting
+## 8. How Do You Warm Up Apartment Lighting for Fall Evenings?
 
 Autumn evenings get dark by 7 PM in most of Canada by late October. Your apartment lighting needs to create warmth before the day's light disappears.
 
+Autumn evenings get dark by around 7 PM across most of Canada by late October, which is why warm 2700K bulbs matter more starting this season than any other time of year.
+
 If you haven't already switched to warm 2700K bulbs, do it now. Add a candle to the dining table for evening meals. Turn the floor lamp on before the sun sets.
 
-## 9. Dried Botanical Arrangements
+## 9. How Long Do Dried Botanical Arrangements Actually Last?
 
 Dried botanicals last the entire fall and winter season without any care. They add organic texture and earth tones to shelves, mantels, and tabletops.
+
+A single dried botanical arrangement costs about $15 to $40 CAD and lasts 4 to 6 months without any watering or care, which makes it one of the best cost-per-week decor items on this list.
 
 **What to look for at Canadian floral shops and HomeGoods stores:**
 - Pampas grass (cream-coloured plumes, very popular)
@@ -127,7 +139,7 @@ If you already have an armchair, move it to the best-lit corner, add the lamp an
 
 The kitchen can reflect autumn without becoming themed. A simple bowl of apples and pears on the counter (functional and seasonal), a cinnamon candle near the stove when cooking, and autumn-spice tea on the shelf.
 
-## 12. A Fall Doormat
+## 12. Is a Fall Doormat Worth Adding?
 
 For apartments with a private entry, a fall doormat in a warm colour or leaf pattern signals the season from the moment you arrive home. Functional and seasonal.
 

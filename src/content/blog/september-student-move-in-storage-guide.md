@@ -26,6 +26,13 @@ The good news: you don't need much money to make a small apartment functional. Y
 
 ---
 
+## Two Realistic Move-In Budgets
+
+| Setup | Total Cost (CAD) | Includes |
+|---|---|---|
+| Cheapest viable | $60–$90 | Closet hangers + over-door organizer (~$20), under-bed bins (~$10), kitchen bins + Command hooks (~$20), desk organizer + cable clips (~$10), bathroom caddy (~$12) |
+| Slightly nicer | $180–$250 | Everything above, plus IKEA KALLAX 2-cube (~$45), small wardrobe (~$100), IKEA RASKOG rolling cart (~$39) |
+
 ## What Storage Do You Actually Need on Move-In Day?
 
 For a first apartment, five categories cover almost everything: closet storage, under-bed storage, kitchen storage, a desk setup, and a bathroom caddy if you're sharing. A [Statistics Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921b-eng.htm) report (2022) found renter households under 25 are the fastest-growing rental segment in the country, and most of that group is moving into smaller units than previous generations did.
@@ -53,7 +60,7 @@ Skip the fancy zip bags for now. Two flat plastic bins from Dollarama (~$4–$5 
 
 ## How Do You Organize a Tiny Student Kitchen?
 
-A student kitchen usually has one or two cabinets and barely any counter space, so stackable bins and a drying rack that doubles as storage matter more than anything decorative. Clear stackable bins keep pasta, rice, and snacks visible instead of buried at the back of a cabinet.
+A student kitchen usually has one or two cabinets and barely any counter space, so stackable bins and a drying rack that doubles as storage matter more than anything decorative. A full kitchen starter kit, stackable bins, Command hooks, a folding dish rack, and adhesive door racks, runs about $28–$58 CAD total and covers a one- or two-cabinet setup without needing any extra counter space. Clear stackable bins keep pasta, rice, and snacks visible instead of buried at the back of a cabinet.
 
 **Kitchen starter kit:**
 - Clear stackable bins, 2–3 from Dollarama or Amazon.ca (~$5–$8 CAD each)

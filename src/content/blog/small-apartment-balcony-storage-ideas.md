@@ -28,6 +28,15 @@ Four things matter more than anything else here: a **freestanding gravity bike r
 
 ---
 
+## Quick Comparison: Top Balcony Storage Picks
+
+| Item | Cost (CAD) | No-Drill? | Best For |
+|---|---|---|---|
+| Freestanding gravity bike rack | $50–$90 (single), $80–$120 (two-bike) | Yes | Bikes, if your building allows them |
+| Resin deck box | $60–$150 (by size) | Yes | Cushions, tools, off-season gear, year-round weatherproofing |
+| Clip-on railing planter | $20–$45 | Yes | Green space without breaching drilling bans |
+| Freestanding vertical planter stand | $35–$60 | Yes | Buildings that ban railing attachments entirely |
+
 ## Can You Actually Store Things on a Rental Balcony?
 
 Most Canadian rental and condo buildings allow *some* balcony storage, but the rules differ enormously between buildings, and violating them can mean a fine or a forced removal notice. Always check your lease or condo bylaws before buying anything for the balcony.
@@ -40,7 +49,7 @@ If your bylaws are vague or you're not sure, a quick email to your property mana
 
 ## What's the Best No-Drill Bike Storage for a Small Balcony?
 
-A freestanding gravity bike rack solves balcony bike storage without a single screw. It leans against the railing or wall using the bike's own weight to stay upright, and most models fold flat when you're not using them. This is the setup I've relied on for three straight summers.
+A freestanding gravity bike rack solves balcony bike storage without a single screw. It leans against the railing or wall using the bike's own weight to stay upright, and most models fold flat when you're not using them. A single-bike gravity rack runs $50–$90 CAD, while two-bike models cost $80–$120 CAD, and either version avoids the wall-mounted brackets that most bike storage guides assume renters can install. This is the setup I've relied on for three straight summers.
 
 Gravity racks work because the bike's front wheel sits in a raised cradle, and the frame's weight naturally counterbalances against the support arm. No wall bracket, no drilled anchor, and no residue when you move out. Most bike storage guides push wall-mounted hooks, but those aren't an option for renters at all — a gravity rack is the only version that's genuinely landlord-safe.
 
@@ -82,7 +91,7 @@ A quick fall checklist: empty and store cushions inside, disconnect and coil str
 
 ---
 
-## Balcony Storage Priority Order
+## What's the Balcony Storage Priority Order?
 
 If you're starting from zero, tackle balcony storage in this order for the best return per dollar:
 

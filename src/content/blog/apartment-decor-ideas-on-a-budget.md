@@ -20,13 +20,15 @@ faqs:
     a: "Yes. Command strips hold art and light shelves cleanly. Peel-and-stick wallpaper removes without residue. Freestanding furniture needs no installation. A well-decorated rental can look completely transformed without a single hole in the wall. Our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly decor guide</a> has the full no-damage system."
 ---
 
-Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. According to CMHC, the majority of Canadian renters live in apartments under 700 sq ft, which means every decor dollar needs to work harder. After three years in a 510 sq ft Toronto rental, the priority order below is exactly how I'd spend $200 all over again. Here's how to transform a rental apartment for under $200 CAD.
+Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. According to CMHC, the majority of Canadian renters live in apartments under 700 sq ft, which means every decor dollar needs to work harder.
+
+After three years in a 510 sq ft Toronto rental, the priority order below is exactly how I'd spend $200 all over again. Here's how to transform a rental apartment for under $200 CAD.
 
 **TL;DR:** Spend in this order — rug first ($59–$80 CAD), then warm lighting ($15–$25 CAD), then textiles (cushions + throw, $40–$60 CAD), then art and plants ($20–$40 CAD). This sequence builds on itself: the rug anchors the room, lighting sets the mood, textiles add warmth, art adds personality. Total under $200 CAD at IKEA, Canadian Tire, and Dollarama.
 
 ---
 
-## The Priority Order
+## What Order Should You Buy Decor In?
 
 If you only have $200 CAD for apartment decor, spend it in this order:
 
@@ -37,9 +39,11 @@ If you only have $200 CAD for apartment decor, spend it in this order:
 
 This sequence works because each category builds on the previous one. The rug anchors the living room. The lighting changes the mood. The textiles add colour and warmth. The art and plants add life and personality.
 
-## 1. Start With a Rug ($59–$80 CAD)
+## 1. Why Should a Rug Be Your First Purchase? ($59–$80 CAD)
 
 A rug is the single piece of decor that makes the most visual difference in a living room or bedroom. It anchors the furniture, defines the zone, adds colour and texture to the floor, and makes the whole space feel more intentional.
+
+A rug that's too small looks worse than no rug at all, so the minimum size for a small living room is 160 x 230 cm — a benchmark worth checking before buying, since IKEA and Amazon.ca budget rugs in that range run $59 to $99 CAD.
 
 **Critical:** buy the right size. A rug that is too small looks worse than no rug. Minimum 160 × 230 cm for a small living room.
 
@@ -50,18 +54,22 @@ A rug is the single piece of decor that makes the most visual difference in a li
 
 ![A large area rug anchoring the sofa and coffee table in a small Canadian apartment living room](/images/blog-15-img2.jpg)
 
-## 2. Fix the Lighting ($15–$45 CAD)
+## 2. How Do You Fix Lighting on a Budget? ($15–$45 CAD)
 
 Harsh overhead lighting is one of the biggest reasons rental apartments feel institutional. Warm 2700K bulbs transform the feel of every room for about $15 CAD.
+
+Warm 2700K bulbs cost about $15 CAD for a multipack and transform how every room in the apartment feels the same day they're installed, which is why lighting ranks second only to the rug in this priority order.
 
 **Budget lighting upgrade sequence:**
 1. **Warm bulbs everywhere** — $15–$25 CAD for a multipack at Canadian Tire or Amazon.ca
 2. **One floor lamp** — fills a corner, creates ambient light. Amazon.ca budget floor lamps from ~$35–$50 CAD, or check IKEA for ~$45–$89 CAD
 3. **LED strip lights behind the TV** — optional accent, ~$20 CAD on Amazon.ca
 
-## 3. Add Textiles ($40–$60 CAD)
+## 3. What Textiles Give the Most Warmth for the Money? ($40–$60 CAD)
 
 Once the rug is in place and the lighting is fixed, textiles add warmth and colour.
+
+IKEA GURLI cushion covers cost about $6 each and a POLARVIDE throw is about $10 CAD, meaning the entire textile layer of this budget — cushions, blanket, and bath textiles — fits inside a $40 to $60 CAD range.
 
 **The textile checklist for under $60 CAD:**
 - Throw cushions (2–4) in your accent colour — IKEA GURLI covers ~$6 each with inexpensive inserts
@@ -70,17 +78,21 @@ Once the rug is in place and the lighting is fixed, textiles add warmth and colo
 
 ![Throw cushions and a blanket layered on a rental apartment sofa — the fastest way to add warmth and colour](/images/blog-15-img3.jpg)
 
-## 4. Art and Plants ($20–$40 CAD)
+## 4. Are Art and Plants Worth the Last $20–$40 CAD?
 
 A gallery wall of printed photos costs almost nothing. Print your own photos at Costco Canada (~$0.20–$0.50 per 4×6 print) and frame them with Dollarama frames (~$2–$4 each). A gallery of 10–12 personal photos costs under $30 CAD total and looks far more interesting than generic art.
+
+A gallery of 10 to 12 personal photos, printed at Costco for $0.20 to $0.50 each and framed with $2 to $4 CAD Dollarama frames, costs under $30 CAD total and looks more interesting than generic purchased art.
 
 **For plants:** a pothos from any garden centre in Canada, ~$5–$15 CAD. Nearly impossible to kill, grows fast, looks beautiful on a shelf.
 
 ![A gallery wall of printed photos with matching IKEA frames — under $40 CAD total and looks like a design magazine](/images/blog-15-img4.jpg)
 
-## Under $50 CAD: The Free Changes First
+## What Changes Cost Nothing at All?
 
 Before spending anything, do these changes that cost nothing:
+
+Floating the sofa just 5 to 10 cm off the wall and placing the coffee table exactly 45 cm from it are two free adjustments that make a room feel deliberately arranged rather than just filled with furniture.
 
 **Declutter** — remove everything that doesn't belong in the room. Every surface cleared. This single change makes most apartments look 50% better immediately.
 

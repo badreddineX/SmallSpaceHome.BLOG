@@ -20,13 +20,15 @@ faqs:
     a: "Slim velvet hangers (~$18 CAD, Amazon.ca) free up 30–40% of closet space. Clear stackable bins with lids (~$5–$8 each, Amazon.ca or IKEA Canada) work for pantry, bathroom, and entryway. A door-mounted organizer (~$25–$35 CAD) works on any door without drilling. Under-bed IKEA SKUBB bags (~$14 CAD) store seasonal items flat. These four items cover most of the visible organization gaps in a small apartment."
 ---
 
-January in Canada is the right time to reset. The holidays leave behind extra stuff — gifts, packaging, food, decoration — and the apartment absorbs all of it. By early January, a small apartment that worked well in November can feel genuinely cramped. A reset fixes that. Not a full renovation, not a new furniture purchase — a systematic declutter and reorganize that gets the space back to a baseline that works. I do this every January in my 510 sq ft Toronto apartment, and it reliably makes the whole year easier. According to CMHC, the majority of urban Canadian renters live in apartments under 750 sq ft. In spaces this size, clutter has an outsized impact — and so does clearing it.
+January in Canada is the right time to reset. The holidays leave behind extra stuff — gifts, packaging, food, decoration — and the apartment absorbs all of it. By early January, a small apartment that worked well in November can feel genuinely cramped. A reset fixes that. Not a full renovation, not a new furniture purchase — a systematic declutter and reorganize that gets the space back to a baseline that works. I do this every January in my 510 sq ft Toronto apartment, and it reliably makes the whole year easier.
+
+According to CMHC, the majority of urban Canadian renters live in apartments under 750 sq ft. In spaces this size, clutter has an outsized impact — and so does clearing it.
 
 **TL;DR:** Declutter before you organize — removing excess is the step that makes everything else work. Start in the bedroom and closet (Saturday morning), move to the kitchen and pantry (Saturday afternoon), then the living area, bathroom, and entryway (Sunday). The entire reset takes one weekend if you stay in sequence and don't stop to organize before decluttering.
 
 ---
 
-## Why January Is the Right Time
+## Why Is January the Right Time for an Apartment Reset?
 
 The end of the holiday season is the highest-clutter point of the year in most small apartments. You have:
 
@@ -38,7 +40,7 @@ The end of the holiday season is the highest-clutter point of the year in most s
 
 January is also a natural mental reset. Before the new routine of the year sets in, a physical reset creates the conditions for it. The two reinforce each other.
 
-## The January Reset Sequence
+## What's the Right Order for a January Reset?
 
 Do every room in this order. Finish one room completely before starting the next.
 
@@ -50,9 +52,11 @@ Do every room in this order. Finish one room completely before starting the next
 
 This sequence prioritizes the rooms with the highest daily impact. Bedroom first because it is where you start and end every day. Kitchen second because it is the room most affected by holiday food accumulation. Living area, bathroom, and entryway follow.
 
-## 1. Bedroom and Closet Reset
+## 1. How Do You Reset the Bedroom and Closet?
 
 The bedroom closet is where the most clutter hides in a small apartment. January is the moment to open it fully and make decisions.
+
+Slim velvet hangers cost about $18 CAD for a 50-pack and free up 30 to 40% of closet rod space immediately, which is often enough on its own to solve most of a small apartment closet's capacity problem.
 
 ### Declutter the closet completely:
 - Pull everything out — every item
@@ -71,9 +75,11 @@ January is the right time to reassess what lives under the bed. IKEA SKUBB under
 
 ---
 
-## 2. Kitchen and Pantry Reset
+## 2. How Do You Reset the Kitchen and Pantry?
 
 The kitchen accumulates more over the holidays than any other room.
+
+Clear stackable bins run about $5 to $8 CAD each, and even the most chaotic under-sink cabinet in a small apartment kitchen typically looks dramatically better after just 20 minutes of emptying, sorting, and rebinning.
 
 ### Pantry and food storage:
 - Empty the pantry completely
@@ -109,9 +115,11 @@ These fill up fast over winter. Empty them in January, assess what's inside, and
 
 ---
 
-## 4. Bathroom Reset
+## 4. How Do You Reset the Bathroom?
 
 The bathroom accumulates slowly and gets ignored until it's suddenly very full.
+
+The bathroom product rule is simple: anything not used in the past 3 months gets removed, which is usually what clears enough counter space for a small tray (~$10–$20 CAD) to actually keep things organized.
 
 ### Product audit:
 - Check expiry dates on every skincare, haircare, and medication product
@@ -139,6 +147,8 @@ The deep-of-winter entryway needs to be functional above all else. Reduce it to 
 Everything else — seasonal footwear, extra bags, rarely-used outerwear — moves to the closet or under-bed storage.
 
 ### What to add if the entryway is chaotic:
+A door-mounted organizer costs about $25 to $35 CAD and requires no drilling, making it the single highest-impact entryway fix for a chaotic Canadian winter entry.
+
 A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) holds gloves, scarves, small items, and does not require drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, shoe storage, and surface for daily items simultaneously.
 
 ![A reset apartment entryway after January — coat hooks, boot tray, and a clear surface for daily essentials](/images/blog-22-img4.jpg)
@@ -166,6 +176,8 @@ Total for the full list: under $160 CAD. Most apartments only need 2–3 of thes
 ## The January Reset Rules
 
 These three rules make the difference between a reset that holds and one that reverts by February:
+
+The three January reset rules matter more than any specific product, but the third one is the one people skip: a system that takes more than about 5 minutes a day to maintain typically doesn't survive past February.
 
 **1. Declutter before you organize.**
 Organizing around clutter is why organization systems fail. Remove the excess first — what remains is always easier to organize.

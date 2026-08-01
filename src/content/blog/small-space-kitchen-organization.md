@@ -28,7 +28,7 @@ A small apartment kitchen has one organizing principle above all others: everyth
 
 ---
 
-## Start With Zones
+## How Do You Start Organizing a Small Kitchen by Zones?
 
 Before buying a single organizer, decide where each type of task happens. Then make sure everything needed for that task lives nearby.
 
@@ -40,7 +40,7 @@ Before buying a single organizer, decide where each type of task happens. Then m
 
 Once you know the zones, reorganize what you have to match them. You'll find many things are in the wrong place.
 
-## 1. Clear the Counters Completely
+## 1. Why Should You Clear the Counters Completely First?
 
 This is the most impactful thing you can do in a small kitchen. Move everything off the counter except: the coffee maker (if you use it daily), the knife block or magnetic strip, and one plant.
 
@@ -50,9 +50,9 @@ A clear counter makes a small kitchen look and feel significantly larger.
 
 ![A small apartment kitchen with completely cleared counters — only the coffee maker and one plant remain](/images/blog-17-img2.jpg)
 
-## 2. Clear Stackable Pantry Bins (~$5–$8 CAD Each)
+## 2. What Are the Best Clear Stackable Pantry Bins (~$5–$8 CAD Each)?
 
-Loose pantry shelves with bags and boxes in random piles hide things at the back and cause duplicate purchases. Clear, stackable bins with labels mean you can see everything at a glance.
+Loose pantry shelves with bags and boxes in random piles hide things at the back and cause duplicate purchases. At roughly $5–$8 CAD each, a set of 6–8 clear stackable bins covers a full pantry shelf and typically runs well under $50 CAD total. Clear, stackable bins with labels mean you can see everything at a glance.
 
 Group by category:
 - Grains and pasta
@@ -67,25 +67,25 @@ Group by category:
 
 ## 3. Bamboo Drawer Dividers (~$22–$32 CAD)
 
-The kitchen junk drawer is a small apartment problem. Adjustable bamboo dividers create lanes for utensils, tools, and small items — and they fit any drawer size.
+The kitchen junk drawer is a small apartment problem. A set of 5–6 expandable bamboo dividers costs about $22–$32 CAD and turns one chaotic junk drawer into several defined lanes for a fraction of the price of a full drawer-organization system. Adjustable bamboo dividers create lanes for utensils, tools, and small items — and they fit any drawer size.
 
 **Where to buy:** Amazon.ca, expandable bamboo set of 5–6 dividers, ~$22–$32 CAD.
 
-## 4. IKEA SKADIS Pegboard for Utensils (~$15 CAD)
+## 4. Does an IKEA SKADIS Pegboard Really Free Up Counter Space (~$15 CAD)?
 
-A pegboard mounted on the kitchen wall (or hung on Command strips) stores pots, pans, utensils, and spice jars without taking any counter space. The IKEA SKADIS system works with compatible hooks and containers.
+A pegboard mounted on the kitchen wall (or hung on Command strips) stores pots, pans, utensils, and spice jars without taking any counter space. The SKADIS panel itself runs about $15 CAD, with hooks and containers adding another $5–$15 CAD, making a full wall-mounted utensil system cost less than $30 CAD total. The IKEA SKADIS system works with compatible hooks and containers.
 
 **Cost:** IKEA Canada SKADIS 56 × 56 cm ~$15 CAD. Hooks and containers: ~$5–$15 additional.
 
 ## 5. Over-Door Cabinet Organizers (~$15–$22 CAD)
 
-The inside of pantry cabinet doors is unused surface. Wire racks or adhesive over-door organizers store spice jars, foil rolls, and plastic wrap cleanly.
+The inside of pantry cabinet doors is unused surface. A set of 2–3 over-door organizers costs about $15–$22 CAD, turning that unused surface into functional storage for less than a single takeout order. Wire racks or adhesive over-door organizers store spice jars, foil rolls, and plastic wrap cleanly.
 
 **Where to buy:** Amazon.ca, ~$15–$22 CAD for a set of 2–3 organizers.
 
-## 6. IKEA RASKOG Rolling Cart as Extra Storage (~$39 CAD)
+## 6. Is the IKEA RASKOG Rolling Cart Worth It as Extra Storage (~$39 CAD)?
 
-The RASKOG 3-tier rolling cart adds a full extra work and storage surface that rolls out when needed and tucks away after. Use it as a kitchen island extension during cooking, or as a pantry overflow for items that don't fit in cabinets.
+At about $39 CAD, the 3-tier RASKOG cart adds a full extra work and storage surface that rolls out when needed and tucks away after. Use it as a kitchen island extension during cooking, or as a pantry overflow for items that don't fit in cabinets.
 
 **Cost:** IKEA Canada RASKOG ~$39 CAD.
 
@@ -93,29 +93,29 @@ The RASKOG 3-tier rolling cart adds a full extra work and storage surface that r
 
 ## 7. Magnetic Knife Strip to Clear the Counter (~$18–$28 CAD)
 
-A knife block takes up a full 30 × 20 cm of counter space. A magnetic strip mounted on the wall above the counter stores knives vertically — zero counter footprint, everything visible and accessible.
+A knife block takes up a full 30 × 20 cm of counter space. A magnetic strip costs about $18–$28 CAD and replaces that footprint entirely, freeing the full 30 × 20 cm for something else. A magnetic strip mounted on the wall above the counter stores knives vertically — zero counter footprint, everything visible and accessible.
 
 **Where to buy:** Amazon.ca, ~$18–$28 CAD.
 
-## 8. Under-Cabinet Hooks for Mugs
+## 8. Do Under-Cabinet Hooks Really Free Up a Shelf?
 
-Install Command hooks on the underside of upper cabinets to hang mugs. This frees an entire shelf in a small kitchen for other storage.
+Install Command hooks on the underside of upper cabinets to hang mugs. A 4-pack of Command medium hooks runs about $10 CAD at Canadian Tire and frees an entire shelf in a small kitchen for other storage.
 
 **Cost:** Command medium hooks, 4-pack ~$10 CAD at Canadian Tire.
 
 ## 9. Turntable in the Corner Cabinet (~$8–$15 CAD)
 
-Corner cabinets in apartment kitchens are notorious for hiding things in the back where they never get used. A lazy Susan turntable brings everything to the front with a spin.
+Corner cabinets in apartment kitchens are notorious for hiding things in the back where they never get used. A 2-tier lazy Susan turntable costs about $8–$15 CAD and brings everything in a deep corner cabinet to the front with a single spin, instead of staying lost at the back.
 
 **Where to buy:** Amazon.ca, ~$8–$15 CAD for a 2-tier set.
 
-## 10. Stackable Pot Lids Organizer (~$15–$20 CAD)
+## 10. What's the Best Way to Store Pot Lids (~$15–$20 CAD)?
 
-Loose pot lids take up enormous space in a small kitchen. A vertical lid organizer stores 5–6 lids in the space of one, standing upright in a drawer or cabinet.
+Loose pot lids take up enormous space in a small kitchen. At about $15–$20 CAD, a vertical lid organizer stores 5–6 lids upright in the footprint one loose lid used to take, standing upright in a drawer or cabinet.
 
 **Where to buy:** Amazon.ca, ~$15–$20 CAD.
 
-## 11. Fridge Organization That Actually Looks Good
+## 11. How Do You Make Fridge Organization Actually Look Good?
 
 This is the "fridge organization aesthetic" people are searching for lately — the fridge is the one spot where "organized" and "looks good" can finally be the same thing. Clear bins, matching containers, and visible labels turn a cramped apartment fridge into something that doesn't make you wince every time you open the door. It's also where small-apartment fridges lose the most usable space: fixed door shelving rarely uses vertical room efficiently, and loose produce and half-used containers eat the rest.
 
@@ -125,17 +125,19 @@ This is the "fridge organization aesthetic" people are searching for lately — 
 - **Stackable clear organizers on the door** for cans and small jars, replacing the fixed shelving's wasted vertical gaps
 - **Labels** — even just masking tape and a marker — so leftovers actually get eaten before they go bad
 
+A full set of 4–6 clear fridge bins plus a door organizer runs about $20–$35 CAD on Amazon.ca, replacing the wasted vertical gaps in fixed door shelving with stackable, labeled space.
+
 **Where to buy:** Amazon.ca clear fridge bin sets, ~$20–$35 CAD for a full set of 4–6 bins plus a door organizer.
 
 ## 12. A Fruit Basket Instead of a Fruit Bowl
 
-A hanging fruit basket or a tiered wire basket takes items off the counter and onto the wall — vertical storage for produce.
+A hanging fruit basket or a tiered wire basket costs about $15–$22 CAD and takes items off the counter and onto the wall — vertical storage for produce.
 
 **Cost:** Amazon.ca hanging basket, ~$15–$22 CAD.
 
-## 13. Spice Drawer Insert (~$18–$25 CAD)
+## 13. What's the Best Spice Drawer Insert (~$18–$25 CAD)?
 
-A tiered spice drawer insert angles spice jars so you can read all the labels at once without stacking. Transforms a chaotic spice drawer into a fully functional system.
+A tiered spice drawer insert costs about $18–$25 CAD and angles spice jars so you can read all the labels at once without stacking. Transforms a chaotic spice drawer into a fully functional system.
 
 **Where to buy:** Amazon.ca, ~$18–$25 CAD.
 
@@ -145,7 +147,9 @@ Most apartment kitchens have space between the top of the cabinets and the ceili
 
 ---
 
-## The Kitchen Organization Budget
+## How Much Does a Full Kitchen Organization Overhaul Cost?
+
+The five steps below cost between $124 and $156 CAD combined — covering pantry bins, drawer dividers, a wall pegboard, cabinet-door organizers, and a rolling cart in one complete overhaul.
 
 | Product | Cost (CAD) | Where |
 |---------|-----------|-------|
