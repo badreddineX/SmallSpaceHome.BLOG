@@ -51,10 +51,10 @@ const catClass: Record<string, string> = {
   'Budget Tips':  'cat-budget-tips',
 };
 
-// The hero banner is a wide (~2:1) crop. object-fit: cover looks fine on wide
-// source photos but crops portrait/square photos brutally -- e.g. an 933x1400
-// portrait would show only a thin horizontal sliver. Below this ratio, switch
-// to a letterboxed treatment (full photo visible, no cropping) instead.
+// The hero is a wide banner strip (4:1 on desktop). object-fit: cover looks fine
+// on wide source photos but crops portrait/square photos brutally -- e.g. an
+// 933x1400 portrait would show only a thin horizontal sliver. Below this ratio,
+// switch to a letterboxed treatment (full photo visible, no cropping) instead.
 let isPortraitHero = false;
 if (!image.startsWith('http')) {
   try {
@@ -290,18 +290,28 @@ if (!image.startsWith('http')) {
 /* ══════════════════════════════════════════
    ① HERO
 ══════════════════════════════════════════ */
+/* Banner treatment: a fixed wide strip rather than a viewport-height block, so
+   the headline and opening paragraph are visible without scrolling. Driven by
+   aspect-ratio so it scales with viewport width, with a cap so it never grows
+   into a full-bleed hero again on large screens. */
 .post-hero-wrap {
   position: relative;
   width: 100%;
-  height: 68vh;
-  min-height: 360px;
-  max-height: 700px;
+  aspect-ratio: 16 / 7;
+  max-height: 300px;
   overflow: hidden;
   background: var(--color-surface);
 }
+@media (min-width: 768px) {
+  .post-hero-wrap {
+    aspect-ratio: 4 / 1;
+    max-height: 340px;
+  }
+}
 .post-hero-wrap.hero-fallback {
   background: var(--color-surface);
-  height: 280px;
+  aspect-ratio: auto;
+  height: 180px;
 }
 .post-hero-img {
   width: 100%;
@@ -310,9 +320,11 @@ if (!image.startsWith('http')) {
   object-position: center 40%;
   display: block;
 }
-/* Portrait/square source photos crop badly under object-fit: cover in this
-   wide banner -- show the full photo instead, letterboxed on a dark backdrop
-   rather than cutting off the top/bottom of the composition. */
+/* Portrait sources in a short banner: letterboxing them (the old tall-hero
+   behaviour) leaves a narrow sliver of photo marooned in a field of blur, which
+   looks broken rather than deliberate. In a banner a crop always reads better,
+   so portrait images are covered like any other; the blurred backdrop is kept
+   only to fill the edges while the crop settles. */
 .portrait-hero {
   background: var(--color-ink);
 }
@@ -326,8 +338,8 @@ if (!image.startsWith('http')) {
 }
 .portrait-hero .post-hero-img {
   position: relative;
-  object-fit: contain;
-  object-position: center center;
+  object-fit: cover;
+  object-position: center 30%;
 }
 .post-hero-scrim {
   position: absolute;
