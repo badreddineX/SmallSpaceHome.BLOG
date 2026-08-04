@@ -1,0 +1,256 @@
+[
+  {
+    "slug": "small-room-look-bigger",
+    "template": "E",
+    "kicker": "DESIGNER SECRETS",
+    "headline": "7 Ways to Make Any Room Feel <em>Huge</em>",
+    "domain": "smallspacehome.ca",
+    "list": [
+      "Mirrors in the right spots double your visual space",
+      "Hang curtains ceiling-to-floor, not window-to-window",
+      "Furniture with legs makes any room feel airy",
+      "One colour wall-to-wall erases the boundaries",
+      "The rug that's too small makes rooms shrink",
+      "Clear surfaces — one anchor piece per zone, max",
+      "Diagonal placement unlocks dead corners instantly"
+    ]
+  },
+  {
+    "slug": "ikea-small-space-hacks",
+    "template": "E",
+    "kicker": "15 IKEA HACKS",
+    "headline": "The IKEA Tricks Every Renter <em>Needs</em>",
+    "domain": "smallspacehome.ca",
+    "list": [
+      "KALLAX as a room divider with built-in storage",
+      "LACK shelf above the door — you're wasting 8 sq ft",
+      "HEMNES dresser doubles as an entertainment unit",
+      "TROFAST bins under every platform or raised bed",
+      "RÅSKOG cart: storage that moves anywhere, anytime"
+    ]
+  },
+  {
+    "slug": "renter-friendly-apartment-decor-ideas",
+    "template": "E",
+    "kicker": "100% DEPOSIT-SAFE",
+    "headline": "Decorate Your Rental Without <em>Risking</em> a Cent",
+    "domain": "smallspacehome.ca",
+    "list": [
+      "Command strips hold 7.3 kg — hang almost anything",
+      "Peel-and-stick tile: a backsplash that disappears in 10 min",
+      "Removable wallpaper is the single best rental cheat code",
+      "Furniture felt pads protect floors (and your deposit)",
+      "Tension-rod curtain rail fits any window, zero holes drilled"
+    ]
+  },
+  {
+    "slug": "bathroom-storage",
+    "template": "E",
+    "kicker": "TINY BATHROOM FIXED",
+    "headline": "12 Storage Ideas That <em>Actually</em> Fit",
+    "domain": "smallspacehome.ca",
+    "list": [
+      "Over-toilet ladder shelf: 12 sq ft of vertical space",
+      "Magnetic strip for metal tools — clears a whole drawer",
+      "Tension rod under sink doubles cabinet capacity",
+      "Suction-cup corner baskets: zero drilling required",
+      "Back-of-door organiser holds a full year of supplies"
+    ]
+  },
+  {
+    "slug": "apartment-organization",
+    "template": "E",
+    "kicker": "THE SYSTEM THAT STICKS",
+    "headline": "Why Your Apartment Never Stays <em>Organized</em>",
+    "domain": "smallspacehome.ca",
+    "list": [
+      "You don't have a mess problem — you have a system problem",
+      "One-touch rule: everything goes directly to its home",
+      "Label your bins even if you live alone",
+      "The 15-minute Sunday reset beats any spring clean",
+      "Give everything a home before buying more storage"
+    ]
+  },
+  {
+    "slug": "studio-apartment",
+    "template": "E",
+    "kicker": "STUDIO LIVING DECODED",
+    "headline": "Make One Room Feel Like <em>Four</em>",
+    "domain": "smallspacehome.ca",
+    "list": [
+      "Zone with rugs, not walls — three distinct areas",
+      "Sofa back as room divider: no wall needed",
+      "Loft bed = a whole extra zone underneath",
+      "Bookcase as headboard creates a private bedroom feel",
+      "Curtain dividers: movable walls at next-to-nothing cost"
+    ]
+  },
+  {
+    "slug": "small-room-look-bigger",
+    "template": "A",
+    "kicker": "7 Proven Tricks &nbsp;·&nbsp; No Renovation",
+    "headline": "Your Small Room Could Feel <em>Twice</em> as Big",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-14-img1.jpg"
+  },
+  {
+    "slug": "apartment-decor-budget",
+    "template": "A",
+    "kicker": "Under $200 CAD &nbsp;·&nbsp; Done This Weekend",
+    "headline": "A Styled Apartment for <em>$200</em>. Yes, Really.",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-15-img1.jpg"
+  },
+  {
+    "slug": "renter-friendly-decor",
+    "template": "A",
+    "kicker": "Deposit-Safe &nbsp;·&nbsp; Zero Regrets",
+    "headline": "Style Your Rental. Keep Your <em>Deposit</em>.",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-13-img1.jpg"
+  },
+  {
+    "slug": "studio-apartment",
+    "template": "A",
+    "kicker": "One Room &nbsp;·&nbsp; Every Function",
+    "headline": "Make One Room Do <em>Five</em> Things Well",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-05-img4.jpg"
+  },
+  {
+    "slug": "bedroom-storage",
+    "template": "A",
+    "kicker": "13 Hacks &nbsp;·&nbsp; Zero Drilling",
+    "headline": "The Storage Space You Didn't Know You <em>Had</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-18-img1.jpg"
+  },
+  {
+    "slug": "kitchen-organization",
+    "template": "A",
+    "kicker": "14 Ideas &nbsp;·&nbsp; Tiny Kitchens",
+    "headline": "The Tiny Kitchen That Finally <em>Works</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-17-img1.jpg"
+  },
+  {
+    "slug": "small-room-look-bigger",
+    "template": "B",
+    "kicker": "Tested in 300 Sq Ft Apartments",
+    "headline": "Designer Tricks That Make Tiny Rooms Feel <em>Huge</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-14-img1.jpg"
+  },
+  {
+    "slug": "ikea-small-space-hacks",
+    "template": "B",
+    "kicker": "15 Hacks &nbsp;·&nbsp; CAD Prices Included",
+    "headline": "IKEA Hacks Every Small-Space Renter <em>Needs</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-12-img1.jpg"
+  },
+  {
+    "slug": "organization-under-100",
+    "template": "B",
+    "kicker": "All Under $100 &nbsp;·&nbsp; Dollarama to IKEA",
+    "headline": "Get Organized for Less Than Your <em>Groceries</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-09-img2.jpg"
+  },
+  {
+    "slug": "minimalist-apartment",
+    "template": "B",
+    "kicker": "The Method, Not Just the Look",
+    "headline": "Minimalism That Actually <em>Sticks</em> in Rentals",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/minimalist-apartment-pin.jpg"
+  },
+  {
+    "slug": "bathroom-storage",
+    "template": "B",
+    "kicker": "Under $180 &nbsp;·&nbsp; No Drilling",
+    "headline": "12 Wins in a Bathroom You Didn't Choose <em>Anyway</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/unsplash-1552321554-5fefe8c9ef14.jpg"
+  },
+  {
+    "slug": "living-room-ideas",
+    "template": "B",
+    "kicker": "15 Ideas &nbsp;·&nbsp; Small Apartments",
+    "headline": "The Living Room You'll Actually Want to <em>Show Off</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-01-img1.jpg"
+  },
+  {
+    "slug": "small-room-look-bigger",
+    "template": "D",
+    "kicker": "THE VISUAL TRICK",
+    "headline": "One Change That Makes Every Room Feel <em>Bigger</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bright-bedroom-mirror.jpg"
+  },
+  {
+    "slug": "apartment-decor-budget",
+    "template": "D",
+    "kicker": "UNDER $200 &middot; THIS WEEKEND",
+    "headline": "Your Apartment Could Look This Good for <em>$200</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-15-img1.jpg"
+  },
+  {
+    "slug": "studio-apartment-ideas",
+    "template": "D",
+    "kicker": "STUDIO TRICK",
+    "headline": "The Layout That Makes a Studio Feel Like <em>Two</em> Rooms",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-06-img2.jpg"
+  },
+  {
+    "slug": "small-bedroom-decor-ideas",
+    "template": "D",
+    "kicker": "BEDROOM UPGRADE",
+    "headline": "5 Changes. One Weekend. A Bedroom You Actually <em>Love</em>.",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-06-img1.jpg"
+  },
+  {
+    "slug": "small-closet-organization-rental-apartment",
+    "template": "D",
+    "kicker": "CLOSET HACK",
+    "headline": "Double Your Closet Space — No <em>Drilling</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-09-img1.jpg"
+  },
+  {
+    "slug": "storage-ideas-for-small-places",
+    "template": "D",
+    "kicker": "23 IDEAS &middot; ZERO DRILLING",
+    "headline": "The Storage Space You're <em>Wasting</em> Right Now",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/closet-organizer-shelving.jpg"
+  },
+  {
+    "slug": "cozy-winter-decor",
+    "template": "C",
+    "kicker": "Cosy Season &nbsp;·&nbsp; Done Right",
+    "headline": "Warm Your Rental Before <em>November</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-19-img1.jpg"
+  },
+  {
+    "slug": "spring-cleaning",
+    "template": "C",
+    "kicker": "The Weekend Reset",
+    "headline": "One Weekend. A Whole New <em>Start</em>.",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-21-img1.jpg"
+  },
+  {
+    "slug": "living-room-ideas",
+    "template": "C",
+    "kicker": "15 Apartment Living Rooms",
+    "headline": "The Living Room That Feels <em>Effortless</em>",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-01-img1.jpg"
+  }
+]

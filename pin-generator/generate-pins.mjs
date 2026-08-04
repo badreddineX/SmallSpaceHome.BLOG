@@ -1,6 +1,7 @@
-// Pinterest pin generator for smallspacehome.ca — v2 "attractive" edition
-// For every blog post: 3 pins (A = Full-Bleed, B = Split, C = Framed), same cover photo.
-// Headlines support <em>word</em> → rendered as italic accent in tan.
+// Pinterest pin generator for smallspacehome.ca — v3 "Hormozi" edition
+// A = Full-Bleed · B = Split · C = Framed · D = Floating Card · E = Bold List (no photo)
+// Template E is text-dominant, no photo required — Hormozi scroll-stopper format.
+// Headlines support <em>word</em> → italic accent in tan.
 // Usage: node generate-pins.mjs [pins.json]
 
 import { chromium } from 'playwright';
@@ -103,10 +104,6 @@ const templates = {
     </div>`,
 
   // ===== D · FLOATING CARD — bright full photo, inset rounded card lifts off it =====
-  // Distinct silhouette from A/B/C: no dark scrim, no hard split, no museum frame --
-  // a soft cream card with rounded corners floats over the lower third with margin
-  // on every side, so the photo reads bright/airy above it. Sage pill kicker badge
-  // instead of a bare uppercase line, for a more modern/social feel.
   D: (p) => `
     <style>${BASE_CSS}
       body{background:var(--cream)}
@@ -133,6 +130,52 @@ const templates = {
       <div class="rule"></div>
       <div class="domain">${p.domain}</div>
     </div>`,
+
+  // ===== E · BOLD LIST — dark canvas, massive Hormozi-style numbered teaser list =====
+  // Text-dominant — no photo required. Supply p.list[] with 3–7 short teaser strings.
+  // Curiosity gap: viewers see enough to want more, but must click to get the rest.
+  E: (p) => `
+    <style>${BASE_CSS}
+      body{background:var(--ink);display:flex;flex-direction:column;
+           padding:96px 90px 88px;position:relative;overflow:hidden}
+      .bg-glow{position:absolute;width:820px;height:820px;border-radius:50%;
+               background:radial-gradient(circle, rgba(74,90,68,.26) 0%, transparent 68%);
+               top:-260px;right:-240px;pointer-events:none}
+      .top-bar{display:flex;align-items:center;gap:22px;margin-bottom:58px;flex-shrink:0}
+      .top-bar::after{content:'';flex:1;height:1px;background:rgba(201,168,124,.32)}
+      .kicker{font-family:'Montserrat',sans-serif;font-weight:700;font-size:23px;
+              letter-spacing:.28em;text-transform:uppercase;color:var(--tan-light);white-space:nowrap}
+      h2{font-family:'Playfair Display',serif;font-weight:600;font-size:96px;
+         line-height:1.10;color:var(--cream);margin-bottom:56px;flex-shrink:0;
+         text-shadow:0 4px 36px rgba(0,0,0,.4)}
+      h2 em{color:var(--tan-light);font-style:italic}
+      .list{flex:1;list-style:none;display:flex;flex-direction:column;
+            justify-content:space-evenly;padding-bottom:8px}
+      .list li{display:flex;align-items:flex-start;gap:24px}
+      .num{font-family:'Playfair Display',serif;font-size:44px;font-weight:700;
+           color:var(--tan-light);min-width:54px;line-height:1;flex-shrink:0}
+      .item-txt{font-family:'Montserrat',sans-serif;font-weight:600;font-size:29px;
+                line-height:1.38;color:rgba(250,247,240,.84);padding-top:5px}
+      .footer{display:flex;align-items:center;justify-content:space-between;
+              padding-top:44px;border-top:1px solid rgba(201,168,124,.26);flex-shrink:0}
+      .domain{font-family:'Montserrat',sans-serif;font-weight:600;font-size:22px;
+              letter-spacing:.22em;text-transform:uppercase;color:rgba(250,247,240,.55)}
+      .cta-badge{background:var(--tan);color:var(--cream);font-family:'Montserrat',sans-serif;
+                 font-weight:700;font-size:20px;letter-spacing:.14em;text-transform:uppercase;
+                 padding:13px 28px;border-radius:999px}
+    </style>
+    <div class="bg-glow"></div>
+    <div class="top-bar"><div class="kicker">${p.kicker}</div></div>
+    <h2>${p.headline}</h2>
+    <ul class="list">
+      ${(p.list || []).map((item, i) =>
+        `<li><span class="num">${String(i + 1).padStart(2, '0')}</span><span class="item-txt">${item}</span></li>`
+      ).join('\n      ')}
+    </ul>
+    <div class="footer">
+      <div class="domain">${p.domain}</div>
+      <div class="cta-badge">Read&nbsp;→</div>
+    </div>`,
 };
 
 // --ig renders Instagram's native 4:5 feed size (1080x1350) instead of
@@ -149,13 +192,13 @@ const pins = JSON.parse(readFileSync(pinsArg, 'utf8'));
 mkdirSync(OUT_DIR, { recursive: true });
 
 const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
-// deviceScaleFactor: 2 renders at retina (2x) pixel density — e.g. a 1000x1500
-// pin outputs as a 2000x3000 PNG, sharp on high-DPI displays and Pinterest's
-// own upscaling, instead of the previous 1x (1000x1500 native) renders.
+// deviceScaleFactor: 2 renders at retina density — 2000×3000 output, sharp on hi-DPI screens.
 const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: 2 });
 
 for (const pin of pins) {
-  const photo = pin.photo.startsWith('http') ? pin.photo : pathToFileURL(resolve(pin.photo)).href;
+  const photo = pin.photo
+    ? (pin.photo.startsWith('http') ? pin.photo : pathToFileURL(resolve(pin.photo)).href)
+    : '';
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>` +
     templates[pin.template]({ ...pin, photo }) + SIZE_OVERRIDE + '</body></html>';
   const file = resolve(`${OUT_DIR}/${pin.slug}-${pin.template}${SUFFIX}.html`);
