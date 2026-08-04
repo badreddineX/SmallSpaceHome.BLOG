@@ -11,7 +11,7 @@ category: "Budget Tips"
 readTime: 7
 faqs:
   - q: "How do I decorate my apartment cheaply in Canada?"
-    a: "Start with lighting (warm 2700K bulbs, ~$15 CAD) and textiles (rug + cushions + throw, ~$80–$120 CAD) — these two categories give the most visual return per dollar. Add a gallery wall with Command strips and printed photos. Total under $200 CAD. See our <a href='/blog/apartment-decor-ideas-on-a-budget'>budget apartment decor under $100 CAD</a> post for even tighter budgets."
+    a: "Start with lighting (warm 2700K bulbs, ~$15 CAD) and textiles (rug + cushions + throw, ~$80–$120 CAD) — these two categories give the most visual return per dollar. Add a gallery wall with Command strips and printed photos. Total under $200 CAD."
   - q: "What should I buy first when decorating a new apartment on a budget?"
     a: "Rug first (anchors the living room, biggest single-piece impact), then warm bulbs and one lamp (transforms the mood immediately), then throw cushions and a blanket (adds colour and warmth). These three purchases cover the fundamentals for under $200 CAD at IKEA, HomeSense, or Canadian Tire."
   - q: "Where can I find cheap apartment decor in Canada?"
@@ -43,9 +43,7 @@ This sequence works because each category builds on the previous one. The rug an
 
 A rug is the single piece of decor that makes the most visual difference in a living room or bedroom. It anchors the furniture, defines the zone, adds colour and texture to the floor, and makes the whole space feel more intentional.
 
-A rug that's too small looks worse than no rug at all, so the minimum size for a small living room is 160 x 230 cm — a benchmark worth checking before buying, since IKEA and Amazon.ca budget rugs in that range run $59 to $99 CAD.
-
-**Critical:** buy the right size. A rug that is too small looks worse than no rug. Minimum 160 × 230 cm for a small living room.
+**Critical:** buy the right size — a rug that's too small looks worse than no rug at all. The minimum for a small living room is 160 × 230 cm; IKEA and Amazon.ca budget rugs in that range run $59 to $99 CAD.
 
 **Budget options in Canada:**
 - IKEA flat-weave rugs (STOCKHOLM or SIDENÖRT styles) — from ~$59–$99 CAD
@@ -56,9 +54,7 @@ A rug that's too small looks worse than no rug at all, so the minimum size for a
 
 ## 2. How Do You Fix Lighting on a Budget? ($15–$45 CAD)
 
-Harsh overhead lighting is one of the biggest reasons rental apartments feel institutional. Warm 2700K bulbs transform the feel of every room for about $15 CAD.
-
-Warm 2700K bulbs cost about $15 CAD for a multipack and transform how every room in the apartment feels the same day they're installed, which is why lighting ranks second only to the rug in this priority order.
+Harsh overhead lighting is one of the biggest reasons rental apartments feel institutional. Warm 2700K bulbs cost about $15 CAD for a multipack and transform how every room feels the same day they're installed — which is why lighting ranks second only to the rug in this priority order.
 
 **Budget lighting upgrade sequence:**
 1. **Warm bulbs everywhere** — $15–$25 CAD for a multipack at Canadian Tire or Amazon.ca
@@ -80,9 +76,7 @@ IKEA GURLI cushion covers cost about $6 each and a POLARVIDE throw is about $10 
 
 ## 4. Are Art and Plants Worth the Last $20–$40 CAD?
 
-A gallery wall of printed photos costs almost nothing. Print your own photos at Costco Canada (~$0.20–$0.50 per 4×6 print) and frame them with Dollarama frames (~$2–$4 each). A gallery of 10–12 personal photos costs under $30 CAD total and looks far more interesting than generic art.
-
-A gallery of 10 to 12 personal photos, printed at Costco for $0.20 to $0.50 each and framed with $2 to $4 CAD Dollarama frames, costs under $30 CAD total and looks more interesting than generic purchased art.
+A gallery wall of printed photos costs almost nothing. Print your own photos at Costco Canada (~$0.20–$0.50 per 4×6 print) and frame them with Dollarama frames (~$2–$4 each) — a gallery of 10–12 personal photos costs under $30 CAD total and looks far more interesting than generic art.
 
 **For plants:** a pothos from any garden centre in Canada, ~$5–$15 CAD. Nearly impossible to kill, grows fast, looks beautiful on a shelf.
 
@@ -92,11 +86,9 @@ A gallery of 10 to 12 personal photos, printed at Costco for $0.20 to $0.50 each
 
 Before spending anything, do these changes that cost nothing:
 
-Floating the sofa just 5 to 10 cm off the wall and placing the coffee table exactly 45 cm from it are two free adjustments that make a room feel deliberately arranged rather than just filled with furniture.
-
 **Declutter** — remove everything that doesn't belong in the room. Every surface cleared. This single change makes most apartments look 50% better immediately.
 
-**Rearrange furniture** — float the sofa away from the wall (even 5–10 cm), move the coffee table to the correct distance (45 cm from the sofa), centre the TV. These are free and often dramatic.
+**Rearrange furniture** — float the sofa 5–10 cm off the wall, move the coffee table to the correct distance (45 cm from the sofa), centre the TV. These are free adjustments that make a room feel deliberately arranged rather than just filled with furniture.
 
 **Style the shelves** — group objects intentionally, mix heights, remove duplicates and clutter.
 
@@ -147,7 +139,7 @@ Floating the sofa just 5 to 10 cm off the wall and placing the coffee table exac
 | Photo prints (10) + frames | $25–$35 | Costco + Dollarama |
 | **Total** | **$131–$161** | |
 
-Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. If you want to push further with specific ideas under $100, [budget apartment decor under $100](/blog/apartment-decor-ideas-on-a-budget) shows 12 high-impact moves that look far more expensive than they cost. And for deposit-safe ways to go beyond the basics, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
+Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. For deposit-safe ways to go beyond the basics, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
 
 The apartment you want is achievable on a Canadian budget. Start with the free changes, then follow the priority order above. One purchase at a time beats a chaotic haul every time.
 

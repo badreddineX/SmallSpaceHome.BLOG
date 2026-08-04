@@ -61,7 +61,7 @@ The back of the bedroom closet door is typically empty. A 24-pocket over-door or
 
 ## 5. Is a Storage Bed Frame Worth It?
 
-IKEA NORDLI bed frame with built-in drawers (~$399–$699 CAD, Queen) has two large drawers on each side — enough to replace a full dresser in most small bedrooms. At $399–$699 CAD, it replaces a full dresser with two large drawers on each side, freeing all the floor space a separate dresser would otherwise take. Removing the dresser frees significant floor space and makes the room feel larger.
+IKEA NORDLI bed frame with built-in drawers (~$399–$699 CAD, Queen) has two large drawers on each side — enough to replace a full dresser in most small bedrooms. Removing the dresser frees significant floor space and makes the room feel larger.
 
 This is the most impactful single furniture purchase for a small bedroom.
 
