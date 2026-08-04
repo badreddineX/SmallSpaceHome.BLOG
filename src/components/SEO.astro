@@ -112,13 +112,35 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
 }) : null;
 ---
 
-<!-- Google Tag Manager -->
-<script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-N5MCBQG6');</script>
-<!-- End Google Tag Manager -->
+<!-- Google Tag Manager + gtag.js -- deferred until first interaction or page-load
+     idle time so they never compete with the LCP paint / critical render path.
+     A few seconds' delay before GTM/GA4 initialize doesn't lose pageview data;
+     it just stops ~245KB of tracking JS from executing during first render. -->
+<script is:inline>(function(w,d,s,l,gtmId,gaId){
+  var started = false;
+  function start(){
+    if (started) return;
+    started = true;
+    w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+gtmId+dl;
+    f.parentNode.insertBefore(j,f);
+
+    var g=d.createElement(s);
+    g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id='+gaId;
+    f.parentNode.insertBefore(g,f);
+    function gtag(){w.dataLayer.push(arguments);}
+    w.gtag = gtag;
+    gtag('js', new Date());
+    gtag('config', gaId);
+  }
+  var events = ['scroll','mousemove','touchstart','keydown'];
+  function trigger(){ events.forEach(function(e){ w.removeEventListener(e, trigger); }); start(); }
+  events.forEach(function(e){ w.addEventListener(e, trigger, {passive:true, once:true}); });
+  if (d.readyState === 'complete') setTimeout(start, 3000);
+  else w.addEventListener('load', function(){ setTimeout(start, 3000); });
+})(window,document,'script','dataLayer','GTM-N5MCBQG6','G-8RQLW4BWHR');</script>
+<!-- End Google Tag Manager + gtag.js -->
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
@@ -178,12 +200,3 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Pinterest domain verification -->
 <meta name="p:domain_verify" content="76c1b2d2d3bd74073ee8a940f8b2848a" />
-
-<!-- Google tag (gtag.js) -->
-<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-8RQLW4BWHR"></script>
-<script is:inline>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-8RQLW4BWHR');
-</script>
