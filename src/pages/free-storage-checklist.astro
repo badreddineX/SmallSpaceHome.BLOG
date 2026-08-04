@@ -1,0 +1,142 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="Free Printable: 23-Point Small Apartment Storage Checklist"
+      description="A free, printable checklist of 23 no-drill storage upgrades for small Canadian apartments, with real CAD prices — print it, check it off, done."
+      path="/free-storage-checklist"
+      type="website"
+    />
+  </head>
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MCBQG6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <Header />
+
+    <main class="checklist-page">
+      <section class="checklist-hero no-print">
+        <div class="container checklist-hero-inner">
+          <span class="section-eyebrow">Free Printable</span>
+          <h1 class="checklist-h1">The 23-Point Small Apartment Storage Checklist</h1>
+          <p class="checklist-sub">
+            Every no-drill storage idea from our <a href="/blog/storage-ideas-for-small-places">full storage guide</a>,
+            condensed into one printable page with real CAD prices. Print it, stick it on the fridge,
+            check items off as you go.
+          </p>
+          <button class="btn btn-primary print-btn" onclick="window.print()">Print or Save as PDF</button>
+        </div>
+      </section>
+
+      <section class="checklist-body">
+        <div class="container checklist-sheet">
+          <div class="sheet-header">
+            <h2>Small Apartment Storage Checklist</h2>
+            <p class="sheet-sub">23 no-drill upgrades, ranked by impact — smallspacehome.ca</p>
+          </div>
+
+          <ol class="check-list">
+            <li><span class="box"></span> Float wall shelves on Command strips — IKEA LACK 2-pack (~$24 CAD)</li>
+            <li><span class="box"></span> Add a tall wardrobe (IKEA PAX) if closet space is limited (~$179 CAD)</li>
+            <li><span class="box"></span> Fill under-bed space with IKEA SKUBB bags (~$14 CAD) — highest-gain move</li>
+            <li><span class="box"></span> Set up a KALLAX unit as room divider or media console (~$79 CAD)</li>
+            <li><span class="box"></span> Hang over-door organizers on every door (~$28–$40 CAD)</li>
+            <li><span class="box"></span> Add a second tension rod below your closet rod (~$15–$22 CAD)</li>
+            <li><span class="box"></span> Vacuum-seal bags for seasonal clothes (~$25–$30 CAD)</li>
+            <li><span class="box"></span> Floating nightstand shelves to clear bedroom floor space (~$35–$65 CAD)</li>
+            <li><span class="box"></span> Mount a pegboard in the kitchen — IKEA SKADIS (~$15 CAD)</li>
+            <li><span class="box"></span> Stackable clear bins in the pantry (~$5–$8 CAD each)</li>
+            <li><span class="box"></span> A rolling cart for mobile storage — IKEA RASKOG (~$39 CAD)</li>
+            <li><span class="box"></span> Switch to slim velvet hangers, 50-pack (~$18 CAD)</li>
+            <li><span class="box"></span> Add drawer dividers to every drawer (~$22–$32 CAD)</li>
+            <li><span class="box"></span> Cabinet door racks in the kitchen (~$15–$22 CAD)</li>
+            <li><span class="box"></span> A storage ottoman in the living room (~$89–$150 CAD)</li>
+            <li><span class="box"></span> A shoe bench at the entry — IKEA TJUSIG (~$59 CAD)</li>
+            <li><span class="box"></span> Magnetic knife strip in the kitchen (~$18–$28 CAD)</li>
+            <li><span class="box"></span> Shelf dividers for folded clothes (~$18–$26 CAD)</li>
+            <li><span class="box"></span> A slim bookshelf as a room divider — IKEA BILLY (~$79–$99 CAD)</li>
+            <li><span class="box"></span> Entry hooks for daily items (~$12–$20 CAD)</li>
+            <li><span class="box"></span> Label bins and baskets so the system sticks</li>
+            <li><span class="box"></span> Use the gap above kitchen cabinets for rarely-used items</li>
+            <li><span class="box"></span> A rolling garment rack if you have no closet at all (~$65–$100 CAD)</li>
+          </ol>
+
+          <div class="sheet-footer no-print">
+            <p>Want the full breakdown with photos and store links for each idea?
+              Read the <a href="/blog/storage-ideas-for-small-places">complete storage guide</a>.</p>
+            <p class="sheet-cta">More Canadian small-space guides at
+              <a href="https://smallspacehome.ca">smallspacehome.ca</a></p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+
+    <style>
+      .checklist-hero { padding: 64px 0 32px; background: var(--color-surface); text-align: center; }
+      .checklist-hero-inner { max-width: 640px; margin: 0 auto; }
+      .checklist-h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: clamp(1.8rem, 4vw, 2.6rem);
+        color: var(--color-heading);
+        margin: 12px 0 16px;
+      }
+      .checklist-sub { color: var(--color-text-muted); font-size: 1rem; line-height: 1.7; margin-bottom: 28px; }
+      .checklist-sub a { color: var(--color-primary-dark); }
+      .print-btn { font-size: 1rem; padding: 14px 28px; }
+
+      .checklist-body { padding: 40px 0 80px; }
+      .checklist-sheet {
+        max-width: 680px;
+        background: #fff;
+        border: 1.5px solid var(--color-border);
+        border-radius: 8px;
+        padding: 40px;
+      }
+      .sheet-header { text-align: center; margin-bottom: 28px; border-bottom: 2px solid var(--color-primary); padding-bottom: 20px; }
+      .sheet-header h2 { font-family: 'Playfair Display', serif; font-size: 1.5rem; color: var(--color-heading); margin: 0 0 8px; }
+      .sheet-sub { color: var(--color-text-muted); font-size: 0.85rem; margin: 0; }
+
+      .check-list { list-style: none; margin: 0; padding: 0; counter-reset: item; }
+      .check-list li {
+        display: flex;
+        align-items: flex-start;
+        gap: 12px;
+        padding: 10px 0;
+        border-bottom: 1px dashed var(--color-border-light);
+        font-size: 0.95rem;
+        color: var(--color-text);
+        line-height: 1.5;
+      }
+      .check-list li:last-child { border-bottom: none; }
+      .box {
+        flex-shrink: 0;
+        width: 18px;
+        height: 18px;
+        border: 1.5px solid var(--color-primary-dark);
+        border-radius: 3px;
+        margin-top: 2px;
+      }
+
+      .sheet-footer { margin-top: 32px; padding-top: 20px; border-top: 1px solid var(--color-border); text-align: center; font-size: 0.9rem; color: var(--color-text-muted); }
+      .sheet-footer a { color: var(--color-primary-dark); }
+      .sheet-cta { margin-top: 8px; font-weight: 600; }
+
+      @media print {
+        .no-print { display: none !important; }
+        .checklist-body { padding: 0; }
+        .checklist-sheet { border: none; padding: 0; max-width: 100%; }
+      }
+    </style>
+  </body>
+</html>

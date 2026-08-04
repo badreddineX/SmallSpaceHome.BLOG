@@ -101,6 +101,38 @@ const templates = {
       <div class="photo"></div>
       <div class="domain">${p.domain}</div>
     </div>`,
+
+  // ===== D · FLOATING CARD — bright full photo, inset rounded card lifts off it =====
+  // Distinct silhouette from A/B/C: no dark scrim, no hard split, no museum frame --
+  // a soft cream card with rounded corners floats over the lower third with margin
+  // on every side, so the photo reads bright/airy above it. Sage pill kicker badge
+  // instead of a bare uppercase line, for a more modern/social feel.
+  D: (p) => `
+    <style>${BASE_CSS}
+      body{background:var(--cream)}
+      .photo{position:absolute;inset:0;background:url('${p.photo}') center/cover no-repeat}
+      .scrim-top{position:absolute;top:0;left:0;right:0;height:40%;
+                 background:linear-gradient(180deg, rgba(20,26,18,.28) 0%, rgba(20,26,18,0) 100%)}
+      .card{position:absolute;left:56px;right:56px;bottom:56px;background:var(--cream);
+            border-radius:28px;padding:64px 60px 54px;
+            box-shadow:0 30px 60px -22px rgba(30,36,31,.35)}
+      .pill{display:inline-flex;align-items:center;background:var(--sage-deep);color:var(--cream);
+            font-family:'Montserrat',sans-serif;font-weight:700;font-size:23px;
+            letter-spacing:.16em;text-transform:uppercase;padding:12px 28px;
+            border-radius:999px;margin-bottom:32px}
+      h2{font-size:74px;line-height:1.16;color:var(--ink);margin-bottom:36px}
+      h2 em{color:var(--tan)}
+      .rule{width:56px;height:3px;background:var(--tan-light);margin-bottom:22px}
+      .domain{color:var(--sage-deep)}
+    </style>
+    <div class="photo"></div>
+    <div class="scrim-top"></div>
+    <div class="card">
+      <div class="pill">${p.kicker}</div>
+      <h2>${p.headline}</h2>
+      <div class="rule"></div>
+      <div class="domain">${p.domain}</div>
+    </div>`,
 };
 
 // --ig renders Instagram's native 4:5 feed size (1080x1350) instead of

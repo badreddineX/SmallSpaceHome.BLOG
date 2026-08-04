@@ -68,4 +68,5 @@ Mirrors are non-negotiable in small spaces—they multiply light and visual dept
 You don't need to gut your apartment to feel warm and grounded. Small spaces thrive on *contrast*—not just in color, but in light, texture, and placement. When you anchor the floor and let warmth rise through textiles and art, your 500-square-foot studio feels like it's had a cozy upgrade—not a design overhaul.
 
 → [Small-space furniture that won't ruin your security deposit](/blog/small-space-furniture)  
-→ [Renter-approved ways to add storage without drilling](/blog/storage-ideas-for-small-places)
+→ [Renter-approved ways to add storage without drilling](/blog/storage-ideas-for-small-places)  
+→ [Bathroom storage ideas that work in a small rental apartment](/blog/small-apartment-bathroom-storage)

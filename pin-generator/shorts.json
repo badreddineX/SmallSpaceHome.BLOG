@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "storage-ideas-for-small-places",
+    "kicker": "23 Ideas · No Drilling",
+    "headline": "23 Small Apartment Storage Ideas That Actually Work",
+    "domain": "smallspacehome.ca",
+    "photos": ["./public/images/blog-04-img1.jpg", "./public/images/blog-04-img2.jpg", "./public/images/blog-04-img3.jpg", "./public/images/kitchen-open-shelves.jpg"]
+  },
+  {
+    "slug": "renter-friendly-apartment-decor-ideas",
+    "kicker": "No-Drill · Deposit-Safe",
+    "headline": "Renter-Friendly Apartment Decor Ideas That Actually Stick",
+    "domain": "smallspacehome.ca",
+    "photos": ["./public/images/blog-12-img1.jpg", "./public/images/blog-13-img4.jpg", "./public/images/hero-living-room.jpg"]
+  },
+  {
+    "slug": "small-apartment-bathroom-storage",
+    "kicker": "38 Sq Ft · Solved",
+    "headline": "Small Apartment Bathroom Storage Ideas",
+    "domain": "smallspacehome.ca",
+    "photos": ["./public/images/unsplash-1552321554-5fefe8c9ef14.jpg", "./public/images/unsplash-1584622650111-993a426fbf0a.jpg", "./public/images/blog-04-img2.jpg", "./public/images/storage-ottoman.jpg"]
+  }
+]
