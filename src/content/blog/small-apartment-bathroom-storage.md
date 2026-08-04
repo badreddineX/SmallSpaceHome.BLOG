@@ -2,7 +2,7 @@
 title: "Small Apartment Bathroom Storage Ideas"
 description: "Where to buy bathroom storage that works in a small rental: 12 no-drill ideas with real CAD prices from Amazon.ca, IKEA, and HomeSense."
 image: "/images/bathroom-storage-shelves.jpg"
-datePublished: "2026-05-12"
+datePublished: "2026-04-07"
 dateModified: "2026-08-01"
 author: "Badreddine Br"
 tags: ["bathroom storage", "small apartment bathroom", "Canada", "renter-friendly", "apartment storage"]

@@ -2,7 +2,7 @@
 title: "Spring Cleaning Tips for Apartments"
 description: "Spring cleaning and organization guide for Canadian renters — a room-by-room checklist, declutter strategies, and storage updates for a fresh start."
 image: "/images/organized-cleaning-supplies.jpg"
-datePublished: "2026-03-20"
+datePublished: "2026-02-18"
 dateModified: "2026-07-26"
 author: "Badreddine Br"
 tags: ["spring cleaning", "organization", "Canada", "declutter", "apartment cleaning", "natural cleaning"]

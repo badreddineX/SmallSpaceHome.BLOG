@@ -2,7 +2,7 @@
 title: "Apartment Organization Under $100 CAD"
 description: "15 budget organization ideas for small Canadian apartments, all under $100 CAD — practical solutions from a Toronto renter, no pricey systems needed."
 image: "/images/budget-storage-baskets-shelf.jpg"
-datePublished: "2026-03-01"
+datePublished: "2025-12-16"
 dateModified: "2026-03-01"
 author: "Badreddine Br"
 tags: ["budget organization", "small apartment", "Canada", "under $100", "renter-friendly"]

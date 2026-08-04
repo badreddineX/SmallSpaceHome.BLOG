@@ -2,7 +2,7 @@
 title: "Apartment Decor Ideas for Canadian Renters"
 description: "14 renter-friendly apartment decor ideas for Canadian apartments — no damage, no lost deposits. Real CAD prices, works in Toronto, Vancouver, and Montreal."
 image: "/images/blog-19-img1.jpg"
-datePublished: "2026-02-01"
+datePublished: "2025-10-20"
 dateModified: "2026-02-01"
 author: "Badreddine Br"
 tags: ["apartment decor", "renter-friendly", "Canada", "decor ideas", "budget"]

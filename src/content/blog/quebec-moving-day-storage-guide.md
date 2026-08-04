@@ -2,7 +2,7 @@
 title: "Quebec Moving Day (July 1) Storage & Packing Guide for Montreal Renters"
 description: "Quebec's July 1 Moving Day floods Montreal with movers and boxes on one single date. Here's how to pack, store, and survive it as a renter — no drilling."
 image: "/images/moving-day-boxes-apartment.jpg"
-datePublished: "2026-07-27"
+datePublished: "2026-04-16"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
 tags: ["moving day quebec", "montreal renters", "july 1 moving", "apartment storage", "packing tips"]

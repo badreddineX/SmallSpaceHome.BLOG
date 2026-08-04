@@ -2,7 +2,7 @@
 title: "Studio Apartment Ideas That Work"
 description: "Studio apartment ideas for Canadian renters — how to define zones, maximize storage, and make a one-room space feel like a proper home. All renter-friendly."
 image: "/images/blog-06-img2.jpg"
-datePublished: "2026-02-13"
+datePublished: "2025-11-18"
 dateModified: "2026-02-13"
 author: "Badreddine Br"
 tags: ["studio apartment", "small space", "Canada", "apartment ideas", "organization"]

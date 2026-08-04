@@ -2,7 +2,7 @@
 title: "Small Apartment Balcony Storage Ideas for Canadian Renters"
 description: "No-drill balcony storage ideas for small Canadian apartments — gravity bike racks, weatherproof deck boxes, railing planters, and what to bring in for winter."
 image: "/images/blog-03-img1.jpg"
-datePublished: "2026-07-27"
+datePublished: "2026-05-18"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
 tags: ["balcony storage", "small apartment storage", "renter-friendly", "Canada", "no-drill"]

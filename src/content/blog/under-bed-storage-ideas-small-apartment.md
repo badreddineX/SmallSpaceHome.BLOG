@@ -2,7 +2,7 @@
 title: "Under-Bed Storage Ideas for Small Apartments"
 description: "Under bed storage ideas for small apartments in Canada — bed risers, lidded bins vs. vacuum bags, rolling drawers, and what never to store under a bed."
 image: "/images/baskets-laundry-by-bed.jpg"
-datePublished: "2026-07-27"
+datePublished: "2026-07-09"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
 tags: ["under bed storage", "bed risers", "small apartment", "Canada", "renter-friendly"]

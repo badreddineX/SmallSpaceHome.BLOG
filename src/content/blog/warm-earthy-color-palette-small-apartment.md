@@ -2,8 +2,8 @@
 title: "7 Warm Earthy Color Palette Ideas That Actually Work in Small Rental Apartments"
 description: "Warm earthy color palette ideas for small rental apartments, renter-friendly, no-drill, under $200 CAD."
 image: "/images/bedroom-minimalist.jpg"
-datePublished: "2026-08-01"
-dateModified: "2026-08-01"
+datePublished: "2026-08-03"
+dateModified: "2026-08-03"
 author: "Badreddine Br"
 tags: ["warm earthy colors", "rental apartment decor", "Canada", "small space", "budget decorating"]
 featured: false

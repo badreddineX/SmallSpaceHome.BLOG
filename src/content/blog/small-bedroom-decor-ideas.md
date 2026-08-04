@@ -2,7 +2,7 @@
 title: "Small Bedroom Decor Ideas for Renters"
 description: "Small bedroom decor ideas for Canadian renters — colour, lighting, furniture, and layout tricks that make any bedroom feel more spacious, on a budget."
 image: "/images/blog-06-img1.jpg"
-datePublished: "2026-02-17"
+datePublished: "2025-11-28"
 dateModified: "2026-02-17"
 author: "Badreddine Br"
 tags: ["small bedroom", "bedroom decor", "Canada", "renter-friendly", "small space"]

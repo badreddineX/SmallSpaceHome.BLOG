@@ -2,7 +2,7 @@
 title: "Renter-Friendly Apartment Decor Ideas"
 description: "Decorate your rental apartment without losing your deposit. These renter-friendly decor ideas use Command strips, removable wallpaper, and no-drill solutions."
 image: "/images/apartment-tv-console-vase.jpg"
-datePublished: "2026-02-03"
+datePublished: "2025-10-24"
 dateModified: "2026-02-03"
 author: "Badreddine Br"
 tags: ["renter-friendly", "apartment decor", "no-drill", "removable wallpaper"]

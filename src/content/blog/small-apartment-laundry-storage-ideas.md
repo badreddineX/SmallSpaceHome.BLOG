@@ -2,7 +2,7 @@
 title: "Small Apartment Laundry Storage Ideas (In-Suite & Shared Laundry)"
 description: "Small apartment laundry storage ideas for tight in-suite closets and shared building laundry rooms — no-drill, renter-friendly, with real Canadian prices."
 image: "/images/blog-09-img2.jpg"
-datePublished: "2026-07-27"
+datePublished: "2026-05-22"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
 tags: ["laundry storage", "small apartment", "renter-friendly", "in suite laundry", "Canada", "organization"]
