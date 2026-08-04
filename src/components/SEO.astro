@@ -112,22 +112,35 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
 }) : null;
 ---
 
-<!-- Google Tag Manager + gtag.js -- native `defer` instead of a hand-rolled
-     setTimeout/interaction loader. `defer` guarantees these execute right after
-     DOM parsing completes, every run, with no wall-clock timer racing against
-     Lighthouse's throttled trace window (that race was the actual cause of the
-     66-99 score swing seen across repeated PSI runs -- a fixed-delay timer's
-     relationship to the audit's measurement window isn't consistent run to run;
-     native defer's relationship to "parsing done" is deterministic by spec). -->
-<script defer src="https://www.googletagmanager.com/gtm.js?id=GTM-N5MCBQG6&l=dataLayer"></script>
-<script defer src="https://www.googletagmanager.com/gtag/js?id=G-8RQLW4BWHR"></script>
-<script defer is:inline>
-  window.dataLayer = window.dataLayer || [];
-  window.dataLayer.push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
-  function gtag(){ window.dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', 'G-8RQLW4BWHR');
-</script>
+<!-- Google Tag Manager + gtag.js -- injected via JS on the `load` event, not
+     `defer`. `defer` only delays *execution*, not the network fetch -- the
+     browser starts downloading deferred <script src> tags immediately during
+     parsing, so on a throttled/bandwidth-limited connection they competed with
+     the hero image and fonts for bandwidth and made LCP/FCP measurably worse
+     (verified: LCP 5-6s, FCP 4.4s after switching to defer, vs 2-3s before).
+     Injecting on `load` keeps them out of the network queue entirely until
+     everything above-the-fold has already finished loading -- no arbitrary
+     wall-clock delay added on top (that was the earlier, separate problem),
+     just "wait for the load event", which Lighthouse measures consistently. -->
+<script is:inline>(function(w,d,s,l,gtmId,gaId){
+  function start(){
+    w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0];
+    var j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+gtmId+dl;
+    f.parentNode.insertBefore(j,f);
+
+    var g=d.createElement(s);
+    g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id='+gaId;
+    f.parentNode.insertBefore(g,f);
+    function gtag(){w.dataLayer.push(arguments);}
+    w.gtag=gtag;
+    gtag('js', new Date());
+    gtag('config', gaId);
+  }
+  if (d.readyState === 'complete') start();
+  else w.addEventListener('load', start);
+})(window,document,'script','dataLayer','GTM-N5MCBQG6','G-8RQLW4BWHR');</script>
 <!-- End Google Tag Manager + gtag.js -->
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
