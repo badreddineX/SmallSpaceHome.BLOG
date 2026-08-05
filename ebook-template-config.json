@@ -1,0 +1,266 @@
+{
+  "brand": "ssh",
+  "title": "Your Ebook Title Goes Here",
+  "subtitle": "One clear, benefit-driven sentence. What will the reader be able to do after reading this? Be specific with a number, timeframe, or quantified outcome.",
+  "series": "The Small Space Series",
+  "edition": "Ebook Template — SmallSpaceHome",
+  "year": "2026",
+  "chapters": [
+    {
+      "title": "Chapter One Title",
+      "dreamOutcome": "After this chapter, your reader will be able to [do specific thing] in [timeframe] for under [amount]. Write the transformation in one sentence.",
+      "sections": [
+        {
+          "num": "①",
+          "label": "Hook — Dream Outcome First",
+          "heading": "What You Will Have After This Chapter",
+          "body": "Write 3–5 sentences that open with the specific, desirable result the reader gets from this chapter. Lead with the transformation, not the topic. Example: \"By the end of this chapter, you'll know exactly how to do X in under Y hours for under $Z — without needing to Z1 or Z2.\" Make the reader feel the outcome before you teach it.",
+          "placeholder": true
+        },
+        {
+          "num": "②",
+          "label": "Problem — Name the Pain Precisely",
+          "heading": "The Real Problem Most People Are Ignoring",
+          "body": "Write 3–5 sentences naming the specific frustration. Use \"Most people who [audience descriptor] struggle with [specific pain].\" Be precise — the more specific the pain, the more the reader feels seen. End with: \"Here's what actually works.\"",
+          "placeholder": true,
+          "callout": {
+            "label": "Key Stat or Proof Point",
+            "text": "Add a supporting statistic, study, or fact here that validates the problem. E.g. \"According to [credible source], X% of [audience] experience [problem].\" Specificity = credibility."
+          }
+        },
+        {
+          "num": "③",
+          "label": "Mechanism — The How",
+          "heading": "The Step-by-Step Framework",
+          "body": "This is your core content — the actual value. Write it as numbered steps, a named framework, or a principle-by-principle guide. Be specific: exact prices, named brands, real measurements. Vague advice is cheap; specific guidance is what gets shared and recommended.",
+          "placeholder": true
+        },
+        {
+          "num": "④",
+          "label": "Proof — Real Example With Numbers",
+          "heading": "What This Looks Like in the Real World",
+          "body": "Tell one specific story from your own experience or a reader's. Use the Before → After structure. Include real numbers: cost, time, specific result. One detailed story with numbers beats ten vague testimonials. \"In my [specific apartment/home/situation], I did X. Cost: $Y. Time: Z hours. Result: [specific outcome].\"",
+          "placeholder": true
+        },
+        {
+          "num": "⑤",
+          "label": "Quick Wins — Reduce Perceived Effort",
+          "heading": "Three Things You Can Do Today",
+          "body": "List 3–5 immediate actions the reader can take right now, today, with what they already have. Low effort, visible impact. This section makes readers feel the guide is already paying for itself before they finish the chapter.",
+          "placeholder": true,
+          "checklist": [
+            "Quick win #1 — one sentence, achievable in under 30 minutes",
+            "Quick win #2 — one sentence, achievable in under 30 minutes",
+            "Quick win #3 — one sentence, achievable in under 30 minutes"
+          ]
+        },
+        {
+          "num": "⑥",
+          "label": "Takeaway — Bridge Forward",
+          "heading": "The One Thing to Remember",
+          "body": "Write one sentence that distils the entire chapter into its core principle. Then one sentence bridging to the next chapter: \"Now that you know [this chapter's principle], the next step is [next chapter's topic] — because [reason they're connected].\"",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "title": "Chapter Two Title",
+      "dreamOutcome": "After this chapter, the reader will be able to [specific transformation]. Quantify it.",
+      "sections": [
+        {
+          "num": "①",
+          "label": "Hook — Dream Outcome First",
+          "heading": "What This Chapter Delivers",
+          "body": "[Lead with the dream outcome for this chapter. 3–5 sentences. Start with the result, not the topic.]",
+          "placeholder": true
+        },
+        {
+          "num": "②",
+          "label": "Problem",
+          "heading": "The Problem This Chapter Solves",
+          "body": "[Name the specific pain point your reader experiences related to this chapter's topic. Be precise. Use numbers if you have them.]",
+          "placeholder": true
+        },
+        {
+          "num": "③",
+          "label": "Mechanism",
+          "heading": "Your Step-by-Step Approach",
+          "body": "[The core content: your framework, steps, or principles. Specific > vague. Named brands, real prices, exact measurements. This is where the reader gets the value they paid for.]",
+          "placeholder": true
+        },
+        {
+          "num": "④",
+          "label": "Proof",
+          "heading": "A Real Example",
+          "body": "[One specific before/after story. Real numbers. The more specific the detail, the more believable the result.]",
+          "placeholder": true
+        },
+        {
+          "num": "⑤",
+          "label": "Quick Wins",
+          "heading": "Start Today",
+          "body": "[3–5 actions the reader can take immediately, with what they already have.]",
+          "placeholder": true,
+          "checklist": [
+            "Immediate action #1",
+            "Immediate action #2",
+            "Immediate action #3"
+          ]
+        },
+        {
+          "num": "⑥",
+          "label": "Takeaway",
+          "heading": "The Core Principle",
+          "body": "[One sentence summary. One sentence bridge to next chapter.]",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "title": "Chapter Three Title",
+      "dreamOutcome": "[Dream outcome for chapter 3 — specific transformation in one sentence.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "What You Get From This Chapter", "body": "[Hook text — lead with the dream outcome, 3–5 sentences.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "The Problem", "body": "[The specific pain point this chapter solves.]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "The Framework", "body": "[Your step-by-step guide — the core value of the chapter. Specific, actionable, with real details.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "Real Example", "body": "[One specific before/after story with numbers.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Do This Now", "body": "[3 immediate actions.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "Remember This", "body": "[Core principle + bridge to next chapter.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Four Title",
+      "dreamOutcome": "[Dream outcome for chapter 4.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "The Transformation This Chapter Delivers", "body": "[Hook — dream outcome first.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "What's Going Wrong", "body": "[The pain point.]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "The Method", "body": "[Your core framework/steps. Be specific.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "A Specific Example", "body": "[Before/after with real numbers.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Take Action Today", "body": "[3 quick actions.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "The Bottom Line", "body": "[Summary + bridge.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Five Title",
+      "dreamOutcome": "[Dream outcome for chapter 5.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "What You'll Walk Away With", "body": "[Dream outcome first, 3–5 sentences.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "The Hidden Problem", "body": "[Specific pain point — make the reader feel seen.]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "Step by Step", "body": "[The actual guide. Specific, named, priced.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "It Worked — Here's How", "body": "[Your specific real-world example with numbers.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Three Moves for Today", "body": "[3 immediate, low-effort, high-impact actions.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "One Sentence", "body": "[Core principle + next chapter bridge.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Six Title",
+      "dreamOutcome": "[Dream outcome for chapter 6.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "The Result This Chapter Creates", "body": "[Open with the outcome. Numbers and specificity.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "Why Most People Get This Wrong", "body": "[The common mistake or misconception.]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "The Correct Approach", "body": "[Your framework. Steps, principles, specifics.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "Proof It Works", "body": "[Real story, real numbers, real outcome.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Start Here", "body": "[3 immediate actions.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "Core Insight", "body": "[One sentence. Bridge forward.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Seven Title",
+      "dreamOutcome": "[Dream outcome for chapter 7.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "What Awaits You Here", "body": "[Dream outcome. Specific, quantified, desirable.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "The Real Obstacle", "body": "[The friction point. What's stopping most people?]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "How to Do It", "body": "[The actual method. Step by step. Specific.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "In Practice", "body": "[One specific story with numbers and outcome.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Do This Today", "body": "[3 actions — low effort, immediate impact.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "The Principle", "body": "[Distil to one sentence. Bridge to chapter 8.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Eight Title",
+      "dreamOutcome": "[Dream outcome for chapter 8.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "The Outcome", "body": "[Lead with transformation. Be specific.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "The Gap", "body": "[What's missing from most people's approach?]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "Fill the Gap", "body": "[Your method. Numbered steps or principles. Specific.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "Case Study", "body": "[Real example. Before/after. Numbers.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Right Now", "body": "[3 immediate actions.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "Remember", "body": "[One sentence + bridge to chapter 9.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Nine Title",
+      "dreamOutcome": "[Dream outcome for chapter 9.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "What This Chapter Unlocks", "body": "[Lead with the result. Dream outcome first.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "The Common Mistake", "body": "[What are people typically doing wrong here?]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "The Right Way", "body": "[Your step-by-step. Be specific with prices, brands, measurements.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "A Real Result", "body": "[Story. Numbers. Outcome.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Take Action", "body": "[3 moves for today.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "Key Principle", "body": "[One sentence + bridge to chapter 10.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Ten Title",
+      "dreamOutcome": "[Dream outcome for chapter 10.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "The Win Waiting in This Chapter", "body": "[Dream outcome. Specific. Quantified. One paragraph.]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "Why People Skip This Step", "body": "[The pain or misconception that causes people to miss this.]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "Don't Skip This", "body": "[The guide. Specific, step-by-step, detailed.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "What Happened When I Did This", "body": "[Your story. Your numbers. Your result.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Now, Not Later", "body": "[3 immediate actions.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "The Rule", "body": "[One sentence + bridge to chapter 11.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Eleven Title",
+      "dreamOutcome": "[Dream outcome for chapter 11.]",
+      "sections": [
+        { "num": "①", "label": "Hook", "heading": "Almost There", "body": "[Build momentum — this chapter is close to the end of the guide. What does it deliver?]", "placeholder": true },
+        { "num": "②", "label": "Problem", "heading": "The Last Obstacle", "body": "[What stands between the reader and the final transformation?]", "placeholder": true },
+        { "num": "③", "label": "Mechanism", "heading": "Remove It", "body": "[Your framework for overcoming this specific obstacle. Specific.]", "placeholder": true },
+        { "num": "④", "label": "Proof", "heading": "How I Did It", "body": "[One story. Before/after. Real numbers.]", "placeholder": true },
+        { "num": "⑤", "label": "Quick Wins", "heading": "Three Final Moves", "body": "[3 actions that complete this chapter's job.]", "placeholder": true, "checklist": ["Action 1", "Action 2", "Action 3"] },
+        { "num": "⑥", "label": "Takeaway", "heading": "Almost Done", "body": "[One sentence + bridge to the final chapter.]", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Chapter Twelve: Your Next Step",
+      "dreamOutcome": "After this final chapter, your reader holds a complete, actionable plan. The guide is done. The result is within reach. Now they need to act.",
+      "sections": [
+        {
+          "num": "①",
+          "label": "The Full Picture",
+          "heading": "What You Now Know",
+          "body": "[Summarise the entire guide's journey in 3–5 sentences. Name each chapter's core principle. Show them how far they've come from chapter 1 to now. Make them feel the weight of what they've learned.]",
+          "placeholder": true
+        },
+        {
+          "num": "②",
+          "label": "The Priority Order",
+          "heading": "Where to Start — The Exact Sequence",
+          "body": "[Give the definitive action plan: what to do first, second, and third. The reader has 12 chapters of information — distil it to a single priority order. This is one of the highest-value pages in the entire guide.]",
+          "placeholder": true,
+          "checklist": [
+            "Step 1: [The single most important action — do this first]",
+            "Step 2: [Second priority — after Step 1 is done]",
+            "Step 3: [Third priority]",
+            "Step 4: [Continue the sequence...]",
+            "Step 5: [Final anchor action]"
+          ]
+        },
+        {
+          "num": "③",
+          "label": "The Close — Hormozi Moment",
+          "heading": "The One Thing That Changes Everything",
+          "body": "[End with conviction. Tell them the single most important principle from the entire guide — the one idea they should take away above all others. Make it memorable, specific, and true. This is what they'll share with others.]",
+          "placeholder": true,
+          "callout": {
+            "label": "Your Call to Action",
+            "text": "Direct the reader to the next step: visit your website, follow your newsletter, buy the next guide, leave a review, or share with someone who needs this. Make it one clear action, not three. The final CTA is a gift — don't waste it on multiple options."
+          }
+        }
+      ]
+    }
+  ]
+}
