@@ -3,7 +3,7 @@ title: "Small Apartment Bathroom Storage Ideas"
 description: "Where to buy bathroom storage that works in a small rental: 12 no-drill ideas with real CAD prices from Amazon.ca, IKEA, and HomeSense."
 image: "/images/bathroom-storage-shelves.jpg"
 datePublished: "2026-04-07"
-dateModified: "2026-08-01"
+dateModified: "2026-08-05"
 author: "Badreddine Br"
 tags: ["bathroom storage", "small apartment bathroom", "Canada", "renter-friendly", "apartment storage"]
 featured: false
@@ -14,6 +14,8 @@ faqs:
     a: "A freestanding over-toilet shelf unit (no drilling required) is the most renter-friendly choice. The Songmics 3-tier unit is available on Amazon.ca for ~$55–$70 CAD and fits most standard Canadian toilets. It adds three full shelves of vertical storage — enough for toiletries, extra toilet paper, and small baskets — without touching the walls."
   - q: "How do I add storage to a small bathroom without drilling in Canada?"
     a: "Four no-drill options work in Canadian rentals: (1) freestanding over-toilet shelves (~$55–$70 CAD, Amazon.ca), (2) over-door organizers for the back of the bathroom door (~$20–$35 CAD), (3) Command hook strips for small baskets and accessories (~$12–$18 CAD), and (4) a tension rod under the sink to hang cleaning spray bottles (~$10–$15 CAD, Canadian Tire). Total under $130 CAD."
+  - q: "Where can I buy bathroom storage units that work in a rented apartment?"
+    a: "Amazon.ca, IKEA Canada, and HomeSense all sell bathroom storage that works in a rented apartment without any drilling — freestanding over-toilet shelves (~$55–$70 CAD), over-door pocket organizers (~$20–$30 CAD), and tension shower caddies (~$35–$65 CAD) are the three best-value picks. Every option on this page is freestanding, over-door, or tension-mounted, so it moves with you and leaves zero damage when you move out."
   - q: "Where can I buy bathroom storage in Canada on a budget?"
     a: "Amazon.ca has the widest selection with fast Prime delivery across Toronto, Vancouver, and Calgary. IKEA Canada (GODMORGON series, VESKEN cart) offers reliable quality at low price points. HomeSense often has ceramic and wicker baskets at 40–60% below department store prices. Canadian Tire stocks over-door organizers and Command products year-round."
   - q: "Can I replace the medicine cabinet in a rental apartment bathroom?"

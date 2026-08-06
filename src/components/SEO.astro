@@ -1,6 +1,13 @@
 ---
 import sharp from 'sharp';
 import { join } from 'node:path';
+import { readFileSync } from 'node:fs';
+
+// Inlined at build time: /fonts.css is only ~7.7KB but as an external stylesheet
+// it render-blocks the whole page for a full network round-trip (Lighthouse
+// measured ~1.2s of render-blocking delay, FCP 3.4s / LCP 7.0s). Inlining it
+// removes that request from the critical path entirely.
+const fontCss = readFileSync(join(process.cwd(), 'public', 'fonts.css'), 'utf8');
 
 interface Props {
   title: string;
@@ -151,7 +158,7 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
      rest load normally via fonts.css, still font-display:swap. -->
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfair-display-400-normal-latin.woff2" crossorigin />
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-400-normal-latin.woff2" crossorigin />
-<link rel="stylesheet" href="/fonts.css" />
+<style is:inline set:html={fontCss}></style>
 
 <!-- Primary -->
 <title>{fullTitle}</title>
