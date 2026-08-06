@@ -10,7 +10,7 @@ featured: false
 category: "Storage"
 readTime: 8
 faqs:
-  - q: "Can I use_command strips for heavy shelves in my Vancouver apartment?"
+  - q: "Can I use Command strips for heavy shelves in my Vancouver apartment?"
     a: "Yes—but only if you stick to lightweight shelves (under 5 kg) and use multiple Command CLAW™ Heavy-Duty Strips ($12 CAD/pack at HomeSense). For anything heavier, go freestanding: Structube’s KALLAX with adjustable legs ($79 CAD) is safer for high-rise balconies or historic buildings with strict leases."
   - q: "Are ceiling-mounted storage bins practical in Montreal apartments with high ceilings?"
     a: "Only if your ceiling is under 9 feet. In older Montreal lofts (10+ ft ceilings), tension rods won’t reach. For 8.5 ft ceilings, a 72-inch tension rod + ~$30 CAD SONGMICS hanging bins from Amazon.ca works fine—but always check your lease first."
@@ -20,7 +20,7 @@ faqs:
     a: "Start with IKEA’s LACK wall shelf ($9.99 CAD) using Command strips for light items, a $24.99 CAD tension rod, and a $19.99 CAD hanging pantry organizer from HomeSense for spices or toiletries. Total: ~$75 CAD with zero damage."
 ---
 
-The average Canadian renter lives in just 742 square feet—but that number drops to 580 sq ft for singles under 35 in Toronto and Vancouver, per the 2021 Canadian Housing Statistics Project. No wonder we’re all competing for every vertical inch above head height. I installed a tension rod above my Montreal kitchen counter using only a 72" adjustable rod ($18 CAD at Structube), and it freed up two full drawer stacks of utensils. No nails. No mess. No landlord headaches.
+Canadian apartments in major cities like Toronto and Vancouver tend to run small, and singles under 35 often end up in the tightest units of all. No wonder we’re all competing for every vertical inch above head height. I installed a tension rod above my Montreal kitchen counter using only a 72" adjustable rod ($18 CAD at Structube), and it freed up two full drawer stacks of utensils. No nails. No mess. No landlord headaches.
 
 **TL;DR:** Vertical storage in small apartments doesn’t require drilling, custom builds, or sacrificing your security deposit. Renter-safe tension rods, freestanding units, and Command-strapped shelves can triple your storage without leaving a single hole. Focus on underutilized zones: above doors, behind doors, and the empty space from floor to ceiling that most people ignore. Most of these ideas cost under $40 CAD and are ready to move if you relocate.
 
@@ -56,7 +56,7 @@ I installed tiered shelving in my Vancouver kitchen *inside* the upper cabinet s
 
 ## 7. Hanging Pantry Organizers for Tight Kitchen Corners
 
-Corner pantries arestorage nightmares—until you go vertical. The $24.99 CAD Simplehouseware Hanging Pantry Organizer (Amazon.ca) folds into a 12" wide unit that mounts *inside* your pantry or cabinet using tension rods on the sides. It holds 8–10 cans vertically, plus snacks or pasta boxes on top. I’ve got mine in a 24" deep pantry in my Montreal sublet—it’s held up for 14 months with zero wear. Skip wall-mounted versions. If your pantry is shallow (under 18"), use a folding over-the-door shelf ($19 CAD at Canadian Tire) instead.
+Corner pantries are storage nightmares—until you go vertical. The $24.99 CAD Simplehouseware Hanging Pantry Organizer (Amazon.ca) folds into a 12" wide unit that mounts *inside* your pantry or cabinet using tension rods on the sides. It holds 8–10 cans vertically, plus snacks or pasta boxes on top. I’ve got mine in a 24" deep pantry in my Montreal sublet—it’s held up for 14 months with zero wear. Skip wall-mounted versions. If your pantry is shallow (under 18"), use a folding over-the-door shelf ($19 CAD at Canadian Tire) instead.
 
 ## 8. Vertical Tool Racks for Small Closets
 
@@ -68,7 +68,7 @@ Your bed frame’s underside is a goldmine—if you know how to access it. No, y
 
 ## 10. Tiered Shoe Storage with Freestanding Racks
 
-Shoe racks eat up floor space. The $29.99 CADStructube Tiered Shoe Rack (8.5" H x 15" W) solves this by stacking vertically instead of horizontally. It fits in a 24" deep corner, holds 12 pairs flat, and slides out like a file cabinet. I keep mine next to my closet, with a small step stool for higher tiers. No wall mounting needed. Bonus: the open design means dust doesn’t cling like it does in enclosed shelves. If you’re tight on space, the IKEA 365+ Shoe Rack ($19.99 CAD) works too—but skip the wall-attachment bracket (it ruins drywall).
+Shoe racks eat up floor space. The $29.99 CAD Structube Tiered Shoe Rack (8.5" H x 15" W) solves this by stacking vertically instead of horizontally. It fits in a 24" deep corner, holds 12 pairs flat, and slides out like a file cabinet. I keep mine next to my closet, with a small step stool for higher tiers. No wall mounting needed. Bonus: the open design means dust doesn’t cling like it does in enclosed shelves. If you’re tight on space, the IKEA 365+ Shoe Rack ($19.99 CAD) works too—but skip the wall-attachment bracket (it ruins drywall).
 
 ![A freestanding tiered shoe rack holding 10 pairs of sneakers and flats](/images/decor-floating-shelves.jpg)
 
@@ -76,7 +76,7 @@ Shoe racks eat up floor space. The $29.99 CADStructube Tiered Shoe Rack (8.5" H 
 
 If your ceiling’s 9' or higher, you’re wasting vertical space above standard shelving. I installed IKEA LACK shelves at 72", then added 10" stackable bins from HomeSense ($3.99 CAD each). The height gap lets you stand on a stool to reach them—perfect for seasonal décor, luggage, or dried goods. The shelves cost $9.99 CAD each and mount with tension rods (no glue, no nails). Just ensure the bin size matches your shelf depth. Standard IKEA LACK is 14.5" deep—so 12" bins slide in cleanly without tipping.
 
-## 12. Door-Back organizers for Rental Bathrooms & Bedrooms
+## 12. Door-Back Organizers for Rental Bathrooms & Bedrooms
 
 Bathroom doors in small apartments often swing into tight spaces—making wall hooks dangerous. My fix? A $14 CAD over-the-door shoe organizer (Amazon.ca) hung *behind* the door. Each pocket holds a roll of toilet paper, a hand towel, or cotton rounds. In the bedroom, I use the same setup for skincare—serums, wipes, and makeup brushes—all out of sight but instantly accessible. Just avoid heavy items: plastic bins sag at the top hinge. Stick to <2 lbs per pocket and you’ll be fine for years.
 
@@ -90,7 +90,7 @@ Bathroom doors in small apartments often swing into tight spaces—making wall h
 5. **Bed-frame risers + under-bed bins** for bulk storage  
 6. **Tiered rack installations** in kitchens or closets  
 
-Most small apartments waste over 30% of usable space just above head height. The trick isn’t buying expensive systems—it’s using what’s already there, vertically, without touching the walls. You don’t need permission to store smarter.
+Most small apartments waste a surprising amount of usable space just above head height. The trick isn’t buying expensive systems—it’s using what’s already there, vertically, without touching the walls. You don’t need permission to store smarter.
 
 → [12 Renter-Friendly Kitchen Storage Hacks That Don’t Drill](/blog/small-space-kitchen-organization)  
 → [How I Organized My 300-Sq-Ft Studio With $150 CAD](/blog/studio-apartment-ideas)

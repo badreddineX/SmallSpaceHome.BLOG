@@ -44,7 +44,7 @@ Avoid black walnut or very dark oak furniture—it murders light. Instead, seek 
 
 ## 5. Lighting Makes Warmth Feel Alive
 
-Cool LED bulbs (5000K) render warm colors flat and muddy. Swap them for 2700K–3000K LEDs. A single affordable lamp can shift your whole palette: the IKEA ODENSAN LED floor lamp ($49 CAD) gives a buttery, diffuse glow that make warm textiles glow. For desks or bedside, use a gooseneck lamp with a fabric shade—like the $29 MUutica lamp on Amazon.ca—to diffuse warmth evenly without harsh spots.
+Cool LED bulbs (5000K) render warm colors flat and muddy. Swap them for 2700K–3000K LEDs. A single affordable lamp can shift your whole palette: the IKEA ODENSAN LED floor lamp ($49 CAD) gives a buttery, diffuse glow that make warm textiles glow. For desks or bedside, use a gooseneck lamp with a fabric shade—like a $29 gooseneck lamp with a fabric shade from Amazon.ca—to diffuse warmth evenly without harsh spots.
 
 ## 6. Greenery That Complements Warmth
 
