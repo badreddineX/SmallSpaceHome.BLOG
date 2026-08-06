@@ -5,7 +5,7 @@ image: "/images/blog-19-img1.jpg"
 datePublished: "2025-10-20"
 dateModified: "2026-02-01"
 author: "Badreddine Br"
-tags: ["apartment decor", "renter-friendly", "Canada", "decor ideas", "budget"]
+tags: ["apartment decor", "apartment decor ideas canada", "rental decor ideas", "renter-friendly", "Canada", "decor ideas", "budget"]
 featured: false
 category: "Decor"
 readTime: 8

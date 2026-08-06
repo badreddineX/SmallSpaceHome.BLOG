@@ -5,7 +5,7 @@ image: "/images/budget-storage-baskets-shelf.jpg"
 datePublished: "2025-12-16"
 dateModified: "2026-03-01"
 author: "Badreddine Br"
-tags: ["budget organization", "small apartment", "Canada", "under $100", "renter-friendly"]
+tags: ["budget organization", "budget organization ideas", "cheap apartment organization", "small apartment", "Canada", "under $100", "renter-friendly"]
 featured: false
 category: "Budget Tips"
 readTime: 7

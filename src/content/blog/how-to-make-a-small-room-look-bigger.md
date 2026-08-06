@@ -5,7 +5,7 @@ image: "/images/bright-bedroom-mirror.jpg"
 datePublished: "2026-02-06"
 dateModified: "2026-03-17"
 author: "Badreddine Br"
-tags: ["small room", "make room bigger", "Canada", "apartment tips", "small space tricks"]
+tags: ["small room", "make a room look bigger", "make room bigger", "Canada", "apartment tips", "small space tricks"]
 featured: false
 category: "Decor"
 readTime: 7

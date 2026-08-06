@@ -5,7 +5,7 @@ image: "/images/blog-06-img2.jpg"
 datePublished: "2025-11-18"
 dateModified: "2026-02-13"
 author: "Badreddine Br"
-tags: ["studio apartment", "small space", "Canada", "apartment ideas", "organization"]
+tags: ["studio apartment", "studio apartment organization", "studio living tips", "small space", "Canada", "apartment ideas", "organization"]
 featured: false
 category: "Decor"
 readTime: 9

@@ -5,7 +5,7 @@ image: "/images/modern-open-plan-apartment.jpg"
 datePublished: "2025-10-28"
 dateModified: "2026-02-05"
 author: "Badreddine Br"
-tags: ["small apartment organization", "organization", "Canada", "renter-friendly", "declutter"]
+tags: ["small apartment organization", "small apartment organization ideas", "apartment organization system", "organization", "Canada", "renter-friendly", "declutter"]
 featured: true
 category: "Organization"
 readTime: 9
@@ -116,7 +116,7 @@ Bathrooms in rental apartments are almost always small. An over-toilet shelf cos
 
 Goal: only items used every day stay on the counter.
 
-For the full room-specific breakdown — priority order, exact products, and cost — see the [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) guide.
+For the full room-specific breakdown — priority order, exact products, and cost — see the [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) guide. If you're in a condo specifically, [condo storage ideas for Toronto and Vancouver](/blog/condo-storage-ideas-toronto-vancouver) covers the building-specific rules — locker economics, elevator sizing — that apply on top of everything here.
 
 ![A small apartment bathroom organized vertically with over-toilet shelf and clear surfaces](/images/blog-03-img4.jpg)
 

@@ -3,9 +3,9 @@ title: "15 Small Space Living Room Ideas"
 description: "15 practical small living room ideas tested in a real Canadian apartment — renter-friendly, budget-conscious, and built for tight square footage."
 image: "/images/small-studio-living-room-bright.jpg"
 datePublished: "2026-04-02"
-dateModified: "2026-04-21"
+dateModified: "2026-08-06"
 author: "Badreddine Br"
-tags: ["small space living room", "apartment decor", "small space ideas", "renter-friendly", "Canada"]
+tags: ["small space living room", "small space living", "small living room ideas", "living room decor small space", "apartment decor", "small space ideas", "renter-friendly", "Canada"]
 featured: true
 category: "Decor"
 readTime: 9
@@ -19,6 +19,10 @@ faqs:
     a: "Yes — style comes from consistency, not square footage. Pick two or three colours, match your storage pieces, and keep surfaces clear. A well-edited small room always looks more intentional than a large cluttered one. It really is that simple."
   - q: "What are the best budget living room ideas for small Canadian apartments?"
     a: "IKEA KALLAX (~$79 CAD) for storage, a large area rug from IKEA or HomeSense (~$129–$199 CAD), and removable wallpaper for an accent wall. These three changes deliver the biggest visual impact for under $300 CAD. More ideas in our <a href='/blog/apartment-decor-ideas-on-a-budget'>apartment decor ideas on a budget</a> post."
+  - q: "What is small space living really like in a Canadian apartment?"
+    a: "Small space living means every piece of furniture and every square foot has to justify itself — there's no room for anything that only does one job. In a 180 sq ft living room, that means a properly sized sofa, one large rug instead of several small ones, vertical storage, and clear sightlines from the doorway. It's a constraint, but it also forces better decisions than an oversized room ever would."
+  - q: "What are simple small living room ideas that don't require renovation?"
+    a: "Light wall colours, a properly sized rug, mirrors, and vertical storage cover 80% of the visual impact — none of them require permanent changes. These are the same small living room ideas that work in a rental as well as an owned condo, since nothing here involves drilling or paint beyond what your lease allows."
 ---
 
 Your living room is the first room guests see and the room you spend the most time in — it's also where the "vibey apartment living room aesthetic" people are chasing lately actually gets built, not through one statement piece but through the layered small decisions below. When it's 180 square feet and doubles as your dining room and [home office](/blog/small-apartment-home-office-ideas), every decision matters.

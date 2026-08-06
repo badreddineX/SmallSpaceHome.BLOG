@@ -5,7 +5,7 @@ image: "/images/small-apartment-decorating-living-room.jpg"
 datePublished: "2025-12-02"
 dateModified: "2026-07-25"
 author: "Badreddine Br"
-tags: ["small space decorating", "apartment decor", "Canada", "renter-friendly", "small space"]
+tags: ["small space decorating", "small space decorating ideas", "decorating tips small apartment", "apartment decor", "Canada", "renter-friendly", "small space"]
 featured: false
 category: "Decor"
 readTime: 8

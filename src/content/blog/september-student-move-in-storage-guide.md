@@ -5,7 +5,7 @@ image: "/images/modern-studio-apartment-kitchen.jpg"
 datePublished: "2026-05-11"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
-tags: ["student apartment", "move-in checklist", "Canada", "storage on a budget", "first apartment"]
+tags: ["student apartment", "student apartment ideas", "first apartment checklist", "move-in checklist", "Canada", "storage on a budget", "first apartment"]
 featured: false
 category: "Budget Tips"
 readTime: 8

@@ -5,7 +5,7 @@ image: "/images/decor-floating-shelves.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine Br"
-tags: ["vertical storage", "renter-friendly", "Canada", "small space", "wall-mounted"]
+tags: ["vertical storage", "vertical storage ideas", "wall storage small apartment", "renter-friendly", "Canada", "small space", "wall-mounted"]
 featured: false
 category: "Storage"
 readTime: 8

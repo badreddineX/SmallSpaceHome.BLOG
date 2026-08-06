@@ -5,7 +5,7 @@ image: "/images/blog-22-img2.jpg"
 datePublished: "2025-10-19"
 dateModified: "2026-01-13"
 author: "Badreddine Br"
-tags: ["cozy apartment", "winter decor", "Canada", "hygge", "seasonal decor"]
+tags: ["cozy apartment", "cozy small apartment", "winter apartment ideas", "winter decor", "Canada", "hygge", "seasonal decor"]
 featured: false
 category: "Decor"
 readTime: 8

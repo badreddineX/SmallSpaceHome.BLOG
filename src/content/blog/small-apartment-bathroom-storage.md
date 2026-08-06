@@ -5,7 +5,7 @@ image: "/images/bathroom-storage-shelves.jpg"
 datePublished: "2026-04-07"
 dateModified: "2026-08-05"
 author: "Badreddine Br"
-tags: ["bathroom storage", "small apartment bathroom", "Canada", "renter-friendly", "apartment storage"]
+tags: ["bathroom storage", "small bathroom storage ideas for renters", "small apartment bathroom", "Canada", "renter-friendly", "apartment storage"]
 featured: false
 category: "Storage"
 readTime: 7

@@ -5,7 +5,7 @@ image: "/images/bedroom-minimalist.jpg"
 datePublished: "2026-08-03"
 dateModified: "2026-08-03"
 author: "Badreddine Br"
-tags: ["warm earthy colors", "rental apartment decor", "Canada", "small space", "budget decorating"]
+tags: ["warm earthy colors", "warm color palette apartment", "earthy decor ideas", "rental apartment decor", "Canada", "small space", "budget decorating"]
 featured: false
 category: "Decor"
 readTime: 8

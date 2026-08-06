@@ -3,9 +3,9 @@ title: "Small Apartment Home Office Ideas"
 description: "How to set up a home office in a small Canadian apartment — real desk picks, CAD prices, and renter-friendly ideas for working from home in tight spaces."
 image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-04-08"
-dateModified: "2026-07-17"
+dateModified: "2026-08-06"
 author: "Badreddine Br"
-tags: ["small apartment home office", "home office ideas", "work from home", "small space desk", "Canada"]
+tags: ["small apartment home office", "apartment home office", "home office ideas", "small home office", "home workspace", "work from home", "small space desk", "Canada"]
 featured: false
 category: "Decor"
 readTime: 9
@@ -20,6 +20,10 @@ faqs:
     a: "Go vertical — floating shelves above the desk free the surface and draw the eye up. Keep the desktop clear except for what you use daily, choose a desk with visible legs, and position it to face or catch a window. Light walls and a mirror nearby bounce daylight around. Our guide on <a href='/blog/how-to-make-a-small-room-look-bigger'>how to make a small room look bigger</a> has the full list of tricks."
   - q: "Is it worth buying a proper office chair for a small apartment?"
     a: "Yes — if you work full days from home, the chair matters more than the desk. A dining chair wrecks your back over months. You don't need a $1,500 Herman Miller; a supportive mid-range chair (~$200–$400 CAD from Wayfair Canada or Structube) is the single best investment for a home office. Pick one that tucks fully under the desk to save floor space."
+  - q: "How do I set up an apartment home office when I don't have a spare room?"
+    a: "Claim a single corner — beside a window, at the end of a hallway, or a slice of the living room — and treat it as a fixed zone, not a fold-away setup. An apartment home office works best when it stays visually distinct: a rug under just the desk, a floating shelf above it, and a chair that tucks fully in when you're done for the day."
+  - q: "What is the best small home workspace setup on a budget?"
+    a: "A home workspace under $200 CAD: IKEA MICKE desk (~$99 CAD), a folding task chair upgraded later, and one floating shelf (~$20 CAD) for a monitor stand or storage above the desk. This covers a full small home office for less than most single furniture pieces cost elsewhere."
 ---
 
 Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert. I've worked full-time from my Toronto apartment for three years, and the desk setup has moved four times before I landed on something that actually works. Here's what I learned — the desks worth buying, where to put them, and how to make a workspace feel intentional instead of like a laptop balanced on the kitchen table.

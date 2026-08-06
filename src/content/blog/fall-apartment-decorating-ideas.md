@@ -5,7 +5,7 @@ image: "/images/hero-living-room.jpg"
 datePublished: "2025-10-09"
 dateModified: "2025-10-09"
 author: "Badreddine Br"
-tags: ["fall decor", "autumn apartment", "Canada", "seasonal decor", "renter-friendly"]
+tags: ["fall decor", "autumn decorating ideas", "fall apartment ideas", "autumn apartment", "Canada", "seasonal decor", "renter-friendly"]
 featured: false
 category: "Decor"
 readTime: 7

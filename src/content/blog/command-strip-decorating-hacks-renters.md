@@ -5,7 +5,7 @@ image: "/images/decor-floating-shelves.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine Br"
-tags: ["Command strips", "renter-friendly decor", "Canada", "small space", "no damage"]
+tags: ["Command strips", "no-drill decorating", "renter-friendly decor", "Canada", "small space", "no damage"]
 featured: false
 category: "Decor"
 readTime: 8

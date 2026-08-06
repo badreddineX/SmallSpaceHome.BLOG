@@ -5,7 +5,7 @@ image: "/images/apartment-tv-console-vase.jpg"
 datePublished: "2025-10-24"
 dateModified: "2026-02-03"
 author: "Badreddine Br"
-tags: ["renter-friendly", "apartment decor", "no-drill", "removable wallpaper"]
+tags: ["renter-friendly", "renter friendly apartment ideas", "no-drill solutions", "apartment decor", "no-drill", "removable wallpaper"]
 featured: true
 category: "Decor"
 readTime: 7

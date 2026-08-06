@@ -3,9 +3,9 @@ title: "Budget Apartment Decor: Under $200 CAD"
 description: "Transform your rental for under $200 CAD — budget decor ideas for Canadian renters. What to buy first, what to DIY, and what makes the biggest difference."
 image: "/images/cozy-corner-lamp-mirror.jpg"
 datePublished: "2026-03-01"
-dateModified: "2026-03-21"
+dateModified: "2026-08-06"
 author: "Badreddine Br"
-tags: ["budget decor", "apartment decor", "Canada", "under $200", "renter-friendly"]
+tags: ["budget decor", "cute cheap apartment ideas", "affordable apartment decor", "apartment decor", "Canada", "under $200", "renter-friendly"]
 featured: false
 category: "Budget Tips"
 readTime: 7
@@ -18,6 +18,8 @@ faqs:
     a: "HomeSense and Winners for quality pieces at discount prices (stock rotates weekly). Dollarama for small filler objects at $1–$4 each. Facebook Marketplace and Kijiji for furniture, art, and plants. IKEA for textiles and lighting basics. Thrift stores for frames and unique vases."
   - q: "Can I decorate a rental apartment without losing my damage deposit?"
     a: "Yes. Command strips hold art and light shelves cleanly. Peel-and-stick wallpaper removes without residue. Freestanding furniture needs no installation. A well-decorated rental can look completely transformed without a single hole in the wall. Our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly decor guide</a> has the full no-damage system."
+  - q: "What are cute cheap apartment ideas that don't look cheap?"
+    a: "The trick is spending on the three things people actually notice — lighting, textiles, and one focal wall — instead of spreading a small budget across twenty small objects. A warm bulb, one good rug, and a gallery wall done with Command strips reads as intentional, not thrifted, even at under $200 CAD total."
 ---
 
 Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. According to CMHC, the majority of Canadian renters live in apartments under 700 sq ft, which means every decor dollar needs to work harder.

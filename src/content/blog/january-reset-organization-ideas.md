@@ -5,7 +5,7 @@ image: "/images/closet-wardrobe-open.jpg"
 datePublished: "2025-10-14"
 dateModified: "2026-01-05"
 author: "Badreddine Br"
-tags: ["January reset", "organization", "new year", "declutter", "Canada", "small apartment"]
+tags: ["January reset", "new year organization", "reset apartment", "organization", "new year", "declutter", "Canada", "small apartment"]
 featured: false
 category: "Organization"
 readTime: 9

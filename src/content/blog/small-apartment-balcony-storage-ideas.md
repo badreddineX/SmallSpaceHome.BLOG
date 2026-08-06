@@ -5,7 +5,7 @@ image: "/images/blog-03-img1.jpg"
 datePublished: "2026-05-18"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
-tags: ["balcony storage", "small apartment storage", "renter-friendly", "Canada", "no-drill"]
+tags: ["balcony storage", "small balcony ideas", "small apartment storage", "renter-friendly", "Canada", "no-drill"]
 featured: false
 category: "Storage"
 readTime: 7

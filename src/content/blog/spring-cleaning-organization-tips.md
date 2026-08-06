@@ -5,7 +5,7 @@ image: "/images/organized-cleaning-supplies.jpg"
 datePublished: "2026-02-18"
 dateModified: "2026-07-26"
 author: "Badreddine Br"
-tags: ["spring cleaning", "organization", "Canada", "declutter", "apartment cleaning", "natural cleaning"]
+tags: ["spring cleaning", "spring cleaning checklist", "spring organization apartment", "organization", "Canada", "declutter", "apartment cleaning", "natural cleaning"]
 featured: false
 category: "Organization"
 readTime: 9

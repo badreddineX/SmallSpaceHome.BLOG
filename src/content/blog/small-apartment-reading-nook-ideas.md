@@ -5,7 +5,7 @@ image: "/images/bedroom-shelves-reading.jpg"
 datePublished: "2026-07-27"
 dateModified: "2026-07-30"
 author: "Badreddine Br"
-tags: ["reading nook", "small space", "Canada", "apartment ideas", "cozy corner"]
+tags: ["reading nook", "reading nook small apartment", "cozy reading corner", "small space", "Canada", "apartment ideas", "cozy corner"]
 featured: false
 category: "Decor"
 readTime: 8

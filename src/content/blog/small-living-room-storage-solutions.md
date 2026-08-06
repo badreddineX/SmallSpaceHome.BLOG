@@ -5,7 +5,7 @@ image: "/images/blog-19-img3.jpg"
 datePublished: "2026-06-30"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
-tags: ["small living room storage ideas apartment", "hidden storage furniture small apartment", "ottoman storage small living room", "renter-friendly", "Canada"]
+tags: ["small living room storage ideas apartment", "living room storage ideas", "hidden storage furniture small apartment", "ottoman storage small living room", "renter-friendly", "Canada"]
 featured: false
 category: "Storage"
 readTime: 8

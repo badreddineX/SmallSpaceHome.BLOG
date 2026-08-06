@@ -3,9 +3,9 @@ title: "How to Decorate a Small Living Room"
 description: "A step-by-step guide to decorating a small living room in a Canadian rental — layout, lighting, furniture scale, colour, and storage, in the right order."
 image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-01-11"
-dateModified: "2026-03-05"
+dateModified: "2026-08-06"
 author: "Badreddine Br"
-tags: ["small living room", "living room decor", "Canada", "renter-friendly", "apartment"]
+tags: ["small living room", "how to decorate a small space", "decorating small spaces", "living room decor", "Canada", "renter-friendly", "apartment"]
 featured: false
 category: "Decor"
 readTime: 9

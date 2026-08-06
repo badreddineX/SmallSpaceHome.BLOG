@@ -5,7 +5,7 @@ image: "/images/blog-06-img1.jpg"
 datePublished: "2025-11-28"
 dateModified: "2026-02-17"
 author: "Badreddine Br"
-tags: ["small bedroom", "bedroom decor", "Canada", "renter-friendly", "small space"]
+tags: ["small bedroom", "small bedroom ideas", "bedroom decor small space", "bedroom decor", "Canada", "renter-friendly", "small space"]
 featured: false
 category: "Decor"
 readTime: 8

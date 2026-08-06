@@ -5,7 +5,7 @@ image: "/images/blog-09-img2.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
-tags: ["laundry storage", "small apartment", "renter-friendly", "in suite laundry", "Canada", "organization"]
+tags: ["laundry storage", "laundry closet organization", "small apartment", "renter-friendly", "in suite laundry", "Canada", "organization"]
 featured: false
 category: "Storage"
 readTime: 7

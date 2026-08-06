@@ -5,7 +5,7 @@ image: "/images/living-room-cozy.jpg"
 datePublished: "2026-07-13"
 dateModified: "2026-07-30"
 author: "Badreddine Br"
-tags: ["multifunctional furniture", "small space furniture", "Canada", "small space", "rental friendly"]
+tags: ["multifunctional furniture", "multi-functional furniture small space", "space saving furniture", "small space furniture", "Canada", "small space", "rental friendly"]
 featured: false
 category: "Decor"
 readTime: 8

@@ -5,7 +5,7 @@ image: "/images/moving-day-boxes-apartment.jpg"
 datePublished: "2026-04-16"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
-tags: ["moving day quebec", "montreal renters", "july 1 moving", "apartment storage", "packing tips"]
+tags: ["moving day quebec", "montreal renters", "july 1 moving", "moving day storage tips", "apartment storage", "packing tips"]
 featured: false
 category: "Organization"
 readTime: 9

@@ -5,7 +5,7 @@ image: "/images/seasonal-clothes-wardrobe.jpg"
 datePublished: "2026-04-18"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
-tags: ["seasonal storage", "small apartment storage", "renter-friendly", "Canada", "closet organization"]
+tags: ["seasonal storage", "off season storage", "closet rotation", "small apartment storage", "renter-friendly", "Canada", "closet organization"]
 featured: false
 category: "Storage"
 readTime: 8

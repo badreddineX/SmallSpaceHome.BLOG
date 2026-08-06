@@ -5,7 +5,7 @@ image: "/images/blog-09-img1.jpg"
 datePublished: "2026-05-29"
 dateModified: "2026-07-27"
 author: "Badreddine Br"
-tags: ["closet organization", "small closet", "renter-friendly", "Canada", "no-drill storage"]
+tags: ["closet organization", "closet organization ideas", "small closet storage", "small closet", "renter-friendly", "Canada", "no-drill storage"]
 featured: false
 category: "Storage"
 readTime: 8
