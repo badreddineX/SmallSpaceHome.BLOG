@@ -30,6 +30,8 @@ Condo living in Toronto or Vancouver means a unique storage problem: the unit is
 - **A storage locker only pays for itself for bulky seasonal items** (bikes, winter tires) — in-suite solutions handle everything else for a fraction of the cost
 - All ideas below are landlord- and condo-board-safe: no drilling, no permanent changes
 
+![Small condo living room with floating shelves and organized vertical storage above eye level](/images/closet-organizer-shelving.jpg)
+
 ---
 
 ## 1. What's the Fastest Way to Add Storage in a Small Condo?
