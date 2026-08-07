@@ -44,7 +44,7 @@ When you shop with this principle in mind, your choices narrow considerably — 
 
 ## The Best Small Space Furniture Picks for Canadian Apartments
 
-The best small space furniture — whatever you search for it as, space-saving furniture, apartment-size furniture, or furniture for small spaces — earns its footprint by doing more than one job. Prices for the picks below span roughly $19 CAD for a LACK side table up to $999 CAD for the FRIHETEN sofa bed, covering every small space furniture category a Canadian apartment needs in one list.
+The best small space furniture earns its footprint by doing more than one job. Prices for the picks below span roughly $19 CAD for a LACK side table up to $999 CAD for the FRIHETEN sofa bed, covering every small space furniture category a Canadian apartment needs in one list.
 
 ### Sofas
 
