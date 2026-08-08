@@ -24,35 +24,35 @@ You're not alone if your small Toronto condo feels like it's stuck in beige limb
 
 **TL;DR:** Warm earthy tones—like clay, ochre, terracotta, and warm greige—work beautifully in small rentals if kept *neutral on walls* and *rich in textiles and accessories*. Stick to renter-friendly fixes: peel-and-stick wallpaper samples, woven wall hangings, and affordable layered textures. Avoid dark, heavy hues in small spaces—go light-on-dark instead. You'll add coziness without violating your lease.
 
-## 1. Start with Warm Neutrals—Not Paint
+## 1. How Do You Start a Warm Palette Without Painting?
 
 Skip painting entire walls unless your landlord says yes (and even then, check your lease). Instead, define warmth from the floor up. A soft warm greige rug like the IKEA STOENSE ($59 CAD for 5'x7') grounds the room without overwhelming it. Pair with off-white curtains in a natural linen weave ($29 CAD at HomeSense) and a white or cream area rug to keep light bouncing. In my own place, I used the STOENSE in "Sand" beside a freestanding shelf, and instantly made the space feel tenanted—not staged.
 
 ![Small apartment living area with warm beige rug, tension rod curtains, and wooden accent wall art](/images/living-room-cozy.jpg)
 
-## 2. Accent Walls Done Right (Renter Edition)
+## 2. Can You Do an Accent Wall Without Paint or Drilling?
 
 "Accent wall" doesn't have to mean paint—or drilling. Try peel-and-stick wallpaper *just* behind your bed or sofa. WallPops offers warm clay patterns (like "Ochre Terra") for ~$35 CAD per 20.5 sq. ft. roll on Amazon.ca. Hang it *only* on flat, clean walls (test a sample first), and use a ruler and damp cloth to smooth bubbles. Bonus: most peel cleanly after 6–12 months, which keeps your security deposit intact.
 
-## 3. Warm Textiles Are Your Secret Weapon
+## 3. Why Are Textiles the Fastest Way to Add Warmth?
 
 Textiles do the heavy lifting. A terracotta knit throw from Simons (~$42 CAD) over a neutral sofa adds instant depth. Layer textured cushions: a burnt sienna velvet ($24 at Structube), a cream jute stitch pillow ($19 at Canadian Tire), and a natural waffle-weave cushion ($16 on Amazon.ca). Don't overdo it—three layers max. Too many patterns or textures makes small spaces feel cluttered, not cozy.
 
-## 4. Wood Tones That *Actually* Work in Small Spaces
+## 4. Which Wood Tones Actually Work in Small, Dark Spaces?
 
 Avoid black walnut or very dark oak furniture—it murders light. Instead, seek out lighter, warm-toned wood: think ash, pine, or light walnut with golden undertones. The IKEA NORDKVARN mirror frame ($19 CAD) has that soft golden grain and hangs with no drill needed (use toggle clips). Your coffee table? A secondhand pine trunk painted with chalk paint in "Clay" ($12 CAD can) from HomeSense—not permanent, and easy to touch up.
 
-## 5. Lighting Makes Warmth Feel Alive
+## 5. Why Does Lighting Matter More Than Paint Color?
 
 Cool LED bulbs (5000K) render warm colors flat and muddy. Swap them for 2700K–3000K LEDs. A single affordable lamp can shift your whole palette: the IKEA ODENSAN LED floor lamp ($49 CAD) gives a buttery, diffuse glow that make warm textiles glow. For desks or bedside, use a gooseneck lamp with a fabric shade—like a $29 gooseneck lamp with a fabric shade from Amazon.ca—to diffuse warmth evenly without harsh spots.
 
-## 6. Greenery That Complements Warmth
+## 6. What Greenery Complements a Warm Earthy Palette?
 
 Don't just grab a snake plant in a grey pot. Choose greens that *lean into* your palette: dried eucalyptus bundles ($8 CAD at Local Urban Farm on Queen West, or similar on Etsy.ca), or a Pothos in an unglazed clay pot ($22 at The Plant Company in Vancouver). Keep leaves in the same family as your clay/ochre tones—avoid cool blues in pots or leaves (unless you *want* contrast). Less is more: one statement plant + three small tabletops tells a cohesive story.
 
 ![Clay pot with trailing pothos on a warm wood side table near a woven wall hanging](/images/bedroom-minimalist.jpg)
 
-## 7. Art & Mirrors Without the Drill
+## 7. How Do You Hang Art and Mirrors Without Drilling?
 
 Mirrors are non-negotiable in small spaces—they multiply light and visual depth. Use mirror shelves instead of hanging: the Structube mirrored floating shelf ($34 CAD) sits on hidden brackets and holds books, a plant, and your phone—all while reflecting your warm palette. For art, hang lightweight fabric prints using 3M Command Canvas Hangers ($9 CAD for 4 on Amazon.ca). Try framing a $5 linen napkin from Habitat (yes, really) against a warm wall background—no mat needed.
 

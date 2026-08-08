@@ -27,67 +27,67 @@ Let’s be real: apartment living in Canada means you can’t just hammer, drill
 
 ![A clutter-free living room corner with a floating shelf held by Command strips, potted fiddle leaf fig on floor, and layered rugs](/images/scandinavian-minimalist-furniture.jpg)
 
-## 1. Hang Heavy Curtains Without Drilling
+## 1. Can You Hang Heavy Curtains Without Drilling?
 
 Tension rods crack window frames, and drill mounts leave holes. Instead, use Command™ Heavy-Duty Curtain Rod Hooks (typically $6–$8 CAD for a pack of 4). Stick one on each side of the window frame (not the wall), then thread your rod through. This approach can hold up standard blackout curtains without sagging, even through seasonal humidity shifts. Key: wipe the window frame with alcohol first, wait 1 hour before hanging, and never exceed the rated weight limit per hook (usually around 2.3 kg).
 
-## 2. Create Floating Shelves with Zero Wall Contact
+## 2. Can Command Strips Hold a Floating Shelf?
 
 No more shoddy shelves that peel paint off. Command™ picture hanging strips (typically $5–$7 CAD for a pack of 4), applied to the *back* of a lightweight shelf, work well for this. Press each strip for 30 seconds, then press the shelf firmly against the wall. This method can hold light items like stacks of cookbooks, provided you don’t go wider than 60 cm or heavier than 2.5 kg total. It also holds up in humid conditions, such as basement units.
 
-## 3. Frame Art Without Nails or Tape
+## 3. How Do You Frame Art Without Nails or Tape?
 
 Sticking posters with tape always leaves residue, and nails mean security deposit panic. Command™ Clear Picture Hangers (typically $6–$9 CAD for a pack of 6) work well with lightweight frames under 1.5 kg. Place the hook on the wall, the sticky tab on the frame wire, and slide together. No more crooked prints, and it works on glass, tile, and painted drywall, even textured finishes.
 
 ![A gallery wall of 4 framed prints held by Command strips, no visible hardware](/images/minimalist-apartment-pin.jpg)
 
-## 4. Mount a Pegboard Without Screws
+## 4. Can You Mount a Pegboard Without Screws?
 
 Pegboards are amazing for kitchens and home offices, but drilling into concrete walls, common in older buildings, is a no-go. Cut a pegboard to size, then affix it with Command™ Large Picture Hanging Strips (typically $6–$8 CAD for a pack of 8), spreading the strips across the back every 15 cm. This holds up well for kitchen tools with no wobble or damage. Just skip anything as heavy as a cast-iron Dutch oven.
 
-## 5. Attach a Shelf Behind Your Door
+## 5. Can You Attach a Shelf Behind Your Door Without Drilling?
 
 Door-back storage is the renter’s secret weapon. Command™ Adhesive Hooks (typically $4–$6 CAD for a pack of 10) can hang a shallow shelf behind a bedroom door. Gluing the strips to a plastic-backed shelf keeps the hardware invisible. This setup works well for hair tools, laundry baskets, and extra shoes, on both hollow-core and solid doors. Keep the total weight under 3 kg to be safe.
 
-## 6. Mount a TV Without Drilling (Under 32 Inches)
+## 6. Can You Mount a TV Without Drilling?
 
 Yes, it’s possible, if your TV is 32" or smaller and under 12 kg. Command™ TV Mounting Kits (typically $20–$28 CAD) include heavy-duty strips and a low-profile bracket, and manufacturer specs support holding smaller TVs long-term when installed correctly. Limitations: no ceiling mounts, avoid vibrations (skip the subwoofer underneath), and never move it once installed. Best suited for secondary bedrooms.
 
-## 7. Hang Plants with Invisible Hooks
+## 7. How Do You Hang Plants Without Wall Damage?
 
 Hanging pothos or trailing ivy adds life without taking floor space. Command™ Clear Hooks (typically $5–$7 CAD for a pack of 5) work well inside plant saucers or with lightweight macramé hangers. Stick the hook *inside* the saucer rim, then fill with soil. This holds up to roughly 6" pots weighing under 1.8 kg. Just don’t overwater, since leakage can weaken the adhesive over time. Great for balcony railings too, sticking to the *top* edge of the rail rather than the side.
 
-## 8. Hide Cords Behind Furniture With a Cord Catch
+## 8. How Do You Hide Cords Without Drilling?
 
 Tangled cords look messy and attract dust bunnies. Cut a small slit in the back of a bed frame and run a fabric cord cover through it, then secure the cover’s ends with Command™ mounting strips (typically $5–$7 CAD for a pack of 4). This keeps chargers, lamps, and phone cords tucked neatly out of sight. No visible wires, no damage to the frame, just a clean look in a small apartment.
 
-## 9. Display Pots on the Fridge With Magnetic Strips
+## 9. Can Magnetic Strips Turn Your Fridge Into Display Space?
 
 Your fridge’s flat steel front is a blank canvas. A Command™ Magnetic Strip (typically $8–$10 CAD) sticks well to the side panel (not the door, which flexes), letting you hang small ferro-magnetic pots or cans. This can hold 2–3 herb planters, spices, or cutlery, which works great in tight kitchens. Just avoid humid spots near the stove, since moisture weakens the adhesive.
 
-## 10. Add Crown Molding Look with Wooden Trim
+## 10. Can You Fake Crown Molding Without Nails?
 
 Want that fancy built-in vibe without renovating? Wooden dado rail trim (typically $10–$14 CAD per 2.4m), cut to fit ceiling corners and glued with Command™ Mounting Tape (typically $7–$9 CAD for 2 rolls), creates the look. The tape stays hidden behind the trim, so no visible strips show. This kind of installation can hold for well over a year with no wall damage.
 
 ![A small apartment kitchen with floating wooden trim along the wall, holding spice jars and utensils](/images/decor-floating-shelves.jpg)
 
-## 11. Mount a Mirror Without Drilling
+## 11. Can You Mount a Mirror Without Drilling?
 
 Full-length mirrors are essential for small-space psychology, but hanging them properly usually means anchors. Instead, use Command™ Mirror Hanging Strips (typically $9–$11 CAD for a pack of 8). These have extra-wide adhesive pads and hold up to 4.5 kg, making them suitable for standard bathroom or bedroom mirrors, and they're rated to withstand humid conditions like daily showers. Always clean the wall with isopropyl alcohol first.
 
-## 12. Create a Gallery Wall Using Frames with Wire Backing
+## 12. How Do You Build a Gallery Wall With Wire-Backed Frames?
 
 Avoid the “one crooked frame” effect by measuring twice and using Command™ Clear Picture Hangers. Pro tip: lay your frames on the floor first, test spacing with string, then transfer the layout to the wall using painter’s tape. Each hanger goes on the wall, the wire on the back. This works well for grouping several small frames under 1 kg each with no nails and no damage.
 
-## 13. Hang Kitchen Utensils With a Pegboard Backing
+## 13. Can a Pegboard Replace a Kitchen Island for Utensils?
 
 Skip the expensive kitchen island and mount a small pegboard above the counter instead, secured with Command™ Large Picture Strips (typically $6–$8 CAD for a pack of 8). Pegboard hooks hold spoons, whisks, and even a small knife holder. Using the standard Command™ Adhesive Hooks (not the removable kind) gives a stronger hold, comfortably up to 3 kg, and it removes without leaving a trace.
 
-## 14. Use Tension Rods + Strips for Custom Storage
+## 14. Can Tension Rods and Command Strips Combine for Custom Storage?
 
 Combine two renter staples: tension rods (for windows or showers) and Command™ hooks. Sticking hooks to the *underside* of upper cabinets and running a tension rod between them creates a spot to hang pot lids, measuring cups, and cleaning sprays. It saves counter space and looks tidy. Cost: typically $12–$18 CAD for two rods plus $5–$7 CAD for hooks.
 
-## 15. Mount a Desktop Organizer in a Studio Apartment
+## 15. Can You Mount a Desktop Organizer Without Drilling?
 
 A small acrylic organizer (typically $10–$16 CAD) attached to the *back* of a desk with Command™ Mounting Tape makes a great office hack. It holds pens, USB hubs, and phone stands. Laminate desk surfaces let the tape grip well over many months with no drilling and no residue, and it peels off in one clean piece when moving out.
 
