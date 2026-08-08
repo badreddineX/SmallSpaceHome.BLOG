@@ -274,3 +274,5 @@ These 23 ideas work in any Canadian rental — and every single one is reversibl
 → For bedroom-specific storage with exact product picks, check out [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas). And for the room this list covers least — the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for no-drill solutions sized for tiny Canadian bathrooms.
 
 → Moving into a new place in Quebec? [Quebec moving day storage guide](/blog/quebec-moving-day-storage-guide) covers the province's unique July 1 lease-turnover crunch. And if your entryway is the first thing that gets cluttered, [small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) has the fix.
+
+→ Starting university and moving into your first place? [September student move-in storage guide](/blog/september-student-move-in-storage-guide) covers the dorm-to-apartment transition specifically. Got outdoor space? [Small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas) applies the same space-scaling rules to the one outdoor room most apartments have.

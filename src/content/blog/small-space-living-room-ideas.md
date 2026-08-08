@@ -174,3 +174,5 @@ These four changes — rug, mirror, accent wall, and cleared floors — will do 
 Once your living room layout is working, the bedroom is usually the next pain point. Storage under the bed, slim wardrobes, and floating nightstands solve most small bedroom problems without touching a wall.
 
 Read our guide on [small bedroom storage ideas for Canadian apartment renters](/blog/small-apartment-bedroom-storage-ideas) — 14 practical solutions that work in rooms as small as 90 sq ft.
+
+→ Need the seating itself to double as storage in this exact layout? [Small living room storage ideas](/blog/small-living-room-storage-solutions) covers ottomans, coffee tables with shelves, and TV consoles built to hide the clutter.

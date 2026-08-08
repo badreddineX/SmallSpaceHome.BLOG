@@ -182,3 +182,5 @@ Total for the essentials: **~$650–$1,050 CAD** — a complete small apartment 
 These IKEA picks have been tested in real Canadian apartments and they hold up. Start with whatever solves your biggest problem — the NORDLI if storage is the issue, the KALLAX if you need a living room anchor, the BILLY if you're drowning in books. Get one piece working before adding the next.
 
 → Want to go deeper on specific KALLAX configurations? [IKEA KALLAX hacks for small spaces](/blog/storage-ideas-for-small-places) covers 11 creative uses with exact setup instructions and CAD costs.
+
+→ Is your entryway the first thing that gets cluttered when you walk in? [Small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) covers a matching no-drill setup for the space right by your door.
