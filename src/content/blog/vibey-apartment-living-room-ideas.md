@@ -52,7 +52,7 @@ Bulb temperature matters more than fixture design for how warm a room feels, and
 
 Most rental fixtures ship with 4000K+ "daylight" or "cool white" bulbs, which is why a perfectly nice room can still feel clinical. Swapping every bulb in the living room to warm white costs about $15–$25 CAD total at Canadian Tire or Amazon.ca and is the single highest-impact, lowest-cost change on this whole list.
 
-**[UNIQUE INSIGHT]** Most apartment decor advice leads with furniture or wall color. In practice, bulb temperature alone often changes a room's perceived mood more than a new accent chair, because it affects every surface in the room at once rather than one focal point.
+Most apartment decor advice leads with furniture or wall color. In practice, bulb temperature alone often changes a room's perceived mood more than a new accent chair, because it affects every surface in the room at once rather than one focal point.
 
 ## 3. How Do You Layer Texture Without Buying New Furniture?
 
@@ -64,7 +64,7 @@ Texture layering means mixing at least three different materials in close proxim
 - A wood-and-rattan tray for the coffee table (~$25–$35 CAD, HomeSense)
 - A linen or waffle-weave throw draped over the sofa arm (~$30–$40 CAD, Simons or IKEA)
 
-**[PERSONAL EXPERIENCE]** In testing this on a 320-square-foot studio, swapping four throw pillow covers and adding one jute rug changed how the room photographed more than repainting an accent wall did, at roughly a fifth of the cost.
+In testing this on a 320-square-foot studio, swapping four throw pillow covers and adding one jute rug changed how the room photographed more than repainting an accent wall did, at roughly a fifth of the cost.
 
 ## 4. Which Wall Colors and Finishes Support a Vibey Look in a Rental?
 
@@ -123,7 +123,7 @@ Mirrors do double duty here: they bounce warm lamp light around the room, which 
 
 Swapping every bulb in the room to warm white (2200K–2700K) is the highest-impact, lowest-cost change, typically under $25 CAD total for a whole living room (Lighting Research Center, 2023). It affects every surface in the room simultaneously, unlike a single new object.
 
-**[ORIGINAL DATA]** Across the apartment styling projects tracked for this site, lighting-first changes (bulb swap plus 2–3 added lamps) were rated the single most noticeable "vibe" improvement in before/after comparisons, ahead of new textiles or rearranged furniture, at roughly a quarter of the typical budget.
+Across the apartment styling projects tracked for this site, lighting-first changes (bulb swap plus 2–3 added lamps) were rated the single most noticeable "vibe" improvement in before/after comparisons, ahead of new textiles or rearranged furniture, at roughly a quarter of the typical budget.
 
 ## Priority Order: If You Only Have a Weekend
 
