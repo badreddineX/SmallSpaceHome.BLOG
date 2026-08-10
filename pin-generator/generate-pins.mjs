@@ -22,6 +22,8 @@ const BASE_CSS = `
           letter-spacing:.24em;text-transform:uppercase}
   h2{font-family:'Playfair Display',serif;font-weight:600}
   h2 em{font-style:italic}
+  .subtitle{font-family:'Montserrat',sans-serif;font-weight:600;font-size:30px;
+            line-height:1.3}
 `;
 
 const templates = {
@@ -153,7 +155,8 @@ const templates = {
       .tape.r{top:-26px;right:-22px;transform:rotate(26deg)}
       h2{font-size:66px;line-height:1.16;color:var(--ink);margin-top:46px;text-align:center}
       h2 em{color:var(--tan)}
-      .domain{color:var(--sage-deep);margin-top:auto;padding-top:36px}
+      .subtitle{color:var(--sage-deep);text-align:center;margin-top:22px}
+      .domain{color:var(--sage-deep);margin-top:auto;padding-top:30px}
     </style>
     <div class="kicker">${p.kicker}</div>
     <div class="polaroid">
@@ -162,6 +165,7 @@ const templates = {
       <div class="photo-el"></div>
     </div>
     <h2>${p.headline}</h2>
+    <div class="subtitle">${p.subtitle}</div>
     <div class="domain">${p.domain}</div>`,
 
   // ===== F · PRICE TAG — hanging kraft price-tag + torn banner headline =====
@@ -189,13 +193,14 @@ const templates = {
       .banner::after{right:0;transform:scaleX(-1)}
       h2{font-size:70px;line-height:1.16;color:var(--ink);text-align:center}
       h2 em{color:var(--tan)}
+      .subtitle{color:var(--sage-deep);text-align:center;margin-top:18px}
       .domain{position:absolute;left:0;right:0;bottom:36px;text-align:center;color:rgba(250,247,240,.85)}
     </style>
     <div class="photo"></div>
     <div class="darken"></div>
     <div class="string"></div>
     <div class="tag"><div class="kicker">${p.kicker}</div></div>
-    <div class="banner-wrap"><div class="banner"><h2>${p.headline}</h2></div></div>
+    <div class="banner-wrap"><div class="banner"><h2>${p.headline}</h2><div class="subtitle">${p.subtitle}</div></div></div>
     <div class="domain">${p.domain}</div>`,
 
   // ===== G · ARCHWAY — photo through an architectural arch, ribbon-banner headline =====
@@ -218,11 +223,12 @@ const templates = {
              border-color:transparent transparent transparent #E5DCC5}
       h2{font-size:66px;line-height:1.16;color:var(--ink)}
       h2 em{color:var(--tan)}
+      .subtitle{color:var(--sage-deep);text-align:center;margin-top:16px}
       .domain{margin-top:auto;margin-bottom:56px;color:rgba(250,247,240,.8)}
     </style>
     <div class="plaque">${p.kicker}</div>
     <div class="arch"></div>
-    <div class="ribbon-wrap"><div class="ribbon"><h2>${p.headline}</h2></div></div>
+    <div class="ribbon-wrap"><div class="ribbon"><h2>${p.headline}</h2><div class="subtitle">${p.subtitle}</div></div></div>
     <div class="domain">${p.domain}</div>`,
 };
 

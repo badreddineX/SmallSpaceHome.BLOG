@@ -822,22 +822,79 @@
     "template": "E",
     "kicker": "UNDER $200 &middot; DEPOSIT-SAFE",
     "headline": "Rental Decor That Costs <em>Less</em>",
+    "subtitle": "Style a Whole Room for Under $200 CAD",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/cozy-corner-lamp-mirror.jpg"
+  },
+  {
+    "slug": "apartment-decor-ideas-on-a-budget",
+    "template": "F",
+    "kicker": "UNDER $200 &middot; DEPOSIT-SAFE",
+    "headline": "Rental Decor That Costs <em>Less</em>",
+    "subtitle": "Style a Whole Room for Under $200 CAD",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/cozy-corner-lamp-mirror.jpg"
+  },
+  {
+    "slug": "apartment-decor-ideas-on-a-budget",
+    "template": "G",
+    "kicker": "UNDER $200 &middot; DEPOSIT-SAFE",
+    "headline": "Rental Decor That Costs <em>Less</em>",
+    "subtitle": "Style a Whole Room for Under $200 CAD",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/cozy-corner-lamp-mirror.jpg"
+  },
+  {
+    "slug": "apartment-decor-ideas",
+    "template": "E",
+    "kicker": "CANADIAN RENTERS &middot; EASY WINS",
+    "headline": "Decor Ideas Real <em>Renters</em> Use",
+    "subtitle": "Ideas Built for Canadian Rentals",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-19-img1.jpg"
   },
   {
     "slug": "apartment-decor-ideas",
     "template": "F",
     "kicker": "CANADIAN RENTERS &middot; EASY WINS",
     "headline": "Decor Ideas Real <em>Renters</em> Use",
+    "subtitle": "Ideas Built for Canadian Rentals",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-19-img1.jpg"
+  },
+  {
+    "slug": "apartment-decor-ideas",
+    "template": "G",
+    "kicker": "CANADIAN RENTERS &middot; EASY WINS",
+    "headline": "Decor Ideas Real <em>Renters</em> Use",
+    "subtitle": "Ideas Built for Canadian Rentals",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-19-img1.jpg"
+  },
+  {
+    "slug": "cozy-winter-apartment-decor",
+    "template": "E",
+    "kicker": "WINTER COZY &middot; NO DAMAGE",
+    "headline": "Cozy Up Your Rental, <em>Zero</em> Drills",
+    "subtitle": "Layer In Warmth Without Losing Your Deposit",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-22-img2.jpg"
+  },
+  {
+    "slug": "cozy-winter-apartment-decor",
+    "template": "F",
+    "kicker": "WINTER COZY &middot; NO DAMAGE",
+    "headline": "Cozy Up Your Rental, <em>Zero</em> Drills",
+    "subtitle": "Layer In Warmth Without Losing Your Deposit",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-22-img2.jpg"
   },
   {
     "slug": "cozy-winter-apartment-decor",
     "template": "G",
     "kicker": "WINTER COZY &middot; NO DAMAGE",
     "headline": "Cozy Up Your Rental, <em>Zero</em> Drills",
+    "subtitle": "Layer In Warmth Without Losing Your Deposit",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-22-img2.jpg"
   },
@@ -846,22 +903,79 @@
     "template": "E",
     "kicker": "FALL DECOR &middot; LANDLORD-SAFE",
     "headline": "Autumn Style Your <em>Rental</em> Fast",
+    "subtitle": "Cozy, Seasonal & Fully Renter-Friendly",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/hero-living-room.jpg"
+  },
+  {
+    "slug": "fall-apartment-decorating-ideas",
+    "template": "F",
+    "kicker": "FALL DECOR &middot; LANDLORD-SAFE",
+    "headline": "Autumn Style Your <em>Rental</em> Fast",
+    "subtitle": "Cozy, Seasonal & Fully Renter-Friendly",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/hero-living-room.jpg"
+  },
+  {
+    "slug": "fall-apartment-decorating-ideas",
+    "template": "G",
+    "kicker": "FALL DECOR &middot; LANDLORD-SAFE",
+    "headline": "Autumn Style Your <em>Rental</em> Fast",
+    "subtitle": "Cozy, Seasonal & Fully Renter-Friendly",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/hero-living-room.jpg"
+  },
+  {
+    "slug": "how-to-decorate-a-small-living-room",
+    "template": "E",
+    "kicker": "LIVING ROOM &middot; NO DRILLS",
+    "headline": "Style a Small Room Like a <em>Pro</em>",
+    "subtitle": "A Step-by-Step Layout & Styling Plan",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/studio-apartment-cozy-living-room.jpg"
   },
   {
     "slug": "how-to-decorate-a-small-living-room",
     "template": "F",
     "kicker": "LIVING ROOM &middot; NO DRILLS",
     "headline": "Style a Small Room Like a <em>Pro</em>",
+    "subtitle": "A Step-by-Step Layout & Styling Plan",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/studio-apartment-cozy-living-room.jpg"
+  },
+  {
+    "slug": "how-to-decorate-a-small-living-room",
+    "template": "G",
+    "kicker": "LIVING ROOM &middot; NO DRILLS",
+    "headline": "Style a Small Room Like a <em>Pro</em>",
+    "subtitle": "A Step-by-Step Layout & Styling Plan",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/studio-apartment-cozy-living-room.jpg"
+  },
+  {
+    "slug": "how-to-make-a-small-room-look-bigger",
+    "template": "E",
+    "kicker": "THE VISUAL TRICKS",
+    "headline": "Make Any Room Feel <em>Twice</em> as Big",
+    "subtitle": "13 Designer Tricks, Zero Renovation",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bright-bedroom-mirror.jpg"
+  },
+  {
+    "slug": "how-to-make-a-small-room-look-bigger",
+    "template": "F",
+    "kicker": "THE VISUAL TRICKS",
+    "headline": "Make Any Room Feel <em>Twice</em> as Big",
+    "subtitle": "13 Designer Tricks, Zero Renovation",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bright-bedroom-mirror.jpg"
   },
   {
     "slug": "how-to-make-a-small-room-look-bigger",
     "template": "G",
     "kicker": "THE VISUAL TRICKS",
     "headline": "Make Any Room Feel <em>Twice</em> as Big",
+    "subtitle": "13 Designer Tricks, Zero Renovation",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/bright-bedroom-mirror.jpg"
   },
@@ -870,22 +984,79 @@
     "template": "E",
     "kicker": "15 IKEA HACKS",
     "headline": "IKEA Tricks Small <em>Apartments</em> Need",
+    "subtitle": "15 Hacks Every Small-Space Renter Should Know",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/scandinavian-minimalist-furniture.jpg"
+  },
+  {
+    "slug": "ikea-small-space-hacks",
+    "template": "F",
+    "kicker": "15 IKEA HACKS",
+    "headline": "IKEA Tricks Small <em>Apartments</em> Need",
+    "subtitle": "15 Hacks Every Small-Space Renter Should Know",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/scandinavian-minimalist-furniture.jpg"
+  },
+  {
+    "slug": "ikea-small-space-hacks",
+    "template": "G",
+    "kicker": "15 IKEA HACKS",
+    "headline": "IKEA Tricks Small <em>Apartments</em> Need",
+    "subtitle": "15 Hacks Every Small-Space Renter Should Know",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/scandinavian-minimalist-furniture.jpg"
+  },
+  {
+    "slug": "january-reset-organization-ideas",
+    "template": "E",
+    "kicker": "THE JANUARY RESET",
+    "headline": "Start the Year <em>Clutter-Free</em>",
+    "subtitle": "Start the Year With a Clean, Sorted Space",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/closet-wardrobe-open.jpg"
   },
   {
     "slug": "january-reset-organization-ideas",
     "template": "F",
     "kicker": "THE JANUARY RESET",
     "headline": "Start the Year <em>Clutter-Free</em>",
+    "subtitle": "Start the Year With a Clean, Sorted Space",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/closet-wardrobe-open.jpg"
+  },
+  {
+    "slug": "january-reset-organization-ideas",
+    "template": "G",
+    "kicker": "THE JANUARY RESET",
+    "headline": "Start the Year <em>Clutter-Free</em>",
+    "subtitle": "Start the Year With a Clean, Sorted Space",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/closet-wardrobe-open.jpg"
+  },
+  {
+    "slug": "minimalist-small-apartment-ideas",
+    "template": "E",
+    "kicker": "LESS STUFF, MORE SPACE",
+    "headline": "A Minimalist Life, <em>Renter-Approved</em>",
+    "subtitle": "Less Stuff, More Space — No Full Redesign",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-minimalist.jpg"
+  },
+  {
+    "slug": "minimalist-small-apartment-ideas",
+    "template": "F",
+    "kicker": "LESS STUFF, MORE SPACE",
+    "headline": "A Minimalist Life, <em>Renter-Approved</em>",
+    "subtitle": "Less Stuff, More Space — No Full Redesign",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-minimalist.jpg"
   },
   {
     "slug": "minimalist-small-apartment-ideas",
     "template": "G",
     "kicker": "LESS STUFF, MORE SPACE",
     "headline": "A Minimalist Life, <em>Renter-Approved</em>",
+    "subtitle": "Less Stuff, More Space — No Full Redesign",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/bedroom-minimalist.jpg"
   },
@@ -894,22 +1065,79 @@
     "template": "E",
     "kicker": "10 PIECES &middot; DOUBLE DUTY",
     "headline": "Furniture That Does <em>Double</em> Duty",
+    "subtitle": "Furniture That Pulls Double Duty",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/living-room-cozy.jpg"
+  },
+  {
+    "slug": "multifunctional-furniture-small-apartment",
+    "template": "F",
+    "kicker": "10 PIECES &middot; DOUBLE DUTY",
+    "headline": "Furniture That Does <em>Double</em> Duty",
+    "subtitle": "Furniture That Pulls Double Duty",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/living-room-cozy.jpg"
+  },
+  {
+    "slug": "multifunctional-furniture-small-apartment",
+    "template": "G",
+    "kicker": "10 PIECES &middot; DOUBLE DUTY",
+    "headline": "Furniture That Does <em>Double</em> Duty",
+    "subtitle": "Furniture That Pulls Double Duty",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/living-room-cozy.jpg"
+  },
+  {
+    "slug": "quebec-moving-day-storage-guide",
+    "template": "E",
+    "kicker": "JULY 1 &middot; MONTREAL MOVERS",
+    "headline": "Survive Quebec's <em>Moving</em> Day",
+    "subtitle": "Everything to Pack, Store & Move by July 1",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/moving-day-boxes-apartment.jpg"
   },
   {
     "slug": "quebec-moving-day-storage-guide",
     "template": "F",
     "kicker": "JULY 1 &middot; MONTREAL MOVERS",
     "headline": "Survive Quebec's <em>Moving</em> Day",
+    "subtitle": "Everything to Pack, Store & Move by July 1",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/moving-day-boxes-apartment.jpg"
+  },
+  {
+    "slug": "quebec-moving-day-storage-guide",
+    "template": "G",
+    "kicker": "JULY 1 &middot; MONTREAL MOVERS",
+    "headline": "Survive Quebec's <em>Moving</em> Day",
+    "subtitle": "Everything to Pack, Store & Move by July 1",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/moving-day-boxes-apartment.jpg"
+  },
+  {
+    "slug": "renter-friendly-apartment-decor-ideas",
+    "template": "E",
+    "kicker": "100% RENTER-APPROVED",
+    "headline": "Decorate Without <em>Losing</em> Your Deposit",
+    "subtitle": "Deposit-Safe Decor That Actually Sticks",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/apartment-tv-console-vase.jpg"
+  },
+  {
+    "slug": "renter-friendly-apartment-decor-ideas",
+    "template": "F",
+    "kicker": "100% RENTER-APPROVED",
+    "headline": "Decorate Without <em>Losing</em> Your Deposit",
+    "subtitle": "Deposit-Safe Decor That Actually Sticks",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/apartment-tv-console-vase.jpg"
   },
   {
     "slug": "renter-friendly-apartment-decor-ideas",
     "template": "G",
     "kicker": "100% RENTER-APPROVED",
     "headline": "Decorate Without <em>Losing</em> Your Deposit",
+    "subtitle": "Deposit-Safe Decor That Actually Sticks",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/apartment-tv-console-vase.jpg"
   },
@@ -918,22 +1146,79 @@
     "template": "E",
     "kicker": "GEAR STORAGE &middot; NO DRILLS",
     "headline": "Store Off-Season Gear, <em>Zero</em> Clutter",
+    "subtitle": "Rotate Your Gear Without Losing Space",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/seasonal-clothes-wardrobe.jpg"
+  },
+  {
+    "slug": "seasonal-storage-off-season-clothes-gear",
+    "template": "F",
+    "kicker": "GEAR STORAGE &middot; NO DRILLS",
+    "headline": "Store Off-Season Gear, <em>Zero</em> Clutter",
+    "subtitle": "Rotate Your Gear Without Losing Space",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/seasonal-clothes-wardrobe.jpg"
+  },
+  {
+    "slug": "seasonal-storage-off-season-clothes-gear",
+    "template": "G",
+    "kicker": "GEAR STORAGE &middot; NO DRILLS",
+    "headline": "Store Off-Season Gear, <em>Zero</em> Clutter",
+    "subtitle": "Rotate Your Gear Without Losing Space",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/seasonal-clothes-wardrobe.jpg"
+  },
+  {
+    "slug": "september-student-move-in-storage-guide",
+    "template": "E",
+    "kicker": "FIRST-YEAR MOVE-IN",
+    "headline": "The Student <em>Storage</em> Starter Kit",
+    "subtitle": "What to Buy, What to Skip",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/modern-studio-apartment-kitchen.jpg"
   },
   {
     "slug": "september-student-move-in-storage-guide",
     "template": "F",
     "kicker": "FIRST-YEAR MOVE-IN",
     "headline": "The Student <em>Storage</em> Starter Kit",
+    "subtitle": "What to Buy, What to Skip",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/modern-studio-apartment-kitchen.jpg"
+  },
+  {
+    "slug": "september-student-move-in-storage-guide",
+    "template": "G",
+    "kicker": "FIRST-YEAR MOVE-IN",
+    "headline": "The Student <em>Storage</em> Starter Kit",
+    "subtitle": "What to Buy, What to Skip",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/modern-studio-apartment-kitchen.jpg"
+  },
+  {
+    "slug": "small-apartment-balcony-storage-ideas",
+    "template": "E",
+    "kicker": "BALCONY STORAGE &middot; NO DAMAGE",
+    "headline": "A Balcony That Works <em>Harder</em>",
+    "subtitle": "No Deposit Risk, No Permanent Changes",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-03-img1.jpg"
+  },
+  {
+    "slug": "small-apartment-balcony-storage-ideas",
+    "template": "F",
+    "kicker": "BALCONY STORAGE &middot; NO DAMAGE",
+    "headline": "A Balcony That Works <em>Harder</em>",
+    "subtitle": "No Deposit Risk, No Permanent Changes",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-03-img1.jpg"
   },
   {
     "slug": "small-apartment-balcony-storage-ideas",
     "template": "G",
     "kicker": "BALCONY STORAGE &middot; NO DAMAGE",
     "headline": "A Balcony That Works <em>Harder</em>",
+    "subtitle": "No Deposit Risk, No Permanent Changes",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-03-img1.jpg"
   },
@@ -942,22 +1227,79 @@
     "template": "E",
     "kicker": "BATHROOM &middot; DEPOSIT-SAFE",
     "headline": "Bathroom Storage, <em>Zero</em> Drilling",
+    "subtitle": "Solutions for Rental Bathrooms That Actually Fit",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/bathroom-storage-shelves.jpg"
+  },
+  {
+    "slug": "small-apartment-bathroom-storage",
+    "template": "F",
+    "kicker": "BATHROOM &middot; DEPOSIT-SAFE",
+    "headline": "Bathroom Storage, <em>Zero</em> Drilling",
+    "subtitle": "Solutions for Rental Bathrooms That Actually Fit",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bathroom-storage-shelves.jpg"
+  },
+  {
+    "slug": "small-apartment-bathroom-storage",
+    "template": "G",
+    "kicker": "BATHROOM &middot; DEPOSIT-SAFE",
+    "headline": "Bathroom Storage, <em>Zero</em> Drilling",
+    "subtitle": "Solutions for Rental Bathrooms That Actually Fit",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bathroom-storage-shelves.jpg"
+  },
+  {
+    "slug": "small-apartment-bedroom-storage-ideas",
+    "template": "E",
+    "kicker": "BEDROOM STORAGE &middot; NO DRILLS",
+    "headline": "Bedroom Clutter, <em>Solved</em>",
+    "subtitle": "13 Ways to Hide More in a Tiny Bedroom",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-storage-closet.jpg"
   },
   {
     "slug": "small-apartment-bedroom-storage-ideas",
     "template": "F",
     "kicker": "BEDROOM STORAGE &middot; NO DRILLS",
     "headline": "Bedroom Clutter, <em>Solved</em>",
+    "subtitle": "13 Ways to Hide More in a Tiny Bedroom",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/bedroom-storage-closet.jpg"
+  },
+  {
+    "slug": "small-apartment-bedroom-storage-ideas",
+    "template": "G",
+    "kicker": "BEDROOM STORAGE &middot; NO DRILLS",
+    "headline": "Bedroom Clutter, <em>Solved</em>",
+    "subtitle": "13 Ways to Hide More in a Tiny Bedroom",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-storage-closet.jpg"
+  },
+  {
+    "slug": "small-apartment-home-office-ideas",
+    "template": "E",
+    "kicker": "WORK FROM HOME &middot; NO DAMAGE",
+    "headline": "A Real Desk in a <em>Tiny</em> Space",
+    "subtitle": "A WFH Setup That Doesn't Take Over the Room",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-home-office-desk.jpg"
+  },
+  {
+    "slug": "small-apartment-home-office-ideas",
+    "template": "F",
+    "kicker": "WORK FROM HOME &middot; NO DAMAGE",
+    "headline": "A Real Desk in a <em>Tiny</em> Space",
+    "subtitle": "A WFH Setup That Doesn't Take Over the Room",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-home-office-desk.jpg"
   },
   {
     "slug": "small-apartment-home-office-ideas",
     "template": "G",
     "kicker": "WORK FROM HOME &middot; NO DAMAGE",
     "headline": "A Real Desk in a <em>Tiny</em> Space",
+    "subtitle": "A WFH Setup That Doesn't Take Over the Room",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/small-home-office-desk.jpg"
   },
@@ -966,22 +1308,79 @@
     "template": "E",
     "kicker": "LAUNDRY DAY &middot; LEASE-SAFE",
     "headline": "Laundry Storage That <em>Actually</em> Fits",
+    "subtitle": "Organize In-Suite or Shared Laundry",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-09-img2.jpg"
+  },
+  {
+    "slug": "small-apartment-laundry-storage-ideas",
+    "template": "F",
+    "kicker": "LAUNDRY DAY &middot; LEASE-SAFE",
+    "headline": "Laundry Storage That <em>Actually</em> Fits",
+    "subtitle": "Organize In-Suite or Shared Laundry",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-09-img2.jpg"
+  },
+  {
+    "slug": "small-apartment-laundry-storage-ideas",
+    "template": "G",
+    "kicker": "LAUNDRY DAY &middot; LEASE-SAFE",
+    "headline": "Laundry Storage That <em>Actually</em> Fits",
+    "subtitle": "Organize In-Suite or Shared Laundry",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-09-img2.jpg"
+  },
+  {
+    "slug": "small-apartment-organization-ideas-on-a-budget",
+    "template": "E",
+    "kicker": "UNDER $100 &middot; NO DRILLING",
+    "headline": "Get Organized for <em>Under</em> $100",
+    "subtitle": "Dollarama to IKEA Finds That Work",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/budget-storage-baskets-shelf.jpg"
   },
   {
     "slug": "small-apartment-organization-ideas-on-a-budget",
     "template": "F",
     "kicker": "UNDER $100 &middot; NO DRILLING",
     "headline": "Get Organized for <em>Under</em> $100",
+    "subtitle": "Dollarama to IKEA Finds That Work",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/budget-storage-baskets-shelf.jpg"
+  },
+  {
+    "slug": "small-apartment-organization-ideas-on-a-budget",
+    "template": "G",
+    "kicker": "UNDER $100 &middot; NO DRILLING",
+    "headline": "Get Organized for <em>Under</em> $100",
+    "subtitle": "Dollarama to IKEA Finds That Work",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/budget-storage-baskets-shelf.jpg"
+  },
+  {
+    "slug": "small-apartment-organization",
+    "template": "E",
+    "kicker": "THE ORGANIZATION GUIDE",
+    "headline": "A System That <em>Actually</em> Sticks",
+    "subtitle": "The System That Actually Sticks",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/modern-open-plan-apartment.jpg"
+  },
+  {
+    "slug": "small-apartment-organization",
+    "template": "F",
+    "kicker": "THE ORGANIZATION GUIDE",
+    "headline": "A System That <em>Actually</em> Sticks",
+    "subtitle": "The System That Actually Sticks",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/modern-open-plan-apartment.jpg"
   },
   {
     "slug": "small-apartment-organization",
     "template": "G",
     "kicker": "THE ORGANIZATION GUIDE",
     "headline": "A System That <em>Actually</em> Sticks",
+    "subtitle": "The System That Actually Sticks",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/modern-open-plan-apartment.jpg"
   },
@@ -990,22 +1389,79 @@
     "template": "E",
     "kicker": "15 TINY-SPACE IDEAS",
     "headline": "A Reading Nook, <em>Even</em> in a Studio",
+    "subtitle": "A Cozy Nook Even in 500 Sq Ft",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/bedroom-shelves-reading.jpg"
+  },
+  {
+    "slug": "small-apartment-reading-nook-ideas",
+    "template": "F",
+    "kicker": "15 TINY-SPACE IDEAS",
+    "headline": "A Reading Nook, <em>Even</em> in a Studio",
+    "subtitle": "A Cozy Nook Even in 500 Sq Ft",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-shelves-reading.jpg"
+  },
+  {
+    "slug": "small-apartment-reading-nook-ideas",
+    "template": "G",
+    "kicker": "15 TINY-SPACE IDEAS",
+    "headline": "A Reading Nook, <em>Even</em> in a Studio",
+    "subtitle": "A Cozy Nook Even in 500 Sq Ft",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-shelves-reading.jpg"
+  },
+  {
+    "slug": "small-bedroom-decor-ideas",
+    "template": "E",
+    "kicker": "BEDROOM STYLING &middot; BUDGET-FRIENDLY",
+    "headline": "A Bedroom That Feels <em>Pulled</em> Together",
+    "subtitle": "Styling Tricks for a Bedroom That Feels Bigger",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-06-img1.jpg"
   },
   {
     "slug": "small-bedroom-decor-ideas",
     "template": "F",
     "kicker": "BEDROOM STYLING &middot; BUDGET-FRIENDLY",
     "headline": "A Bedroom That Feels <em>Pulled</em> Together",
+    "subtitle": "Styling Tricks for a Bedroom That Feels Bigger",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-06-img1.jpg"
+  },
+  {
+    "slug": "small-bedroom-decor-ideas",
+    "template": "G",
+    "kicker": "BEDROOM STYLING &middot; BUDGET-FRIENDLY",
+    "headline": "A Bedroom That Feels <em>Pulled</em> Together",
+    "subtitle": "Styling Tricks for a Bedroom That Feels Bigger",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-06-img1.jpg"
+  },
+  {
+    "slug": "small-closet-organization-rental-apartment",
+    "template": "E",
+    "kicker": "CLOSET HACKS &middot; NO DRILLS",
+    "headline": "Double Your <em>Closet</em> Space",
+    "subtitle": "Maximize a Tiny Closet — No Shelving Install",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-09-img1.jpg"
+  },
+  {
+    "slug": "small-closet-organization-rental-apartment",
+    "template": "F",
+    "kicker": "CLOSET HACKS &middot; NO DRILLS",
+    "headline": "Double Your <em>Closet</em> Space",
+    "subtitle": "Maximize a Tiny Closet — No Shelving Install",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-09-img1.jpg"
   },
   {
     "slug": "small-closet-organization-rental-apartment",
     "template": "G",
     "kicker": "CLOSET HACKS &middot; NO DRILLS",
     "headline": "Double Your <em>Closet</em> Space",
+    "subtitle": "Maximize a Tiny Closet — No Shelving Install",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-09-img1.jpg"
   },
@@ -1014,22 +1470,79 @@
     "template": "E",
     "kicker": "ENTRYWAY &middot; DEPOSIT-SAFE",
     "headline": "An Entryway That Isn't <em>Chaos</em>",
+    "subtitle": "Sort Shoes, Coats & Keys for Good",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/entryway-hallway-console.jpg"
+  },
+  {
+    "slug": "small-entryway-hallway-storage-ideas",
+    "template": "F",
+    "kicker": "ENTRYWAY &middot; DEPOSIT-SAFE",
+    "headline": "An Entryway That Isn't <em>Chaos</em>",
+    "subtitle": "Sort Shoes, Coats & Keys for Good",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/entryway-hallway-console.jpg"
+  },
+  {
+    "slug": "small-entryway-hallway-storage-ideas",
+    "template": "G",
+    "kicker": "ENTRYWAY &middot; DEPOSIT-SAFE",
+    "headline": "An Entryway That Isn't <em>Chaos</em>",
+    "subtitle": "Sort Shoes, Coats & Keys for Good",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/entryway-hallway-console.jpg"
+  },
+  {
+    "slug": "small-living-room-storage-solutions",
+    "template": "E",
+    "kicker": "HIDDEN STORAGE &middot; LIVING ROOM",
+    "headline": "Furniture That <em>Hides</em> Everything",
+    "subtitle": "Furniture That Hides Everything",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-19-img3.jpg"
   },
   {
     "slug": "small-living-room-storage-solutions",
     "template": "F",
     "kicker": "HIDDEN STORAGE &middot; LIVING ROOM",
     "headline": "Furniture That <em>Hides</em> Everything",
+    "subtitle": "Furniture That Hides Everything",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-19-img3.jpg"
+  },
+  {
+    "slug": "small-living-room-storage-solutions",
+    "template": "G",
+    "kicker": "HIDDEN STORAGE &middot; LIVING ROOM",
+    "headline": "Furniture That <em>Hides</em> Everything",
+    "subtitle": "Furniture That Hides Everything",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-19-img3.jpg"
+  },
+  {
+    "slug": "small-space-decorating",
+    "template": "E",
+    "kicker": "14 RULES",
+    "headline": "The Small-Space Decorating <em>Rules</em>",
+    "subtitle": "14 Rules Designers Actually Use",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-apartment-decorating-living-room.jpg"
+  },
+  {
+    "slug": "small-space-decorating",
+    "template": "F",
+    "kicker": "14 RULES",
+    "headline": "The Small-Space Decorating <em>Rules</em>",
+    "subtitle": "14 Rules Designers Actually Use",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-apartment-decorating-living-room.jpg"
   },
   {
     "slug": "small-space-decorating",
     "template": "G",
     "kicker": "14 RULES",
     "headline": "The Small-Space Decorating <em>Rules</em>",
+    "subtitle": "14 Rules Designers Actually Use",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/small-apartment-decorating-living-room.jpg"
   },
@@ -1038,22 +1551,79 @@
     "template": "E",
     "kicker": "SMART FURNITURE &middot; NO DRILLS",
     "headline": "Furniture Built for <em>Tiny</em> Rentals",
+    "subtitle": "Pieces That Earn Their Floor Space",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-05-img2.jpg"
+  },
+  {
+    "slug": "small-space-furniture",
+    "template": "F",
+    "kicker": "SMART FURNITURE &middot; NO DRILLS",
+    "headline": "Furniture Built for <em>Tiny</em> Rentals",
+    "subtitle": "Pieces That Earn Their Floor Space",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-05-img2.jpg"
+  },
+  {
+    "slug": "small-space-furniture",
+    "template": "G",
+    "kicker": "SMART FURNITURE &middot; NO DRILLS",
+    "headline": "Furniture Built for <em>Tiny</em> Rentals",
+    "subtitle": "Pieces That Earn Their Floor Space",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-05-img2.jpg"
+  },
+  {
+    "slug": "small-space-kitchen-organization",
+    "template": "E",
+    "kicker": "14 KITCHEN IDEAS",
+    "headline": "Kitchen Storage <em>Without</em> Drilling",
+    "subtitle": "14 Ideas for Every Cabinet, Counter & Corner",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-kitchen-organized.jpg"
   },
   {
     "slug": "small-space-kitchen-organization",
     "template": "F",
     "kicker": "14 KITCHEN IDEAS",
     "headline": "Kitchen Storage <em>Without</em> Drilling",
+    "subtitle": "14 Ideas for Every Cabinet, Counter & Corner",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/small-kitchen-organized.jpg"
+  },
+  {
+    "slug": "small-space-kitchen-organization",
+    "template": "G",
+    "kicker": "14 KITCHEN IDEAS",
+    "headline": "Kitchen Storage <em>Without</em> Drilling",
+    "subtitle": "14 Ideas for Every Cabinet, Counter & Corner",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-kitchen-organized.jpg"
+  },
+  {
+    "slug": "small-space-living-room-ideas",
+    "template": "E",
+    "kicker": "15 LIVING ROOM IDEAS",
+    "headline": "Living Rooms That Feel <em>Bigger</em>",
+    "subtitle": "15 Layouts for Tiny Living Rooms",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-studio-living-room-bright.jpg"
+  },
+  {
+    "slug": "small-space-living-room-ideas",
+    "template": "F",
+    "kicker": "15 LIVING ROOM IDEAS",
+    "headline": "Living Rooms That Feel <em>Bigger</em>",
+    "subtitle": "15 Layouts for Tiny Living Rooms",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/small-studio-living-room-bright.jpg"
   },
   {
     "slug": "small-space-living-room-ideas",
     "template": "G",
     "kicker": "15 LIVING ROOM IDEAS",
     "headline": "Living Rooms That Feel <em>Bigger</em>",
+    "subtitle": "15 Layouts for Tiny Living Rooms",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/small-studio-living-room-bright.jpg"
   },
@@ -1062,22 +1632,79 @@
     "template": "E",
     "kicker": "THE SPRING RESET",
     "headline": "A Spring Clean That <em>Actually</em> Sticks",
+    "subtitle": "Your Room-by-Room Reset Checklist",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/organized-cleaning-supplies.jpg"
+  },
+  {
+    "slug": "spring-cleaning-organization-tips",
+    "template": "F",
+    "kicker": "THE SPRING RESET",
+    "headline": "A Spring Clean That <em>Actually</em> Sticks",
+    "subtitle": "Your Room-by-Room Reset Checklist",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/organized-cleaning-supplies.jpg"
+  },
+  {
+    "slug": "spring-cleaning-organization-tips",
+    "template": "G",
+    "kicker": "THE SPRING RESET",
+    "headline": "A Spring Clean That <em>Actually</em> Sticks",
+    "subtitle": "Your Room-by-Room Reset Checklist",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/organized-cleaning-supplies.jpg"
+  },
+  {
+    "slug": "storage-ideas-for-small-places",
+    "template": "E",
+    "kicker": "23 IDEAS &middot; DEPOSIT-SAFE",
+    "headline": "Storage Ideas With <em>Zero</em> Drilling",
+    "subtitle": "23 Ideas Tested in a Real 500 Sq Ft Rental",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/closet-organizer-shelving.jpg"
   },
   {
     "slug": "storage-ideas-for-small-places",
     "template": "F",
     "kicker": "23 IDEAS &middot; DEPOSIT-SAFE",
     "headline": "Storage Ideas With <em>Zero</em> Drilling",
+    "subtitle": "23 Ideas Tested in a Real 500 Sq Ft Rental",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/closet-organizer-shelving.jpg"
+  },
+  {
+    "slug": "storage-ideas-for-small-places",
+    "template": "G",
+    "kicker": "23 IDEAS &middot; DEPOSIT-SAFE",
+    "headline": "Storage Ideas With <em>Zero</em> Drilling",
+    "subtitle": "23 Ideas Tested in a Real 500 Sq Ft Rental",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/closet-organizer-shelving.jpg"
+  },
+  {
+    "slug": "studio-apartment-ideas",
+    "template": "E",
+    "kicker": "STUDIO LIVING &middot; REAL IDEAS",
+    "headline": "Make a Studio Feel Like <em>Two</em> Rooms",
+    "subtitle": "Make One Room Do Everything",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-06-img2.jpg"
+  },
+  {
+    "slug": "studio-apartment-ideas",
+    "template": "F",
+    "kicker": "STUDIO LIVING &middot; REAL IDEAS",
+    "headline": "Make a Studio Feel Like <em>Two</em> Rooms",
+    "subtitle": "Make One Room Do Everything",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/blog-06-img2.jpg"
   },
   {
     "slug": "studio-apartment-ideas",
     "template": "G",
     "kicker": "STUDIO LIVING &middot; REAL IDEAS",
     "headline": "Make a Studio Feel Like <em>Two</em> Rooms",
+    "subtitle": "Make One Room Do Everything",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/blog-06-img2.jpg"
   },
@@ -1086,47 +1713,80 @@
     "template": "E",
     "kicker": "UNDER-BED &middot; NO DAMAGE",
     "headline": "The Storage Space You're <em>Wasting</em>",
+    "subtitle": "Reclaim the Space Under Your Bed",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/baskets-laundry-by-bed.jpg"
+  },
+  {
+    "slug": "under-bed-storage-ideas-small-apartment",
+    "template": "F",
+    "kicker": "UNDER-BED &middot; NO DAMAGE",
+    "headline": "The Storage Space You're <em>Wasting</em>",
+    "subtitle": "Reclaim the Space Under Your Bed",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/baskets-laundry-by-bed.jpg"
+  },
+  {
+    "slug": "under-bed-storage-ideas-small-apartment",
+    "template": "G",
+    "kicker": "UNDER-BED &middot; NO DAMAGE",
+    "headline": "The Storage Space You're <em>Wasting</em>",
+    "subtitle": "Reclaim the Space Under Your Bed",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/baskets-laundry-by-bed.jpg"
+  },
+  {
+    "slug": "vertical-storage-ideas-small-apartment",
+    "template": "E",
+    "kicker": "12 IDEAS &middot; NO DRILLING",
+    "headline": "Go <em>Vertical</em>, Skip the Drill",
+    "subtitle": "No Drilling Required",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/decor-floating-shelves.jpg"
   },
   {
     "slug": "vertical-storage-ideas-small-apartment",
     "template": "F",
     "kicker": "12 IDEAS &middot; NO DRILLING",
     "headline": "Go <em>Vertical</em>, Skip the Drill",
+    "subtitle": "No Drilling Required",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/decor-floating-shelves.jpg"
+  },
+  {
+    "slug": "vertical-storage-ideas-small-apartment",
+    "template": "G",
+    "kicker": "12 IDEAS &middot; NO DRILLING",
+    "headline": "Go <em>Vertical</em>, Skip the Drill",
+    "subtitle": "No Drilling Required",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/decor-floating-shelves.jpg"
+  },
+  {
+    "slug": "warm-earthy-color-palette-small-apartment",
+    "template": "E",
+    "kicker": "7 COMBINATIONS &middot; RENTER-SAFE",
+    "headline": "Warm Colours <em>Without</em> Repainting",
+    "subtitle": "7 Palettes That Make a Rental Feel Like Home",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-minimalist.jpg"
+  },
+  {
+    "slug": "warm-earthy-color-palette-small-apartment",
+    "template": "F",
+    "kicker": "7 COMBINATIONS &middot; RENTER-SAFE",
+    "headline": "Warm Colours <em>Without</em> Repainting",
+    "subtitle": "7 Palettes That Make a Rental Feel Like Home",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/bedroom-minimalist.jpg"
   },
   {
     "slug": "warm-earthy-color-palette-small-apartment",
     "template": "G",
     "kicker": "7 COMBINATIONS &middot; RENTER-SAFE",
     "headline": "Warm Colours <em>Without</em> Repainting",
+    "subtitle": "7 Palettes That Make a Rental Feel Like Home",
     "domain": "smallspacehome.ca",
     "photo": "./public/images/bedroom-minimalist.jpg"
-  },
-  {
-    "slug": "cozy-winter-apartment-decor",
-    "template": "E",
-    "kicker": "WINTER COZY &middot; NO DAMAGE",
-    "headline": "Cozy Up Your Rental, <em>Zero</em> Drills",
-    "domain": "smallspacehome.ca",
-    "photo": "./public/images/blog-22-img2.jpg"
-  },
-  {
-    "slug": "small-space-living-room-ideas",
-    "template": "F",
-    "kicker": "15 LIVING ROOM IDEAS",
-    "headline": "Living Rooms That Feel <em>Bigger</em>",
-    "domain": "smallspacehome.ca",
-    "photo": "./public/images/small-studio-living-room-bright.jpg"
-  },
-  {
-    "slug": "storage-ideas-for-small-places",
-    "template": "G",
-    "kicker": "23 IDEAS &middot; DEPOSIT-SAFE",
-    "headline": "Storage Ideas With <em>Zero</em> Drilling",
-    "domain": "smallspacehome.ca",
-    "photo": "./public/images/closet-organizer-shelving.jpg"
   }
 ]
