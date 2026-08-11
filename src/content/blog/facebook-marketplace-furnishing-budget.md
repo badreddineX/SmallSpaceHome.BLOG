@@ -37,7 +37,7 @@ The right search strategy surfaces better listings faster: sellers relocating fo
 
 I search two ways every time. First, the specific item ("dresser," "IKEA MALM," "dining table for 4"). Second, the broad urgency terms ("moving," "must go," "downsizing," "estate sale"). The second search consistently turns up better prices because these sellers want the item gone this week, not top dollar.
 
-[UNIQUE INSIGHT] Most buyers only search by item name and miss the urgency-seller category entirely, which is where the real discounts live. A $400 sofa listed as "moving, must sell by Friday" often sells for $150 to whoever shows up with cash that day.
+Most buyers only search by item name and miss the urgency-seller category entirely, which is where the real discounts live. A $400 sofa listed as "moving, must sell by Friday" often sells for $150 to whoever shows up with cash that day.
 
 ### Save Your Searches and Turn On Alerts
 
