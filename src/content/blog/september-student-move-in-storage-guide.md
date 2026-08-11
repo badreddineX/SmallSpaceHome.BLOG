@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["student apartment", "student apartment ideas", "first apartment checklist", "move-in checklist", "Canada", "storage on a budget", "first apartment"]
 featured: false
 category: "Budget Tips"
+relatedPosts:
+  - "quebec-moving-day-storage-guide"
+  - "storage-ideas-for-small-places"
 readTime: 8
 faqs:
   - q: "What storage do I actually need for a first student apartment in Canada?"

@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["moving day quebec", "montreal renters", "july 1 moving", "moving day storage tips", "apartment storage", "packing tips"]
 featured: false
 category: "Organization"
+relatedPosts:
+  - "september-student-move-in-storage-guide"
+  - "storage-ideas-for-small-places"
 readTime: 9
 faqs:
   - q: "Why does everyone move on July 1 in Quebec?"

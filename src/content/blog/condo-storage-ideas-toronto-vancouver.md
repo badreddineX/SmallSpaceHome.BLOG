@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["condo storage", "condo storage ideas", "small condo furniture", "condo storage toronto", "condo storage vancouver", "apartment size furniture canada", "renter-friendly", "Canada", "no-drill"]
 featured: false
 category: "Storage"
+relatedPosts:
+  - "storage-ideas-for-small-places"
+  - "small-closet-organization-rental-apartment"
 readTime: 8
 faqs:
   - q: "How do I maximize storage in a small condo?"

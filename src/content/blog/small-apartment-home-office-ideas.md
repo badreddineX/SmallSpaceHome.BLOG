@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["small apartment home office", "apartment home office", "home office ideas", "small home office", "home workspace", "work from home", "small space desk", "Canada"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "small-space-furniture"
+  - "how-to-decorate-a-small-living-room"
 readTime: 9
 faqs:
   - q: "How do I set up a home office in a small apartment?"

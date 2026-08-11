@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["small kitchen", "apartment storage", "Canada", "small space", "kitchen organization"]
 featured: false
 category: "Storage"
+relatedPosts:
+  - "small-space-kitchen-organization"
+  - "storage-ideas-for-small-places"
 readTime: 9
 faqs:
   - q: "What’s the best way to organize fridge shelves without drilling or damaging surfaces?"

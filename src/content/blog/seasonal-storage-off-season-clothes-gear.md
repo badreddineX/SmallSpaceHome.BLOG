@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["seasonal storage", "off season storage", "closet rotation", "small apartment storage", "renter-friendly", "Canada", "closet organization"]
 featured: false
 category: "Storage"
+relatedPosts:
+  - "storage-ideas-for-small-places"
+  - "under-bed-storage-ideas-small-apartment"
 readTime: 8
 faqs:
   - q: "How do I store winter coats in a small apartment closet?"

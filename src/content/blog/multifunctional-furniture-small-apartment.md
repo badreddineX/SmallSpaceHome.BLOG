@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["multifunctional furniture", "multi-functional furniture small space", "space saving furniture", "small space furniture", "Canada", "small space", "rental friendly"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "small-space-furniture"
+  - "small-living-room-storage-solutions"
 readTime: 8
 faqs:
   - q: "Are multifunctional pieces worth the investment for a short-term lease?"

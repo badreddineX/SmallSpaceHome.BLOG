@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["pet-friendly", "small space", "Canada", "renter hacks", "apartment pets"]
 featured: false
 category: "Organization"
+relatedPosts:
+  - "storage-ideas-for-small-places"
+  - "small-apartment-organization"
 readTime: 8
 faqs:
   - q: "What’s the best pet gate for a small Toronto apartment that won’t damage walls?"
