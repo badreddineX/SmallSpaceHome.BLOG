@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "postbuild": "node scripts/inject-image-dimensions.mjs",
     "preview": "astro preview",
     "compress-images": "node scripts/compress-images.mjs"
   },
