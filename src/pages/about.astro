@@ -30,17 +30,24 @@ import '../styles/global.css';
 
       <!-- ① HERO — full-bleed dark image with italic overlay -->
       <section class="about-hero">
-        <img
-          src="/images/about-hero-apartment.jpg"
-          srcset="/images/about-hero-apartment-mobile.jpg 900w, /images/about-hero-apartment.jpg 1800w"
-          sizes="100vw"
-          alt="Warm cozy apartment living room with natural light"
-          class="about-hero-img"
-          loading="eager"
-          fetchpriority="high"
-          width="1800"
-          height="900"
-        />
+        <picture>
+          <source
+            type="image/webp"
+            srcset="/images/about-hero-apartment-mobile.webp 900w, /images/about-hero-apartment.webp 1800w"
+            sizes="100vw"
+          />
+          <img
+            src="/images/about-hero-apartment.jpg"
+            srcset="/images/about-hero-apartment-mobile.jpg 900w, /images/about-hero-apartment.jpg 1800w"
+            sizes="100vw"
+            alt="Warm cozy apartment living room with natural light"
+            class="about-hero-img"
+            loading="eager"
+            fetchpriority="high"
+            width="1800"
+            height="900"
+          />
+        </picture>
         <div class="about-hero-overlay"></div>
         <div class="about-hero-content">
           <p class="hero-eyebrow">SmallSpace Home</p>
