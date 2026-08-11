@@ -1,5 +1,5 @@
 ---
-title: "Facebook Marketplace Finds for Furnishing a Small Apartment on a Budget"
+title: "Facebook Marketplace Finds for Furnishing on a Budget"
 description: "How to use Facebook Marketplace to furnish a small Canadian apartment for less — search tips, safety rules for pickups, and real CAD price ranges."
 image: "/images/small-apartment-decorating-living-room.jpg"
 datePublished: "2026-08-10"

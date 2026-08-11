@@ -1,5 +1,5 @@
 ---
-title: "Small Apartment Storage Bins & Baskets Guide (What Actually Fits Where)"
+title: "Small Apartment Storage Bins & Baskets Guide"
 description: "Which storage bins and baskets fit under-bed, closet shelves, and entryways in a small Canadian apartment — sizes, materials, IKEA picks, and CAD prices."
 image: "/images/storage-wicker-shelf.jpg"
 datePublished: "2026-08-10"

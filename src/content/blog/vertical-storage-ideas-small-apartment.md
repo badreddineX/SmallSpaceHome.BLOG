@@ -1,5 +1,5 @@
 ---
-title: "12 Vertical Storage Ideas That Actually Work (No Drilling Required)"
+title: "12 Vertical Storage Ideas (No Drilling Required)"
 description: "Smart vertical storage solutions for small Canadian apartments—renter-friendly, no-wall-damage options from IKEA to HomeSense."
 image: "/images/kitchen-open-shelves.jpg"
 datePublished: "2026-07-30"

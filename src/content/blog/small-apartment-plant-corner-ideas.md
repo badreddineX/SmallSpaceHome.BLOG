@@ -1,5 +1,5 @@
 ---
-title: "12 Plant Corner Ideas That Actually Work in Small Canadian Apartments"
+title: "12 Plant Corner Ideas for Small Canadian Apartments"
 description: "Renter-friendly, low-light plant corner ideas for Toronto, Vancouver, and Montreal apartments under $50."
 image: "/images/living-room-cozy.jpg"
 datePublished: "2026-07-30"

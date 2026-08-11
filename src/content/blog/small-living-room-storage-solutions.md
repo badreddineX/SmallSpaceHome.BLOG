@@ -1,5 +1,5 @@
 ---
-title: "Small Living Room Storage Ideas: Furniture That Hides Everything"
+title: "Small Living Room Storage: Furniture That Hides Clutter"
 description: "Small living room storage ideas that use furniture, not walls — storage ottomans, coffee tables with shelves, and TV consoles that hide the clutter."
 image: "/images/blog-19-img3.jpg"
 datePublished: "2026-06-30"

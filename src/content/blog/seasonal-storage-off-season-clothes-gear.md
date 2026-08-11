@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Storage: Rotating Off-Season Clothes & Gear in a Small Apartment"
+title: "Seasonal Storage for Off-Season Clothes & Gear"
 description: "Canadian closets have to hold two wardrobes at once. Here's the vacuum bag, garment bag, and rotation system that actually keeps winter and summer gear organized."
 image: "/images/seasonal-clothes-wardrobe.jpg"
 datePublished: "2026-04-18"

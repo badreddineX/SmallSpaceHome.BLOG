@@ -1,5 +1,5 @@
 ---
-title: "10 Multifunctional Furniture Ideas That Actually Work in Small Rental Apartments"
+title: "10 Multifunctional Furniture Ideas for Small Rentals"
 description: "Space-saving furniture ideas Canadian renters love—no drilling, full ROI, renter-friendly picks that work in any small apartment."
 image: "/images/living-room-cozy.jpg"
 datePublished: "2026-07-13"

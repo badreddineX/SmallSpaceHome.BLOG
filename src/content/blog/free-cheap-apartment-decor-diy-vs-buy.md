@@ -1,5 +1,5 @@
 ---
-title: "Free & Cheap Apartment Decor: What to DIY vs. What to Skip Buying"
+title: "Free & Cheap Apartment Decor: DIY vs. Buy"
 description: "Which apartment decor projects actually save money and which ones cost more in time and materials than just buying? A Canadian renter's honest DIY vs. buy breakdown."
 image: "/images/decor-floating-shelves.jpg"
 datePublished: "2026-08-10"
