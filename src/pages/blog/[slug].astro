@@ -26,14 +26,32 @@ function score(candidate: typeof post) {
   return s;
 }
 
-const related = others
-  .map(p => ({ post: p, score: score(p) }))
-  .filter(x => x.score > 0)
-  .sort((a, b) => b.score - a.score || new Date(b.post.data.datePublished).getTime() - new Date(a.post.data.datePublished).getTime())
-  .slice(0, 3)
-  .map(x => x.post);
+// Editorial override: relatedPosts frontmatter (slugs) takes priority over the
+// auto-scored fallback below, since category+tag scoring can't know about
+// cannibalization decisions or intentional hub/spoke relationships from the
+// content map. Falls through to auto-scoring for any article that hasn't set it.
+let related: typeof others = [];
+const explicitSlugs = post.data.relatedPosts ?? [];
+if (explicitSlugs.length > 0) {
+  const byId = new Map(others.map(p => [p.id, p]));
+  related = explicitSlugs
+    .map(slug => byId.get(slug))
+    .filter((p): p is typeof others[number] => p !== undefined)
+    .slice(0, 3);
+}
 
-// If fewer than 3 related, fill with newest posts from same category
+if (related.length < 3) {
+  const existingIds = new Set(related.map(p => p.id));
+  const scored = others
+    .filter(p => !existingIds.has(p.id))
+    .map(p => ({ post: p, score: score(p) }))
+    .filter(x => x.score > 0)
+    .sort((a, b) => b.score - a.score || new Date(b.post.data.datePublished).getTime() - new Date(a.post.data.datePublished).getTime())
+    .map(x => x.post);
+  related.push(...scored.slice(0, 3 - related.length));
+}
+
+// If still fewer than 3, fill with newest posts from same category
 if (related.length < 3) {
   const existing = new Set(related.map(p => p.id));
   const fillers = others

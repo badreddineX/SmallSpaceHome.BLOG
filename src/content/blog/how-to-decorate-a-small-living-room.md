@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["small living room", "how to decorate a small space", "decorating small spaces", "living room decor", "Canada", "renter-friendly", "apartment"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "small-space-living-room-ideas"
+  - "small-living-room-storage-solutions"
 readTime: 9
 faqs:
   - q: "How do I arrange furniture in a small living room?"

@@ -8,6 +8,10 @@ author: "Badreddine Br"
 tags: ["storage bins", "baskets", "small apartment storage", "IKEA storage", "closet organization", "Canada", "renter-friendly"]
 featured: false
 category: "Storage"
+relatedPosts:
+  - "storage-ideas-for-small-places"
+  - "under-bed-storage-ideas-small-apartment"
+  - "small-closet-organization-rental-apartment"
 readTime: 8
 faqs:
   - q: "What size bin fits under a standard bed for storage?"

@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["Command strips", "no-drill decorating", "renter-friendly decor", "Canada", "small space", "no damage"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "renter-friendly-apartment-decor-ideas"
+  - "renter-friendly-gallery-wall-ideas"
 readTime: 8
 faqs:
   - q: "Do Command strips really work on textured walls in older Canadian apartments?"

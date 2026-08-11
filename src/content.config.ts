@@ -14,6 +14,7 @@ const blog = defineCollection({
     featured: z.boolean().default(false),
     category: z.enum(['Organization', 'Decor', 'Storage', 'Budget Tips']),
     readTime: z.number(),
+    relatedPosts: z.array(z.string()).optional(),
     faqs: z
       .array(
         z.object({

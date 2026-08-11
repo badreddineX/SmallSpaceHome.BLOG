@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["vibey apartment living room", "cozy apartment aesthetic", "warm lighting ideas", "small apartment decor", "moody living room", "apartment styling canada", "renter-friendly", "Canada"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "how-to-decorate-a-small-living-room"
+  - "small-space-living-room-ideas"
 readTime: 8
 faqs:
   - q: "What makes an apartment living room feel 'vibey' instead of just decorated?"

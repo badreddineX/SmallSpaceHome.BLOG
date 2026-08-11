@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["gallery wall", "renter-friendly decor", "Canada", "small space", "no damage decor"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "renter-friendly-apartment-decor-ideas"
+  - "command-strip-decorating-hacks-renters"
 readTime: 9
 faqs:
   - q: "Can you really hang a gallery wall without damaging walls in a rental?"

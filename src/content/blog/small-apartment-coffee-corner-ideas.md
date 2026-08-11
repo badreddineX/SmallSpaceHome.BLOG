@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["coffee corner", "small space", "Canada", "renter-friendly", "kitchen organization"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "small-space-living-room-ideas"
+  - "studio-apartment-ideas"
 readTime: 8
 faqs:
   - q: "Can I set up a coffee station without drilling or damaging the walls?"

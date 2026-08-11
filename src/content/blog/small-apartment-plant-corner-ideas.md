@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["plant corner", "small space plants", "Canada", "small space", "low-light plants"]
 featured: false
 category: "Decor"
+relatedPosts:
+  - "small-space-living-room-ideas"
+  - "small-apartment-coffee-corner-ideas"
 readTime: 9
 faqs:
   - q: "Can I keep plants in a dark apartment corner?"

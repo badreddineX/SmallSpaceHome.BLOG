@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["facebook marketplace", "secondhand furniture", "budget furniture", "apartment furnishing", "Canada", "small apartment", "renter-friendly"]
 featured: false
 category: "Budget Tips"
+relatedPosts:
+  - "apartment-decor-ideas-on-a-budget"
+  - "free-cheap-apartment-decor-diy-vs-buy"
 readTime: 8
 faqs:
   - q: "Is Facebook Marketplace furniture safe to buy in Canada?"

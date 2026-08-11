@@ -8,6 +8,10 @@ author: "Badreddine Br"
 tags: ["budget decor", "cute cheap apartment ideas", "affordable apartment decor", "apartment decor", "Canada", "under $200", "renter-friendly"]
 featured: false
 category: "Budget Tips"
+relatedPosts:
+  - "budget-apartment-decor-under-50"
+  - "dollarama-finds-look-expensive"
+  - "facebook-marketplace-furnishing-budget"
 readTime: 7
 faqs:
   - q: "How do I decorate my apartment cheaply in Canada?"

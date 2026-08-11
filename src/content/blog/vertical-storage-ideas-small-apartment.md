@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["vertical storage", "vertical storage ideas", "wall storage small apartment", "renter-friendly", "Canada", "small space", "wall-mounted"]
 featured: false
 category: "Storage"
+relatedPosts:
+  - "storage-ideas-for-small-places"
+  - "small-apartment-storage-bins-baskets-guide"
 readTime: 8
 faqs:
   - q: "Can I use Command strips for heavy shelves in my Vancouver apartment?"

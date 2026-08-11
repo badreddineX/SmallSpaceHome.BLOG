@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["small space living room", "small space living", "small living room ideas", "living room decor small space", "apartment decor", "small space ideas", "renter-friendly", "Canada"]
 featured: true
 category: "Decor"
+relatedPosts:
+  - "how-to-decorate-a-small-living-room"
+  - "small-living-room-storage-solutions"
 readTime: 9
 slug: "small-space-living-room-ideas"
 faqs:

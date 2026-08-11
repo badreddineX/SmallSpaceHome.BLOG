@@ -8,6 +8,9 @@ author: "Badreddine Br"
 tags: ["free apartment decor", "cheap apartment decor", "DIY apartment decor", "apartment decor", "Canada", "budget decor", "renter-friendly"]
 featured: false
 category: "Budget Tips"
+relatedPosts:
+  - "apartment-decor-ideas-on-a-budget"
+  - "facebook-marketplace-furnishing-budget"
 readTime: 8
 faqs:
   - q: "Is it cheaper to DIY apartment decor or just buy it?"
