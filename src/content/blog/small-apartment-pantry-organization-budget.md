@@ -1,7 +1,7 @@
 ---
 title: "Small Apartment Pantry Organization on a Budget"
 description: "Organize a small apartment pantry cupboard for under $40 CAD — Dollarama containers, reused jars, and shelf risers. A real Canadian renter's system."
-image: "/images/kitchen-organized-white.jpg"
+image: "/images/pantry-jars-cabinet-organized.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine Br"

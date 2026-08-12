@@ -1,7 +1,7 @@
 ---
 title: "Budget Apartment Decor Ideas Under $50 CAD"
 description: "Real Canadian apartment decor ideas under $50 CAD — what to buy, where to shop, and what to skip. Tested in a small rental, not a showroom."
-image: "/images/small-apartment-decorating-living-room.jpg"
+image: "/images/minimalist-living-room-wood-floor.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine Br"

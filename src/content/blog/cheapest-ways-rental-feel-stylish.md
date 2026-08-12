@@ -1,7 +1,7 @@
 ---
 title: "Cheapest Ways to Make a Rental Feel More Stylish"
 description: "Make a Canadian rental feel stylish for almost nothing — free rearranging tricks plus Dollarama, Marketplace, and thrift finds under $10 CAD each."
-image: "/images/small-apartment-decorating-living-room.jpg"
+image: "/images/nordic-living-room-gray-couch.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine Br"

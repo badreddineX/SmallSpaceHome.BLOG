@@ -1,7 +1,7 @@
 ---
 title: "Small Apartment Beauty & Skincare Storage Ideas"
 description: "Organize skincare, makeup, and beauty products in a small Canadian apartment — acrylic organizers, drawer dividers, vanity trays, and an expiry decluttering routine."
-image: "/images/bathroom-storage-shelves.jpg"
+image: "/images/bathroom-wooden-organizer-cart.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine Br"

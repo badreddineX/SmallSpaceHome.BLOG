@@ -1,7 +1,7 @@
 ---
 title: "15 Coffee & Cafe Corner Ideas for Small Apartments"
 description: "Small apartment coffee corner ideas that save space, avoid drilling, and look stylish—perfect for Toronto, Vancouver, and Montreal renters."
-image: "/images/kitchen-organized-white.jpg"
+image: "/images/kitchen-coffee-corner-sunlight.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine Br"

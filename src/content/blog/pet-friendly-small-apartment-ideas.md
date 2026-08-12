@@ -1,7 +1,7 @@
 ---
 title: "15 Pet-Friendly Small Apartment Setup Ideas"
 description: "Practical, renter-approved pet setup ideas for small Canadian apartments—no drilling, no damage, all effective."
-image: "/images/studio-apartment-cozy-living-room.jpg"
+image: "/images/cozy-living-room-cat-dog.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine Br"

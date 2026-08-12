@@ -1,7 +1,7 @@
 ---
 title: "Small Apartment Paperwork & Mail Organization Ideas"
 description: "Stop losing lease documents and bills in a 500 sq ft rental. A wall-mounted command centre, filing system, and shredding routine that actually fits Canadian apartments."
-image: "/images/small-home-office-desk.jpg"
+image: "/images/wooden-mail-organizer-desk.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine Br"
