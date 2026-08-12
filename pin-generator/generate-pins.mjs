@@ -16,7 +16,7 @@ const BASE_CSS = `
          --tan:#A8845C; --tan-light:#C9A87C; }
   *{margin:0;padding:0;box-sizing:border-box}
   html,body{width:1000px;height:1500px;overflow:hidden}
-  .kicker{font-family:'Montserrat',sans-serif;font-weight:700;font-size:28px;
+  .kicker,.eyebrow{font-family:'Montserrat',sans-serif;font-weight:700;font-size:28px;
           letter-spacing:.30em;text-transform:uppercase}
   .domain{font-family:'Montserrat',sans-serif;font-weight:600;font-size:25px;
           letter-spacing:.24em;text-transform:uppercase}
@@ -104,131 +104,111 @@ const templates = {
       <div class="domain">${p.domain}</div>
     </div>`,
 
-  // ===== D · FLOATING CARD — bright full photo, inset rounded card lifts off it =====
-  // Distinct silhouette from A/B/C: no dark scrim, no hard split, no museum frame --
-  // a soft cream card with rounded corners floats over the lower third with margin
-  // on every side, so the photo reads bright/airy above it. Sage pill kicker badge
-  // instead of a bare uppercase line, for a more modern/social feel.
+  // ===== D · TAPED POLAROID (Final) — kraft/olive/rust palette, scrapbook feel =====
+  // Replaces the retired Floating Card template. Ported from the approved
+  // "Decor Pin Templates D/E/F (Final)" artifact — see pin-generator README.
   D: (p) => `
     <style>${BASE_CSS}
-      body{background:var(--cream)}
-      .photo{position:absolute;inset:0;background:url('${p.photo}') center/cover no-repeat}
-      .scrim-top{position:absolute;top:0;left:0;right:0;height:40%;
-                 background:linear-gradient(180deg, rgba(20,26,18,.28) 0%, rgba(20,26,18,0) 100%)}
-      .card{position:absolute;left:56px;right:56px;bottom:56px;background:var(--cream);
-            border-radius:28px;padding:64px 60px 54px;
-            box-shadow:0 30px 60px -22px rgba(30,36,31,.35)}
-      .pill{display:inline-flex;align-items:center;background:var(--sage-deep);color:var(--cream);
-            font-family:'Montserrat',sans-serif;font-weight:700;font-size:23px;
-            letter-spacing:.16em;text-transform:uppercase;padding:12px 28px;
-            border-radius:999px;margin-bottom:32px}
-      h2{font-size:74px;line-height:1.16;color:var(--ink);margin-bottom:36px}
-      h2 em{color:var(--tan)}
-      .rule{width:56px;height:3px;background:var(--tan-light);margin-bottom:22px}
-      .domain{color:var(--sage-deep)}
-    </style>
-    <div class="photo"></div>
-    <div class="scrim-top"></div>
-    <div class="card">
-      <div class="pill">${p.kicker}</div>
-      <h2>${p.headline}</h2>
-      <div class="rule"></div>
-      <div class="domain">${p.domain}</div>
-    </div>`,
-
-  // ===== E · TAPED POLAROID — scrapbook feel, photo taped in at a tilt on textured paper =====
-  E: (p) => `
-    <style>${BASE_CSS}
+      :root{ --k-ink:#1E2A22; --k-cream:#F7F2E7; --k-paper:#EFE7D6; --k-kraft:#D9C9A3;
+             --k-kraft-dark:#B89F6E; --k-olive-deep:#4C5738; --k-rust:#A85C3C; }
       body{background:
-            radial-gradient(circle at 15% 20%, rgba(168,132,92,.08), transparent 40%),
-            repeating-linear-gradient(0deg, rgba(30,36,31,.025) 0px, rgba(30,36,31,.025) 1px, transparent 1px, transparent 3px),
-            var(--cream);
-           display:flex;flex-direction:column;align-items:center;padding:80px 70px 64px}
-      .kicker{color:var(--tan);margin-bottom:18px}
-      .polaroid{position:relative;margin-top:20px;background:#fff;padding:28px 28px 100px;
-                transform:rotate(2deg);box-shadow:0 30px 60px -20px rgba(30,36,31,.4);width:760px}
-      .polaroid img{width:100%;height:560px;object-fit:cover;display:block}
-      .polaroid .photo-el{width:100%;height:560px;background:url('${p.photo}') center/cover no-repeat}
-      .tape{position:absolute;width:150px;height:56px;background:rgba(201,168,124,.55);
-            border:1px solid rgba(168,132,92,.35);box-shadow:0 4px 10px rgba(0,0,0,.12)}
+            radial-gradient(circle at 15% 20%, rgba(180,129,63,.06), transparent 40%),
+            repeating-linear-gradient(0deg, rgba(30,42,34,.025) 0px, rgba(30,42,34,.025) 1px, transparent 1px, transparent 3px),
+            var(--k-paper);
+           display:flex;flex-direction:column;align-items:center;padding:88px 76px 64px}
+      .eyebrow{color:var(--k-rust)}
+      .handwritten{font-family:'Bradley Hand','Segoe Print','Comic Sans MS',cursive;
+            color:var(--k-olive-deep);font-size:44px;margin:28px 0 8px;transform:rotate(-1.5deg)}
+      .polaroid{position:relative;margin:36px auto 0;background:#fff;padding:34px 34px 128px;
+                transform:rotate(2deg);box-shadow:0 30px 60px -20px rgba(15,26,18,.3);width:760px}
+      .polaroid .photo-el{width:100%;height:640px;background:url('${p.photo}') center/cover no-repeat}
+      .tape{position:absolute;width:150px;height:56px;background:rgba(212,197,150,.75);
+            border:1px solid rgba(180,129,63,.35);box-shadow:0 4px 10px rgba(0,0,0,.12)}
       .tape.l{top:-26px;left:-22px;transform:rotate(-30deg)}
       .tape.r{top:-26px;right:-22px;transform:rotate(26deg)}
-      h2{font-size:66px;line-height:1.16;color:var(--ink);margin-top:46px;text-align:center}
-      h2 em{color:var(--tan)}
-      .subtitle{color:var(--sage-deep);text-align:center;margin-top:22px}
-      .domain{color:var(--sage-deep);margin-top:auto;padding-top:30px}
+      h2{font-size:72px;line-height:1.16;color:var(--k-ink);margin-top:56px;text-align:center}
+      h2 em{color:var(--k-rust)}
+      .domain{color:var(--k-olive-deep);margin-top:auto;padding-top:40px}
     </style>
-    <div class="kicker">${p.kicker}</div>
+    <div class="eyebrow">${p.kicker}</div>
+    <div class="handwritten">${p.handwritten || ''}</div>
     <div class="polaroid">
       <div class="tape l"></div>
       <div class="tape r"></div>
       <div class="photo-el"></div>
     </div>
     <h2>${p.headline}</h2>
-    <div class="subtitle">${p.subtitle}</div>
     <div class="domain">${p.domain}</div>`,
 
-  // ===== F · PRICE TAG — hanging kraft price-tag + torn banner headline =====
-  F: (p) => `
+  // ===== E · PRICE TAG (Final) — kraft/rust hanging tag with No.## pill =====
+  E: (p) => `
     <style>${BASE_CSS}
-      body{background:var(--ink)}
+      :root{ --k-ink:#1E2A22; --k-cream:#F7F2E7; --k-kraft:#D9C9A3; --k-kraft-dark:#B89F6E;
+             --k-rust:#A85C3C; }
+      body{background:var(--k-ink)}
       .photo{position:absolute;inset:0;background:url('${p.photo}') center/cover no-repeat;opacity:.92}
       .darken{position:absolute;inset:0;background:
-              linear-gradient(180deg, rgba(20,26,18,.08) 0%, rgba(20,26,18,.08) 55%, rgba(14,18,12,.6) 100%)}
-      .string{position:absolute;top:0;left:180px;width:4px;height:120px;
-              background:repeating-linear-gradient(180deg,#EDE3CC 0 12px,transparent 12px 20px)}
-      .tag{position:absolute;top:100px;left:70px;width:340px;background:var(--tan-light);
-          border:3px solid var(--tan);border-radius:16px;padding:32px 34px 34px;
-          transform:rotate(-7deg);box-shadow:0 22px 44px rgba(0,0,0,.32)}
-      .tag::before{content:'';position:absolute;top:22px;left:28px;width:20px;height:20px;
-                  border-radius:50%;background:var(--cream);border:3px solid var(--tan)}
-      .tag .kicker{color:var(--ink);margin-left:26px;font-size:22px;letter-spacing:.24em}
-      .banner-wrap{position:absolute;left:0;right:0;bottom:120px}
-      .banner{background:var(--cream);margin:0 -20px;padding:44px 90px 38px;position:relative;
-              box-shadow:0 -14px 40px rgba(0,0,0,.22)}
-      .banner::before,.banner::after{content:'';position:absolute;bottom:-22px;width:0;height:0;
-              border-left:22px solid transparent;border-right:22px solid transparent;
-              border-top:22px solid var(--tan)}
+              linear-gradient(180deg, rgba(20,26,18,.05) 0%, rgba(20,26,18,.05) 55%, rgba(14,18,12,.55) 100%)}
+      .string{position:absolute;top:0;left:270px;width:4px;height:135px;
+              background:repeating-linear-gradient(180deg,#EDE3CC 0 15px,transparent 15px 27px)}
+      .tag{position:absolute;top:124px;left:100px;width:435px;background:var(--k-kraft);
+          border:4px solid var(--k-kraft-dark);border-radius:24px;padding:42px 48px 48px;
+          transform:rotate(-7deg);box-shadow:0 30px 60px rgba(0,0,0,.3)}
+      .tag::before{content:'';position:absolute;top:30px;left:42px;width:26px;height:26px;
+                  border-radius:50%;background:var(--k-cream);border:4px solid var(--k-kraft-dark)}
+      .tag .eyebrow{color:var(--k-rust);margin-left:36px}
+      .tag .no{font-family:Georgia,serif;font-weight:700;font-size:100px;color:var(--k-ink);
+               margin:12px 0 0 36px;line-height:1}
+      .tag .no span{color:var(--k-rust);font-size:52px}
+      .banner-wrap{position:absolute;left:0;right:0;bottom:135px}
+      .banner{background:var(--k-kraft);margin:0 -24px;padding:48px 90px 42px;position:relative;
+              box-shadow:0 -18px 60px rgba(0,0,0,.2)}
+      .banner::before,.banner::after{content:'';position:absolute;bottom:-27px;width:0;height:0;
+              border-left:30px solid transparent;border-right:30px solid transparent;
+              border-top:27px solid var(--k-kraft-dark)}
       .banner::before{left:0}
       .banner::after{right:0;transform:scaleX(-1)}
-      h2{font-size:70px;line-height:1.16;color:var(--ink);text-align:center}
-      h2 em{color:var(--tan)}
-      .subtitle{color:var(--sage-deep);text-align:center;margin-top:18px}
-      .domain{position:absolute;left:0;right:0;bottom:36px;text-align:center;color:rgba(250,247,240,.85)}
+      h2{font-size:68px;line-height:1.16;color:var(--k-ink);text-align:center}
+      h2 em{color:var(--k-rust)}
+      .domain{position:absolute;left:0;right:0;bottom:42px;text-align:center;color:rgba(247,242,231,.85)}
     </style>
     <div class="photo"></div>
     <div class="darken"></div>
     <div class="string"></div>
-    <div class="tag"><div class="kicker">${p.kicker}</div></div>
-    <div class="banner-wrap"><div class="banner"><h2>${p.headline}</h2><div class="subtitle">${p.subtitle}</div></div></div>
+    <div class="tag">
+      <div class="eyebrow">${p.kicker}</div>
+      ${p.number ? `<div class="no">No.<span>${p.number}</span></div>` : ''}
+    </div>
+    <div class="banner-wrap"><div class="banner"><h2>${p.headline}</h2></div></div>
     <div class="domain">${p.domain}</div>`,
 
-  // ===== G · ARCHWAY — photo through an architectural arch, ribbon-banner headline =====
-  G: (p) => `
+  // ===== F · ARCHWAY (Final) — olive/gold plaque, arch photo, ribbon banner =====
+  F: (p) => `
     <style>${BASE_CSS}
-      body{background:var(--sage-deep);display:flex;flex-direction:column;align-items:center}
-      .plaque{margin-top:70px;background:var(--tan-light);color:var(--ink);padding:16px 40px;
+      :root{ --k-ink:#1E2A22; --k-cream:#F7F2E7; --k-paper:#EFE7D6; --k-olive-deep:#4C5738;
+             --k-gold:#B4813F; }
+      body{background:var(--k-olive-deep);display:flex;flex-direction:column;align-items:center}
+      .plaque{margin-top:88px;background:var(--k-gold);color:var(--k-ink);padding:16px 40px;
              border-radius:8px;font-family:'Montserrat',sans-serif;font-weight:700;font-size:24px;
              letter-spacing:.22em;text-transform:uppercase}
-      .arch{margin-top:48px;width:680px;height:820px;border-radius:340px 340px 20px 20px;
-            overflow:hidden;border:14px solid var(--cream);box-shadow:0 34px 70px rgba(0,0,0,.4);
+      .arch{margin-top:58px;width:680px;height:868px;border-radius:340px 340px 24px 24px;
+            overflow:hidden;border:18px solid var(--k-cream);box-shadow:0 34px 70px rgba(0,0,0,.4);
             background:url('${p.photo}') center/cover no-repeat}
-      .ribbon-wrap{margin-top:-56px;width:800px;position:relative}
-      .ribbon{background:var(--cream);padding:44px 60px 38px;text-align:center;
+      .ribbon-wrap{margin-top:-70px;width:820px;position:relative}
+      .ribbon{background:var(--k-cream);padding:48px 60px 42px;text-align:center;
              box-shadow:0 20px 46px rgba(0,0,0,.32);position:relative}
       .ribbon::before,.ribbon::after{content:'';position:absolute;top:0;border-style:solid}
-      .ribbon::before{left:-40px;border-width:36px 40px 36px 0;
-             border-color:transparent #E5DCC5 transparent transparent}
-      .ribbon::after{right:-40px;border-width:36px 0 36px 40px;
-             border-color:transparent transparent transparent #E5DCC5}
-      h2{font-size:66px;line-height:1.16;color:var(--ink)}
-      h2 em{color:var(--tan)}
-      .subtitle{color:var(--sage-deep);text-align:center;margin-top:16px}
-      .domain{margin-top:auto;margin-bottom:56px;color:rgba(250,247,240,.8)}
+      .ribbon::before{left:-46px;border-width:44px 46px 44px 0;
+             border-color:transparent var(--k-paper) transparent transparent;filter:brightness(.88)}
+      .ribbon::after{right:-46px;border-width:44px 0 44px 46px;
+             border-color:transparent transparent transparent var(--k-paper);filter:brightness(.88)}
+      h2{font-size:64px;line-height:1.16;color:var(--k-ink)}
+      h2 em{color:var(--k-gold)}
+      .domain{margin-top:auto;margin-bottom:64px;color:rgba(247,242,231,.75)}
     </style>
     <div class="plaque">${p.kicker}</div>
     <div class="arch"></div>
-    <div class="ribbon-wrap"><div class="ribbon"><h2>${p.headline}</h2><div class="subtitle">${p.subtitle}</div></div></div>
+    <div class="ribbon-wrap"><div class="ribbon"><h2>${p.headline}</h2></div></div>
     <div class="domain">${p.domain}</div>`,
 };
 
