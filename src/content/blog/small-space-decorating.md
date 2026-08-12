@@ -1,9 +1,9 @@
 ﻿---
-title: "14 Small Space Decorating Rules"
+title: "14 Small Space Decorating Rules for Renters"
 description: "14 small space decorating rules for Canadian renters — principles that work in any room to make compact spaces feel larger, lighter, and more livable."
 image: "/images/small-apartment-decorating-living-room.jpg"
 datePublished: "2025-12-02"
-dateModified: "2026-07-25"
+dateModified: "2026-08-12"
 author: "Badreddine Br"
 tags: ["small space decorating", "small space decorating ideas", "decorating tips small apartment", "apartment decor", "Canada", "renter-friendly", "small space"]
 featured: false
