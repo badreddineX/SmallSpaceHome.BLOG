@@ -80,7 +80,7 @@ Folds flat against the wall when you're done, freeing the floor completely. Idea
 **Narrow wall-mount shelf desk** — ~$60–$120 CAD
 A slim floating desk, 30–40 cm deep, turns a bare hallway wall into a workspace. Enough for a laptop and a notebook, nothing more — which is the point.
 
-For how these fit alongside the rest of your furniture, our [small space furniture guide](/blog/small-space-furniture) covers sizing every piece in a compact apartment, and the [IKEA small space hacks](/blog/ikea-small-space-hacks) post shows how to combine KALLAX and LINNMON into a desk-plus-storage wall.
+For how these fit alongside the rest of your furniture, our [apartment size furniture guide](/blog/small-space-furniture) covers sizing every piece in a compact apartment, and the [IKEA small space hacks](/blog/ikea-small-space-hacks) post shows how to combine KALLAX and LINNMON into a desk-plus-storage wall.
 
 ![A corner desk with floating shelves above it in a small apartment home office](/images/blog-23-img2.jpg)
 

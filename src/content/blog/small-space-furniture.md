@@ -3,7 +3,7 @@ title: "Small Space Furniture for Apartments"
 description: "Small space furniture for Canadian apartment renters — what to buy, skip, and exact CAD prices from IKEA, Wayfair, and Amazon Canada."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
-dateModified: "2026-08-06"
+dateModified: "2026-08-13"
 author: "Badreddine Br"
 tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false
@@ -24,7 +24,7 @@ faqs:
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
 ---
 
-Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture makes the space genuinely harder to live in. The right small space furniture creates the feeling of more room while quietly solving storage and function problems at the same time. I've furnished and refurnished my 510 sq ft Toronto apartment three times — here's what actually works. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
+Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture makes the space genuinely harder to live in. The right space-saving furniture creates the feeling of more room while quietly solving storage and function problems at the same time. Whether you call it apartment size furniture, small apartment furniture, or just furniture for small spaces, the shopping logic is the same — I've furnished and refurnished my 510 sq ft Toronto apartment three times, here's what actually works. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
 **TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI storage bed replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 

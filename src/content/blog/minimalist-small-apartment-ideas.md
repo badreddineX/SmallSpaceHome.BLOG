@@ -17,7 +17,7 @@ faqs:
   - q: "What is the minimalist approach to apartment furniture?"
     a: "Fewer pieces, better quality, more deliberate placement. Every piece should serve a clear purpose. Multi-functional furniture — storage bed, storage ottoman, sofa bed for guests — means you need fewer pieces total. Furniture with visible legs reads as lighter and takes up less visual space."
   - q: "Is minimalism expensive to achieve in a Canadian apartment?"
-    a: "It's actually cheaper than most decorating approaches because you buy fewer things. The real cost is time spent decluttering, not a shopping budget. If you want to reinvest the savings, our <a href='/blog/small-space-furniture'>small space furniture guide</a> covers the best multi-functional picks at real CAD prices."
+    a: "It's actually cheaper than most decorating approaches because you buy fewer things. The real cost is time spent decluttering, not a shopping budget. If you want to reinvest the savings, our <a href='/blog/small-space-furniture'>furniture for small spaces guide</a> covers the best multi-functional picks at real CAD prices."
   - q: "What's the difference between a minimalist apartment and just a small apartment?"
     a: "A small apartment is a size constraint; a minimalist apartment is a deliberate choice within that constraint. You can have a cluttered 400 sq ft apartment or a spacious-feeling one — the difference is entirely in what you choose to keep. Minimal apartments use the surfaces rule (nothing stays on a flat surface unless it's used daily) to keep that feeling consistent."
 ---

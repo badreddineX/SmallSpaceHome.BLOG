@@ -110,7 +110,7 @@ Don't lowball insultingly (under 40% of asking) unless the item has visible flaw
 
 Secondhand furniture doesn't need to look mismatched. Once you've got the big pieces (dresser, table, sofa or bookshelf) from Marketplace, the [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) approach of rug-first, then lighting, then textiles ties everything together visually for under $200 CAD more. A $70 secondhand dresser with a new $15 CAD lamp on top looks intentional, not thrifted.
 
-If you're furnishing a genuinely small footprint and need pieces that are actually sized right for the space, the [small space furniture guide](/blog/small-space-furniture) covers dimensions and multi-purpose picks worth cross-checking against any Marketplace listing before you commit to a pickup.
+If you're furnishing a genuinely small footprint and need pieces that are actually sized right for the space, our [space saving furniture picks](/blog/small-space-furniture) cover dimensions and multi-purpose options worth cross-checking against any Marketplace listing before you commit to a pickup.
 
 ![A styled apartment TV console with a vase, showing how a single secondhand or budget piece can anchor a small living space](/images/apartment-tv-console-vase.jpg)
 

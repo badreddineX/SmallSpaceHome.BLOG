@@ -13,7 +13,7 @@ faqs:
   - q: "How do I make my studio apartment not look like a studio?"
     a: "Define zones with rugs, separate the bed from the living area using a bookcase or sofa back, and use distinct lighting in each zone. Our full <a href='/blog/studio-apartment-ideas'>studio apartment organization guide</a> walks through the complete zone-by-zone system in one weekend — with CAD prices throughout."
   - q: "What's the best furniture for a studio apartment in Canada?"
-    a: "An apartment-sized sofa (180 cm max), a storage bed frame like the IKEA NORDLI (~$399 CAD), a compact IKEA MICKE desk, and a BILLY or KALLAX as a room divider. Every piece should be multi-functional. More picks in our <a href='/blog/small-space-furniture'>small space furniture guide</a>."
+    a: "An apartment-sized sofa (180 cm max), a storage bed frame like the IKEA NORDLI (~$399 CAD), a compact IKEA MICKE desk, and a BILLY or KALLAX as a room divider. Every piece should be multi-functional. More picks in our <a href='/blog/small-space-furniture'>small apartment furniture guide</a>."
   - q: "How do I add storage to a studio apartment without making it feel cramped?"
     a: "Go vertical: floor-to-ceiling bookshelves, over-door organizers, and floating shelves above furniture all add capacity without consuming floor space. Under-bed storage handles seasonal and bulky items. Avoid wide, low units — they eat floor space without much payoff."
   - q: "Is a Murphy bed worth it in a Canadian studio apartment?"

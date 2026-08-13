@@ -66,7 +66,7 @@ The multi-function rule applies here exactly as it does in any small apartment �
 - **IKEA KALLAX** (~$130–$159 CAD) — works as a room divider in open-concept condo layouts
 - **Apartment-size sofa under 200 cm** (IKEA VIMLE or ÄPPLARYD) — confirm it clears your elevator door width, not just your unit door
 
-For the full furniture breakdown with more picks and prices, see our <a href="/blog/small-space-furniture">small space furniture guide</a>.
+For the full furniture breakdown with more picks and prices, see our <a href="/blog/small-space-furniture">apartment size furniture guide</a>.
 
 ## 4. Where Do You Store Bikes and Seasonal Gear Without a Garage?
 
