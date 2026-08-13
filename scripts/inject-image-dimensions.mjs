@@ -53,10 +53,25 @@ async function patchFile(path) {
   const matches = [...html.matchAll(imgTagRe)];
   for (const match of matches) {
     const [full, before, src, after] = match;
-    if (/\swidth=/.test(before) || /\swidth=/.test(after)) continue; // already has one
-    const dims = await getDimensions(src);
-    if (!dims) continue;
-    const patched = `<img${before} src="${src}"${after} width="${dims.width}" height="${dims.height}">`;
+    const hasWidth = /\swidth=/.test(before) || /\swidth=/.test(after);
+    const hasLoading = /\sloading=/.test(before) || /\sloading=/.test(after);
+    if (hasWidth && hasLoading) continue; // nothing to add
+
+    let dims = null;
+    if (!hasWidth) dims = await getDimensions(src);
+
+    // Body images (markdown ![]()) carry no loading attribute at all, which
+    // means the browser treats them as eager and they compete with the real
+    // hero/LCP image for bandwidth on load. The hero itself is rendered
+    // separately in BlogPost.astro with an explicit loading="eager", so it
+    // already has a loading attribute and is skipped by hasLoading above --
+    // this only ever touches in-article body images.
+    let extra = '';
+    if (!hasWidth && dims) extra += ` width="${dims.width}" height="${dims.height}"`;
+    if (!hasLoading) extra += ` loading="lazy" decoding="async"`;
+    if (!extra) continue;
+
+    const patched = `<img${before} src="${src}"${after}${extra}>`;
     html = html.replace(full, patched);
     changed = true;
   }

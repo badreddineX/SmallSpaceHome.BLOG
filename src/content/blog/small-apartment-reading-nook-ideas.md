@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Reading Nook Ideas That Actually Fit"
+title: "15 Small Apartment Reading Nook Ideas"
 description: "Comfy reading chair and reading nook ideas for small Canadian apartments — renter-friendly layouts, real CAD prices, and no permanent changes."
 image: "/images/bedroom-shelves-reading.jpg"
 datePublished: "2026-07-27"
