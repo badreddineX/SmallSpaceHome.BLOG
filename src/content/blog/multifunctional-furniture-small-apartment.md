@@ -85,3 +85,5 @@ When your apartment feels cramped, it’s rarely the size—it’s the furniture
 → Check out [Small Space Furniture: 7 Favorites for Renter-Friendly Renos](/blog/small-space-furniture) for real renter-approved buys.
 
 → For more layout hacks, read [Studio Apartment Ideas That Fit 10 Lives Into 450 Sq Ft](/blog/studio-apartment-ideas).
+
+→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) covers the one room multifunctional furniture doesn't reach.

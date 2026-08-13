@@ -116,4 +116,4 @@ Look at your current coffee table, side table, and TV stand. Whichever one is ju
 
 Hidden storage furniture works because it removes visible clutter without removing the furniture you already need. A storage ottoman, a lift-top coffee table, or a console with doors each solve a specific version of the same problem: things with nowhere to go.
 
-Once the living room is sorted, the bedroom is usually the next pain point. See [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas) for the room most people tackle next.
+Once the living room is sorted, the bedroom is usually the next pain point. See [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas) for the room most people tackle next, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) if the bathroom is the bigger frustration.

@@ -112,3 +112,5 @@ A reading nook is one of the cheapest, lowest-commitment upgrades you can make t
 → For more ways to make small furniture pull double duty, see [small space furniture](/blog/small-space-furniture).
 
 → Working from the same corner during the day? [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) covers how to keep a work zone from taking over your reading zone.
+
+→ [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the other small room in the apartment worth the same renter-friendly treatment.

@@ -113,4 +113,5 @@ Stop changing your system every 2 weeks. Do a fridge/pantry “reset” with the
 You’ll never hunt for that single can of coconut milk again—and you’ll actually start to enjoy cooking in your small space.
 
 → [Small Apartment Kitchen Organization Hacks](/blog/small-space-kitchen-organization)  
-→ [IKEA Small Space Kitchen Hacks](/blog/ikea-small-space-hacks)
+→ [IKEA Small Space Kitchen Hacks](/blog/ikea-small-space-hacks)  
+→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage)

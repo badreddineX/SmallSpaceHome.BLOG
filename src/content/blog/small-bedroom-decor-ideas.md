@@ -172,4 +172,4 @@ In a small bedroom, the bed is 60–70% of the visual space. Make it and the who
 
 Once the decor fundamentals are in place, storage is the next layer. If the bedroom still feels cramped after these changes, the problem is usually too much stuff without a proper system for it.
 
-→ For the full storage side of a small bedroom, see [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) — every closet, under-bed, and wall option covered with CAD prices.
+→ For the full storage side of a small bedroom, see [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) — every closet, under-bed, and wall option covered with CAD prices, and [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the room right next door.

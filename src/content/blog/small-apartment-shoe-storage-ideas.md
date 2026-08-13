@@ -138,4 +138,4 @@ Yes, for zero-floor-space entryways, a $20–$35 CAD organizer adds 20+ pairs of
 
 Shoe storage in a small Canadian apartment comes down to matching the product to your entryway's real shape and building a seasonal rotation habit around it. Start with one slim rack or organizer, then add the rotation system before your first winter in the space, and the entryway clutter mostly solves itself.
 
-→ Next, tackle the rest of the entryway with our [small entryway & hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) guide.
+→ Next, tackle the rest of the entryway with our [small entryway & hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) guide, or see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the same no-drill approach in the bathroom.

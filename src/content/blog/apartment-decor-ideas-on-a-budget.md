@@ -118,7 +118,7 @@ Before spending anything, do these changes that cost nothing:
 - New bath mat: ~$10–$20 CAD (Walmart Canada)
 - 2 matching towels: ~$15–$25 CAD (Winners or IKEA)
 - Small plant (pothos/peace lily): ~$5–$10 CAD
-**Total:** ~$30–$55 CAD
+**Total:** ~$30–$55 CAD (for storage on top of styling, see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage))
 
 ## Where to Shop for Budget Decor in Canada
 

@@ -141,3 +141,5 @@ Total for the full list: roughly **$150–$400 CAD**, well under the cost of a s
 ---
 
 Want the layout and furniture side of this same room? See our <a href="/blog/small-space-living-room-ideas">small space living room ideas guide</a> for the space-efficient furniture picks, or our <a href="/blog/small-apartment-organization">apartment organization guide</a> to keep the styled look from sliding back into clutter.
+
+Want the same warm, layered mood in the bathroom? <a href="/blog/small-apartment-bathroom-storage">Small apartment bathroom storage ideas</a> covers that room with the same renter-friendly approach.

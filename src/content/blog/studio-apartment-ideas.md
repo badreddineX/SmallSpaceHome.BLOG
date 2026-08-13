@@ -208,3 +208,5 @@ A studio apartment works when every decision is intentional — where the zones 
 → Moving into your first studio for September? [September student move-in storage guide](/blog/september-student-move-in-storage-guide) covers the dorm-to-studio transition specifically.
 
 → Want a cosy corner inside one of your zones? [15 small apartment reading nook ideas](/blog/small-apartment-reading-nook-ideas) shows how to carve one out without dedicating extra square footage.
+
+→ [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the one zone every studio still has to solve.

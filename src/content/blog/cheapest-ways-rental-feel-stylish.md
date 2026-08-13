@@ -118,4 +118,4 @@ Even at the high end, a full stylish-feeling refresh stays under $101 CAD, and m
 
 A rental doesn't need a big budget to feel stylish, it needs a bit of patience and the right order of changes. Start with what's free, decluttering and rearranging, then layer in warm lighting, a few Dollarama pieces, and whatever you can find secondhand. Save removable wallpaper for last, since it's the only real expense on this list.
 
-→ Ready to build on this once you've got a bit more budget? See [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) for the full under-$200 CAD priority order.
+→ Ready to build on this once you've got a bit more budget? See [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) for the full under-$200 CAD priority order, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the room this list leaves out.

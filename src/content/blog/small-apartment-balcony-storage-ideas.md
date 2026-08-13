@@ -103,4 +103,4 @@ If you're starting from zero, tackle balcony storage in this order for the best 
 
 A small balcony can genuinely function as extra storage and living space in a Canadian apartment, as long as you build around what your building actually allows and what the winter can handle. Start with the deck box and the bylaw check, then layer in a bike rack and planters as your space and budget allow.
 
-For more renter-friendly storage that needs zero drilling, our full [storage ideas for small places](/blog/storage-ideas-for-small-places) post covers 23 more solutions for the rest of the apartment.
+For more renter-friendly storage that needs zero drilling, our full [storage ideas for small places](/blog/storage-ideas-for-small-places) post covers 23 more solutions for the rest of the apartment, and our [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) guide covers the other room renters ask about most.

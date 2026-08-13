@@ -161,4 +161,4 @@ These four items are all you need for a proper fall refresh. The natural element
 
 Fall decorating works best when it's a layer over a well-organized, cohesive base — not a seasonal overhaul of an already-cluttered space. If the apartment needs a reset before bringing in seasonal touches, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers the foundations worth having in place year-round.
 
-→ When autumn transitions to winter, [cozy winter apartment decor](/blog/cozy-winter-apartment-decor) picks up exactly where this guide leaves off — with the deeper layering and lighting changes that carry you through to spring.
+→ When autumn transitions to winter, [cozy winter apartment decor](/blog/cozy-winter-apartment-decor) picks up exactly where this guide leaves off — with the deeper layering and lighting changes that carry you through to spring, and [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the room seasonal decorating usually skips.

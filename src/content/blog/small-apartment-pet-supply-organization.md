@@ -127,4 +127,4 @@ Collapsible soft-sided carriers fold flat under a bed or on a closet shelf, whil
 
 None of this requires a big renovation or a big budget. Four zones, a handful of bins and hooks, and the habit of putting things back where they belong will keep pet gear from taking over a small apartment.
 
-→ For the bigger picture on setting up a pet-friendly small space from the ground up, see [15 pet-friendly small apartment setup ideas](/blog/pet-friendly-small-apartment-ideas).
+→ For the bigger picture on setting up a pet-friendly small space from the ground up, see [15 pet-friendly small apartment setup ideas](/blog/pet-friendly-small-apartment-ideas), and [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for keeping pet-washing supplies out of the way.

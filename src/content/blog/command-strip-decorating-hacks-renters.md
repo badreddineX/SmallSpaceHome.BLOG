@@ -107,4 +107,5 @@ A small acrylic organizer (typically $10–$16 CAD) attached to the *back* of a 
 Command strips aren’t magic—they won’t stick to rough concrete or dusty surfaces—but for 95% of Canadian apartments (concrete, drywall, smooth plaster), they’re the closest thing to renter-friendly construction glue. Test one strip first, wait 24 hours, then trust it. You’ll keep your deposit *and* your sanity.
 
 → [5 Small-Space Furniture Hacks That Fit Through Stairs](/blog/small-space-furniture)  
-→ [12 Renters-Approved Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places)
+→ [12 Renters-Approved Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places)  
+→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage)

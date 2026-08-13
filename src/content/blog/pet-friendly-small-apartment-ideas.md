@@ -105,4 +105,5 @@ I spray-painted a set of 100% cotton slipcovers (HomeSense, ~$30 CAD for king si
 When your apartment feels designed *around* your pet—not *despite* it—you’ll wonder why you waited so long to set it up right.
 
 → [Small Apartment Pet Storage Hacks](/blog/small-apartment-organization)  
-→ [Renters-Approved Cat Trees & Climbers](/blog/ikea-small-space-hacks)
+→ [Renters-Approved Cat Trees & Climbers](/blog/ikea-small-space-hacks)  
+→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) for pet-washing and grooming supplies

@@ -159,4 +159,4 @@ Do these in order for the most efficient transformation:
 
 Winter in a Canadian apartment is long — but a well-set-up space makes it genuinely enjoyable. The lighting and textile changes alone make a dramatic difference. For year-round decor ideas that complement the cozy winter setup, [apartment decor ideas](/blog/apartment-decor-ideas) covers the full picture including lighting, textiles, and colour palette decisions.
 
-→ When spring arrives and it's time to reset, see [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) for seasonal transition ideas that work in any Canadian rental.
+→ When spring arrives and it's time to reset, see [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) for seasonal transition ideas that work in any Canadian rental, and [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for winterproofing that room too.

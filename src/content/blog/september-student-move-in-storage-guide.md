@@ -139,4 +139,4 @@ No. Most first-year storage problems are solved with soft bins, hooks, and stack
 
 ---
 
-Move-in week is chaotic no matter how prepared you are, so don't try to solve every room in one trip. Tackle the closet and kitchen first, since they matter most day to day, then build out the desk and bathroom setup once the essentials are in place. Whichever budget you land on, everything on this list is renter-friendly and comes with you when the lease ends.
+Move-in week is chaotic no matter how prepared you are, so don't try to solve every room in one trip. Tackle the closet and kitchen first, since they matter most day to day, then build out the desk and bathroom setup once the essentials are in place. Whichever budget you land on, everything on this list is renter-friendly and comes with you when the lease ends. For the bathroom specifically, [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) has the same no-drill approach with real CAD prices.

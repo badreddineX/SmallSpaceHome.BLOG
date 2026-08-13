@@ -154,3 +154,5 @@ Facebook Marketplace and Kijiji list second-hand desks and chairs at roughly 40�
 Start with the desk and the chair — those two decide whether the space works. Add storage and decor once you know how you actually use the corner. And when in doubt on desk size, go smaller: a compact desk in a clear corner beats a big one crammed against the bed.
 
 → Setting up the rest of the room too? Our [small space living room ideas](/blog/small-space-living-room-ideas) and [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) cover how to make a work corner blend into the space it shares.
+
+→ Need a break-room reset? [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the room right next to most home offices.

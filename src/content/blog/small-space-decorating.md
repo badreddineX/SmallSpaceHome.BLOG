@@ -189,3 +189,5 @@ These 14 rules apply to every room in a Canadian rental — use them as a filter
 → For the living room specifically, [small space living room ideas](/blog/small-space-living-room-ideas) applies these principles to layout, lighting, and furniture scale in a step-by-step format.
 
 → Got a balcony? [Small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas) applies the same space-scaling rules to the one outdoor space most apartments have.
+
+→ [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) applies the same textile-first, clear-surfaces rules to the bathroom.

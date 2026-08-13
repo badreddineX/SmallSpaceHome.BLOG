@@ -93,4 +93,5 @@ This one’s for dramatic corners (or just for Instagram). Attach a tension rod 
 Your plant corner doesn’t need perfect light or infinite time — just a little intention. The goal isn’t a jungle; it’s a breath of calm in your otherwise chaotic city apartment.
 
 → [6 Best Low-Light Plants for Canadian Rentals (That Won’t Die)](/blog/small-apartment-home-office-ideas)  
-→ [Small Space Plant Storage Ideas That Fit in a Closet](/blog/storage-ideas-for-small-places)
+→ [Small Space Plant Storage Ideas That Fit in a Closet](/blog/storage-ideas-for-small-places)  
+→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) — bathrooms are one of the best low-light plant spots

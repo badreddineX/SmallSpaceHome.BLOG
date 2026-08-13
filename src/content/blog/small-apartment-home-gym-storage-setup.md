@@ -136,4 +136,4 @@ Skip the weight bench and full dumbbell set if budget is tight. A mat, bands, an
 
 A small apartment doesn't rule out a real home gym, it just changes what "equipment" means. Foldable mats, stackable dumbbells, and a storage ottoman that pulls double duty as furniture let you train hard in a corner that looks like nothing special the rest of the day. Start with a mat, a band set, and one storage piece, then add weight only once you know the corner actually works for your routine.
 
-→ Next, check out our [multifunctional furniture ideas](/blog/multifunctional-furniture-small-apartment) for more pieces that pull double duty in a small Canadian apartment.
+→ Next, check out our [multifunctional furniture ideas](/blog/multifunctional-furniture-small-apartment) for more pieces that pull double duty in a small Canadian apartment, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the room right after a workout.

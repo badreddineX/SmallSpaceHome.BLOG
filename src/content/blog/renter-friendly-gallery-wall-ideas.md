@@ -105,4 +105,5 @@ Combine leaning frames, a hanging tapestry (like a $15 CAD wool rug from Simons,
 The key isn’t perfection—it’s intentionality. Renters shouldn’t settle for empty walls or a $300 repair bill. Pick one method that fits your floorplan, renter-confidence level, and the weight of your art—and go for it. That blank wall? It’s a canvas, not a liability.
 
 → Check out [Small Space Apartment Decoration Ideas](/blog/studio-apartment-ideas) for layout tips that work in tight corridors.  
-→ Need help storing your frames between moves? [Small Apartment Organization Tips](/blog/small-apartment-organization) has collapsible storage hacks under $20 CAD.
+→ Need help storing your frames between moves? [Small Apartment Organization Tips](/blog/small-apartment-organization) has collapsible storage hacks under $20 CAD.  
+→ Want a no-damage gallery in the bathroom too? [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) covers the same deposit-safe rules for that room.

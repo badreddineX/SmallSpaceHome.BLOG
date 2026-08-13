@@ -243,3 +243,5 @@ Do these first for the fastest transformation:
 5. **Add plants** — cheap, alive, and better than any fake decor
 
 → Decorating for the season? [Fall apartment decorating ideas](/blog/fall-apartment-decorating-ideas) and [cozy winter apartment decor](/blog/cozy-winter-apartment-decor) apply these same principles with seasonal textures and touches.
+
+→ Tackling the bathroom next? [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the same no-damage approach for that room specifically.

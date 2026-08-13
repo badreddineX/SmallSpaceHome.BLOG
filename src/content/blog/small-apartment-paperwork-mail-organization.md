@@ -151,4 +151,4 @@ You don't need every item at once. Start with the command centre and the file bo
 
 Paperwork clutter in a small apartment isn't a discipline problem, it's a design problem. Give paper one specific place to land, a small system for what to keep, and a weekly reset, and the counter stays clear without much thought after the first few weeks.
 
-→ Next, set up the rest of your entry and work zones with our [small apartment home office ideas](/blog/small-apartment-home-office-ideas).
+→ Next, set up the rest of your entry and work zones with our [small apartment home office ideas](/blog/small-apartment-home-office-ideas), or see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the next room in a full apartment organizing pass.

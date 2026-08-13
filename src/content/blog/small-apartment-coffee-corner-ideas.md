@@ -106,4 +106,5 @@ This one’s simple but brilliant: two vertical tension rods, one above the othe
 At the end of the day, your coffee station doesn’t need to be big—it just needs to feel like yours. One that makes you pause, take a breath, and actually *enjoy* your morning ritual—even if your “kitchen” is 36” wide.
 
 → [Small Apartment Coffee Corner Organization Ideas](/blog/small-space-kitchen-organization)  
-→ [IKEA Small Space Hacks for Renter-Friendly Storage](/blog/ikea-small-space-hacks)
+→ [IKEA Small Space Hacks for Renter-Friendly Storage](/blog/ikea-small-space-hacks)  
+→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) for the same renter-safe tricks in the bathroom

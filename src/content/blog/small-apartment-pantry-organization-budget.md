@@ -127,4 +127,4 @@ Rather than buying a lazy Susan and shelf riser in the same order, buy the riser
 
 Organizing a small apartment pantry doesn't require a big budget or a matching container haul. A shelf riser, a few Dollarama bins, some reused jars, and a roll of masking tape solve most of the problem for well under $40 CAD. Start with the riser, decant what you already own, and add containers only where you still see wasted space.
 
-→ Ready to tackle the rest of the kitchen and fridge? See [17 fridge & pantry organization ideas](/blog/fridge-pantry-organization-small-apartment) for the full system beyond this one cupboard.
+→ Ready to tackle the rest of the kitchen and fridge? See [17 fridge & pantry organization ideas](/blog/fridge-pantry-organization-small-apartment) for the full system beyond this one cupboard, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the same budget-first approach in the bathroom.

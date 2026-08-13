@@ -104,4 +104,4 @@ Keep labels to one word in large lettering: "sweaters," "cables," "seasonal," "t
 
 Storage bins and baskets aren't interchangeable, even when they're sitting on the same store shelf. Match the material and size to where the container is actually going, measure clearances before buying anything for under a bed, and label the short end so bins stay useful instead of becoming mystery boxes. A full apartment system, done this way, rarely costs more than $60–$80 CAD total.
 
-→ Next, see [23 small apartment storage ideas](/blog/storage-ideas-for-small-places) for the full set of shelving, furniture, and vertical-storage moves beyond bins and baskets alone.
+→ Next, see [23 small apartment storage ideas](/blog/storage-ideas-for-small-places) for the full set of shelving, furniture, and vertical-storage moves beyond bins and baskets alone, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for where bins and baskets work best in the bathroom specifically.

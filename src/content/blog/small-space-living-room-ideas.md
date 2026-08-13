@@ -179,3 +179,5 @@ Once your living room layout is working, the bedroom is usually the next pain po
 Read our guide on [small bedroom storage ideas for Canadian apartment renters](/blog/small-apartment-bedroom-storage-ideas) — 14 practical solutions that work in rooms as small as 90 sq ft.
 
 → Need the seating itself to double as storage in this exact layout? [Small living room storage ideas](/blog/small-living-room-storage-solutions) covers ottomans, coffee tables with shelves, and TV consoles built to hide the clutter.
+
+→ [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the room this guide doesn't touch, with the same renter-friendly approach.
