@@ -16,6 +16,11 @@ public/images/*/
 !public/images/featured/
 !public/images/feat-side/
 
+# WebP siblings of public/images/*.jpg|png -- regenerated at every build by
+# the `prebuild` script (scripts/to-webp.mjs), not source, not worth ~32MB
+# of committed binaries that go stale the moment a source jpg changes.
+public/images/*.webp
+
 # Generated pin/short exports
 out/
 out-instagram/
