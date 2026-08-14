@@ -87,3 +87,5 @@ When your apartment feels cramped, it’s rarely the size—it’s the furniture
 → For more layout hacks, read [Studio Apartment Ideas That Fit 10 Lives Into 450 Sq Ft](/blog/studio-apartment-ideas).
 
 → [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) covers the one room multifunctional furniture doesn't reach.
+
+→ Need a desk that disappears when the workday's done? [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) is built entirely around multifunctional, fold-away setups.
