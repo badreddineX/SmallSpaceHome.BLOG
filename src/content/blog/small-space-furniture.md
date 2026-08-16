@@ -1,9 +1,9 @@
 ﻿---
-title: "Small Space Furniture for Apartments"
-description: "Small space furniture for Canadian apartment renters — what to buy, skip, and exact CAD prices from IKEA, Wayfair, and Amazon Canada."
+title: "Small Space Furniture: What Actually Works (3 Years of Real Testing)"
+description: "What I'd buy again and what I regret after furnishing a 510 sq ft Toronto apartment three times — real CAD prices from IKEA, Wayfair, and Amazon Canada, and what actually held up."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
-dateModified: "2026-08-13"
+dateModified: "2026-08-16"
 author: "Badreddine Br"
 tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false
@@ -24,7 +24,7 @@ faqs:
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
 ---
 
-Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip. The wrong furniture makes the space genuinely harder to live in. The right space-saving furniture creates the feeling of more room while quietly solving storage and function problems at the same time. Whether you call it apartment size furniture, small apartment furniture, or just furniture for small spaces, the shopping logic is the same — I've furnished and refurnished my 510 sq ft Toronto apartment three times, here's what actually works. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
+I've furnished and refurnished my 510 sq ft Toronto apartment three times — once when I moved in, once after a year of living with my first round of choices and realizing what actually worked, and once more after a move within the same building. This isn't a list of what's for sale. It's what survived three real furnishing rounds, what I sent back, and what I wish I'd bought the first time. Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
 **TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI storage bed replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 
@@ -141,6 +141,22 @@ Seats 2 normally, extends to seat 4. Works in the tightest dining areas.
 The best option if dining space is truly minimal. Folds flat against the wall when not in use.
 
 **Bar-height stools at the kitchen peninsula** — use the kitchen counter if there's an overhang rather than buying a separate dining table and chairs.
+
+## What I'd Buy Again vs. What I Regret
+
+After three rounds of furnishing the same 510 sq ft apartment, the list of what actually earned its keep is shorter than what I started with.
+
+**Buy again, no hesitation:**
+- **IKEA NORDLI storage bed** — three years in, drawers still glide smoothly, and it's the single piece that's saved me from ever needing a dresser.
+- **Storage ottoman** — I underestimated this one at first. It's done coffee table, extra seating for guests, and off-season bedding storage without ever feeling like it's doing too much.
+- **IKEA LACK side table** — cheap enough that I don't think twice about using it hard, and it's outlasted furniture that cost five times as much.
+
+**Regretted and returned:**
+- **A 3-seat sectional** (not from this list) — looked fine in the store, ate a third of my living room the moment it arrived. Returning a sofa in a Toronto apartment building means booking the service elevator and hoping it fits, which it barely did. Learned to measure the actual walking path, not just the floor area, before buying anything with a footprint this big.
+- **A glass-top coffee table** — visually "opened up" the room in photos, but glass shows every mark within a day of normal use, and it's the first thing a moving guest bumps into in a small space. Swapped for the storage ottoman above within two months.
+- **A boxy armchair "for reading"** — never actually got used, since it visually crowded the room enough that I avoided sitting in that corner. The POÄng listed above solved what this was supposed to solve, for less money.
+
+The pattern across all three regrets: they looked right in a photo or showroom, but failed the test that actually matters in under 600 sq ft — does it earn its footprint every day, not just the day you buy it.
 
 ## The Furniture Priority Order
 
