@@ -105,7 +105,7 @@ Most outdoor plants are dormant in winter, but indoor plants thrive year-round. 
 
 Cozy is as much about behaviour as aesthetics. A corner of the living room deliberately set up for reading — a comfortable chair, a floor lamp behind it, a small side table for a drink, a blanket nearby — invites the kind of winter rest that feels restorative.
 
-You don't need a separate room for this. A dedicated corner in the living room, styled intentionally, creates the same effect.
+You don't need a separate room for this. A dedicated corner in the living room, styled intentionally, creates the same effect — see our [reading nook ideas](/blog/small-apartment-reading-nook-ideas) for layouts and product picks.
 
 ![A winter reading corner with a floor lamp, blanket, and side table — small apartment comfort at its best](/images/blog-19-img4.jpg)
 

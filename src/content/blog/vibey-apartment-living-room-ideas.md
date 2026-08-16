@@ -42,7 +42,7 @@ faqs:
 A single ceiling fixture floods a room in flat, even light with almost no shadow or warmth, which is the opposite of what "cozy" actually looks like. Most rental apartments come with exactly this setup by default, so it's the first thing to change (Philips Lighting Research, 2024).
 
 **Fix it with layers, not brightness:**
-- A dimmable floor lamp in the corner (~$40–$70 CAD, IKEA NYFORS or LERSTA)
+- A dimmable floor lamp in the corner (~$40–$70 CAD, IKEA NYFORS or LERSTA) — pair it with a comfortable chair and this corner doubles as a proper [reading nook](/blog/small-apartment-reading-nook-ideas)
 - A table lamp with a warm-tone shade (~$25–$45 CAD, HomeSense)
 - LED string lights along a shelf or headboard (~$15–$25 CAD, Amazon.ca)
 - Battery pillar candles for a no-flame flicker option in a rental (~$20–$30 CAD, Canadian Tire)

@@ -107,7 +107,7 @@ A 100 cm wide × 201 cm tall PAX with interior organizers stores full wardrobes 
 
 ## 12. A Tall Dresser Instead of a Wide One
 
-If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide one (3–4 drawers across). A tall dresser stores the same drawer count in less floor footprint than a wide 3–4 drawer model, leaving more room for movement. Tall dressers use vertical space, leaving more floor footprint for movement. Wide, low dressers consume floor space without adding much capacity.
+If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide one (3–4 drawers across). A tall dresser stores the same drawer count in less floor footprint than a wide 3–4 drawer model, leaving more room for movement. Tall dressers use vertical space, leaving more floor footprint for movement — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for more ways to apply this beyond the dresser. Wide, low dressers consume floor space without adding much capacity.
 
 ## 13. Wicker Baskets on Open Shelves for Accessible Storage
 

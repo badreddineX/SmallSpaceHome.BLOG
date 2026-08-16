@@ -132,7 +132,7 @@ Getting organized is one thing. Staying organized is the real challenge. The thr
 
 **Weekly zone check** — one zone per week, 15 minutes. Check that things are in their right place and nothing has accumulated that should not be there.
 
-For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places) — it covers every room including the entryway and kitchen. And if the kitchen is your biggest challenge, [small space kitchen organization](/blog/small-space-kitchen-organization) goes deep on pantry bins, drawer dividers, and pegboards.
+For room-specific storage ideas and product picks, see the full list of [storage ideas for small places](/blog/storage-ideas-for-small-places) — it covers every room including the entryway and kitchen. And if the kitchen is your biggest challenge, [small space kitchen organization](/blog/small-space-kitchen-organization) goes deep on pantry bins, drawer dividers, and pegboards. If floor space is the real constraint, our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) covers the wall-and-ceiling-height moves that free up the most room.
 
 ## Best Organization Products in Canada
 

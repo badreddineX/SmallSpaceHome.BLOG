@@ -36,7 +36,7 @@ I've lived in a 510 sq ft Toronto apartment for three years. The living room is 
 
 ## 1. What Sofa Actually Fits a Small Living Room?
 
-The sofa is the most common mistake in small living rooms. People buy for comfort first and size second — then the sofa takes over the entire space. For a room under 250 sq ft, stick to a two-seater or slim three-seater **no longer than 200 cm** — options like the IKEA ÄPPLARYD (~$599 CAD) or VIMLE (~$699 CAD) both fit that limit. Avoid sectionals entirely unless you have a dedicated corner layout with no other furniture.
+The sofa is the most common mistake in small living rooms. People buy for comfort first and size second — then the sofa takes over the entire space. For a room under 250 sq ft, stick to a two-seater or slim three-seater **no longer than 200 cm** — options like the IKEA ÄPPLARYD (~$599 CAD) or VIMLE (~$699 CAD) both fit that limit. Avoid sectionals entirely unless you have a dedicated corner layout with no other furniture — that same spare corner is often better used as a [reading nook](/blog/small-apartment-reading-nook-ideas) than filled with a chair nobody sits in.
 
 **What works in Canadian apartments:**
 - IKEA VIMLE (modular, starts at ~$699 CAD)
