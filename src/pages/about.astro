@@ -18,6 +18,25 @@ import '../styles/global.css';
       path="/about"
       type="website"
     />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://smallspacehome.ca/about#person",
+      "name": "Badreddine Br",
+      "url": "https://smallspacehome.ca/about",
+      "jobTitle": "Founder & Author, SmallSpace Home",
+      "description": "Canadian apartment renter and author of SmallSpace Home, testing real renter-friendly organization and decor solutions from a 510 sq ft Toronto rental.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "SmallSpace Home",
+        "url": "https://smallspacehome.ca"
+      },
+      "sameAs": [
+        "https://www.facebook.com/people/SmallSpace-Home/61592431767425/",
+        "https://www.instagram.com/smallspace_home/",
+        "https://www.pinterest.com/SmallSpaceHomecad/"
+      ]
+    })} />
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->

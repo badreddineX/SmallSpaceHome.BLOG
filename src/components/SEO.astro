@@ -73,6 +73,7 @@ const articleJsonLd = isArticle ? JSON.stringify({
   "dateModified": modOrPub,
   "author": {
     "@type": "Person",
+    "@id": `${siteUrl}/about#person`,
     "name": authorName,
     "url": `${siteUrl}/about`
   },
