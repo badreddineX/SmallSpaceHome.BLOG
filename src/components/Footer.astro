@@ -357,11 +357,25 @@ const organizationJsonLd = JSON.stringify({
   document.getElementById('cookie-accept')?.addEventListener('click', () => {
     localStorage.setItem('cookie-consent', 'accepted');
     banner.classList.add('hidden');
+    // Actually start analytics now -- these were gated in SEO.astro and
+    // never loaded at all until this moment.
+    if (typeof window.gtag === 'function') {
+      window.gtag('consent', 'update', {
+        analytics_storage: 'granted',
+        ad_storage: 'granted',
+        ad_user_data: 'granted',
+        ad_personalization: 'granted',
+      });
+    }
+    window.__startAnalytics?.();
+    window.__startClarity?.();
   });
 
   document.getElementById('cookie-decline')?.addEventListener('click', () => {
     localStorage.setItem('cookie-consent', 'declined');
     banner.classList.add('hidden');
+    // Nothing to do here -- analytics/Clarity were never loaded, and stay
+    // that way (Consent Mode default in SEO.astro is already 'denied').
   });
 })();
 </script>

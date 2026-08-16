@@ -130,6 +130,22 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
      everything above-the-fold has already finished loading -- no arbitrary
      wall-clock delay added on top (that was the earlier, separate problem),
      just "wait for the load event", which Lighthouse measures consistently. -->
+<!-- Consent Mode defaults -- must be set before GTM/gtag load. Denied by
+     default; the cookie banner's Accept button (Footer.astro) updates
+     these to 'granted' and only then triggers the actual script loads
+     below. Decline leaves everything denied and nothing loads. -->
+<script is:inline>
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
+  gtag('consent', 'default', {
+    analytics_storage: 'denied',
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    wait_for_update: 500,
+  });
+</script>
+
 <script is:inline>(function(w,d,s,l,gtmId,gaId){
   function start(){
     w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
@@ -141,23 +157,32 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
     var g=d.createElement(s);
     g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id='+gaId;
     f.parentNode.insertBefore(g,f);
-    function gtag(){w.dataLayer.push(arguments);}
-    w.gtag=gtag;
-    gtag('js', new Date());
-    gtag('config', gaId);
+    w.gtag('js', new Date());
+    w.gtag('config', gaId);
   }
-  if (d.readyState === 'complete') start();
-  else w.addEventListener('load', start);
+  // Real consent gate, not just Consent Mode signaling: the scripts
+  // themselves don't load at all until the visitor has actually accepted
+  // -- stricter than relying on GTM/GA to honour the consent signal, and
+  // the behaviour UK/EU visitors need under PECR/UK GDPR (Canadian
+  // visitors under PIPEDA aren't as strict, but this covers both).
+  w.__startAnalytics = start;
+  if (localStorage.getItem('cookie-consent') === 'accepted') {
+    if (d.readyState === 'complete') start();
+    else w.addEventListener('load', start);
+  }
 })(window,document,'script','dataLayer','GTM-N5MCBQG6','G-8RQLW4BWHR');</script>
 <!-- End Google Tag Manager + gtag.js -->
 
 <!-- Microsoft Clarity, issued via Bing Webmaster Tools account (ref=bwt) -->
 <script is:inline>
+  window.__startClarity = function(){
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "y0t20hwn7f");
+  };
+  if (localStorage.getItem('cookie-consent') === 'accepted') { window.__startClarity(); }
 </script>
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
