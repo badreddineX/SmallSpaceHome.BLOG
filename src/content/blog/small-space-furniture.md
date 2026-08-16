@@ -158,6 +158,26 @@ After three rounds of furnishing the same 510 sq ft apartment, the list of what 
 
 The pattern across all three regrets: they looked right in a photo or showroom, but failed the test that actually matters in under 600 sq ft — does it earn its footprint every day, not just the day you buy it.
 
+## What Does It Actually Cost to Furnish a Small Apartment? A Real Budget Breakdown
+
+Furnishing a small Canadian apartment from empty to fully livable costs roughly $800–$900 CAD for the essentials, based on the actual IKEA and Wayfair Canada prices used to furnish my 510 sq ft unit. That number covers a bed, seating, storage, and a desk — not decor, not a dining set, just the pieces a small space genuinely needs to function.
+
+Here's what that breaks down to, piece by piece, for a studio or one-bedroom in the 450–550 sq ft range:
+
+| Piece | Pick | Price (CAD) |
+|-------|------|-------------|
+| Bed with storage | IKEA NORDLI (Queen) | $399–$699 |
+| Seating | Storage ottoman | $89–$150 |
+| Living room storage | IKEA KALLAX 4×2 | $130–$159 |
+| Side table | IKEA LACK | $19 |
+| Desk | IKEA MICKE | $99 |
+| **Total (low end)** | | **~$736 CAD** |
+| **Total (high end)** | | **~$1,126 CAD** |
+
+This is a bare-essentials budget, not a full furnish — it assumes you already have a couch, or you're prioritizing sleep and storage first and adding seating later. Swap the NORDLI for the cheaper FJELLSE frame (~$149 CAD) and the total for a truly tight budget drops to around **$486–$526 CAD**, which is realistic for a first apartment or a move where cash is genuinely limited.
+
+Where the money actually goes for most first-time small-space furnishers: the bed eats 45–55% of the budget, storage eats another 20%, and everything else splits the remainder. If you're deciding what to cut first, dining and a proper desk are the two most deferrable — a kitchen counter with stools and a laptop on a lap desk both work as short-term stand-ins.
+
 ## The Furniture Priority Order
 
 When furnishing a small apartment from scratch:
