@@ -1,0 +1,4 @@
+Contact: mailto:hello@smallspacehome.ca
+Expires: 2027-08-16T00:00:00.000Z
+Canonical: https://smallspacehome.ca/.well-known/security.txt
+Preferred-Languages: en
