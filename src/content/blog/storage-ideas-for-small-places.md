@@ -3,7 +3,7 @@ title: "23 Small Apartment Storage Ideas"
 description: "Out of storage in your Canadian apartment? These 23 renter-friendly storage ideas use vertical space, hidden nooks, and smart furniture — no drilling."
 image: "/images/closet-organizer-shelving.jpg"
 datePublished: "2025-11-02"
-dateModified: "2026-08-06"
+dateModified: "2026-08-16"
 author: "Badreddine Br"
 tags: ["small apartment storage", "small apartment storage ideas", "storage solutions for small spaces", "renter-friendly", "Canada", "storage solutions", "IKEA"]
 featured: true
@@ -247,17 +247,43 @@ For a deeper look at kitchen storage specifically, see [small space kitchen orga
 
 ## Storage Guides for Every Room
 
-Want to go deeper on a specific space? These cover one room or one situation in full detail:
+This is the complete map — every room-specific and situation-specific storage guide on the site, organized so you can jump straight to the space giving you trouble.
 
+**By room:**
 - [Small closet organization ideas for rental apartments](/blog/small-closet-organization-rental-apartment)
 - [Under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment)
+- [Bedroom storage ideas for apartments](/blog/small-apartment-bedroom-storage-ideas)
+- [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage)
 - [Small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas)
 - [Living room storage solutions for small apartments](/blog/small-living-room-storage-solutions)
+- [Small kitchen organization ideas](/blog/small-space-kitchen-organization)
+- [Fridge and pantry organization for small kitchens](/blog/fridge-pantry-organization-small-apartment)
+- [Small apartment pantry organization on a budget](/blog/small-apartment-pantry-organization-budget)
 - [Laundry storage ideas for small apartments](/blog/small-apartment-laundry-storage-ideas)
 - [Balcony and patio storage ideas](/blog/small-apartment-balcony-storage-ideas)
+
+**By category:**
+- [Small apartment shoe storage ideas](/blog/small-apartment-shoe-storage-ideas)
+- [Small apartment storage bins and baskets guide](/blog/small-apartment-storage-bins-baskets-guide)
+- [Small apartment beauty and skincare storage ideas](/blog/small-apartment-beauty-skincare-storage)
+- [Small apartment paperwork and mail organization](/blog/small-apartment-paperwork-mail-organization)
+- [Small apartment pet supply organization ideas](/blog/small-apartment-pet-supply-organization)
+- [Small apartment home gym storage ideas](/blog/small-apartment-home-gym-storage-setup)
+- [Coffee and cafe corner ideas for small apartments](/blog/small-apartment-coffee-corner-ideas)
+- [Plant corner ideas for small Canadian apartments](/blog/small-apartment-plant-corner-ideas)
+- [Renter-friendly bike storage ideas](/blog/renter-friendly-bike-storage-small-apartments)
+- [Condo storage ideas for Toronto and Vancouver renters](/blog/condo-storage-ideas-toronto-vancouver)
+
+**By season or life event:**
 - [Seasonal storage: rotating off-season clothes and gear](/blog/seasonal-storage-off-season-clothes-gear)
 - [September student move-in storage guide](/blog/september-student-move-in-storage-guide)
 - [Quebec Moving Day (July 1) storage and packing guide](/blog/quebec-moving-day-storage-guide)
+- [Spring cleaning tips for apartments](/blog/spring-cleaning-organization-tips)
+- [January reset: apartment organization](/blog/january-reset-organization-ideas)
+
+**Full organization systems:**
+- [Small apartment organization guide](/blog/small-apartment-organization)
+- [Apartment organization under $100 CAD](/blog/small-apartment-organization-ideas-on-a-budget)
 
 ## The Storage Priority Order for Canadian Renters
 

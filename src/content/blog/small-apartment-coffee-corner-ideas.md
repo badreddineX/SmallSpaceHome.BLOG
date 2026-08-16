@@ -108,3 +108,4 @@ At the end of the day, your coffee station doesn’t need to be big—it just ne
 → [Small Apartment Coffee Corner Organization Ideas](/blog/small-space-kitchen-organization)  
 → [IKEA Small Space Hacks for Renter-Friendly Storage](/blog/ikea-small-space-hacks)  
 → [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) for the same renter-safe tricks in the bathroom
+→ [23 Small Apartment Storage Ideas](/blog/storage-ideas-for-small-places) for the complete room-by-room storage guide this coffee corner is part of
