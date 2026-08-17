@@ -1,6 +1,6 @@
 ---
-title: "Small Apartment Home Office Ideas: Where to Actually Put a Desk"
-description: "No spare room? 8 renter-friendly home office setups for small Canadian apartments — desk placement, storage, and how to separate work from living, with real CAD prices."
+title: "Small Apartment Home Office Ideas"
+description: "No spare room? 8 renter-friendly home office setups for small Canadian apartments — desk placement, storage, and separating work from living."
 image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-04-08"
 dateModified: "2026-08-16"

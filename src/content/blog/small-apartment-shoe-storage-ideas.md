@@ -1,6 +1,6 @@
 ---
-title: "Small Apartment Shoe Storage Ideas for Renters"
-description: "Renter-friendly shoe storage for small Canadian apartments — entryway racks, over-door organizers, and seasonal boot rotation. IKEA and Amazon.ca picks under $100 CAD."
+title: "Small Apartment Shoe Storage Ideas"
+description: "Renter-friendly shoe storage for small Canadian apartments — entryway racks, over-door organizers, and seasonal boot rotation ideas."
 image: "/images/minimalist-entryway-hallway.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"

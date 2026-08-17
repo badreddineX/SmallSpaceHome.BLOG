@@ -1,5 +1,5 @@
 ---
-title: "17 Fridge & Pantry Organization Ideas for Small Kitchens"
+title: "17 Fridge & Pantry Organization Ideas"
 description: "Practical, renter-friendly fridge and pantry organization ideas for Canadian small-space apartments—no drilling, no mess, all effective."
 image: "/images/kitchen-organized-white.jpg"
 datePublished: "2026-07-30"

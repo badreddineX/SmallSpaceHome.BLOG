@@ -1,5 +1,5 @@
 ---
-title: "10 Multifunctional Furniture Ideas for Small Rentals"
+title: "10 Multifunctional Furniture Ideas"
 description: "Space-saving furniture ideas Canadian renters love—no drilling, full ROI, renter-friendly picks that work in any small apartment."
 image: "/images/living-room-storage-shelving.jpg"
 datePublished: "2026-07-13"

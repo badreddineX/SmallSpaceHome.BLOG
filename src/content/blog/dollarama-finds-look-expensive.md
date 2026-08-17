@@ -1,6 +1,6 @@
 ---
-title: "Dollarama Finds That Look Expensive in a Small Apartment"
-description: "The Dollarama items that read as high-end in a Canadian rental — glass vases, ceramic planters, and trays for $1–$5 CAD, plus the exact styling tricks that hide the price tag."
+title: "Dollarama Finds That Look Expensive"
+description: "The Dollarama items that read as high-end in a Canadian rental — glass vases, planters, and trays for $1–$5 CAD, styled to hide the price tag."
 image: "/images/styled-corner-shelf-decor.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"

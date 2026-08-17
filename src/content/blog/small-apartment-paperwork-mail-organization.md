@@ -1,6 +1,6 @@
 ---
 title: "Small Apartment Paperwork Organization"
-description: "Stop losing lease documents and bills in a 500 sq ft rental. A wall-mounted command centre, filing system, and shredding routine that actually fits Canadian apartments."
+description: "Stop losing lease documents and bills in a small rental. A wall-mounted command centre, filing system, and shredding routine for Canadian apartments."
 image: "/images/hanging-desk-organizer-notes.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"

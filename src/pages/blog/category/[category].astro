@@ -78,6 +78,7 @@ const posts = allPosts
 
       <section class="cat-posts">
         <div class="container">
+          <h2 class="cat-posts-heading">All {categoryName} posts</h2>
           <div class="cat-posts-grid">
             {posts.map(post => (
               <PostCard
@@ -136,6 +137,14 @@ const posts = allPosts
   padding: 48px 24px 80px;
   max-width: var(--wide-width);
   margin: 0 auto;
+}
+.cat-posts-heading {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text-faint);
+  margin: 0 0 24px;
 }
 .cat-posts-grid {
   display: grid;

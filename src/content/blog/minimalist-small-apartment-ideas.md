@@ -1,5 +1,5 @@
 ﻿---
-title: "Minimalist Small Apartment Ideas for Renters"
+title: "Minimalist Small Apartment Ideas"
 description: "Minimalist ideas for small Canadian rentals — how to declutter, edit, and design a space that feels calm, spacious, and intentional without overspending."
 image: "/images/bedroom-minimalist.jpg"
 datePublished: "2026-03-11"

@@ -1,6 +1,6 @@
 ---
-title: "Condo Storage Ideas for Toronto & Vancouver Renters"
-description: "Condo storage ideas for small Toronto and Vancouver units — no-drill solutions, condo locker alternatives, and real CAD prices from Amazon.ca, IKEA, and HomeSense."
+title: "Toronto & Vancouver Condo Storage Ideas"
+description: "Condo storage ideas for small Toronto and Vancouver units — no-drill solutions, locker alternatives, and real CAD prices from Amazon.ca and IKEA."
 image: "/images/storage-ottoman.jpg"
 datePublished: "2026-08-06"
 dateModified: "2026-08-06"

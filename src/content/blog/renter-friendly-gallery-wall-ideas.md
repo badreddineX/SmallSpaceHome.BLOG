@@ -1,5 +1,5 @@
 ---
-title: "15 Renter-Friendly Gallery Wall Ideas (No Damage)"
+title: "15 Renter-Friendly Gallery Wall Ideas"
 description: "15 no-nail, no-damage gallery wall ideas for Canadian apartment renters — fully reversible and deposit-safe."
 image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-07-30"
