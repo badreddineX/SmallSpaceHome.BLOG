@@ -46,5 +46,8 @@ export default defineConfig({
   ],
   redirects: {
     '/blog/storage-solutions-for-small-apartments': '/blog/storage-ideas-for-small-places',
+    '/blog/small-space-decorating': '/blog/small-space-living-room-ideas',
+    '/blog/how-to-make-a-small-room-look-bigger': '/blog/small-space-living-room-ideas',
+    '/blog/studio-apartment-ideas': '/blog/small-space-furniture',
   },
 });

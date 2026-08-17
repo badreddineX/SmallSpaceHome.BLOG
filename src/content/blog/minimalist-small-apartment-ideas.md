@@ -11,7 +11,7 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "What does a minimalist apartment look like?"
-    a: "Clear surfaces, a 2–3 colour palette, no decorative clutter, functional furniture with clean lines, and only objects that serve a purpose or bring genuine pleasure. The feeling is calm and spacious — not cold or bare. For a room-by-room example, see our <a href='/blog/small-space-decorating'>small space decorating rules</a> post."
+    a: "Clear surfaces, a 2–3 colour palette, no decorative clutter, functional furniture with clean lines, and only objects that serve a purpose or bring genuine pleasure. The feeling is calm and spacious — not cold or bare. For a room-by-room example, see our <a href='/blog/small-space-living-room-ideas'>small space decorating rules</a> post."
   - q: "How do I start minimalism in my apartment?"
     a: "One room at a time. Take everything out, then only put back what you use regularly or genuinely love. The first room is the hardest — once you see how much calmer it feels, the rest follows. Most people find the bedroom is the best starting point."
   - q: "What is the minimalist approach to apartment furniture?"
@@ -166,6 +166,6 @@ The cost of minimalism:
 
 Net cost: usually zero or negative (savings from stopping impulse purchases).
 
-Minimalism in a small apartment is a practice, not a one-time project. The ongoing edit — once a season, walking through each room and asking "does this still earn its space?" — is what keeps the apartment calm and livable long-term. For more on the visual side of small-space design, [small space decorating](/blog/small-space-decorating) covers the principles that underpin minimalist and non-minimalist approaches alike. Applied to the bedroom specifically, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas) shows what a pared-back bedroom looks like in practice.
+Minimalism in a small apartment is a practice, not a one-time project. The ongoing edit — once a season, walking through each room and asking "does this still earn its space?" — is what keeps the apartment calm and livable long-term. For more on the visual side of small-space design, [small space decorating](/blog/small-space-living-room-ideas) covers the principles that underpin minimalist and non-minimalist approaches alike. Applied to the bedroom specifically, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas) shows what a pared-back bedroom looks like in practice.
 
-→ For a practical guide to making any room look bigger using minimalist principles, see [how to make a small room look bigger](/blog/how-to-make-a-small-room-look-bigger) — 13 tricks that cost almost nothing, and [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for applying the same surfaces rule to the bathroom counter.
+→ For a practical guide to making any room look bigger using minimalist principles, see [how to make a small room look bigger](/blog/small-space-living-room-ideas) — 13 tricks that cost almost nothing, and [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for applying the same surfaces rule to the bathroom counter.

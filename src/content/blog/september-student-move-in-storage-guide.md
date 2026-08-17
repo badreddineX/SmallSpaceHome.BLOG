@@ -82,7 +82,7 @@ A functional study corner needs a desk organizer, a cable management solution, a
 - A small floating shelf on Command strips above the desk for textbooks (~$15–$20 CAD, IKEA)
 - Cable clips to keep charger cords off the floor (~$4–$6 CAD, Dollarama or Amazon.ca)
 
-If you're in a true studio setup where the desk doubles as a dining table, our [studio apartment ideas](/blog/studio-apartment-ideas) post covers how to zone one small room into distinct functions without walls.
+If you're in a true studio setup where the desk doubles as a dining table, our [studio apartment ideas](/blog/small-space-furniture) post covers how to zone one small room into distinct functions without walls.
 
 ## Do You Need a Bathroom Caddy If You're Sharing a Bathroom?
 

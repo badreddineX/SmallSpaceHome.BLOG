@@ -11,7 +11,7 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "How do I make a small bedroom feel bigger?"
-    a: "Light, cohesive colours, bed against the longest wall, mirrors to reflect light, and furniture with visible legs. The fastest single change is lighting — swap a harsh overhead for warm lamps. Our <a href='/blog/how-to-make-a-small-room-look-bigger'>guide on making a small room look bigger</a> covers 13 visual tricks that cost almost nothing."
+    a: "Light, cohesive colours, bed against the longest wall, mirrors to reflect light, and furniture with visible legs. The fastest single change is lighting — swap a harsh overhead for warm lamps. Our <a href='/blog/small-space-living-room-ideas'>guide on making a small room look bigger</a> covers 13 visual tricks that cost almost nothing."
   - q: "What colours make a small bedroom look bigger in Canada?"
     a: "Soft whites, warm creams, and light greige (grey-beige) work best — they reflect natural light and visually push walls back. If you want colour, keep it in accents only: cushions, art, a plant. Walls and bedding should stay neutral, especially when you can't repaint."
   - q: "What furniture should I avoid in a small bedroom?"

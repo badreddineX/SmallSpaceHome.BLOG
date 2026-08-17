@@ -15,7 +15,7 @@ readTime: 9
 slug: "small-space-living-room-ideas"
 faqs:
   - q: "How do you make a small living room look bigger in a Canadian apartment?"
-    a: "Light wall colours, mirrors opposite windows, furniture with visible legs, and one large rug instead of several small ones — these four moves make the biggest difference. For a deeper breakdown of every visual trick, see our guide on <a href='/blog/how-to-make-a-small-room-look-bigger'>how to make a small room look bigger</a>."
+    a: "Light wall colours, mirrors opposite windows, furniture with visible legs, and one large rug instead of several small ones — these four moves make the biggest difference. Glass or Lucite pieces and a cohesive colour palette help too — see the full list of tricks above."
   - q: "What furniture works best in a small living room?"
     a: "A slim two- or three-seat sofa (no longer than 200 cm), a round or nesting coffee table, and a wall-mounted TV. Every piece should earn its floor space. Our <a href='/blog/small-space-furniture'>small space furniture guide</a> covers the best Canadian picks with real CAD prices."
   - q: "Can I have a stylish living room in a small Canadian apartment?"
@@ -169,6 +169,18 @@ If you're starting from nothing or doing a reset: this $303 CAD combination of a
 | **Total** | **~$303 CAD** |
 
 These four changes — rug, mirror, accent wall, and cleared floors — will do more for a small living room than any furniture purchase.
+
+## 16. Stick to One Cohesive Colour Palette
+
+A living room that shares its palette with the rest of the apartment reads as one unified space instead of a disconnected room — which makes the whole home feel bigger. Pick three colours and carry them through: a neutral base (walls, larger furniture), a main colour (textiles, cushions, decor), and a single accent colour for one or two objects. Resist adding a fourth.
+
+## 17. Fewer, Better Pieces Beat More Mediocre Ones
+
+A living room furnished with around 8 carefully chosen pieces reads as more spacious than one filled with 20 mediocre ones — every additional item adds visual weight regardless of quality. When in doubt, leave the space empty rather than fill it. Empty space is part of the design, not a gap to fix.
+
+## 18. Try Glass or Lucite for One Piece
+
+Glass and clear acrylic (Lucite) furniture is visually transparent — the eye reads through it rather than stopping at it, so it takes up physical floor space without registering as visual clutter. A glass or acrylic side table is the easiest place to try this: it holds a lamp or a coffee cup exactly like a solid table, but doesn't add to the room's visual weight the way a matching solid-wood table would.
 
 ---
 

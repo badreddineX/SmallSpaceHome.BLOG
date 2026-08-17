@@ -13,7 +13,7 @@ faqs:
   - q: "What furniture is best for a small apartment in Canada?"
     a: "Multi-functional pieces every time: storage ottoman, sofa bed for guests, bed with built-in drawers, nesting tables. The IKEA KALLAX, PAX wardrobe, FRIHETEN sofa bed (~$999 CAD), and NORDLI storage bed are the most useful anchors. Our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks guide</a> shows how to configure each one."
   - q: "How do I furnish a studio apartment in Canada on a budget?"
-    a: "Cover the essentials first — a place to sleep, a place to sit, and storage. Then fill in secondary items. IKEA Canada is the best value-for-money starting point. Facebook Marketplace and Kijiji in most Canadian cities have solid second-hand IKEA pieces for 40–60% off retail. Our <a href='/blog/studio-apartment-ideas'>studio apartment ideas guide</a> covers zoning a one-room space so furniture placement does double duty."
+    a: "Cover the essentials first — a place to sleep, a place to sit, and storage. Then fill in secondary items. IKEA Canada is the best value-for-money starting point. Facebook Marketplace and Kijiji in most Canadian cities have solid second-hand IKEA pieces for 40–60% off retail. See the zone-by-zone section above for how to arrange furniture to divide a one-room studio into distinct areas."
   - q: "What should I avoid buying for a small apartment?"
     a: "Large sectionals, king beds in tight bedrooms, coffee tables that block walking paths, and multiple single-purpose pieces where one would do. When in doubt, always buy the smaller size. You can add later, but returning a sofa that overwhelms the room is a real logistical headache."
   - q: "Is IKEA furniture good for a small apartment?"
@@ -177,6 +177,16 @@ Here's what that breaks down to, piece by piece, for a studio or one-bedroom in 
 This is a bare-essentials budget, not a full furnish — it assumes you already have a couch, or you're prioritizing sleep and storage first and adding seating later. Swap the NORDLI for the cheaper FJELLSE frame (~$149 CAD) and the total for a truly tight budget drops to around **$486–$526 CAD**, which is realistic for a first apartment or a move where cash is genuinely limited.
 
 Where the money actually goes for most first-time small-space furnishers: the bed eats 45–55% of the budget, storage eats another 20%, and everything else splits the remainder. If you're deciding what to cut first, dining and a proper desk are the two most deferrable — a kitchen counter with stools and a laptop on a lap desk both work as short-term stand-ins.
+
+## Furnishing to Define Zones (Studios and Open-Plan Layouts)
+
+In a studio or any apartment where the living room doubles as a bedroom or office, furniture placement — not walls — is what separates the zones. This matters as much as the furniture pieces themselves:
+
+- **Open bookcase as a divider** — a KALLAX or BILLY placed behind the sofa creates a visual barrier between the sleeping and living zones without blocking light
+- **Sofa facing away from the bed** — the back of the sofa alone reads as a boundary
+- **Curtain on a ceiling track** — the most flexible divider, since it pulls open or closed depending on the moment (~$50–$80 CAD for curtain + track at IKEA Canada)
+- **Two rugs instead of one** — a rug under the sofa and coffee table anchors the living zone; a separate, smaller rug beside the bed anchors the sleeping zone. Two rugs effectively make two rooms out of one open space
+- **Zone-specific lighting** — a floor lamp for the living zone, a bedside lamp for the sleeping zone, a desk lamp for the working zone, so each area reads as distinct even without a wall between them
 
 ## The Furniture Priority Order
 

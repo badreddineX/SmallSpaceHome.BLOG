@@ -18,9 +18,9 @@ faqs:
   - q: "What is the best desk for a small apartment in Canada?"
     a: "The IKEA MICKE (~$99 CAD) is the small-apartment standard — 73 cm wide with built-in cable management. For less room, a wall-mounted fold-down desk (~$80–$150 CAD on Amazon.ca) disappears when you're done. If you need more surface, a LINNMON tabletop on ALEX drawers (~$140 CAD total) gives you desk plus storage in one footprint."
   - q: "How do I work from home without a separate office room?"
-    a: "Carve out a dedicated zone even if it's just a corner. A small desk against one wall, a rug to define the area, and a folding screen or bookshelf as a divider all signal 'work happens here.' The key is a consistent spot you can leave set up — packing a laptop away each day makes it harder to start. See our <a href='/blog/studio-apartment-ideas'>studio apartment ideas</a> for zoning a single room."
+    a: "Carve out a dedicated zone even if it's just a corner. A small desk against one wall, a rug to define the area, and a folding screen or bookshelf as a divider all signal 'work happens here.' The key is a consistent spot you can leave set up — packing a laptop away each day makes it harder to start. See our <a href='/blog/small-space-furniture'>studio apartment ideas</a> for zoning a single room."
   - q: "How can I make a small home office feel less cramped?"
-    a: "Go vertical — floating shelves above the desk free the surface and draw the eye up. Keep the desktop clear except for what you use daily, choose a desk with visible legs, and position it to face or catch a window. Light walls and a mirror nearby bounce daylight around. Our guide on <a href='/blog/how-to-make-a-small-room-look-bigger'>how to make a small room look bigger</a> has the full list of tricks."
+    a: "Go vertical — floating shelves above the desk free the surface and draw the eye up. Keep the desktop clear except for what you use daily, choose a desk with visible legs, and position it to face or catch a window. Light walls and a mirror nearby bounce daylight around. Our guide on <a href='/blog/small-space-living-room-ideas'>how to make a small room look bigger</a> has the full list of tricks."
   - q: "Is it worth buying a proper office chair for a small apartment?"
     a: "Yes — if you work full days from home, the chair matters more than the desk. A dining chair wrecks your back over months. You don't need a $1,500 Herman Miller; a supportive mid-range chair (~$200–$400 CAD from Wayfair Canada or Structube) is the single best investment for a home office. Pick one that tucks fully under the desk to save floor space."
   - q: "How do I set up an apartment home office when I don't have a spare room?"
@@ -136,7 +136,7 @@ The easiest ways to divide a work zone in a small apartment:
 - **A folding screen** (~$80–$150 CAD, Wayfair Canada or Structube) — folds away entirely when you want the room back
 - **A curtain on a ceiling track** — draws across to hide the desk after hours, disappears during the day
 
-For a single-room layout, our [studio apartment ideas](/blog/studio-apartment-ideas) post walks through zoning the whole space, and [how to make a small room look bigger](/blog/how-to-make-a-small-room-look-bigger) covers the light-and-mirror tricks that keep a divided room from feeling chopped up.
+For a single-room layout, our [studio apartment ideas](/blog/small-space-furniture) post walks through zoning the whole space, and [how to make a small room look bigger](/blog/small-space-living-room-ideas) covers the light-and-mirror tricks that keep a divided room from feeling chopped up.
 
 ## Make It Feel Like a Space You Want to Be In
 

@@ -63,7 +63,7 @@ You need somewhere for a mug, your phone, or the book you're not currently readi
 
 ## 5. Does a Rug Really Anchor the Corner?
 
-Even a small rug (roughly 90 cm × 150 cm) visually separates the reading nook from the rest of the room, the same zoning trick that works in a [studio apartment](/blog/studio-apartment-ideas). At about $39 CAD for an IKEA flat-weave option in this size, even that small a rug is enough to make the corner read as its own zone.
+Even a small rug (roughly 90 cm × 150 cm) visually separates the reading nook from the rest of the room, the same zoning trick that works in a [studio apartment](/blog/small-space-furniture). At about $39 CAD for an IKEA flat-weave option in this size, even that small a rug is enough to make the corner read as its own zone.
 
 ## 6. Build a "Closet Reading Nook" If You're Truly Out of Space
 

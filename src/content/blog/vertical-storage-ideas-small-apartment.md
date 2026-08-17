@@ -96,5 +96,5 @@ Bathroom doors in small apartments often swing into tight spaces—making wall h
 Most small apartments waste a surprising amount of usable space just above head height. The trick isn’t buying expensive systems—it’s using what’s already there, vertically, without touching the walls. You don’t need permission to store smarter.
 
 → [12 Renter-Friendly Kitchen Storage Hacks That Don’t Drill](/blog/small-space-kitchen-organization)  
-→ [How I Organized My 300-Sq-Ft Studio With $150 CAD](/blog/studio-apartment-ideas)  
+→ [How I Organized My 300-Sq-Ft Studio With $150 CAD](/blog/small-space-furniture)  
 → [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage)

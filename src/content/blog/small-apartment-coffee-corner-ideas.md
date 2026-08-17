@@ -10,7 +10,7 @@ featured: false
 category: "Decor"
 relatedPosts:
   - "small-space-living-room-ideas"
-  - "studio-apartment-ideas"
+  - "small-space-furniture"
 readTime: 8
 faqs:
   - q: "Can I set up a coffee station without drilling or damaging the walls?"
