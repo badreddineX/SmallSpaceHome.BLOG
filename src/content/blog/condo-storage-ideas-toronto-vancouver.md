@@ -13,6 +13,8 @@ relatedPosts:
   - "small-closet-organization-rental-apartment"
 readTime: 8
 faqs:
+  - q: "How do I maximize storage in a Toronto home?"
+    a: "The same vertical-first, no-drill approach works whether you're in a downtown condo, a rented house, or a basement apartment: floating shelves above doorways and the sofa, an over-toilet unit in the bathroom, and furniture that doubles as storage (a storage ottoman, a bed with built-in drawers). Condo-specific wrinkles — elevator size, board rules on balconies — only matter if you're actually in a condo building; everything else below applies to any small Toronto home."
   - q: "How do I maximize storage in a small condo?"
     a: "Go vertical first — condo units almost always waste the wall space above eye level. Add floating shelves above doorways and the sofa, use an over-toilet unit in the bathroom, and choose furniture that stores as well as it seats or sleeps, like a storage ottoman or a bed with built-in drawers. These moves add real capacity without touching a single wall stud, which most condo boards and leases don't allow you to alter anyway."
   - q: "Is it worth renting a storage locker for my condo?"
