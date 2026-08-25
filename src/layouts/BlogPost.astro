@@ -102,10 +102,10 @@ if (!image.startsWith('http')) {
       <!-- ① FULL-BLEED HERO IMAGE -->
       <div class:list={["post-hero-wrap", isPortraitHero && "portrait-hero"]}>
         {isPortraitHero && (
-          <div class="post-hero-bg" style={`background-image:url(${image})`} aria-hidden="true"></div>
+          <div class="post-hero-bg" style={`background-image:url(${image.replace(/\.(jpe?g|png)$/i, '.webp')})`} aria-hidden="true"></div>
         )}
         <img
-          src={image}
+          src={image.replace(/\.(jpe?g|png)$/i, '.webp')}
           alt={title}
           class="post-hero-img"
           width="1600"
@@ -246,7 +246,7 @@ if (!image.startsWith('http')) {
                   <a href={`/blog/${post.id}`} class="rel-card">
                     <div class="rel-card-img-wrap">
                       <img
-                        src={post.data.image}
+                        src={post.data.image.replace(/\.(jpe?g|png)$/i, '.webp')}
                         alt={post.data.title}
                         loading="lazy"
                         width="800"
