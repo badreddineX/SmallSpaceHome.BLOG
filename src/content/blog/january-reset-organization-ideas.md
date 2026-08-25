@@ -1,4 +1,4 @@
-﻿---
+---
 title: "January Reset: Apartment Organization"
 description: "15 January reset organization ideas for small Canadian apartments — declutter, reset every room, and build systems that actually hold through the year."
 image: "/images/closet-wardrobe-open.jpg"

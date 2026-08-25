@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Budget Apartment Decor: Under $200 CAD"
 description: "Transform your rental for under $200 CAD — budget decor ideas for Canadian renters. What to buy first, what to DIY, and what makes the biggest difference."
 image: "/images/cozy-corner-lamp-mirror.jpg"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cozy Winter Apartment Decor for Renters"
 description: "Cozy winter apartment decor ideas for Canadian renters — textiles, lighting, scent, and seasonal touches that make a small apartment feel warm all winter."
 image: "/images/blog-22-img2.jpg"

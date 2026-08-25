@@ -1,4 +1,4 @@
-﻿---
+---
 title: "15 Small Space Living Room Ideas"
 description: "15 practical small living room ideas tested in a real Canadian apartment — renter-friendly, budget-conscious, and built for tight square footage."
 image: "/images/small-studio-living-room-bright.jpg"

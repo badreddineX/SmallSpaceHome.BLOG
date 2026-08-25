@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Small Apartment Organization Guide"
 description: "A complete room-by-room organization system for small Canadian apartments. Declutter first, then organize — realistic, renter-friendly, no permanent changes."
 image: "/images/modern-open-plan-apartment.jpg"
