@@ -38,7 +38,7 @@ I've moved apartments four times in the last six years, twice with a moving budg
 
 At $50 CAD, you can cover one full upgrade category (lighting or storage) plus a couple of small filler pieces, rather than a little bit of everything. Canadian Tire warm LED multipacks run $12–$15 CAD, and Dollarama covers frames, vases, and candles at $1.50–$5 CAD each ([Dollarama](https://www.dollarama.com), 2026).
 
-[PERSONAL EXPERIENCE] In my current 480 sq ft apartment, I spent my first $50 CAD entirely on lighting and one shelf, and skipped decor items completely for the first month. It was the right call. A well-lit, tidy room with nothing on the walls still looked better than my previous apartment stuffed with cheap art under bad lighting.
+In my current 480 sq ft apartment, I spent my first $50 CAD entirely on lighting and one shelf, and skipped decor items completely for the first month. It was the right call. A well-lit, tidy room with nothing on the walls still looked better than my previous apartment stuffed with cheap art under bad lighting.
 
 The general size of most Canadian rental apartments, as tracked by CMHC, means small upgrades matter more than in a house — every item is visible from nearly every angle in a studio or one-bedroom.
 
@@ -69,7 +69,7 @@ If you have $10 CAD left after bulbs, a $6–$10 CAD Dollarama battery-powered p
 
 A basket set or a single floating shelf is the best use of the middle of a $50 CAD budget, because visible clutter is the fastest way an apartment looks unfinished regardless of how nice the decor is. IKEA floating shelves run about $20–$25 CAD; Dollarama and Walmart Canada basket sets run $10–$20 CAD.
 
-[UNIQUE INSIGHT] Most budget decor guides push straight to art and plants, but in a small rental, storage does more visible work per dollar than decor does. A shelf holding neatly grouped books looks more "designed" than an empty shelf with one small plant on it, and it costs about the same.
+Most budget decor guides push straight to art and plants, but in a small rental, storage does more visible work per dollar than decor does. A shelf holding neatly grouped books looks more "designed" than an empty shelf with one small plant on it, and it costs about the same.
 
 **Storage options under $25 CAD:**
 - IKEA LACK floating shelf — ~$20–$25 CAD

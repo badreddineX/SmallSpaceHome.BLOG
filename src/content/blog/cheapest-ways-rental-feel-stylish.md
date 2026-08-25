@@ -31,7 +31,7 @@ Making a rental feel stylish doesn't require a big budget. The three changes tha
 
 ---
 
-I've moved four times in six years across three different Canadian cities, always renting, always on a tight budget between moves. The apartments that looked the best weren't the ones where I spent the most, they were the ones where I slowed down and actually looked at what I already owned before buying anything new. [PERSONAL EXPERIENCE] The cheapest tricks below are the ones I've actually used, in that order, every single time.
+I've moved four times in six years across three different Canadian cities, always renting, always on a tight budget between moves. The apartments that looked the best weren't the ones where I spent the most, they were the ones where I slowed down and actually looked at what I already owned before buying anything new. The cheapest tricks below are the ones I've actually used, in that order, every single time.
 
 If you've already read our guide to [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget), think of this as the version for when even $200 CAD feels like too much right now.
 
@@ -41,7 +41,7 @@ Decluttering and rearranging furniture cost nothing, yet they're the two changes
 
 ### Declutter Every Surface First
 
-Pick up everything on your coffee table, kitchen counter, and dresser. Put back only what you actually use daily. [UNIQUE INSIGHT] In my experience, people assume decluttering is about throwing things away, but it's really about storage, not deletion. A drawer, a basket, or a closet shelf does the same job as the garbage bin without losing anything you own.
+Pick up everything on your coffee table, kitchen counter, and dresser. Put back only what you actually use daily. In my experience, people assume decluttering is about throwing things away, but it's really about storage, not deletion. A drawer, a basket, or a closet shelf does the same job as the garbage bin without losing anything you own.
 
 A $4–$6 CAD Dollarama storage bin tucked in a closet can absorb an entire counter's worth of clutter. That's it. No new decor, just a cleared surface, and the room already looks calmer.
 
@@ -49,7 +49,7 @@ A $4–$6 CAD Dollarama storage bin tucked in a closet can absorb an entire coun
 
 Float your sofa a few centimetres off the wall instead of pushing it flush against it. Move a lamp from the bedroom to the dark corner of the living room where it's actually needed. Swap the art on two different walls just to see it fresh again.
 
-None of this costs a dollar. [PERSONAL EXPERIENCE] I once "redecorated" an entire studio apartment by moving four pieces of furniture I already owned into different spots, and three friends asked where I bought the new couch. It was the same couch, just angled differently.
+None of this costs a dollar. I once "redecorated" an entire studio apartment by moving four pieces of furniture I already owned into different spots, and three friends asked where I bought the new couch. It was the same couch, just angled differently.
 
 ![A small Canadian apartment living room rearranged with furniture floated off the walls and surfaces cleared of clutter](/images/small-apartment-decorating-living-room.jpg)
 
@@ -84,7 +84,7 @@ Skip the seasonal decor aisle unless it's genuinely useful year-round. The best 
 
 Facebook Marketplace and Value Village consistently have usable decor and small furniture for $0–$20 CAD, often less than a single new item at a retail store. The catch is that it takes patience, checking listings a few times a week rather than once, and being ready to pick items up quickly.
 
-The "free" section of Facebook Marketplace in most Canadian cities regularly has mirrors, side tables, and lamps from people moving out. [ORIGINAL DATA] Across my own last three moves, I picked up a mirror, a side table, and two lamps entirely free this way, items that would have cost $150–$200 CAD new. The only real cost was gas and a Saturday morning.
+The "free" section of Facebook Marketplace in most Canadian cities regularly has mirrors, side tables, and lamps from people moving out. Across my own last three moves, I picked up a mirror, a side table, and two lamps entirely free this way, items that would have cost $150–$200 CAD new. The only real cost was gas and a Saturday morning.
 
 Value Village and local thrift shops are better for smaller items, frames, vases, ceramic pieces, usually $2–$8 CAD each. Check for chips or damage before buying, since these stores rarely accept returns.
 

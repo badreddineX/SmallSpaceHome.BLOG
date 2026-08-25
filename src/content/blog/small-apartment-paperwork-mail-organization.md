@@ -37,7 +37,7 @@ I lived in a 480 sq ft Montreal rental for two years, and paperwork was the one 
 
 In apartments under 700 sq ft, there's usually no dedicated office or mudroom, so mail gets dropped on whatever surface is closest to the door, usually the kitchen counter or dining table. Without a designated landing zone, paper spreads because there's no "wrong place" to put it down.
 
-The fix isn't more storage. It's one specific spot that catches everything before it reaches any other surface. [UNIQUE INSIGHT] In my experience, the apartments that stay paper-free aren't the ones with the most organizers, they're the ones where the organizer sits directly in the path between the front door and the kitchen, so sorting happens automatically on the way in.
+The fix isn't more storage. It's one specific spot that catches everything before it reaches any other surface. In my experience, the apartments that stay paper-free aren't the ones with the most organizers, they're the ones where the organizer sits directly in the path between the front door and the kitchen, so sorting happens automatically on the way in.
 
 If you haven't tackled the rest of your entryway yet, our [small apartment organization guide](/blog/small-apartment-organization) covers shoe storage and coat hooks alongside this same command-centre approach.
 
@@ -51,7 +51,7 @@ A command centre is a small wall-mounted station, usually 12–18 inches wide, t
 - Dollarama magnetic fridge pockets (temporary/renter option) — $3–$5 CAD each
 - Command strips to hang any of the above without drilling — ~$8–$12 CAD for a multipack
 
-[PERSONAL EXPERIENCE] I mounted mine with Command strips on the inside of a coat closet door instead of open wall, which kept it out of sight from the living room but still on the direct path from the door. Small trick, but it matters if your entryway doubles as your living space, which in most Canadian rentals under 600 sq ft, it does.
+I mounted mine with Command strips on the inside of a coat closet door instead of open wall, which kept it out of sight from the living room but still on the direct path from the door. Small trick, but it matters if your entryway doubles as your living space, which in most Canadian rentals under 600 sq ft, it does.
 
 ![A small wall-mounted desk and organizer used as a paperwork command centre in a compact apartment entryway](/images/small-home-office-desk.jpg)
 
@@ -96,7 +96,7 @@ Yes, for anything you don't need in original physical form, digitizing cuts the 
 3. Rename the file with date and type, e.g., "2026-08 Hydro Bill"
 4. Shred the physical copy immediately, unless it's an original that must be kept (lease, insurance policy, ID)
 
-[ORIGINAL DATA] Tracking my own paper volume after switching to this routine, I went from roughly 40 physical documents a month down to about 8 that actually need a paper original. Everything else lives in three cloud folders and takes seconds to search instead of minutes to dig through a box.
+Tracking my own paper volume after switching to this routine, I went from roughly 40 physical documents a month down to about 8 that actually need a paper original. Everything else lives in three cloud folders and takes seconds to search instead of minutes to dig through a box.
 
 Anyone setting up a small home office alongside this system should also check our [small apartment home office ideas](/blog/small-apartment-home-office-ideas) for desk setups that leave room for a file box without eating your whole living space.
 

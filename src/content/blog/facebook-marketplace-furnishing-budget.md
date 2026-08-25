@@ -53,7 +53,7 @@ Filter by distance (10-15 km keeps pickup manageable without a van), price range
 
 Meeting in a public, well-lit location or bringing someone with you for large item pickups prevents the majority of Marketplace safety issues reported by Canadian police services ([Toronto Police Service community safety advisories](https://www.tps.ca/), general guidance). For furniture too large to carry, meeting at the seller's home is often unavoidable, so a few extra precautions matter.
 
-[PERSONAL EXPERIENCE] I always text a friend the seller's first name, address, and pickup time before I go, and I never send an e-transfer deposit to "hold" an item I haven't seen. That single rule has saved me from at least two listings that turned out to be fake once I asked follow-up questions.
+I always text a friend the seller's first name, address, and pickup time before I go, and I never send an e-transfer deposit to "hold" an item I haven't seen. That single rule has saved me from at least two listings that turned out to be fake once I asked follow-up questions.
 
 **Practical safety checklist:**
 - Meet in daylight hours when picking up at someone's home
@@ -100,7 +100,7 @@ These ranges assume Marketplace listings in mid-size to large Canadian cities. R
 
 A specific counter-offer 15-20% below asking, paired with an offer to pick up the same day, gets accepted far more often than a vague "would you take less" message ([general negotiation behaviour documented in secondhand marketplace research](https://www.facebook.com/marketplace/), consistent with observed seller response patterns). Sellers value certainty and speed as much as the exact number.
 
-[ORIGINAL DATA] Across roughly 20 Marketplace purchases over three years of apartment moves, offers with a specific number and a same-day pickup time got accepted about 70% of the time, while vague "any flexibility on price?" messages were mostly ignored.
+Across roughly 20 Marketplace purchases over three years of apartment moves, offers with a specific number and a same-day pickup time got accepted about 70% of the time, while vague "any flexibility on price?" messages were mostly ignored.
 
 Say something like: "Hi, I can pick this up today for $70 cash, does that work?" instead of asking an open-ended question. Sellers moving out on a deadline usually say yes because a guaranteed sale today beats holding out for full price next week.
 

@@ -59,7 +59,7 @@ The trade-off is visibility. Shoes go behind a door instead of by the entryway, 
 2. Shared apartments where two or three people need shoe storage and there's only one door available
 3. Buildings with strict no-drilling rules in the lease, since these organizers use existing door hardware
 
-[PERSONAL EXPERIENCE] My bachelor unit had a single interior door between the entry and the rest of the apartment, and an over-door organizer on that door held both my partner's and my daily shoes without a single rack cluttering the floor.
+My bachelor unit had a single interior door between the entry and the rest of the apartment, and an over-door organizer on that door held both my partner's and my daily shoes without a single rack cluttering the floor.
 
 ## What About Under-Bench and Under-Stair Shoe Storage?
 
@@ -99,7 +99,7 @@ Canadian winters make this rotation non-negotiable. Winter boots are bulky, ofte
 2. **Early spring:** Reverse the swap, boots go into bins or a closet's top shelf, summer shoes come out
 3. **Year-round:** Keep only 4–8 active pairs per person by the door, everything else lives in closet storage
 
-[UNIQUE INSIGHT] Most small-apartment storage advice treats shoes as one static category, but Canadian renters actually manage two full wardrobes of footwear a year. Building the rotation into your closet system from the start, rather than bolting it on later, saves a scramble every October.
+Most small-apartment storage advice treats shoes as one static category, but Canadian renters actually manage two full wardrobes of footwear a year. Building the rotation into your closet system from the start, rather than bolting it on later, saves a scramble every October.
 
 ![An open apartment closet with shelving organized for seasonal shoe and boot storage](/images/closet-organizer-shelving.jpg)
 

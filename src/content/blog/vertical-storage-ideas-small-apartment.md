@@ -14,7 +14,7 @@ relatedPosts:
 readTime: 8
 faqs:
   - q: "Can I use Command strips for heavy shelves in my Vancouver apartment?"
-    a: "Yes—but only if you stick to lightweight shelves (under 5 kg) and use multiple Command CLAW™ Heavy-Duty Strips ($12 CAD/pack at HomeSense). For anything heavier, go freestanding: Structube’s KALLAX with adjustable legs ($79 CAD) is safer for high-rise balconies or historic buildings with strict leases."
+    a: "Yes—but only if you stick to lightweight shelves (under 5 kg) and use multiple Command CLAW™ Heavy-Duty Strips ($12 CAD/pack at HomeSense). For anything heavier, go freestanding: IKEA’s KALLAX shelf unit ($79 CAD) is safer for high-rise balconies or historic buildings with strict leases."
   - q: "Are ceiling-mounted storage bins practical in Montreal apartments with high ceilings?"
     a: "Only if your ceiling is under 9 feet. In older Montreal lofts (10+ ft ceilings), tension rods won’t reach. For 8.5 ft ceilings, a 72-inch tension rod + ~$30 CAD SONGMICS hanging bins from Amazon.ca works fine—but always check your lease first."
   - q: "How do I store winter coats without drilling in Toronto renter units?"
@@ -35,7 +35,7 @@ Tension rods are the quiet MVP of small-space storage—especially in historic T
 
 ## 2. What's the Best Freestanding Storage Tower for Renters?
 
-Nothing beats a tall, narrow unit for corner storage without sacrificing floor space. The IKEA STRANDMON pouf bench ($69.99 CAD) folds into a 15" wide tower—perfect for shoe storage or books—and doubles as a seating spot. In my Toronto studio, I use the IKEA KALLAX Shelf Unit (36.25" H x 14.5" W, $79 CAD) sideways against the wall, stacked with clear bins. It holds 30+ pairs of shoes, a vacuum cleaner, and winter gear—all under 20" deep. Just slide a non-slip shelf liner ($4.99 CAD at Canadian Tire) inside to stop bins from sliding. Bonus: these units move easily if your lease ends or your roommates change.
+Nothing beats a tall, narrow unit for corner storage without sacrificing floor space. In my Toronto studio, I use the IKEA KALLAX Shelf Unit (36.25" H x 14.5" W, $79 CAD) turned on its side against the wall, stacked with clear bins. It holds 30+ pairs of shoes, a vacuum cleaner, and winter gear—all under 20" deep. Just slide a non-slip shelf liner ($4.99 CAD at Canadian Tire) inside to stop bins from sliding. Bonus: these units move easily if your lease ends or your roommates change.
 
 ## 3. Can Command Strips Actually Hold Wall-Mounted Shelves?
 
@@ -87,7 +87,7 @@ Bathroom doors in small apartments often swing into tight spaces—making wall h
 
 ## The Vertical Storage Priority Order  
 1. **Tension rods behind doors or above furniture** (fastest, zero-damage win)  
-2. **Freestanding tall units** (like KALLAX or STRANDMON) for flexible storage  
+2. **Freestanding tall units** (like KALLAX turned sideways) for flexible storage  
 3. **Over-the-door organizers** in bathrooms, bedrooms, or pantries  
 4. **Wall shelves with Command strips** for light-only items (under 4 lbs)  
 5. **Bed-frame risers + under-bed bins** for bulk storage  

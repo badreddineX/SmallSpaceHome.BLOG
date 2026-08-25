@@ -37,7 +37,7 @@ This is the budget-first companion to our [17 fridge & pantry organization ideas
 
 Most small apartments don't have a pantry room, just one or two kitchen cupboards doing the job. The fastest fix isn't new furniture, it's using the vertical space you already have. According to CMHC, most Canadian rental apartments fall under 700 sq ft, which means cupboard space is already tight before you add a single container.
 
-I rent a one-bedroom in Ottawa with exactly one 60 cm wide pantry cupboard. [PERSONAL EXPERIENCE] Before I organized it, half the space was wasted on tall gaps above short items like spice jars and snack boxes. A $13 shelf riser fixed that in ten minutes.
+I rent a one-bedroom in Ottawa with exactly one 60 cm wide pantry cupboard. Before I organized it, half the space was wasted on tall gaps above short items like spice jars and snack boxes. A $13 shelf riser fixed that in ten minutes.
 
 The goal isn't a Pinterest-perfect pantry with 20 matching canisters. It's making every inch of one small cupboard actually usable, for as little money as possible.
 
@@ -60,7 +60,7 @@ This order matters because the riser changes how much space you're organizing be
 
 Reusing jars you already have is the single cheapest pantry upgrade, and it costs nothing beyond a label. Pasta sauce jars, jam jars, and peanut butter jars all clean up well and hold rice, pasta, oats, and flour just as effectively as store-bought canisters.
 
-[UNIQUE INSIGHT] The trick most budget guides skip: consistency matters more than matching. Keep your reused jars to two or three shapes (tall pasta-sauce jars, wide jam jars, small spice jars) instead of a random mix. That visual repetition is what makes a shelf of mismatched free jars read as "organized" instead of "cluttered," even though nothing was purchased new.
+The trick most budget guides skip: consistency matters more than matching. Keep your reused jars to two or three shapes (tall pasta-sauce jars, wide jam jars, small spice jars) instead of a random mix. That visual repetition is what makes a shelf of mismatched free jars read as "organized" instead of "cluttered," even though nothing was purchased new.
 
 **Good jars to save for pantry use:**
 - Tall pasta sauce jars (500–700 mL) for pasta, rice, oats
@@ -82,7 +82,7 @@ Dollarama's clip-lid and stackable bins are worth buying for dry goods with regu
 | Large clear bin | $4–$5 | Canned goods, packets |
 | Lazy Susan turntable | $4–$5 | Oils, sauces, spice jars |
 
-[ORIGINAL DATA] I tracked my own pantry spend for this article: three Dollarama bins, one lazy Susan, and a roll of masking tape came to $16.75 CAD, plus a $13 IKEA VARIERA shelf riser already owned from a previous project. A first-time buyer starting from zero would land close to $30 CAD for the same setup.
+I tracked my own pantry spend for this article: three Dollarama bins, one lazy Susan, and a roll of masking tape came to $16.75 CAD, plus a $13 IKEA VARIERA shelf riser already owned from a previous project. A first-time buyer starting from zero would land close to $30 CAD for the same setup.
 
 Skip Dollarama containers for anything oily, like cooking oil decanted from a large jug. A $2 lid isn't rated for that kind of daily wear and will eventually leak.
 

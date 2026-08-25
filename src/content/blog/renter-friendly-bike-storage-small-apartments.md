@@ -39,7 +39,7 @@ A standard adult bike is roughly 175 cm long and 60 cm wide when parked on both 
 
 That's the whole problem in one sentence: bikes are designed to be ridden horizontally, not stored in a 500 sq ft apartment. Every storage method below is really just a way to force the bike vertical, or out of the room entirely, without damaging a wall you don't own.
 
-[PERSONAL EXPERIENCE] My first Toronto rental had a 90 cm wide entryway. A bike leaned against the wall there meant squeezing past it every single day, and it fell over twice in one week, once onto a lamp. Getting it vertical on a $28 hook solved the problem in an afternoon.
+My first Toronto rental had a 90 cm wide entryway. A bike leaned against the wall there meant squeezing past it every single day, and it fell over twice in one week, once onto a lamp. Getting it vertical on a $28 hook solved the problem in an afternoon.
 
 ## What Are the Best No-Drill Wall Hooks for Bike Storage?
 
@@ -89,7 +89,7 @@ If your balcony doubles as your only outdoor lounging space, this is also where 
 
 The answer is vertical placement plus a defined "zone," meaning the bike gets one specific wall spot near the door rather than wherever it happens to land after a ride. A wall hook above an entryway console, for example, uses vertical space that's otherwise empty.
 
-[UNIQUE INSIGHT] Most guides treat bike storage and entryway storage as separate problems, but in a small rental they're almost always the same 90 cm of wall. Planning them together, hook above, console or shoe rack below, gets more function out of one wall than solving each in isolation.
+Most guides treat bike storage and entryway storage as separate problems, but in a small rental they're almost always the same 90 cm of wall. Planning them together, hook above, console or shoe rack below, gets more function out of one wall than solving each in isolation.
 
 Pairing a wall hook with a slim console table underneath means the same wall does double duty: bike storage up top, keys, mail, and shoes below. Our guide to [small entryway & hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) covers the console and shoe-rack side of that combination in more depth.
 

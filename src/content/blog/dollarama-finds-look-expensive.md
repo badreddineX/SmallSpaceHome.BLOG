@@ -37,7 +37,7 @@ I've furnished two rentals almost entirely off Dollarama runs, and the pieces no
 
 Dollarama decor looks cheap when it's bought in its packaged, fully-finished form and set down alone with nothing else around it. A single plastic frame or one bright plastic vase on an empty shelf has nowhere to hide, according to interior stylists who commonly recommend clustering budget objects rather than isolating them ([HGTV Canada](https://www.hgtv.ca), 2023).
 
-The fix is almost always about grouping, not the object itself. A single $2 ceramic pot on a bare windowsill reads as an afterthought. The same pot next to a taller glass vase and a small stack of books reads as a styled vignette. [PERSONAL EXPERIENCE] I learned this the hard way in my first apartment, where I lined up five different Dollarama vases along a shelf like a display case, and it looked exactly like what it was: a dollar store shelf.
+The fix is almost always about grouping, not the object itself. A single $2 ceramic pot on a bare windowsill reads as an afterthought. The same pot next to a taller glass vase and a small stack of books reads as a styled vignette. I learned this the hard way in my first apartment, where I lined up five different Dollarama vases along a shelf like a display case, and it looked exactly like what it was: a dollar store shelf.
 
 Grouping odd numbers, mixing heights, and leaving breathing room between clusters is the entire trick. It costs nothing extra and takes about ten minutes per shelf.
 
@@ -49,7 +49,7 @@ Look specifically for the small, narrow-neck bud vases near the floral aisle. Th
 
 **Styling tip:** buy three of the same vase in slightly different heights, cluster them together on a console or shelf, and put one stem of faux greenery in the tallest one only. Leaving the shorter two empty makes the grouping look designed rather than filled for the sake of it.
 
-[UNIQUE INSIGHT] Most budget-decor advice tells you to fill every vase. The opposite is true. An empty glass vase next to a filled one photographs better and looks more expensive because negative space reads as intentional in a way a fully-stuffed arrangement doesn't.
+Most budget-decor advice tells you to fill every vase. The opposite is true. An empty glass vase next to a filled one photographs better and looks more expensive because negative space reads as intentional in a way a fully-stuffed arrangement doesn't.
 
 ![Clustered glass vases and greenery styled on an apartment TV console for an expensive look on a small budget](/images/apartment-tv-console-vase.jpg)
 
@@ -117,7 +117,7 @@ The fastest way to style a shelf of Dollarama items is a wooden tray as the base
 3. Add one short item (a ceramic planter or a small stack of books)
 4. Leave visible empty space, don't fill every inch
 
-[ORIGINAL DATA] Across the shelves I've restyled in two different rentals, the sets that got the most compliments from guests were never the ones with the most objects on them, they were the ones with the most empty space between three or four well-chosen pieces.
+Across the shelves I've restyled in two different rentals, the sets that got the most compliments from guests were never the ones with the most objects on them, they were the ones with the most empty space between three or four well-chosen pieces.
 
 ![Cozy corner styled with a lamp, mirror, and layered Dollarama decor pieces for an expensive-looking small apartment](/images/cozy-corner-lamp-mirror.jpg)
 

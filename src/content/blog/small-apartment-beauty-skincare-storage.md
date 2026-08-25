@@ -41,7 +41,7 @@ This is the beauty-and-skincare-specific companion to my broader [small apartmen
 
 ## Why Does Beauty Product Clutter Build Up So Fast in Small Apartments?
 
-[PERSONAL EXPERIENCE] Beauty and skincare clutter grows faster than almost anything else in a small apartment because products arrive constantly (samples, gifts, impulse buys) but rarely get used up before the next one shows up. In my own 1-bedroom Ottawa rental, I counted 34 skincare and makeup items crammed onto an 18-inch counter before I did anything about it.
+Beauty and skincare clutter grows faster than almost anything else in a small apartment because products arrive constantly (samples, gifts, impulse buys) but rarely get used up before the next one shows up. In my own 1-bedroom Ottawa rental, I counted 34 skincare and makeup items crammed onto an 18-inch counter before I did anything about it.
 
 The problem isn't the bathroom being small. It's that liquid and cream products don't stack, roll around when the counter isn't level, and don't have a natural "home" the way folded towels do. Without a container system, everything just accumulates in whatever order it was set down.
 
@@ -55,7 +55,7 @@ A three-tier system works best: an acrylic tray for daily-use items, a labeled d
 
 **Backstock drawer (out of sight).** Unopened skincare and duplicates go into a labeled drawer, ideally with dividers so bottles don't tip. Dollarama sells basic plastic drawer dividers for $1.50–$4 CAD each, which is enough for most bathroom drawers.
 
-**Rotation basket.** Anything within a month of its expiry date moves to a small basket by the sink as a visual reminder to use it up or toss it. This one habit alone cut my personal skincare pile by almost half within two months. [PERSONAL EXPERIENCE]
+**Rotation basket.** Anything within a month of its expiry date moves to a small basket by the sink as a visual reminder to use it up or toss it. This one habit alone cut my personal skincare pile by almost half within two months. 
 
 ![Clear acrylic shelving used to sort skincare bottles by category on a bathroom counter](/images/bathroom-storage-shelves.jpg)
 
@@ -65,7 +65,7 @@ Makeup organizes best in shallow, divided containers rather than deep boxes, sin
 
 **By category, not by brand.** Group lip products together, eyes together, face products together. This mirrors how you actually get ready in the morning and cuts decision time.
 
-**Reuse Sephora Canada packaging.** The small cardboard boxes and drawstring bags Sephora Canada uses for online orders make surprisingly good drawer dividers for brushes and smaller palettes — a free option before buying anything new. [UNIQUE INSIGHT] Most organizing guides tell you to buy dividers immediately, but testing free packaging first often solves half the problem before spending a dollar.
+**Reuse Sephora Canada packaging.** The small cardboard boxes and drawstring bags Sephora Canada uses for online orders make surprisingly good drawer dividers for brushes and smaller palettes — a free option before buying anything new. Most organizing guides tell you to buy dividers immediately, but testing free packaging first often solves half the problem before spending a dollar.
 
 **Vertical brush storage.** A small cup or repurposed candle jar holds brushes upright, taking up a fraction of the counter footprint that a flat brush roll needs.
 
@@ -106,7 +106,7 @@ If the bathroom is fully claimed by roommates or family, moving makeup to a smal
 - One acrylic makeup organizer ($15–$30 CAD)
 - A small lamp with a warm bulb for better colour accuracy when applying makeup (~$20–$30 CAD)
 
-Total setup cost lands around $50–$85 CAD, and it removes makeup from the bathroom equation completely. [ORIGINAL DATA] When I moved my makeup to a bedroom dresser corner, my bathroom counter item count dropped from 34 to 11 items, and mornings genuinely got faster because I wasn't sharing counter space with a roommate.
+Total setup cost lands around $50–$85 CAD, and it removes makeup from the bathroom equation completely. When I moved my makeup to a bedroom dresser corner, my bathroom counter item count dropped from 34 to 11 items, and mornings genuinely got faster because I wasn't sharing counter space with a roommate.
 
 ## How Often Should You Declutter Expired Beauty Products?
 

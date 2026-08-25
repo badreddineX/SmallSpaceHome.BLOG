@@ -35,7 +35,7 @@ Some apartment decor projects save real money when you DIY them. Others cost mor
 
 DIY only saves money when the materials are cheap and the skill required is low; once a project needs a saw, a sewing machine, or an electrician, the math flips fast. A gallon of paint runs $30–$50 CAD, a basic sewing machine starts around $80 CAD, and specialty tools rarely get used again after one project.
 
-I learned this the hard way building a DIY coffee table in my first apartment. Lumber, brackets, wood glue, and a $40 CAD sander added up to $95 CAD, and it still wobbled. A comparable IKEA LACK table costs $39.99 CAD, already assembled, already level. [UNIQUE INSIGHT] The break-even point for furniture DIY almost always favours buying unless you already own the tools from a previous project.
+I learned this the hard way building a DIY coffee table in my first apartment. Lumber, brackets, wood glue, and a $40 CAD sander added up to $95 CAD, and it still wobbled. A comparable IKEA LACK table costs $39.99 CAD, already assembled, already level. The break-even point for furniture DIY almost always favours buying unless you already own the tools from a previous project.
 
 The rule I use now: if a project needs a tool I'd only ever use once, I buy the finished item instead.
 
@@ -45,7 +45,7 @@ Small-material projects with no power tools required are where DIY wins, typical
 
 ### No-Sew Pillow Covers
 
-A yard of fabric at Fabricland runs about $12–$18 CAD and makes two no-sew envelope covers using fusible tape (no sewing machine needed), for roughly $6–$9 CAD each. Retail cushion covers in the same fabric weight run $25–$35 CAD at West Elm or Anthropologie. [PERSONAL EXPERIENCE] I've made a dozen of these over two apartments and the only tool required is an iron I already owned.
+A yard of fabric at Fabricland runs about $12–$18 CAD and makes two no-sew envelope covers using fusible tape (no sewing machine needed), for roughly $6–$9 CAD each. Retail cushion covers in the same fabric weight run $25–$35 CAD at West Elm or Anthropologie. I've made a dozen of these over two apartments and the only tool required is an iron I already owned.
 
 ![No-sew envelope pillow covers made from Fabricland fabric styled on a living room sofa](/images/cozy-corner-lamp-mirror.jpg)
 
@@ -99,7 +99,7 @@ Before starting any project, ask whether the materials alone cost less than 60% 
 
 Ask three questions before committing: Do I already own the tools, or would I need to buy them for this one project? Is the finished result something I could return or resell if it doesn't work out? And honestly, would I rather spend the weekend on this or doing something else? If the answer to the last one is "something else," that's usually the real answer.
 
-[ORIGINAL DATA] Tracking my own decor spending across two apartments and roughly 15 small projects, the DIY wins averaged 58% savings versus retail, while the DIY losses (furniture, mainly) averaged 22% more expensive than buying, once tools were counted. Small projects win; big builds lose.
+Tracking my own decor spending across two apartments and roughly 15 small projects, the DIY wins averaged 58% savings versus retail, while the DIY losses (furniture, mainly) averaged 22% more expensive than buying, once tools were counted. Small projects win; big builds lose.
 
 ## Where Do Free Decor Finds Fit In?
 
