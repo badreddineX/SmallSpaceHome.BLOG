@@ -193,3 +193,5 @@ Read our guide on [small bedroom storage ideas for Canadian apartment renters](/
 → Need the seating itself to double as storage in this exact layout? [Small living room storage ideas](/blog/small-living-room-storage-solutions) covers ottomans, coffee tables with shelves, and TV consoles built to hide the clutter.
 
 → [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the room this guide doesn't touch, with the same renter-friendly approach.
+
+→ For the mood and lighting side of this same room, see [vibey apartment living room ideas](/blog/vibey-apartment-living-room-ideas).

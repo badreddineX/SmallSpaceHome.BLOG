@@ -150,3 +150,5 @@ Under $200 CAD, completely renter-friendly, and the apartment looks like someone
 The apartment you want is achievable on a Canadian budget. Start with the free changes, then follow the priority order above. One purchase at a time beats a chaotic haul every time.
 
 → Ready to take the next step beyond $200? See [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) for the full range of deposit-safe upgrades available to Canadian renters.
+
+→ Working with an even tighter budget? [Apartment decor under $50](/blog/budget-apartment-decor-under-50) and [DIY vs. buy for apartment decor](/blog/free-cheap-apartment-decor-diy-vs-buy) break the same priorities down further.

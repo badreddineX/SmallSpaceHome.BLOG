@@ -180,3 +180,5 @@ Follow the 10-step sequence above and the living room transforms without a renov
 → Need the seating itself to double as storage? [Small living room storage ideas](/blog/small-living-room-storage-solutions) covers ottomans, coffee tables with shelves, and TV consoles that hide the clutter.
 
 → For the room this guide doesn't cover, [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) has the same no-drill approach with real CAD prices.
+
+→ Want to focus on mood and lighting rather than layout? [Vibey apartment living room ideas](/blog/vibey-apartment-living-room-ideas) covers the styling side of this same room.

@@ -151,3 +151,5 @@ Yes, woven baskets in two or three sizes work as both storage and shelf styling 
 A $20 Dollarama run styled properly beats a $100 haul of random decor every time. Buy the plain shapes, group them in clusters, and skip anything with a logo on it, and nobody will guess where it came from.
 
 → Ready to build out the rest of the room? See [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) for the full priority order on rugs, lighting, and textiles beyond the small stuff, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for where cheap finds work in the bathroom.
+
+→ Want more near-zero-cost styling moves beyond Dollarama? See [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish).

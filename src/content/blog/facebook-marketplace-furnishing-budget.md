@@ -119,3 +119,5 @@ If you're furnishing a genuinely small footprint and need pieces that are actual
 Facebook Marketplace rewards patience and a specific search strategy more than luck. Save your searches, check daily during lease-turnover weeks, and go straight to a firm, fast cash offer once you find the right piece. Buy the big wood furniture secondhand, buy your mattress new, and you'll furnish an apartment for a fraction of retail cost.
 
 → Next, check the [small space furniture guide](/blog/small-space-furniture) to make sure whatever you find on Marketplace actually fits your space before you commit to a pickup, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the one room Marketplace furniture rarely covers.
+
+→ Deciding whether to buy secondhand or make it yourself instead? See [DIY vs. buy for apartment decor](/blog/free-cheap-apartment-decor-diy-vs-buy).

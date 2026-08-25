@@ -245,3 +245,5 @@ Do these first for the fastest transformation:
 → Decorating for the season? [Fall apartment decorating ideas](/blog/fall-apartment-decorating-ideas) and [cozy winter apartment decor](/blog/cozy-winter-apartment-decor) apply these same principles with seasonal textures and touches.
 
 → Tackling the bathroom next? [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the same no-damage approach for that room specifically.
+
+→ Want the absolute cheapest version of this list? [Cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish) and [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) cover the same ground on close to a $0 budget.

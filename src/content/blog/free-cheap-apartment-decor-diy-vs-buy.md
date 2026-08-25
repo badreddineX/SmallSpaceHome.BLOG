@@ -112,3 +112,5 @@ Most Canadian cities see a spike in curb-alert furniture around month-end moves 
 DIY and buying aren't opposites, they're two tools for the same budget, and the trick is matching the right one to each item. Small, low-material projects like pillow covers, painted frames, and photo galleries genuinely save money and carry almost no risk. Furniture, rugs, and anything electrical are usually cheaper, safer, and faster to just buy.
 
 → For the full priority order on where to spend an apartment decor budget from scratch, see [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget), or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the same buy-vs-DIY thinking applied to that room.
+
+→ Leaning toward "buy" for furniture specifically? [Furnishing an apartment on Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) covers the secondhand route in detail.

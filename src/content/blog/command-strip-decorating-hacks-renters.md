@@ -108,4 +108,5 @@ Command strips aren’t magic—they won’t stick to rough concrete or dusty su
 
 → [5 Small-Space Furniture Hacks That Fit Through Stairs](/blog/small-space-furniture)  
 → [12 Renters-Approved Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places)  
-→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage)
+→ [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage)  
+→ Applying this specifically to art? See [renter-friendly gallery wall ideas](/blog/renter-friendly-gallery-wall-ideas).

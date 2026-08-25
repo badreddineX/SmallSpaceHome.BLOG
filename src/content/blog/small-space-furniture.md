@@ -229,3 +229,5 @@ If you're setting up a desk in any of these rooms, see [small apartment home off
 Living in a Toronto or Vancouver condo specifically? [Condo storage ideas](/blog/condo-storage-ideas-toronto-vancouver) covers the building-specific constraints — elevator sizing, locker math — that apartment buying guides usually skip.
 
 → For inspiration on how to style the furniture you choose, [small space living room ideas](/blog/small-space-living-room-ideas) shows how layout and decor choices work together.
+
+→ Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) covers that route on a budget. Not sure where to buy small-space pieces at all? See [where to buy small-space storage furniture](/blog/where-to-buy-small-space-storage-furniture). And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/storage-bed-buying-guide-small-studio).

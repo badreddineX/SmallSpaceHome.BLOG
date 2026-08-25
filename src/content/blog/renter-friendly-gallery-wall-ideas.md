@@ -107,3 +107,5 @@ The key isn’t perfection—it’s intentionality. Renters shouldn’t settle f
 → Check out [Small Space Apartment Decoration Ideas](/blog/small-space-furniture) for layout tips that work in tight corridors.  
 → Need help storing your frames between moves? [Small Apartment Organization Tips](/blog/small-apartment-organization) has collapsible storage hacks under $20 CAD.  
 → Want a no-damage gallery in the bathroom too? [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) covers the same deposit-safe rules for that room.
+
+→ Want the full Command-strip playbook beyond just art? [Command strip decorating hacks for renters](/blog/command-strip-decorating-hacks-renters) covers shelves, hooks, and more.
