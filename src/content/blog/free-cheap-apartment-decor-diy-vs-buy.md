@@ -27,6 +27,8 @@ faqs:
 
 Some apartment decor projects save real money when you DIY them. Others cost more in time, tools, and materials than just buying the cheap version, and that's the trap I fell into more than once during my first year renting. The honest answer is that DIY only wins on low-material, low-tool projects; anything involving furniture-grade construction, electrical work, or bulk fabric is usually a false economy.
 
+This post isn't a budget tier like the others in this series, it's a decision framework for any budget: should you make it or buy it. For the actual dollar-by-dollar spending plans, see [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) ($200 CAD) or [apartment decor under $50](/blog/budget-apartment-decor-under-50).
+
 **TL;DR:** DIY the small stuff, no-sew pillow covers, painted thrifted frames, curb-alert furniture refreshes, and printed photo galleries. Buy the big stuff, area rugs, light fixtures that need wiring, and most furniture, since a budget retail version is often cheaper than the materials alone. Below is the exact decision table I now use before starting any project.
 
 ---

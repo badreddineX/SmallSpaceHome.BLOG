@@ -26,6 +26,8 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 
 I've lived in a 510 sq ft Toronto apartment for three years, and these are the storage solutions I've actually tested and kept.
 
+This is the full room-by-room storage roundup, no budget cap. For the declutter-first system and habits behind it, see [small apartment organization](/blog/small-apartment-organization); for the same ideas kept under $100 CAD total, see [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
+
 Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (30–40% more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
 
 **Want this whole list on one printable page?** Grab the free [23-Point Storage Checklist](/free-storage-checklist) — print it, stick it on the fridge, check items off as you go.

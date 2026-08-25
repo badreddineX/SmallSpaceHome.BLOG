@@ -30,6 +30,8 @@ Fifty dollars CAD sounds like nothing when you're staring at a bare rental apart
 
 I've moved apartments four times in the last six years, twice with a moving budget so tight that decor came dead last. What I learned each time is that a $50 CAD budget works fine, as long as you buy in the right order and stop trying to decorate the whole apartment at once.
 
+This one's about solving one or two specific problems for $50, not decorating a whole room. If you've got more to spend across the whole apartment, see [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) for the $200 CAD version, or [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) if you want to go even cheaper on styling specifically.
+
 **TL;DR:** With $50 CAD, buy warm LED bulbs ($12–$15), one set of storage baskets or a floating shelf ($15–$25), and fill the rest with Dollarama frames, a small plant, or a vase ($5–$15). That combination fixes lighting, adds visible storage, and gives you one styled surface, all for under $50 CAD at Canadian Tire, IKEA, and Dollarama.
 
 ---

@@ -22,6 +22,8 @@ faqs:
 
 Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back. I reorganized my 510 sq ft Toronto apartment three times. The first two times I just bought containers. The third time I understood: you have to declutter before you organize, not after. According to CMHC, most Canadian renters live in apartments under 700 sq ft — making a repeatable organization system one of the most practical investments you can make.
 
+This guide is about the system and the habits, decluttering, zoning, maintenance, not a shopping list. For the room-by-room product roundup, see [storage ideas for small places](/blog/storage-ideas-for-small-places), or for the same ideas capped at $100 CAD, [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
+
 **TL;DR:** Declutter before buying a single bin — it's the step that makes everything else work. Slim velvet hangers (Amazon.ca, ~$18 CAD) free 30–40% more closet space immediately. Zone the kitchen by task (prep, cook, pantry, clean) and stop losing things at the back of cabinets. The 10-minute evening reset is the habit that keeps the whole system running.
 
 ---

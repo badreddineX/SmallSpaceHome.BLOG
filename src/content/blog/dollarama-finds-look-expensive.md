@@ -29,6 +29,8 @@ Dollarama sells glass vases, ceramic planters, and woven baskets for $1 to $5 CA
 
 I've furnished two rentals almost entirely off Dollarama runs, and the pieces nobody guesses are from there are always the plainest ones: a clear glass vase, a matte ceramic pot, an unmarked wooden tray. The mistake most people make is grabbing the item with the most going on, when the boring one is what actually looks expensive.
 
+This one's a single-retailer deep dive, not a general budget guide. For the broader near-$0 approach across other stores too, see [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish).
+
 **TL;DR:** The Dollarama items that look expensive share three traits — plain shapes, neutral colours, and no visible branding. Glass vases ($1.50–$3), ceramic planters ($2–$4), plastic frames sprayed matte black ($1–$2 each), faux eucalyptus stems ($1.50–$3), and woven baskets ($3–$5) are the strongest picks. Style them in odd-numbered clusters, decant anything labeled, and skip the fully assembled plastic bouquets.
 
 ---

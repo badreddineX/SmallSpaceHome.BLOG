@@ -24,6 +24,8 @@ You do not need a $500 Container Store haul to get your apartment organized. Mos
 
 Here are 15 ideas, all under $100 CAD total, from a Toronto renter who has tested every one of them. I tested this full list in my 510 sq ft Toronto apartment, and the slim hangers alone freed enough closet space that I stopped using the floor as overflow storage.
 
+This one's specifically capped at $100 CAD total. If budget isn't the constraint and you want the full room-by-room roundup instead, see [storage ideas for small places](/blog/storage-ideas-for-small-places); for the declutter-first mindset behind all of this, see [small apartment organization](/blog/small-apartment-organization).
+
 **TL;DR:** Slim velvet hangers (Amazon.ca, ~$18 CAD for 50) are the single highest-impact, lowest-cost purchase for most apartments. Over-door organizers (~$25–$35 CAD) add storage without installation. IKEA SKUBB under-bed bags (~$14 for 2) are the best use of the space you're probably ignoring. Dollarama bins and baskets at $2–$4 each handle the rest.
 
 ---

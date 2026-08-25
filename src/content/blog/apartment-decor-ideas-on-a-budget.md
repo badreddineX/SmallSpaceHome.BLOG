@@ -30,6 +30,8 @@ Decorating a Canadian rental apartment on a tight budget is entirely possible. T
 
 After three years in a 510 sq ft Toronto rental, the priority order below is exactly how I'd spend $200 all over again. Here's how to transform a rental apartment for under $200 CAD.
 
+This is specifically the $200 CAD whole-apartment version. If $200 is more than you want to spend, [apartment decor under $50](/blog/budget-apartment-decor-under-50) covers a single tighter problem instead of the whole apartment, and [free & cheap decor: DIY vs. buy](/blog/free-cheap-apartment-decor-diy-vs-buy) breaks down which of these purchases are actually worth making yourself.
+
 **TL;DR:** Spend in this order — rug first ($59–$80 CAD), then warm lighting ($15–$25 CAD), then textiles (cushions + throw, $40–$60 CAD), then art and plants ($20–$40 CAD). This sequence builds on itself: the rug anchors the room, lighting sets the mood, textiles add warmth, art adds personality. Total under $200 CAD at IKEA, Canadian Tire, and Dollarama.
 
 ---

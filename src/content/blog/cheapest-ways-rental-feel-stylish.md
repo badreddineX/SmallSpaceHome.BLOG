@@ -27,6 +27,8 @@ faqs:
 
 Making a rental feel stylish doesn't require a big budget. The three changes that matter most, decluttering, rearranging furniture, and fixing the lighting, cost nothing or close to it, and they change a space more than any single purchase would. Everything below builds from there with realistic CAD prices.
 
+This is the near-$0 version, mostly free changes plus a few sub-$20 finds. Once you've done these, [apartment decor under $50](/blog/budget-apartment-decor-under-50) and [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) are the next steps up if you've got more room to spend.
+
 **TL;DR:** Start free, declutter every surface and rearrange your furniture (this alone changes a room dramatically). Then spend small: warm bulbs ($10–$15 CAD), a Dollarama styling pass ($10–$20 CAD), one thrifted piece from Marketplace or Value Village ($0–$20 CAD), and optionally removable wallpaper on one wall ($15–$40 CAD). A genuinely stylish-looking rental refresh can land under $50 CAD total.
 
 ---
