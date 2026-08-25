@@ -34,7 +34,7 @@ Place the KALLAX 2×4 vertically between the sleeping and living zones in a stud
 
 A KALLAX 2×4 unit costs about $159 CAD and, placed vertically between sleep and living zones, divides a studio without the light-blocking effect of a full wall.
 
-Add plants on top of the divider to make the transition feel designed, not improvised. For more configurations and hacks specific to this unit, see [IKEA KALLAX hacks for small spaces](/blog/storage-ideas-for-small-places).
+Add plants on top of the divider to make the transition feel designed, not improvised. For more storage ideas across the rest of the apartment, see [storage ideas for small places](/blog/storage-ideas-for-small-places).
 
 **Cost:** KALLAX 2×4 ~$159 CAD.
 
@@ -181,6 +181,6 @@ Total for the essentials: **~$650–$1,050 CAD** — a complete small apartment 
 
 These IKEA picks have been tested in real Canadian apartments and they hold up. Start with whatever solves your biggest problem — the NORDLI if storage is the issue, the KALLAX if you need a living room anchor, the BILLY if you're drowning in books. Get one piece working before adding the next.
 
-→ Want to go deeper on specific KALLAX configurations? [IKEA KALLAX hacks for small spaces](/blog/storage-ideas-for-small-places) covers 11 creative uses with exact setup instructions and CAD costs.
+→ Want the full room-by-room storage roundup beyond IKEA-specific pieces? [Storage ideas for small places](/blog/storage-ideas-for-small-places) covers every room with exact setup instructions and CAD costs.
 
 → Is your entryway the first thing that gets cluttered when you walk in? [Small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) covers a matching no-drill setup for the space right by your door.

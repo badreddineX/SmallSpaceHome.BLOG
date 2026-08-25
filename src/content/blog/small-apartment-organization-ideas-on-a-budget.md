@@ -169,10 +169,10 @@ A 6-bag vacuum storage set costs $25 to $30 CAD and compresses bulky winter blan
 
 This combination tackles the closet (hangers + tension rod), the entryway (Command hooks), the back of a door (over-door organizer), and the kitchen pantry (clear bins) for $99 CAD.
 
-Choose based on your biggest pain point. If the kitchen is the problem, swap the over-door organizer and tension rod for 6 clear bins and a set of drawer dividers instead. For a more complete room-by-room approach to organization in the same budget range, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers each room systematically. And for IKEA-specific storage wins, [IKEA small space hacks](/blog/ikea-small-space-hacks) shows which IKEA pieces actually deliver in a Canadian apartment.
+Choose based on your biggest pain point. If the kitchen is the problem, swap the over-door organizer and tension rod for 6 clear bins and a set of drawer dividers instead. For the declutter-first system and habits behind this list, see [small apartment organization](/blog/small-apartment-organization). And for IKEA-specific storage wins, [IKEA small space hacks](/blog/ikea-small-space-hacks) shows which IKEA pieces actually deliver in a Canadian apartment.
 
 Under $100 CAD, completely renter-friendly, and you'll feel the difference the same day. The closet, the entryway, the kitchen pantry — pick the one causing you the most daily friction and start there.
 
-→ For the full room-by-room system, see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) — it builds on these 15 ideas with a complete priority order.
+→ For the full room-by-room system with no budget cap, see [storage ideas for small places](/blog/storage-ideas-for-small-places) — it builds on these 15 ideas with a complete priority order.
 
 → For the bathroom specifically, [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers 12 no-drill options with real CAD prices.
