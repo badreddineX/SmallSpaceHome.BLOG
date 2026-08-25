@@ -14,7 +14,7 @@ relatedPosts:
 readTime: 8
 faqs:
   - q: "What makes an apartment living room feel 'vibey' instead of just decorated?"
-    a: "It comes down to layered light sources and texture, not furniture count. A room lit only by one overhead fixture reads flat no matter how nice the couch is. Swapping to 3–4 low, warm light sources plus mixed textures (boucle, linen, wood grain) is what Pinterest users are actually searching for under 'vibey apartment living room,' a term that grew 380% year-over-year in 2026 (Pinterest Trends, 2026)."
+    a: "It comes down to layered light sources and texture, not furniture count. A room lit only by one overhead fixture reads flat no matter how nice the couch is. Swapping to 3–4 low, warm light sources plus mixed textures (boucle, linen, wood grain) is what people mean when they search for a 'vibey apartment living room' — a mood, not a specific furniture set."
   - q: "How much does it cost to give a small living room a 'vibey' makeover in Canada?"
     a: "A meaningful mood upgrade costs $150–$400 CAD if you focus on lighting, textiles, and a few layered accessories rather than replacing furniture. A dimmable floor lamp ($40–$70 CAD, IKEA), a chunky throw and pillow set ($60–$90 CAD, HomeSense), and a few pillar candles ($20–$30 CAD) go further toward 'vibey' than a new sofa."
   - q: "Is warm lighting or cool lighting better for a cozy apartment vibe?"
@@ -25,7 +25,7 @@ faqs:
     a: "Efficiency is about function — multi-purpose furniture, storage, traffic flow. Vibe is about mood — light temperature, texture layering, and a curated, lived-in feel. A room can be perfectly space-efficient and still feel sterile; this guide focuses on the mood layer that sits on top of whatever layout you already have. See our <a href='/blog/small-space-living-room-ideas'>space-saving living room guide</a> for the layout side."
 ---
 
-"Vibey apartment living room" searches grew 380% year-over-year on Pinterest in 2026 (Pinterest Trends, 2026), and it's not chasing a new furniture trend. It's a mood problem: most rental living rooms are lit by one bright overhead fixture and furnished for function, not feeling. Fixing that costs less than you'd think, and none of it requires a drill.
+"Vibey apartment living room" has become a popular way people describe the look they're after, and it's not chasing a new furniture trend. It's a mood problem: most rental living rooms are lit by one bright overhead fixture and furnished for function, not feeling. Fixing that costs less than you'd think, and none of it requires a drill.
 
 **TL;DR:**
 - **Layer 3–4 light sources instead of relying on one overhead fixture** — this single change does more for "vibe" than any furniture swap

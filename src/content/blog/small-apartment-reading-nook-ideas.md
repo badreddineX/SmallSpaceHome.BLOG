@@ -20,7 +20,7 @@ faqs:
     a: "A full renter-friendly setup — chair, floor lamp, small rug, and a side table — runs roughly $250 to $650 CAD depending on whether you shop IKEA/Amazon.ca or a mid-range retailer like Structube. The chair is almost always the biggest line item."
 ---
 
-Pinterest searches for "comfy reading chair small spaces" are up 455% year over year, and "closet reading nook for adults" is up 55% — the biggest jump in the small-space decor category this year. It makes sense: after years of open-plan everything, people want one chair that's just for sitting down and doing nothing else. You don't need a spare room for that. I carved a reading nook out of a 90 cm-wide window corner in my Toronto apartment, and it's become the one spot in the unit I actually fight my roommate for.
+Reading nooks have become one of the most requested small-space decor ideas, and it makes sense: after years of open-plan everything, people want one chair that's just for sitting down and doing nothing else. You don't need a spare room for that. I carved a reading nook out of a 90 cm-wide window corner in my Toronto apartment, and it's become the one spot in the unit I actually fight my roommate for.
 
 **TL;DR:** A reading nook needs three things — a comfortable chair scaled to the space, a dedicated light source, and a small surface for a mug or a stack of books. A window corner, the dead space beside a bookcase, or the end of a hallway all work. Full renter-friendly setups run $250–$650 CAD, and nothing requires drilling.
 
@@ -67,7 +67,7 @@ Even a small rug (roughly 90 cm × 150 cm) visually separates the reading nook f
 
 ## 6. Build a "Closet Reading Nook" If You're Truly Out of Space
 
-The "closet reading nook for adults" trend (+55% search growth) is exactly what it sounds like — converting an underused closet into a tiny reading corner. Searches for this idea are up 55% year over year, and the trend works best in a walk-in or reach-in closet that isn't already earning its keep as storage. This works best with a walk-in or reach-in closet that isn't earning its space as storage.
+The "closet reading nook" is exactly what it sounds like — converting an underused closet into a tiny reading corner. This works best in a walk-in or reach-in closet that isn't already earning its keep as storage.
 
 **What it takes:**
 - Remove the closet door, or replace it with a curtain on a tension rod

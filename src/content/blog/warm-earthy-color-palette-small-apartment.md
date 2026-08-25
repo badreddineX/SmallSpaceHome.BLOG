@@ -48,7 +48,7 @@ Cool LED bulbs (5000K) render warm colors flat and muddy. Swap them for 2700K–
 
 ## 6. What Greenery Complements a Warm Earthy Palette?
 
-Don't just grab a snake plant in a grey pot. Choose greens that *lean into* your palette: dried eucalyptus bundles ($8 CAD at Local Urban Farm on Queen West, or similar on Etsy.ca), or a Pothos in an unglazed clay pot ($22 at The Plant Company in Vancouver). Keep leaves in the same family as your clay/ochre tones—avoid cool blues in pots or leaves (unless you *want* contrast). Less is more: one statement plant + three small tabletops tells a cohesive story.
+Don't just grab a snake plant in a grey pot. Choose greens that *lean into* your palette: dried eucalyptus bundles (~$8 CAD, look for local florists or Etsy.ca sellers), or a Pothos in an unglazed clay pot (~$22 CAD at a local plant shop or garden centre). Keep leaves in the same family as your clay/ochre tones—avoid cool blues in pots or leaves (unless you *want* contrast). Less is more: one statement plant + three small tabletops tells a cohesive story.
 
 ![Clay pot with trailing pothos on a warm wood side table near a woven wall hanging](/images/bedroom-minimalist.jpg)
 
