@@ -11,7 +11,6 @@ category: "Storage"
 relatedPosts:
   - "small-space-furniture"
   - "small-living-room-storage-solutions"
-  - "multifunctional-furniture-small-apartment"
 readTime: 7
 faqs:
   - q: "Where can I buy smart storage furniture for a small living room?"

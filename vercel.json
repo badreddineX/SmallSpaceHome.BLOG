@@ -1,5 +1,12 @@
 {
   "trailingSlash": false,
+  "redirects": [
+    { "source": "/blog/storage-solutions-for-small-apartments", "destination": "/blog/storage-ideas-for-small-places", "permanent": true },
+    { "source": "/blog/small-space-decorating", "destination": "/blog/small-space-living-room-ideas", "permanent": true },
+    { "source": "/blog/how-to-make-a-small-room-look-bigger", "destination": "/blog/small-space-living-room-ideas", "permanent": true },
+    { "source": "/blog/studio-apartment-ideas", "destination": "/blog/small-space-furniture", "permanent": true },
+    { "source": "/blog/multifunctional-furniture-small-apartment", "destination": "/blog/small-space-furniture", "permanent": true }
+  ],
   "headers": [
     {
       "source": "/(.*)",

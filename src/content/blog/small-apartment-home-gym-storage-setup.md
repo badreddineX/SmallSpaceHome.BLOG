@@ -10,7 +10,7 @@ featured: false
 category: "Storage"
 relatedPosts:
   - "storage-ideas-for-small-places"
-  - "multifunctional-furniture-small-apartment"
+  - "small-space-furniture"
 readTime: 8
 faqs:
   - q: "Can you have a home gym in a small apartment?"
@@ -77,7 +77,7 @@ Measure your bed's clearance before buying. A queen bed frame on legs typically 
 - A folding weight bench (most fold to under 6 inches thick)
 - Ankle weights and a foam roller
 
-This is the same logic behind [multifunctional furniture ideas](/blog/multifunctional-furniture-small-apartment) generally: a bed frame that also stores gear does more work per square foot than a bed frame alone.
+This is the same logic behind [small space furniture picks](/blog/small-space-furniture) generally: a bed frame that also stores gear does more work per square foot than a bed frame alone.
 
 ## Where Should Bands and Mats Hang When You're Not Using Them?
 
@@ -136,4 +136,4 @@ Skip the weight bench and full dumbbell set if budget is tight. A mat, bands, an
 
 A small apartment doesn't rule out a real home gym, it just changes what "equipment" means. Foldable mats, stackable dumbbells, and a storage ottoman that pulls double duty as furniture let you train hard in a corner that looks like nothing special the rest of the day. Start with a mat, a band set, and one storage piece, then add weight only once you know the corner actually works for your routine.
 
-→ Next, check out our [multifunctional furniture ideas](/blog/multifunctional-furniture-small-apartment) for more pieces that pull double duty in a small Canadian apartment, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the room right after a workout.
+→ Next, check out our [small space furniture guide](/blog/small-space-furniture) for more pieces that pull double duty in a small Canadian apartment, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the room right after a workout.

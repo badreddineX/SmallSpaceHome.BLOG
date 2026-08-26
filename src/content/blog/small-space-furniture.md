@@ -3,7 +3,7 @@ title: "Small Space Furniture: What Actually Works (3 Years of Real Testing)"
 description: "What I'd buy again and what I regret after furnishing a 510 sq ft Toronto apartment three times — real CAD prices from IKEA, Wayfair, and Amazon Canada, and what actually held up."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
-dateModified: "2026-08-16"
+dateModified: "2026-08-26"
 author: "Badreddine Br"
 tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false
@@ -177,6 +177,18 @@ Here's what that breaks down to, piece by piece, for a studio or one-bedroom in 
 This is a bare-essentials budget, not a full furnish — it assumes you already have a couch, or you're prioritizing sleep and storage first and adding seating later. Swap the NORDLI for the cheaper FJELLSE frame (~$149 CAD) and the total for a truly tight budget drops to around **$486–$526 CAD**, which is realistic for a first apartment or a move where cash is genuinely limited.
 
 Where the money actually goes for most first-time small-space furnishers: the bed eats 45–55% of the budget, storage eats another 20%, and everything else splits the remainder. If you're deciding what to cut first, dining and a proper desk are the two most deferrable — a kitchen counter with stools and a laptop on a lap desk both work as short-term stand-ins.
+
+## More Multifunctional and Renter-Friendly Picks
+
+A few more space-saving pieces worth knowing about, beyond the core categories above — especially useful for shorter leases and buildings with taller ceilings:
+
+**Loft bed with desk underneath** — ~$350–$450 CAD (Structube or similar). Only realistic in units with higher ceilings, but a freestanding frame on adjustable legs (no wall mounting) can free up 7–8 ft of floor space underneath for a desk or dresser — no permanent installation needed.
+
+**Slim vertical wardrobe (45 cm deep)** — ~$180–$220 CAD. Standard closets run 60 cm deep; a slimmer freestanding unit with inward-swinging doors clears hallway traffic in older buildings where closets stick out too far. Fully freestanding, so it moves with you at lease-end.
+
+**Rolling shelving unit** — ~$70–$100 CAD. A narrow (30 cm) unit on wheels that fits through a standard door and can shift between kitchen, living room, and hallway as needs change — useful if you move often or want one shelving unit to do several jobs over a lease.
+
+**Fold-down wall table + twin mattress combo** — under $250 CAD total. The renter-friendly middle ground between a sleeper sofa and a real Murphy bed (which needs permanent installation): a wall-mounted fold-down table with a fold-down leg holds a twin mattress at night and folds flat by day, secured with tension poles instead of wall brackets.
 
 ## Furnishing to Define Zones (Studios and Open-Plan Layouts)
 

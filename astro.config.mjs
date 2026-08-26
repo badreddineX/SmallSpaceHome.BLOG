@@ -49,5 +49,6 @@ export default defineConfig({
     '/blog/small-space-decorating': '/blog/small-space-living-room-ideas',
     '/blog/how-to-make-a-small-room-look-bigger': '/blog/small-space-living-room-ideas',
     '/blog/studio-apartment-ideas': '/blog/small-space-furniture',
+    '/blog/multifunctional-furniture-small-apartment': '/blog/small-space-furniture',
   },
 });

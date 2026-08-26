@@ -3,7 +3,7 @@ title: "15 Small Space Living Room Ideas"
 description: "15 practical small living room ideas tested in a real Canadian apartment — renter-friendly, budget-conscious, and built for tight square footage."
 image: "/images/small-studio-living-room-bright.jpg"
 datePublished: "2026-04-02"
-dateModified: "2026-08-06"
+dateModified: "2026-08-26"
 author: "Badreddine Br"
 tags: ["small space living room", "small space living", "small living room ideas", "living room decor small space", "apartment decor", "small space ideas", "renter-friendly", "Canada"]
 featured: true
@@ -36,14 +36,11 @@ I've lived in a 510 sq ft Toronto apartment for three years. The living room is 
 
 ## 1. What Sofa Actually Fits a Small Living Room?
 
-The sofa is the most common mistake in small living rooms. People buy for comfort first and size second — then the sofa takes over the entire space. For a room under 250 sq ft, stick to a two-seater or slim three-seater **no longer than 200 cm** — options like the IKEA ÄPPLARYD (~$599 CAD) or VIMLE (~$699 CAD) both fit that limit. Avoid sectionals entirely unless you have a dedicated corner layout with no other furniture — that same spare corner is often better used as a [reading nook](/blog/small-apartment-reading-nook-ideas) than filled with a chair nobody sits in.
-
-**What works in Canadian apartments:**
-- IKEA VIMLE (modular, starts at ~$699 CAD)
-- IKEA ÄPPLARYD slim two-seater (~$599 CAD)
-- Article Sven sofa — higher price but excellent for small layouts
+The sofa is the most common mistake in small living rooms. People buy for comfort first and size second — then the sofa takes over the entire space. For a room under 250 sq ft, stick to a two-seater or slim three-seater no longer than 200 cm, and avoid sectionals entirely unless you have a dedicated corner layout with no other furniture — that same spare corner is often better used as a [reading nook](/blog/small-apartment-reading-nook-ideas) than filled with a chair nobody sits in.
 
 **Pro tip:** Measure your doorway before ordering. Many Canadian apartment buildings have narrow hallways and tight elevator dimensions. A sofa that won't fit through the door is a $700 mistake.
+
+For specific sofa picks, prices, and what to avoid, see our full [small space furniture guide](/blog/small-space-furniture).
 
 ## 2. Why One Large Rug Beats Three Small Ones?
 
@@ -93,14 +90,9 @@ A standard coffee table takes up a permanent footprint in your floor plan. A set
 
 ## 8. Why Multi-Function Every Piece?
 
-In a small living room, every piece of furniture should do at least two things. A storage ottoman at about $89 CAD replaces both a coffee table and a linen closet in one purchase — the kind of two-for-one that defines every recommendation on this list:
+In a small living room, every piece of furniture should do at least two things — a storage ottoman replacing both a coffee table and a linen closet in one purchase is the kind of two-for-one that defines every recommendation on this list. The fewer single-purpose pieces you own, the more space you have.
 
-- **Storage ottoman** — seating + blanket storage (~$89 CAD at Amazon.ca)
-- **Sideboard with doors** — surface + hidden storage for remotes, chargers, board games
-- **Bookcase as room divider** — separates living/dining areas without a wall
-- **Daybed instead of sofa** — living seating by day, extra sleeping by night
-
-The fewer single-purpose pieces you own, the more space you have.
+For specific multi-function furniture picks and prices, see the [small space furniture guide](/blog/small-space-furniture).
 
 ## 9. Is Removable Wallpaper Worth It for One Accent Wall?
 
