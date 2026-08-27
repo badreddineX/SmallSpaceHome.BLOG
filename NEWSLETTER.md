@@ -31,9 +31,9 @@ Every email footer → /api/unsubscribe?token=…  (GET link + RFC-8058 one-clic
 | `api/confirm.js` | flip `pending`→`active`, send welcome, redirect to `/thank-you?src=newsletter` |
 | `api/unsubscribe.js` | flip any status → `unsubscribed` (GET shows a page, POST = one-click) |
 | `api/_lib/*` | shared db / mail / templates / helpers (the `_` prefix keeps them off the route table) |
-| `src/components/NewsletterForm.astro` | the signup card (end of every post + `/newsletter`) |
+| `src/components/NewsletterForm.astro` | the signup card (rendered at the end of every blog post) |
 | `src/components/Footer.astro` | dark footer signup band **+ the shared submit script for every `.nl-form`** |
-| `src/pages/newsletter.astro` | dedicated landing page, renders `?state=` banners |
+| `src/pages/thank-you.astro` | post-signup / post-confirm landing (`?src=newsletter`, `newsletter-pending`, `newsletter-error`) |
 | `db/schema.sql` | one-time table setup |
 
 The site stays a **static Astro build** — no adapter. Vercel picks up `/api`
