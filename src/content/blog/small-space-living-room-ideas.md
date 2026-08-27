@@ -3,7 +3,7 @@ title: "15 Small Space Living Room Ideas"
 description: "15 practical small living room ideas tested in a real Canadian apartment — renter-friendly, budget-conscious, and built for tight square footage."
 image: "/images/small-studio-living-room-bright.jpg"
 datePublished: "2026-04-02"
-dateModified: "2026-08-27"
+dateModified: "2026-08-26"
 author: "Badreddine Br"
 tags: ["small space living room", "small space living", "small living room ideas", "living room decor small space", "apartment decor", "small space ideas", "renter-friendly", "Canada"]
 featured: true
@@ -146,8 +146,6 @@ Floor clutter is the fastest way to make a small room feel smaller. Every item o
 
 The goal: only the sofa legs, coffee table legs, and rug should touch the floor. Everything else goes in cabinets, on shelves, or in a closet.
 
-
-For the dimensions that actually fit, keep the [Small Apartment Furniture Size Guide](/small-apartment-furniture-size-guide) open while you shop.
 ---
 
 ## The $300 CAD Small Living Room Starter Kit
