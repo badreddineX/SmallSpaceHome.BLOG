@@ -30,7 +30,10 @@ export default defineConfig({
   build: { inlineStylesheets: 'always' },
   integrations: [
     sitemap({
-      filter: (page) => !page.includes('/thank-you') && !page.includes('/404'),
+      filter: (page) =>
+        !page.includes('/thank-you') &&
+        !page.includes('/404') &&
+        !page.includes('/newsletter-feed'),
       serialize(item) {
         const slug = item.url.replace('https://smallspacehome.ca/blog/', '');
         if (postDates[slug]) {
