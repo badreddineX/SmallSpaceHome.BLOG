@@ -140,3 +140,12 @@ A full in-suite system runs $90–$140 CAD. Shared building laundry storage cost
 Laundry storage doesn't need a renovation, just a shelf, a rack, and a place for everything to sit off the floor. Whether you're working with a stacked in-suite closet or hauling supplies down the hall to a shared laundry room, these fixes are all reversible and landlord-safe. Start with the space above your machines, it's the highest-value square footage in the whole closet.
 
 For more no-drill storage across the rest of the apartment, see our full <a href="/blog/storage-ideas-for-small-places">small apartment storage ideas</a> guide, or <a href="/blog/small-apartment-bathroom-storage">small apartment bathroom storage ideas</a> for the room next door.
+
+**More small-space storage guides:**
+
+- [Storage Ideas for Small Places](/blog/storage-ideas-for-small-places) — the full no-drill overview
+- [Under-Bed Storage Ideas](/blog/under-bed-storage-ideas-small-apartment)
+- [Vertical Storage Ideas](/blog/vertical-storage-ideas-small-apartment)
+- [Small Closet Organization for Renters](/blog/small-closet-organization-rental-apartment)
+- [Small Apartment Bathroom Storage](/blog/small-apartment-bathroom-storage)
+- [Storage Bins & Baskets Guide](/blog/small-apartment-storage-bins-baskets-guide)
