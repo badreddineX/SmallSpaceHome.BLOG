@@ -116,28 +116,36 @@ update subscribers set status='unsubscribed', unsubscribed_at=now() where email 
 
 ---
 
-## Weekly digest (built)
+## The weekly email (built)
 
-Auto-generated "what's new on the blog" email. **No hand-writing** — it reads the
-site's own post list and sends only when there's something new.
+Every Monday. **Leads with a curated "idea of the week"** from a queue you write
+ahead of time (`src/content/ideas/*.md`); any posts published since the last
+send follow underneath. Sends if there's an unsent idea OR a new post.
 
 ```
 Vercel Cron (Mon 13:00 UTC)  ──▶  /api/broadcast
-   │ max(covered_through) from issues  →  "last covered" date
-   │ fetch /newsletter-feed.json       →  current post list (title, blurb, image, category)
-   │ posts newer than last-covered, capped at 6
-   │ if none → exit, send nothing
-   │ else → digestEmail() per subscriber (own unsubscribe link)
-   │        sendBatch() via Resend, 100/batch
-   ▼ insert issues row (covered_through = newest post date)
+   │ fetch /newsletter-feed.json  →  recent posts + the idea queue
+   │ next idea whose filename isn't already in issues.idea_slug
+   │ posts newer than max(covered_through), capped at 6
+   │ neither? → skip
+   │ else → digestEmail({ idea, posts }) per subscriber, sendBatch via Resend
+   ▼ insert issues row (idea_slug = the idea used, covered_through = newest post)
 ```
+
+### Writing the weekly ideas
+
+One markdown file per idea in `src/content/ideas/`. Format + the current queue
+are in `src/content/ideas/HOW-TO.txt`. They go out in `order:` sequence, one per
+week, never repeated. When the queue empties and there's no new post, the email
+just skips that week — so keep 3–4 ideas ahead.
 
 | File | Role |
 |---|---|
-| `src/pages/newsletter-feed.json.js` | machine-readable post list (excluded from sitemap) |
+| `src/content/ideas/*.md` | the weekly-idea queue (you write these) |
+| `src/pages/newsletter-feed.json.js` | feed: recent posts + idea queue (sitemap-excluded) |
 | `api/broadcast.js` | the cron endpoint |
 | `api/_lib/resend.js` | Resend batch sender (bulk only) |
-| `api/_lib/templates.js` → `digestEmail()` | the digest layout |
+| `api/_lib/templates.js` → `digestEmail()` | the email layout |
 | `vercel.json` → `crons` | weekly trigger |
 
 ### Setup
@@ -156,6 +164,7 @@ Vercel Cron (Mon 13:00 UTC)  ──▶  /api/broadcast
 3. Run the `issues` table migration in Neon (safe to re-run):
    ```sql
    alter table issues add column if not exists covered_through timestamptz;
+   alter table issues add column if not exists idea_slug text;
    ```
 4. Deploy. Vercel registers the cron from `vercel.json` automatically
    (Project → Settings → Cron Jobs to confirm).
@@ -172,9 +181,9 @@ curl -H "Authorization: Bearer $CRON_SECRET" \
   "https://smallspacehome.ca/api/broadcast"
 ```
 
-First real run: `covered_through` is empty, so it sends the **last 7 days** of
-posts (max 6). To seed the marker without emailing the backlog, insert a row by
-hand first: `insert into issues (slug, subject, covered_through) values ('seed', 'seed', now());`
+First real run with an empty `issues` table sends the last 7 days of posts
+(max 6) plus idea #1. To skip the post backlog, seed the marker first:
+`insert into issues (slug, subject, covered_through) values ('seed', 'seed', now());`
 
 ### Later — shop block
 

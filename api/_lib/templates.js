@@ -41,16 +41,45 @@ function esc(s) {
   );
 }
 
-/**
- * Weekly "new on the blog" digest.
- * @param {{ posts: Array<{title,description,url,image,category}>, unsubUrl: string }} opts
- */
-export function digestEmail({ posts, unsubUrl }) {
-  const count = posts.length;
-  const subject =
-    count === 1 ? `New on ${BRAND}: ${posts[0].title}` : `${count} new small-space guides on ${BRAND}`;
+// Tiny inline-markdown → HTML for the weekly-idea body (**bold**, [text](url),
+// blank-line paragraphs). Not a full parser — the idea files stay simple.
+function ideaBodyHtml(raw) {
+  return String(raw || '')
+    .trim()
+    .split(/\n{2,}/)
+    .map((para) => {
+      const inner = esc(para.replace(/\s*\n\s*/g, ' '))
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" style="color:#8B6F47">$1</a>');
+      return `<p style="margin:0 0 12px;font-size:15px;line-height:1.65;color:#292524">${inner}</p>`;
+    })
+    .join('\n');
+}
 
-  const cards = posts
+/**
+ * The weekly email. Leads with the curated "idea of the week"; any new posts
+ * published since the last send follow as a secondary section. Send when there
+ * is an idea OR new posts (broadcast.js decides).
+ * @param {{ idea?: object|null, posts?: Array, unsubUrl: string }} opts
+ */
+export function digestEmail({ idea = null, posts = [], unsubUrl }) {
+  const subject = idea
+    ? `${idea.title} — ${BRAND}`
+    : posts.length === 1
+      ? `New on ${BRAND}: ${posts[0].title}`
+      : `${posts.length} new small-space guides on ${BRAND}`;
+
+  const ideaBlock = idea
+    ? `
+    <p style="margin:0 0 6px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#8B6F47;font-weight:700">The idea this week</p>
+    <h1 style="margin:0 0 12px;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#1C1917">${esc(idea.title)}${idea.price ? ` <span style="font-family:-apple-system,sans-serif;font-size:12px;font-weight:600;color:#8B6F47;letter-spacing:.04em;white-space:nowrap">· ${esc(idea.price)}</span>` : ''}</h1>
+    ${idea.image ? `<img src="${esc(idea.image)}" alt="" width="448" style="width:100%;max-width:448px;height:auto;border:1px solid #E5DDD3;display:block;margin:0 0 16px">` : ''}
+    ${ideaBodyHtml(idea.body)}
+    ${idea.relatedUrl ? `<p style="margin:14px 0 0"><a href="${esc(idea.relatedUrl)}" style="font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#8B6F47;text-decoration:none">The full guide →</a></p>` : ''}
+  `
+    : '';
+
+  const postCards = posts
     .map(
       (p) => `
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 24px">
@@ -65,24 +94,34 @@ export function digestEmail({ posts, unsubUrl }) {
     )
     .join('\n');
 
+  const postsBlock = posts.length
+    ? `
+    ${idea ? '<div style="border-top:1px solid #EDE8E3;margin:28px 0 24px"></div>' : ''}
+    <p style="margin:0 0 6px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#8B6F47;font-weight:700">${idea ? 'Also new this week' : 'New this week'}</p>
+    ${!idea ? `<p style="margin:0 0 20px;font-size:14px;color:#8a8078">Fresh ${posts.length === 1 ? 'guide' : 'guides'} for small Canadian apartments — renter-friendly, real CAD prices.</p>` : '<div style="height:12px"></div>'}
+    ${postCards}
+  `
+    : '';
+
   const html = shell(
-    `
-    <h1 style="margin:0 0 8px;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#1C1917">${count === 1 ? 'New this week' : "What's new this week"}</h1>
-    <p style="margin:0 0 24px;font-size:14px;color:#8a8078">Fresh ${count === 1 ? 'guide' : 'guides'} for small Canadian apartments — renter-friendly, real CAD prices.</p>
-    ${cards}
-    <p style="margin:24px 0 0;font-size:14px">Browse everything at <a href="${SITE}/blog" style="color:#8B6F47">smallspacehome.ca/blog</a>.</p>
-  `,
+    `${ideaBlock}${postsBlock}
+    <p style="margin:24px 0 0;font-size:14px">Browse everything at <a href="${SITE}/blog" style="color:#8B6F47">smallspacehome.ca/blog</a>.</p>`,
     { unsubUrl }
   );
 
   const text = [
-    count === 1 ? 'New this week on SmallSpace Home' : `What's new this week on SmallSpace Home`,
-    '',
+    idea ? `THE IDEA THIS WEEK: ${idea.title}${idea.price ? ` (${idea.price})` : ''}` : '',
+    idea ? '' : null,
+    idea ? String(idea.body || '').trim() : null,
+    idea && idea.relatedUrl ? `\nFull guide: ${idea.relatedUrl}` : null,
+    posts.length ? `\n${idea ? 'ALSO NEW THIS WEEK' : 'NEW THIS WEEK'}:` : null,
     ...posts.map((p) => `• ${p.title}\n  ${p.url}`),
     '',
     `Browse everything: ${SITE}/blog`,
     `Unsubscribe: ${unsubUrl}`,
-  ].join('\n');
+  ]
+    .filter((l) => l !== null)
+    .join('\n');
 
   return { subject, html, text, listUnsubscribe: unsubUrl };
 }

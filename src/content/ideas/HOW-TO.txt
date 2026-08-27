@@ -1,0 +1,30 @@
+WEEKLY NEWSLETTER IDEAS
+======================
+
+One .md file per weekly email. The broadcast job (api/broadcast.js) sends the
+lowest `order:` number that hasn't gone out yet, one per week. Sent ideas are
+never repeated (tracked by filename in the `issues` table).
+
+Only .md files are picked up — this .txt is ignored.
+
+FORMAT
+------
+---
+title: "The $14 under-bed fix that clears a whole closet"
+order: 1
+price: "$14 CAD"                                        # optional — badge
+image: "/images/baskets-laundry-by-bed.jpg"             # optional — thumb variant auto-used
+relatedPost: "under-bed-storage-ideas-small-apartment"  # optional — "The full guide →" link
+---
+
+Body = the tip. 120-170 words, one concrete thing to do this week. Plain text.
+**Bold** and [links](https://smallspacehome.ca) work. Blank line between paragraphs.
+
+QUEUE
+-----
+1  001-under-bed-bags        Storage
+2  002-over-door-organizers  Organization
+3  003-command-strip-walls   Decor
+4  004-dollarama-finds       Budget Tips
+
+Add the next as 005-... To reorder, change the `order:` numbers.
