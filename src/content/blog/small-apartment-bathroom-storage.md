@@ -3,7 +3,7 @@ title: "Small Apartment Bathroom Storage Ideas"
 description: "Where to buy bathroom storage that works in a small rental: 12 no-drill ideas with real CAD prices from Amazon.ca, IKEA, and HomeSense."
 image: "/images/bathroom-storage-shelves.jpg"
 datePublished: "2026-04-07"
-dateModified: "2026-08-05"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["bathroom storage", "small bathroom storage ideas for renters", "small apartment bathroom", "Canada", "renter-friendly", "apartment storage"]
 featured: false
@@ -224,3 +224,12 @@ Complete steps 1 through 3 of the priority order before purchasing anything else
 → For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget).
 
 → For bedroom-specific storage solutions using the same no-drill principles, see [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas).
+
+**More small-space storage guides:**
+
+- [Storage Ideas for Small Places](/blog/storage-ideas-for-small-places) — the full no-drill overview
+- [Under-Bed Storage Ideas](/blog/under-bed-storage-ideas-small-apartment)
+- [Vertical Storage Ideas](/blog/vertical-storage-ideas-small-apartment)
+- [Small Closet Organization for Renters](/blog/small-closet-organization-rental-apartment)
+- [Small Apartment Laundry Storage](/blog/small-apartment-laundry-storage-ideas)
+- [Storage Bins & Baskets Guide](/blog/small-apartment-storage-bins-baskets-guide)
