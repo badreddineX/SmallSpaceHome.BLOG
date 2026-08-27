@@ -20,16 +20,18 @@ create table if not exists subscribers (
 create index if not exists subscribers_status_idx on subscribers (status);
 create index if not exists subscribers_created_at_idx on subscribers (created_at);
 
--- Log of sent digests, used by api/broadcast.js.
+-- Log of sent weekly emails, used by api/broadcast.js.
 create table if not exists issues (
-  id              bigint generated always as identity primary key,
-  slug            text        not null unique,
-  subject         text        not null,
+  id              bigint        generated always as identity primary key,
+  slug            text          not null unique,
+  subject         text          not null,
   sent_at         timestamptz,
-  recipient_count integer     not null default 0,
-  covered_through timestamptz,                    -- newest post datePublished included in this digest
-  created_at      timestamptz not null default now()
+  recipient_count integer       not null default 0,
+  covered_through timestamptz,                    -- newest post datePublished included
+  idea_slug       text,                           -- which weekly idea went out (never re-sent)
+  created_at      timestamptz   not null default now()
 );
 
--- If `issues` was created before covered_through existed, add it:
+-- If `issues` predates these columns, add them (safe to re-run):
 alter table issues add column if not exists covered_through timestamptz;
+alter table issues add column if not exists idea_slug text;

@@ -26,4 +26,18 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+// Weekly-idea queue for the newsletter. One .md file per idea: frontmatter
+// below, body = the ~150-word tip (plain text / light markdown). They go out
+// in `order` sequence, one per weekly email, and are never re-sent.
+const ideas = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/ideas' }),
+  schema: z.object({
+    title: z.string(),
+    order: z.number(),
+    price: z.string().optional(),          // e.g. "$14 CAD" — shown as a badge
+    image: z.string().optional(),          // /images/... (thumb variant used automatically)
+    relatedPost: z.string().optional(),    // blog slug for the "Full guide →" link
+  }),
+});
+
+export const collections = { blog, ideas };
