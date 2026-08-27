@@ -6,6 +6,7 @@ import SEO from '../components/SEO.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import FAQ from '../components/FAQ.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -161,6 +162,16 @@ if (!image.startsWith('http')) {
             </div>
 
             {faqs.length > 0 && <FAQ questions={faqs} />}
+
+            <!-- Newsletter signup -->
+            <div class="post-newsletter">
+              <NewsletterForm
+                source="post"
+                heading="Get one of these a week"
+                blurb="A single renter-friendly small-space idea in your inbox every week, with real CAD prices. Free, unsubscribe anytime."
+                compact
+              />
+            </div>
 
             <!-- Continue reading -->
             {related.length > 0 && (
@@ -616,6 +627,9 @@ if (!image.startsWith('http')) {
   line-height: 1.6;
 }
 .post-body :global(tr:last-child td) { border-bottom: none; }
+
+/* ── Newsletter signup ── */
+.post-newsletter { margin: 48px 0; }
 
 /* ── Continue reading ── */
 .inline-related {
