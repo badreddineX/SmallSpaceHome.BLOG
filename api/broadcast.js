@@ -87,13 +87,17 @@ export default async function handler(req, res) {
 
     const result = await sendBatch(messages);
 
+    // Only "consume" the idea / advance the post marker if at least one email
+    // actually went out — a fully failed send leaves everything queued so the
+    // next run retries it.
+    const delivered = result.sent > 0;
     const slug = `weekly-${new Date().toISOString().replace(/[:.]/g, '-')}`;
     await sql`
       insert into issues (slug, subject, sent_at, recipient_count, covered_through, idea_slug)
       values (
         ${slug}, ${messages[0].subject}, now(), ${result.sent},
-        ${newestDate ? newestDate.toISOString() : null},
-        ${idea ? idea.slug : null}
+        ${delivered && newestDate ? newestDate.toISOString() : null},
+        ${delivered && idea ? idea.slug : null}
       )
     `;
 
