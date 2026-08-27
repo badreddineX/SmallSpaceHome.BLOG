@@ -1,0 +1,170 @@
+---
+/**
+ * Newsletter signup — markup only. The submit handler that progressively
+ * enhances every `.nl-form` on the page lives in Footer.astro (loaded site-wide),
+ * so this component works anywhere without shipping its own script.
+ *
+ * No-JS: the form does a normal POST to /api/subscribe, which 303-redirects to
+ * /newsletter?state=… where the banner explains what happened.
+ */
+interface Props {
+  source?: string;
+  heading?: string;
+  blurb?: string;
+  compact?: boolean;
+}
+const {
+  source = 'site',
+  heading = 'Small changes, every week',
+  blurb = 'One renter-friendly small-space idea in your inbox each week — with real CAD prices. No spam, unsubscribe anytime.',
+  compact = false,
+} = Astro.props;
+
+const uid = 'nl-' + Math.random().toString(36).slice(2, 9);
+---
+
+<section class:list={['nl', compact && 'nl--compact']} aria-labelledby={`${uid}-h`}>
+  <p class="nl__eyebrow">The SmallSpace Newsletter</p>
+  <h2 class="nl__heading" id={`${uid}-h`}>{heading}</h2>
+  <p class="nl__blurb">{blurb}</p>
+
+  <form class="nl-form" method="POST" action="/api/subscribe" novalidate>
+    <input type="hidden" name="source" value={source} />
+    <div class="nl__hp" aria-hidden="true">
+      <label>Leave this field empty
+        <input type="text" name="company" tabindex="-1" autocomplete="off" />
+      </label>
+    </div>
+
+    <div class="nl__field">
+      <label class="nl__label" for={`${uid}-email`}>Email address</label>
+      <div class="nl__inputrow">
+        <input
+          class="nl__input"
+          type="email"
+          id={`${uid}-email`}
+          name="email"
+          placeholder="you@email.com"
+          autocomplete="email"
+          inputmode="email"
+          required
+        />
+        <button type="submit" class="btn btn-primary nl__btn">Subscribe</button>
+      </div>
+    </div>
+
+    <p class="nl-status" role="status" aria-live="polite" hidden></p>
+
+    <p class="nl__fine">
+      By subscribing you agree to receive the weekly email. Read our
+      <a href="/privacy-policy">Privacy&nbsp;Policy</a>.
+    </p>
+  </form>
+</section>
+
+<style>
+  .nl {
+    background: var(--color-surface);
+    border-top: 2px solid var(--color-accent-dark);
+    padding: 36px 32px 32px;
+  }
+  .nl--compact { padding: 28px 24px 24px; }
+
+  .nl__eyebrow {
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-accent-dark);
+    margin: 0 0 10px;
+  }
+  .nl__heading {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: clamp(1.3rem, 3vw, 1.7rem);
+    line-height: 1.2;
+    color: var(--color-ink);
+    margin: 0 0 10px;
+  }
+  .nl__blurb {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+    margin: 0 0 20px;
+    max-width: 46ch;
+  }
+
+  .nl-form { margin: 0; }
+
+  /* Honeypot — visually gone, still in the tab-less accessibility tree off-screen */
+  .nl__hp {
+    position: absolute;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .nl__label {
+    display: block;
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-ink);
+    margin-bottom: 8px;
+  }
+  .nl__inputrow {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .nl__input {
+    flex: 1 1 220px;
+    min-width: 0;
+    background: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: 0;
+    padding: 12px 14px;
+    font-family: var(--font-body);
+    font-size: 16px;
+    color: var(--color-ink);
+    outline: none;
+    transition: border-color var(--transition);
+    -webkit-appearance: none;
+    appearance: none;
+  }
+  .nl__input::placeholder { color: var(--color-text-muted); }
+  .nl__input:focus { border-color: var(--color-ink); }
+  .nl__input[aria-invalid='true'] { border-color: #B2452F; }
+
+  .nl__btn {
+    flex: 0 0 auto;
+    min-height: 46px;
+  }
+
+  .nl-status {
+    margin: 14px 0 0;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    padding: 10px 14px;
+    border-left: 3px solid var(--color-border);
+    background: var(--color-white);
+  }
+  .nl-status--ok  { border-left-color: var(--color-primary-dark); color: var(--color-text); }
+  .nl-status--err { border-left-color: #B2452F; color: #8A3423; }
+
+  .nl__fine {
+    margin: 14px 0 0;
+    font-size: 0.72rem;
+    line-height: 1.6;
+    color: var(--color-text-faint);
+  }
+  .nl__fine a { color: var(--color-accent-dark); text-decoration: underline; text-underline-offset: 2px; }
+
+  @media (max-width: 480px) {
+    .nl { padding: 28px 20px 24px; }
+    .nl__inputrow { flex-direction: column; }
+    .nl__btn { width: 100%; }
+  }
+</style>

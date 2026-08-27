@@ -1,0 +1,208 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+import '../styles/global.css';
+
+const faqs = [
+  {
+    q: 'How often will I get an email?',
+    a: 'Once a week. One idea per issue — never a digest of ten links.',
+  },
+  {
+    q: 'What kind of ideas?',
+    a: 'Renter-friendly, no-drill fixes for small Canadian apartments: storage, layout, decor, and the occasional budget find — always with the real CAD price.',
+  },
+  {
+    q: 'Is it free?',
+    a: 'Yes, completely free. No paid tier, no upsell.',
+  },
+  {
+    q: 'Can I unsubscribe?',
+    a: 'Any time — there is a one-click unsubscribe link at the bottom of every email, and it takes effect immediately.',
+  },
+];
+---
+
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="The SmallSpace Newsletter — one small-space idea a week"
+      description="A free weekly email for Canadian apartment renters: one renter-friendly, no-drill small-space idea per issue, with real CAD prices. Unsubscribe anytime."
+      path="/newsletter"
+      type="website"
+    />
+  </head>
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MCBQG6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <Header />
+
+    <main class="nlp">
+      <div class="container nlp-inner">
+
+        <div id="nlp-banner" class="nlp-banner" hidden role="status"></div>
+
+        <section class="nlp-hero">
+          <span class="nlp-eyebrow">Free weekly email</span>
+          <h1 class="nlp-h1">One small-space idea, every week</h1>
+          <p class="nlp-lede">
+            Renting a small apartment in Canada means every decision counts — what fits,
+            what's allowed, what's worth the money. Each week I send one idea I've actually
+            tested in a real rental: no drilling, real CAD prices, no filler.
+          </p>
+        </section>
+
+        <div class="nlp-form-wrap">
+          <NewsletterForm
+            source="newsletter-page"
+            heading="Join the list"
+            blurb="Free, one email a week, unsubscribe in one click. Your address is never shared or sold."
+          />
+        </div>
+
+        <section class="nlp-what">
+          <h2 class="nlp-h2">What you get</h2>
+          <ul class="nlp-list">
+            <li><strong>One idea per issue.</strong> A single small-space fix, explained start to finish — not a link dump.</li>
+            <li><strong>Real prices.</strong> Every product mentioned comes with its current CAD price and where to buy it.</li>
+            <li><strong>Renter-safe.</strong> No drilling, no permanent changes, nothing you can't undo on move-out day.</li>
+            <li><strong>Numbered archive.</strong> Issues are numbered, so the collection builds into a reference over time.</li>
+          </ul>
+        </section>
+
+        <section class="nlp-faq">
+          <h2 class="nlp-h2">Questions</h2>
+          <dl class="nlp-faq-list">
+            {faqs.map((f) => (
+              <div class="nlp-faq-item">
+                <dt>{f.q}</dt>
+                <dd>{f.a}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+
+      </div>
+    </main>
+
+    <Footer />
+
+    <script is:inline>
+      (function () {
+        const params = new URLSearchParams(window.location.search);
+        const state = params.get('state');
+        if (!state) return;
+        const el = document.getElementById('nlp-banner');
+        if (!el) return;
+        const map = {
+          pending: ['ok', 'Almost there — check your inbox and click the confirmation link to finish subscribing.'],
+          already_subscribed: ['ok', "You're already on the list. Thanks!"],
+          invalid_email: ['err', 'That email address did not look valid. Please try again.'],
+          error: ['err', 'Something went wrong on our end. Please try again in a moment.'],
+        };
+        const hit = map[state] || map.error;
+        el.textContent = hit[1];
+        el.classList.add(hit[0] === 'ok' ? 'nlp-banner--ok' : 'nlp-banner--err');
+        el.hidden = false;
+        // Clean the URL so a refresh doesn't re-show the banner.
+        window.history.replaceState({}, '', '/newsletter');
+      })();
+    </script>
+
+    <style>
+      .nlp { padding: 0 0 80px; background: var(--color-bg); }
+      .nlp-inner { max-width: 680px; }
+
+      .nlp-banner {
+        margin: 28px 0 0;
+        padding: 14px 18px;
+        font-size: 0.9rem;
+        line-height: 1.6;
+        border-left: 3px solid var(--color-border);
+        background: var(--color-white);
+      }
+      .nlp-banner--ok  { border-left-color: var(--color-primary-dark); color: var(--color-text); }
+      .nlp-banner--err { border-left-color: #B2452F; color: #8A3423; }
+
+      .nlp-hero { padding: 56px 0 32px; }
+      .nlp-eyebrow {
+        font-family: var(--font-body);
+        font-size: 0.62rem;
+        font-weight: 500;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        color: var(--color-accent-dark);
+        display: block;
+      }
+      .nlp-h1 {
+        font-family: var(--font-display);
+        font-style: italic;
+        font-size: clamp(1.9rem, 5vw, 2.8rem);
+        line-height: 1.14;
+        color: var(--color-ink);
+        margin: 10px 0 18px;
+        letter-spacing: -0.02em;
+      }
+      .nlp-lede {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: var(--color-text-muted);
+        margin: 0;
+      }
+
+      .nlp-form-wrap { margin: 8px 0 56px; }
+
+      .nlp-h2 {
+        font-family: var(--font-display);
+        font-style: italic;
+        font-size: clamp(1.3rem, 3vw, 1.7rem);
+        color: var(--color-ink);
+        margin: 0 0 20px;
+      }
+      .nlp-what { padding: 8px 0 40px; border-top: 1px solid var(--color-border); }
+      .nlp-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 16px; }
+      .nlp-list li {
+        font-size: 0.98rem;
+        line-height: 1.7;
+        color: var(--color-text);
+        padding-left: 22px;
+        position: relative;
+      }
+      .nlp-list li::before {
+        content: '→';
+        position: absolute;
+        left: 0;
+        color: var(--color-accent-dark);
+      }
+      .nlp-list strong { color: var(--color-ink); }
+
+      .nlp-faq { padding: 32px 0 0; border-top: 1px solid var(--color-border); }
+      .nlp-faq-list { margin: 0; }
+      .nlp-faq-item { padding: 18px 0; border-bottom: 1px solid var(--color-border-light); }
+      .nlp-faq-item:last-child { border-bottom: none; }
+      .nlp-faq-item dt {
+        font-weight: 600;
+        font-size: 0.98rem;
+        color: var(--color-ink);
+        margin-bottom: 6px;
+      }
+      .nlp-faq-item dd {
+        margin: 0;
+        font-size: 0.92rem;
+        line-height: 1.7;
+        color: var(--color-text-muted);
+      }
+
+      @media (max-width: 640px) {
+        .nlp-hero { padding: 36px 0 24px; }
+        .nlp-form-wrap { margin-bottom: 40px; }
+      }
+    </style>
+  </body>
+</html>

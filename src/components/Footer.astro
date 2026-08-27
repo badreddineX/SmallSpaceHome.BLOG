@@ -31,6 +31,42 @@ const organizationJsonLd = JSON.stringify({
 
 <footer class="site-footer">
 
+  <!-- Newsletter band -->
+  <div class="footer-nl-band">
+    <div class="container footer-nl-inner">
+      <div class="footer-nl-copy">
+        <p class="footer-nl-eyebrow">The SmallSpace Newsletter</p>
+        <p class="footer-nl-head">One small-space idea a week — with real CAD prices.</p>
+        <p class="footer-nl-sub">Renter-friendly fixes, no spam, unsubscribe anytime.</p>
+      </div>
+      <form class="nl-form footer-nl-form" method="POST" action="/api/subscribe" novalidate>
+        <input type="hidden" name="source" value="footer" />
+        <span class="footer-nl-hp" aria-hidden="true">
+          <label>Leave empty<input type="text" name="company" tabindex="-1" autocomplete="off" /></label>
+        </span>
+        <label class="sr-only" for="footer-nl-email">Email address</label>
+        <div class="footer-nl-row">
+          <input
+            class="footer-nl-input"
+            type="email"
+            id="footer-nl-email"
+            name="email"
+            placeholder="you@email.com"
+            autocomplete="email"
+            inputmode="email"
+            required
+          />
+          <button type="submit" class="footer-nl-btn">Subscribe</button>
+        </div>
+        <p class="nl-status footer-nl-status" role="status" aria-live="polite" hidden></p>
+        <p class="footer-nl-fine">
+          By subscribing you agree to receive the weekly email. See our
+          <a href="/privacy-policy">Privacy Policy</a>.
+        </p>
+      </form>
+    </div>
+  </div>
+
   <!-- Top band -->
   <div class="footer-top">
     <div class="container footer-top-inner">
@@ -87,6 +123,7 @@ const organizationJsonLd = JSON.stringify({
         <div class="footer-col">
           <span class="footer-col-label">Site</span>
           <a href="/about">About</a>
+          <a href="/newsletter">Newsletter</a>
           <a href="/author">Author</a>
           <a href="/contact">Contact</a>
           <a href="/editorial-policy">Editorial Policy</a>
@@ -104,6 +141,119 @@ const organizationJsonLd = JSON.stringify({
 .site-footer {
   background: var(--color-dark);
   margin-top: 0;
+}
+
+/* ── Newsletter band ── */
+.footer-nl-band {
+  background: #262019;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  padding: 40px 0;
+}
+.footer-nl-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 48px;
+}
+.footer-nl-copy { flex: 1 1 300px; }
+.footer-nl-eyebrow {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin: 0 0 10px;
+}
+.footer-nl-head {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.15rem;
+  line-height: 1.35;
+  color: rgba(255,255,255,0.92);
+  margin: 0 0 6px;
+}
+.footer-nl-sub {
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.45);
+  margin: 0;
+  font-weight: 300;
+}
+.footer-nl-form { flex: 1 1 360px; max-width: 420px; margin: 0; }
+.footer-nl-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.footer-nl-row { display: flex; gap: 10px; flex-wrap: wrap; }
+.footer-nl-input {
+  flex: 1 1 200px;
+  min-width: 0;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.16);
+  border-radius: 0;
+  padding: 12px 14px;
+  font-family: var(--font-body);
+  font-size: 16px;
+  color: #fff;
+  outline: none;
+  transition: border-color var(--transition), background var(--transition);
+  -webkit-appearance: none;
+  appearance: none;
+}
+.footer-nl-input::placeholder { color: rgba(255,255,255,0.4); }
+.footer-nl-input:focus { border-color: var(--color-accent); background: rgba(255,255,255,0.09); }
+.footer-nl-input[aria-invalid='true'] { border-color: #E0997F; }
+.footer-nl-btn {
+  flex: 0 0 auto;
+  min-height: 46px;
+  padding: 12px 24px;
+  background: var(--color-accent-dark);
+  color: #fff;
+  border: 1.5px solid var(--color-accent-dark);
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+.footer-nl-btn:hover { background: #7a6040; border-color: #7a6040; }
+.footer-nl-btn:disabled { opacity: 0.6; cursor: default; }
+.footer-nl-status {
+  margin: 12px 0 0;
+  font-size: 0.82rem;
+  line-height: 1.55;
+  padding: 9px 12px;
+  background: rgba(255,255,255,0.05);
+  border-left: 3px solid rgba(255,255,255,0.2);
+  color: rgba(255,255,255,0.8);
+}
+.footer-nl-status.nl-status--ok  { border-left-color: var(--color-primary); }
+.footer-nl-status.nl-status--err { border-left-color: #E0997F; color: #F0C4B6; }
+.footer-nl-fine {
+  margin: 12px 0 0;
+  font-size: 0.68rem;
+  line-height: 1.6;
+  color: rgba(255,255,255,0.35);
+}
+.footer-nl-fine a { color: rgba(255,255,255,0.6); text-decoration: underline; text-underline-offset: 2px; }
+.footer-nl-fine a:hover { color: #fff; }
+
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 860px) {
+  .footer-nl-inner { flex-direction: column; gap: 24px; }
+  .footer-nl-form { max-width: 100%; width: 100%; }
+}
+@media (max-width: 480px) {
+  .footer-nl-row { flex-direction: column; }
+  .footer-nl-btn { width: 100%; }
 }
 
 /* ── Top ── */
@@ -377,5 +527,80 @@ const organizationJsonLd = JSON.stringify({
     // Nothing to do here -- analytics/Clarity were never loaded, and stay
     // that way (Consent Mode default in SEO.astro is already 'denied').
   });
+})();
+</script>
+
+<!-- ── Newsletter signup — progressive enhancement for every .nl-form on the page ── -->
+<script>
+(function () {
+  const forms = document.querySelectorAll('form.nl-form');
+  if (!forms.length) return;
+
+  const MSG: Record<string, string> = {
+    pending: 'Almost there — check your inbox and click the confirmation link.',
+    already_subscribed: "You're already on the list. Thanks!",
+    invalid_email: 'Please enter a valid email address.',
+    error: 'Something went wrong. Please try again in a moment.',
+    network: 'Network error — please try again.',
+  };
+
+  forms.forEach((formEl) => {
+    const form = formEl as HTMLFormElement;
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const btn = form.querySelector('button[type="submit"]') as HTMLButtonElement | null;
+      const status = form.querySelector('.nl-status') as HTMLElement | null;
+      const email = form.querySelector('input[name="email"]') as HTMLInputElement | null;
+      const company = form.querySelector('input[name="company"]') as HTMLInputElement | null;
+      const source = form.querySelector('input[name="source"]') as HTMLInputElement | null;
+
+      if (company && company.value) return;           // bot
+      if (!email) return;
+
+      if (!email.value || !email.checkValidity()) {
+        email.setAttribute('aria-invalid', 'true');
+        show(status, MSG.invalid_email, 'err');
+        email.focus();
+        return;
+      }
+      email.removeAttribute('aria-invalid');
+
+      const label = btn ? btn.textContent : '';
+      if (btn) { btn.disabled = true; btn.textContent = 'Subscribing…'; }
+
+      try {
+        const r = await fetch(form.action, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({
+            email: email.value,
+            source: source ? source.value : 'site',
+            company: '',
+          }),
+        });
+        const data = (await r.json().catch(() => ({}))) as { ok?: boolean; state?: string; error?: string };
+
+        if (r.ok && data.ok) {
+          show(status, MSG[data.state ?? ''] || MSG.pending, 'ok');
+          form.reset();
+        } else {
+          show(status, MSG[data.error ?? ''] || MSG.error, 'err');
+        }
+      } catch (err) {
+        show(status, MSG.network, 'err');
+      } finally {
+        if (btn) { btn.disabled = false; btn.textContent = label; }
+      }
+    });
+  });
+
+  function show(el: HTMLElement | null, msg: string, kind: 'ok' | 'err') {
+    if (!el) return;
+    el.textContent = msg;
+    el.hidden = false;
+    el.classList.remove('nl-status--ok', 'nl-status--err');
+    el.classList.add(kind === 'ok' ? 'nl-status--ok' : 'nl-status--err');
+  }
 })();
 </script>
