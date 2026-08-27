@@ -1,10 +1,20 @@
 import { neon } from '@neondatabase/serverless';
 
-// Neon's HTTP driver — one round trip per query, no pooling to manage, which is
-// exactly right for short-lived serverless invocations. DATABASE_URL is the
-// POOLED connection string from the Neon dashboard (…-pooler.…).
-if (!process.env.DATABASE_URL) {
-  console.warn('[newsletter] DATABASE_URL is not set — subscribe/confirm/unsubscribe will fail.');
+// Neon's HTTP driver. DATABASE_URL is the POOLED connection string.
+// Lazy so a missing/blank env var surfaces as a caught JSON 500 in the route
+// (with a useful message) instead of crashing the whole function at import.
+let _client;
+
+function client() {
+  if (!_client) {
+    const url = process.env.DATABASE_URL;
+    if (!url) throw new Error('DATABASE_URL is not set');
+    _client = neon(url);
+  }
+  return _client;
 }
 
-export const sql = neon(process.env.DATABASE_URL || '');
+// Tagged-template passthrough: `sql\`select ...\`` works exactly as before.
+export function sql(strings, ...values) {
+  return client()(strings, ...values);
+}
