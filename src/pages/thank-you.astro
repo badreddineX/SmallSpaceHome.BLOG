@@ -49,11 +49,23 @@ import '../styles/global.css';
     <Footer />
 
     <script>
-      if (new URLSearchParams(window.location.search).get('src') === 'newsletter') {
-        document.getElementById('ty-title')!.textContent = 'Subscribed — SmallSpace Home';
-        document.getElementById('ty-heading')!.textContent = "You're subscribed!";
-        document.getElementById('ty-body')!.textContent =
-          "Thanks for joining — new ideas for small Canadian apartments will land straight in your inbox, no spam.";
+      const src = new URLSearchParams(window.location.search).get('src');
+      const setTY = (title: string, heading: string, body: string) => {
+        document.getElementById('ty-title')!.textContent = title;
+        document.getElementById('ty-heading')!.textContent = heading;
+        document.getElementById('ty-body')!.textContent = body;
+      };
+      if (src === 'newsletter') {
+        // Reached after clicking the confirmation link — subscription is live.
+        setTY('Subscribed — SmallSpace Home', "You're subscribed!",
+          "Thanks for confirming — new ideas for small Canadian apartments will land straight in your inbox, no spam.");
+      } else if (src === 'newsletter-pending') {
+        // No-JS signup fallback — still needs to confirm.
+        setTY('Almost there — SmallSpace Home', 'Almost there!',
+          "Check your inbox and click the confirmation link to finish subscribing.");
+      } else if (src === 'newsletter-error') {
+        setTY('Something went wrong — SmallSpace Home', 'Hmm, that didn’t work',
+          "Something went wrong signing you up. Please try again in a moment.");
       }
     </script>
   </body>

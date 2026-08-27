@@ -8,7 +8,7 @@ create table if not exists subscribers (
   status           text        not null default 'pending'
                                 check (status in ('pending', 'active', 'unsubscribed')),
   token            text        not null unique,
-  source           text,                         -- where they signed up: 'footer', 'post', 'newsletter-page', ...
+  source           text,                         -- where they signed up: 'footer', 'post', ...
   consent_ip       text,                         -- CASL: proof-of-consent record
   consent_ua       text,
   created_at       timestamptz not null default now(),

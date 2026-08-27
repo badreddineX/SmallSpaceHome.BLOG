@@ -65,9 +65,11 @@ export default async function handler(req, res) {
 
 function done(res, wantsJson, status, payload) {
   if (wantsJson) return res.status(status).json(payload);
-  // No-JS <form> fallback: bounce back to the newsletter page with a state flag.
-  const state = payload.ok ? payload.state || 'pending' : payload.error || 'error';
+  // No-JS <form> fallback → the thank-you page.
+  //   ok  → "check your inbox to confirm"  (src=newsletter-pending)
+  //   err → generic error notice           (src=newsletter-error)
+  const src = payload.ok ? 'newsletter-pending' : 'newsletter-error';
   res.statusCode = 303;
-  res.setHeader('Location', `/newsletter?state=${encodeURIComponent(state)}`);
+  res.setHeader('Location', `/thank-you?src=${src}`);
   return res.end();
 }

@@ -5,7 +5,7 @@
  * so this component works anywhere without shipping its own script.
  *
  * No-JS: the form does a normal POST to /api/subscribe, which 303-redirects to
- * /newsletter?state=… where the banner explains what happened.
+ * /thank-you?src=newsletter-pending (or …-error).
  */
 interface Props {
   source?: string;
