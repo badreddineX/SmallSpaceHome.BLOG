@@ -3,7 +3,7 @@ title: "Where to Buy Small-Space Storage Furniture"
 description: "Real Canadian retailers for hidden storage furniture, by piece and by budget — where to buy, what it actually costs, and what to skip."
 image: "/images/storage-ottoman.jpg"
 datePublished: "2026-08-17"
-dateModified: "2026-08-17"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["storage furniture", "where to buy storage furniture", "hidden storage furniture", "small space furniture", "Canada", "renter-friendly"]
 featured: false
@@ -29,6 +29,8 @@ If you want the reasoning behind which piece to buy first and how much storage e
 
 **TL;DR:** IKEA is cheapest for flat-pack pieces (BESTÅ console, KALLAX, LACK). Amazon.ca and Wayfair Canada are best for pre-assembled ottomans and lift-top coffee tables. HomeSense is the wildcard — check in person for one-off finished pieces at a discount. Facebook Marketplace beats all of them on price for secondhand ottomans and console tables, if you're willing to wait and pick up in person.
 
+
+For the dimensions that actually fit, keep the [Small Apartment Furniture Size Guide](/small-apartment-furniture-size-guide) open while you shop.
 ---
 
 ## Where to Buy, by Retailer

@@ -1,0 +1,182 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+
+// Small-space dimensions + the walkway clearance each piece actually needs.
+// Sizes in inches (cm) — the way furniture is sold in Canada.
+const pieces = [
+  { piece: 'Sofa', size: '2-seat / loveseat 52–66" wide. Apartment sofa: 72" max.',
+    clearance: '30" (76 cm) walkway in front. 14–18" gap to the coffee table.',
+    example: 'IKEA EKENÄSET (58"), Article Sven (72")', link: '/blog/small-space-furniture' },
+  { piece: 'Coffee table', size: 'About ⅔ the sofa’s width. 18–20" deep. Round if the room is a walk-through.',
+    clearance: '14–18" between it and the sofa; 30" on the walking side.',
+    example: 'Nesting tables so one tucks away', link: '/blog/small-space-living-room-ideas' },
+  { piece: 'Dining table', size: '2 people: 30" square. 4 people: 36–44" round. Drop-leaf for flexibility.',
+    clearance: '36" (91 cm) behind each chair to pull out and stand. 24" absolute minimum.',
+    example: 'IKEA DOCKSTA (40" round), INGATORP (drop-leaf)', link: '/blog/small-space-furniture' },
+  { piece: 'Bed', size: 'Double/Full 54×75". Queen 60×80" — needs a 10×12 ft room minimum.',
+    clearance: '24" (61 cm) walkway on at least one side; 30" if you want both sides.',
+    example: 'Storage bed frame to reclaim the floor', link: '/blog/storage-bed-buying-guide-small-studio' },
+  { piece: 'Nightstand', size: '16–20" wide. Under 16" of clearance: use a floating shelf instead.',
+    clearance: 'Should not block the bedroom door swing or a closet door.',
+    example: 'Wall-mounted shelf + a small lamp', link: '/blog/small-apartment-bedroom-storage-ideas' },
+  { piece: 'Desk', size: '40–48" wide × 20–24" deep. A laptop-only setup works at 30".',
+    clearance: '30–36" behind it for the chair to roll back.',
+    example: 'IKEA MICKE (42"), a wall-mounted fold-down', link: '/blog/small-apartment-home-office-ideas' },
+  { piece: 'Bookshelf / storage', size: '32" wide or less. Tall, not deep — 11–12" deep is plenty.',
+    clearance: 'Keep 24" clear of any door that swings toward it.',
+    example: 'IKEA BILLY (16" or 32"), KALLAX on its side', link: '/blog/vertical-storage-ideas-small-apartment' },
+  { piece: 'TV / media console', size: 'Screen size (inches) ÷ 2 = minimum viewing distance in feet. Console 12–16" deep.',
+    clearance: 'Mount the TV to skip the console depth entirely.',
+    example: 'A KALLAX unit doubles as a room divider', link: '/blog/small-living-room-storage-solutions' },
+  { piece: 'Armchair', size: '28–32" wide for a small room — not the 36"+ "comfy" showroom ones.',
+    clearance: '30" walkway around it; don’t block a path with it.',
+    example: 'A slipper chair or a compact accent chair', link: '/blog/small-space-living-room-ideas' },
+  { piece: 'Entryway bench', size: '30–42" wide × 14–16" deep. Shoe storage underneath.',
+    clearance: 'Leave the front door a clear 90° swing.',
+    example: 'IKEA TJUSIG bench, or a KALLAX 2×1', link: '/blog/small-entryway-hallway-storage-ideas' },
+];
+---
+
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title="Small Apartment Furniture Size Guide — What Actually Fits"
+      description="A printable cheat sheet of small-space furniture dimensions and the walkway clearance each piece needs — sofas, dining tables, beds, desks and more, sized for a small Canadian apartment."
+      path="/small-apartment-furniture-size-guide"
+      type="website"
+    />
+  </head>
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MCBQG6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <Header />
+
+    <main class="fsg">
+      <div class="fsg-inner">
+
+        <header class="fsg-head no-print">
+          <span class="fsg-eyebrow">Free printable</span>
+          <h1 class="fsg-h1">Small Apartment Furniture Size Guide</h1>
+          <p class="fsg-sub">
+            The single most common small-space mistake is buying furniture that "fits"
+            the wall but blocks the room. This is the cheat sheet: the sizes that work
+            in a small Canadian apartment, and the walkway clearance each piece needs
+            around it. Print it and take it furniture shopping.
+          </p>
+          <button class="btn btn-primary fsg-print" onclick="window.print()">Print or Save as PDF</button>
+        </header>
+
+        <section class="fsg-rules">
+          <h2>Four rules that save you a return trip</h2>
+          <ol>
+            <li><strong>Main walkways: 30" (76 cm). Tight paths: 24" (61 cm) minimum.</strong> Measure the path, not just the gap for the furniture.</li>
+            <li><strong>Buy furniture with legs.</strong> Raised pieces let the floor show through and read far lighter than skirted or boxy ones.</li>
+            <li><strong>Scale down one size</strong> from whatever the showroom suggests. Showrooms are huge; your apartment isn't.</li>
+            <li><strong>Measure the doorway, hallway, elevator and stairwell first.</strong> "Will it get in" beats "will it fit" — check before you buy, not on delivery day.</li>
+          </ol>
+        </section>
+
+        <section class="fsg-table-wrap">
+          <table class="fsg-table">
+            <thead>
+              <tr><th>Piece</th><th>Small-space size</th><th>Clearance it needs</th></tr>
+            </thead>
+            <tbody>
+              {pieces.map((p) => (
+                <tr>
+                  <th scope="row">
+                    <span class="fsg-piece">{p.piece}</span>
+                    <a class="fsg-link no-print" href={p.link}>Guide →</a>
+                  </th>
+                  <td>{p.size}<br /><span class="fsg-eg">e.g. {p.example}</span></td>
+                  <td>{p.clearance}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </section>
+
+        <section class="fsg-checklist no-print">
+          <h2>Before you buy anything</h2>
+          <ul>
+            <li>Tape out the footprint on your floor with painter's tape — live with it for a day.</li>
+            <li>Write down the width of your narrowest doorway and hallway turn.</li>
+            <li>Check the piece's <em>diagonal depth</em> (corner to corner) — that's what has to clear a doorway.</li>
+            <li>For anything upholstered, confirm the return policy before ordering online.</li>
+          </ul>
+          <p class="fsg-back">
+            More on choosing pieces: <a href="/blog/small-space-furniture">small space furniture</a> ·
+            <a href="/blog/where-to-buy-small-space-storage-furniture">where to buy it in Canada</a>
+          </p>
+        </section>
+
+      </div>
+    </main>
+
+    <Footer />
+
+    <style>
+      .fsg { background: var(--color-bg); padding: 0 0 80px; }
+      .fsg-inner { max-width: 820px; margin: 0 auto; padding: 0 24px; }
+
+      .fsg-head { padding: 56px 0 8px; max-width: 620px; }
+      .fsg-eyebrow {
+        display: block; font-family: var(--font-body); font-size: 0.62rem;
+        font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase;
+        color: var(--color-accent-dark); margin-bottom: 10px;
+      }
+      .fsg-h1 {
+        font-family: var(--font-display); font-size: clamp(1.8rem, 4vw, 2.6rem);
+        color: var(--color-ink); margin: 0 0 16px; line-height: 1.15;
+      }
+      .fsg-sub { font-size: 1rem; line-height: 1.75; color: var(--color-text-muted); margin: 0 0 24px; }
+      .fsg-print { font-size: 0.72rem; }
+
+      .fsg-rules { margin: 40px 0; padding: 28px 32px; background: var(--color-surface); border-top: 2px solid var(--color-accent-dark); }
+      .fsg-rules h2, .fsg-checklist h2 {
+        font-family: var(--font-display); font-style: italic;
+        font-size: clamp(1.2rem, 3vw, 1.5rem); color: var(--color-ink); margin: 0 0 16px;
+      }
+      .fsg-rules ol { margin: 0; padding-left: 1.3rem; }
+      .fsg-rules li { font-size: 0.95rem; line-height: 1.7; color: var(--color-text); margin-bottom: 12px; }
+      .fsg-rules li:last-child { margin-bottom: 0; }
+      .fsg-rules strong { color: var(--color-ink); }
+
+      .fsg-table-wrap { overflow-x: auto; margin: 32px 0; }
+      .fsg-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; min-width: 560px; }
+      .fsg-table thead th {
+        text-align: left; padding: 10px 14px; background: var(--color-surface);
+        font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase;
+        color: var(--color-text-muted); border-bottom: 2px solid var(--color-border);
+      }
+      .fsg-table tbody th, .fsg-table td {
+        padding: 14px; border-bottom: 1px solid var(--color-border);
+        vertical-align: top; text-align: left; line-height: 1.6; color: var(--color-text);
+      }
+      .fsg-table tbody th { width: 120px; }
+      .fsg-piece { display: block; font-family: var(--font-display); font-weight: 700; color: var(--color-ink); font-size: 0.98rem; }
+      .fsg-link { font-size: 0.72rem; color: var(--color-accent-dark); text-decoration: none; }
+      .fsg-link:hover { text-decoration: underline; }
+      .fsg-eg { color: var(--color-text-muted); font-size: 0.82rem; }
+
+      .fsg-checklist { margin-top: 36px; padding-top: 24px; border-top: 1px solid var(--color-border); }
+      .fsg-checklist ul { margin: 0 0 16px; padding-left: 1.3rem; }
+      .fsg-checklist li { font-size: 0.95rem; line-height: 1.7; color: var(--color-text); margin-bottom: 8px; }
+      .fsg-back { font-size: 0.9rem; color: var(--color-text-muted); }
+      .fsg-back a { color: var(--color-accent-dark); }
+
+      @media print {
+        .no-print { display: none !important; }
+        .fsg { padding: 0; }
+        .fsg-rules { background: none; border: 1px solid #000; }
+        .fsg-table thead th { background: none; }
+      }
+    </style>
+  </body>
+</html>
