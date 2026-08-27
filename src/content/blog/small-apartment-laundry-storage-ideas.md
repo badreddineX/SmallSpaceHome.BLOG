@@ -3,7 +3,7 @@ title: "Small Apartment Laundry Storage Ideas"
 description: "Small apartment laundry storage ideas for tight in-suite closets and shared building laundry rooms — no-drill, renter-friendly, with real Canadian prices."
 image: "/images/blog-09-img2.jpg"
 datePublished: "2026-05-22"
-dateModified: "2026-07-27"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["laundry storage", "laundry closet organization", "small apartment", "renter-friendly", "in suite laundry", "Canada", "organization"]
 featured: false
@@ -102,6 +102,22 @@ Sorting laundry without a mudroom or laundry room means using stackable bins or 
 Place the hamper inside a closet on a slim shelf, using the same vertical-storage logic covered in our <a href="/blog/small-apartment-organization">small apartment organization guide</a>, so it doesn't eat floor space in the bedroom itself.
 
 **Cost:** IKEA JÄLL 3-section laundry bag stand, ~$40 CAD.
+
+## Laundry Storage Mistakes to Avoid
+
+A few habits show up in almost every stacked-unit closet I've fixed, and they're worth flagging before you buy anything.
+
+- **Mounting a shelf too close to the dryer vent.** Dryer vents need clearance to exhaust properly, and a shelf installed too low can block airflow or trap lint near the heat source. Measure the vent clearance before you buy a tension shelf, not after it's already braced in place.
+- **Overloading a door rack with full detergent jugs on the top hook.** Weight belongs low. A rack loaded top-heavy pulls on the door hinge over months and eventually sags or falls, taking everything on it down at once.
+- **Buying a rolling cart before measuring the gap beside the unit.** The IKEA RASKOG is narrow, but "narrow" still varies by a few centimetres between apartment layouts. A cart that's a centimetre too wide won't clear the dryer door swing, and you'll be returning it.
+- **Storing dryer sheets or detergent pods somewhere humid.** A laundry closet already runs warmer and more humid than the rest of the apartment. Pods left in an open bag can clump, and cardboard boxes of powder detergent can soften. A sealed bin on the shelf solves this for under $10 CAD.
+- **Skipping a lint trap for the door rack's fabric pockets.** Fabric organizers collect lint and dust fast in a laundry closet specifically. A quick wipe-down once a month keeps the rack looking new instead of grey.
+
+## How Do You Keep a Small Laundry Closet From Sliding Back Into Clutter?
+
+A laundry closet is one of the fastest spaces in an apartment to backslide, since it's usually out of sight and gets used in a rush between other chores. The fix isn't a bigger system, it's a five-minute weekly reset: wipe the shelf, refold the door-rack pockets, and empty the lint trap on the dryer itself, not just the machine's built-in one.
+
+Doing this on the same day each week, right before or after a laundry load, takes less time than reorganizing the whole closet later once it's fully cluttered again. Pair it with the caddy system above if you're using a shared building laundry room, so supplies never end up scattered across two locations.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "12 Plant Corner Ideas for Small Apartments"
-description: "Renter-friendly, low-light plant corner ideas for Toronto, Vancouver, and Montreal apartments under $50."
+description: "Renter-friendly, low-light plant corner ideas for small Canadian apartments under $50."
 image: "/images/windowsill-houseplants-corner.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-07-30"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["plant corner", "small space plants", "Canada", "small space", "low-light plants"]
 featured: false
@@ -23,7 +23,7 @@ faqs:
     a: "Choose plants with thick, waxy leaves like ZZ plants or parlor palms. Avoid overly moist soil — let the top inch dry before watering. If you see fungus gnats, top-dress with sand or sprinkle cinnamon, both under $10 CAD at local garden centers."
 ---
 
-You’re not alone if your apartment’s darkest corner currently houses a forgotten umbrella, a stack of expired grocery bags, or nothing at all. Low natural light is a real complaint in a lot of older Canadian rental stock, especially in Toronto, Vancouver, and Montreal buildings from before 1990. I’ve tested plant corners in three different 500 sq. ft. rentals across these cities, including one with *zero* direct sunlight hitting the living room corner where I kept a snake plant for two years.
+You're not alone if your apartment's darkest corner currently houses a forgotten umbrella, a stack of expired grocery bags, or nothing at all. Low natural light is a real complaint in a lot of older Canadian rental stock built before 1990. I've tested plant corners in my own 510 sq ft Toronto apartment, including one spot with *zero* direct sunlight where I kept a snake plant for two years.
 
 **TL;DR:** You don’t need a sun-drenched corner or a green thumb to pull off a plant nook — low-light staples like ZZ plants and snake plants thrive on neglect, tension rods and freestanding stands avoid lease-break penalties, and under-$30 setups look intentional, not afterthought-y.
 
@@ -35,7 +35,7 @@ The Skådala system is built for renters. The white plastic shelves snap togethe
 
 ## 2. A Freestanding Wooden Tiered Stand
 
-Forget wall mounts — the Structube Karlskrona wooden stand ($49 CAD) leans into the corner and lifts plants to varying heights. Two tiers, ~22” wide, and it’s surprisingly sturdy for the price. I use it with a 6” ceramic pot (Simons’ handmade pot, $24 CAD) on top and a smaller trailing fern below. Bonus: the natural wood tone matches 80% of small-space furniture in Montreal lofts and Toronto walk-ups.
+Forget wall mounts — the Structube Karlskrona wooden stand ($49 CAD) leans into the corner and lifts plants to varying heights. Two tiers, ~22” wide, and it’s surprisingly sturdy for the price. I use it with a 6” ceramic pot (Simons’ handmade pot, $24 CAD) on top and a smaller trailing fern below. Bonus: the natural wood tone matches most small-space furniture in older apartment walk-ups.
 
 ## 3. The Tension Rod Plant Hanger Trick
 
@@ -92,6 +92,6 @@ This one’s for dramatic corners (or just for Instagram). Attach a tension rod 
 
 Your plant corner doesn’t need perfect light or infinite time — just a little intention. The goal isn’t a jungle; it’s a breath of calm in your otherwise chaotic city apartment.
 
-→ [6 Best Low-Light Plants for Canadian Rentals (That Won’t Die)](/blog/small-apartment-home-office-ideas)  
-→ [Small Space Plant Storage Ideas That Fit in a Closet](/blog/storage-ideas-for-small-places)  
+→ [Small Apartment Organization Ideas](/blog/small-apartment-organization) — for keeping the rest of the room as intentional as your plant corner
+→ [23 Small Apartment Storage Ideas](/blog/storage-ideas-for-small-places) — vertical shelving and closet tricks that pair well with a plant corner
 → [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage) — bathrooms are one of the best low-light plant spots

@@ -3,7 +3,7 @@ title: "Small Apartment Beauty & Skincare Storage"
 description: "Organize skincare, makeup, and beauty products in a small Canadian apartment — acrylic organizers, drawer dividers, and vanity trays."
 image: "/images/bathroom-wooden-organizer-cart.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["skincare storage", "makeup organization", "beauty storage", "small apartment", "Canada", "acrylic organizers", "vanity setup"]
 featured: false
@@ -41,7 +41,7 @@ This is the beauty-and-skincare-specific companion to my broader [small apartmen
 
 ## Why Does Beauty Product Clutter Build Up So Fast in Small Apartments?
 
-Beauty and skincare clutter grows faster than almost anything else in a small apartment because products arrive constantly (samples, gifts, impulse buys) but rarely get used up before the next one shows up. In my own 1-bedroom Ottawa rental, I counted 34 skincare and makeup items crammed onto an 18-inch counter before I did anything about it.
+Beauty and skincare clutter grows faster than almost anything else in a small apartment because products arrive constantly (samples, gifts, impulse buys) but rarely get used up before the next one shows up. In my own 510 sq ft Toronto apartment, I counted 34 skincare and makeup items crammed onto an 18-inch counter before I did anything about it.
 
 The problem isn't the bathroom being small. It's that liquid and cream products don't stack, roll around when the counter isn't level, and don't have a natural "home" the way folded towels do. Without a container system, everything just accumulates in whatever order it was set down.
 

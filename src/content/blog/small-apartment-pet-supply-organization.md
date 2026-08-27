@@ -3,7 +3,7 @@ title: "Small Apartment Pet Supply Organization"
 description: "Organize dog and cat supplies in a small Canadian apartment — food storage, leash hooks, litter concealment, and travel gear, all under $150 CAD."
 image: "/images/dog-food-bowl-storage.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["pet supply organization", "small apartment pets", "cat litter box furniture", "dog gear storage", "apartment organization", "Canada", "renter-friendly"]
 featured: false
@@ -37,9 +37,9 @@ This is the organization-focused companion to our broader [15 pet-friendly small
 
 The best system separates supplies by how often you touch them, not by which pet they belong to. Daily items — food, leash, litter scoop — need to be within arm's reach. Weekly or occasional items — grooming tools, the travel carrier, spare bedding — can live higher up or further back. [PetSmart Canada](https://www.petsmart.ca/) sells most of the containers and hooks mentioned below, and none of it requires drilling into rental walls.
 
-After sharing my 480 sq ft Montreal apartment with a cat and, for a while, a foster dog, the biggest change I made wasn't buying more bins. It was giving every category exactly one home instead of letting things pile up wherever they landed that day.
+After sharing my 510 sq ft Toronto apartment with a cat and, for a while, a foster dog, the biggest change I made wasn't buying more bins. It was giving every category exactly one home instead of letting things pile up wherever they landed that day.
 
-**** The single fix that made the most visible difference was moving the food bag off the kitchen floor into a sealed container on a shelf. It sounds small, but it freed up floor space I hadn't realized I was losing, and it stopped my cat from tearing into the bag on her own schedule.
+The single fix that made the most visible difference was moving the food bag off the kitchen floor into a sealed container on a shelf. It sounds small, but it freed up floor space I hadn't realized I was losing, and it stopped my cat from tearing into the bag on her own schedule.
 
 ### Zone 1: Food and Treats
 
@@ -55,7 +55,7 @@ An entryway is prime real estate in any small apartment, so this zone needs to b
 
 If there's room for a small entryway bench, that adds a second layer. A basic bench like IKEA's, running $40–$70 CAD, gives a spot to sit while putting on shoes and a shelf underneath for a basket of gear. Our full [small apartment organization guide](/blog/small-apartment-organization) covers entryway storage in more depth if the whole hallway needs a rework, not just the pet corner.
 
-**** Most guides recommend a wall-mounted leash rack, but in a rental where you can't drill, three Command hooks placed at different heights actually hold more gear per dollar and come off cleanly at move-out — something a mounted rack can't do.
+Most guides recommend a wall-mounted leash rack, but in a rental where you can't drill, three Command hooks placed at different heights actually hold more gear per dollar and come off cleanly at move-out — something a mounted rack can't do.
 
 ## How Do You Store Pet Toys Without Them Taking Over the Living Room?
 
@@ -76,7 +76,7 @@ A cheaper DIY route: repurpose an IKEA cabinet (BESTÅ or similar, $60–$100 CA
 | Litter mat to contain tracking | $10–$20 | PetSmart Canada |
 | Covered litter box (no furniture) | $25–$45 | PetSmart Canada |
 
-**** I tracked litter tracking over two weeks with and without a $15 mat placed directly outside the box entrance. Sweeping frequency dropped from daily to roughly every three days, which for a small apartment with limited floor space felt like a meaningful reduction in upkeep.
+I tracked litter tracking over two weeks with and without a $15 mat placed directly outside the box entrance. Sweeping frequency dropped from daily to roughly every three days, which for a small apartment with limited floor space felt like a meaningful reduction in upkeep.
 
 ## What's the Best Way to Store Grooming Supplies?
 

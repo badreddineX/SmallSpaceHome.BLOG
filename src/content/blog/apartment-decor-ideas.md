@@ -3,7 +3,7 @@ title: "Apartment Decor Ideas for Canadian Renters"
 description: "14 renter-friendly apartment decor ideas for Canadian apartments — no damage, no lost deposits. Real CAD prices, works in Toronto, Vancouver, and Montreal."
 image: "/images/blog-19-img1.jpg"
 datePublished: "2025-10-20"
-dateModified: "2026-02-01"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["apartment decor", "apartment decor ideas canada", "rental decor ideas", "renter-friendly", "Canada", "decor ideas", "budget"]
 featured: false
@@ -201,6 +201,8 @@ Shelves that are just storage look like storage. Shelves that are styled look li
 - Leave some empty space — shelves that are completely packed look cluttered
 - Use odd numbers — groups of 3 or 5 objects look more natural than groups of 2 or 4
 
+If you're short on floor space and want to style the wall itself, our [vertical storage ideas for small apartments](/blog/vertical-storage-ideas-small-apartment) guide covers floating shelves and wall-mounted systems in more depth.
+
 ![Styled shelves with books, plants, and woven baskets — the formula for intentional decor](/images/blog-02-img4.jpg)
 
 ## 13. How Do You Upgrade a Bathroom Without Renovating?
@@ -247,5 +249,7 @@ Do these first for the fastest transformation:
 → Decorating for the season? [Fall apartment decorating ideas](/blog/fall-apartment-decorating-ideas) and [cozy winter apartment decor](/blog/cozy-winter-apartment-decor) apply these same principles with seasonal textures and touches.
 
 → Tackling the bathroom next? [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the same no-damage approach for that room specifically.
+
+→ Working from home in your apartment? [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) applies the same colour-and-layout thinking to a desk corner.
 
 → Want the absolute cheapest version of this list? [Cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish) and [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) cover the same ground on close to a $0 budget.

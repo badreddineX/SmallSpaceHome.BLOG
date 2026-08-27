@@ -3,7 +3,7 @@ title: "15 Pet-Friendly Small Apartment Setups"
 description: "Practical, renter-approved pet setup ideas for small Canadian apartments—no drilling, no damage, all effective."
 image: "/images/cozy-living-room-cat-dog.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-07-30"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["pet-friendly", "small space", "Canada", "renter hacks", "apartment pets"]
 featured: false
@@ -13,17 +13,17 @@ relatedPosts:
   - "small-apartment-organization"
 readTime: 8
 faqs:
-  - q: "What’s the best pet gate for a small Toronto apartment that won’t damage walls?"
-    a: "The Kids2 Premium Tension Mount Pet Gate (available at Amazon.ca for ~$75 CAD) works in doorways up to 42” wide—no drilling required and installs in under 5 minutes. It’s sturdy for medium dogs and cats, and removes cleanly."
+  - q: "What's the best pet gate for a small apartment that won't damage walls?"
+    a: "The Kids2 Premium Tension Mount Pet Gate (available at Amazon.ca for ~$75 CAD) works in doorways up to 42” wide—no drilling required and installs in under 5 minutes. It's sturdy for medium dogs and cats, and removes cleanly."
   - q: "How do I protect my hardwood floors from claws without carpeting the whole place?"
     a: "Lay down rubber-backed rugs like the Modway Ruggable-style duos (HomeSense has similar picks for ~$40–$55 CAD). The top layer is machine-washable, and the rubber grip holds rugs in place on smooth floors."
   - q: "Are Cat Trees too bulky for a 500 sq ft studio?"
     a: "Not if you pick vertical, wall-mounted options like Amazon.ca's wall-mounted cat shelf sets (~$60–$110 CAD for a multi-shelf kit). Most anchor to studs, so check with your landlord first, or look for versions with removable, low-damage brackets."
-  - q: "Can I use a litter box in a shared Montreal co-op without stigma?"
+  - q: "Can I use a litter box in a shared apartment without stigma?"
     a: "Yes—use a covered litter box like the Trixie Litter Box with Privacy Hood (Canadian Tire, ~$35 CAD), place it inside a tall, narrow storage cabinet (IKEA BESTÄND, ~$50 CAD), and add a carbon filter like the PetSafe ScoopFree Ultra for odor control (~$45 CAD)."
 ---
 
-You’re not just surviving your small apartment—you’re thriving with a furry roommate. Pet ownership among younger renters has climbed steadily across major Canadian cities, and pet-friendly setups are a real factor in whether people renew their lease. I renovated my 400-square-foot Vancouver studio with two cats using zero-nail, zero-drill tricks—you can too.
+You're not just surviving your small apartment—you're thriving with a furry roommate. Pet ownership among younger renters has climbed steadily across major Canadian cities, and pet-friendly setups are a real factor in whether people renew their lease. I set up my 510 sq ft Toronto apartment for two cats using zero-nail, zero-drill tricks—you can too.
 
 **TL;DR:** Pet-friendly small-space setup is all about smart zones (not bulk), renter-safe options (tension rods, freestanding gear), and layered surfaces for climbing/exercising. Skip wall-mounted furniture unless your landlord approves, prioritize washable textiles, and keep supplies tucked—but always *within reach*.
 

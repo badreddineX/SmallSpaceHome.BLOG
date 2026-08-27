@@ -3,7 +3,7 @@ title: "Small Apartment Paperwork Organization"
 description: "Stop losing lease documents and bills in a small rental. A wall-mounted command centre, filing system, and shredding routine for Canadian apartments."
 image: "/images/hanging-desk-organizer-notes.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["mail organization", "paperwork organization", "small apartment organization", "filing system", "renter tips", "Canada", "command center"]
 featured: false
@@ -31,7 +31,7 @@ If your kitchen counter has a pile of mail you're avoiding, the fix isn't a bigg
 
 ---
 
-I lived in a 480 sq ft Montreal rental for two years, and paperwork was the one category of clutter that beat me every single month. Lease renewal notices, hydro bills, T4 slips, random Canada Post flyers, all of it landed on the same 12 inches of kitchen counter until I built the system below. It's not fancy, but it's held up for three apartments since.
+I've lived in my 510 sq ft Toronto apartment for three years, and paperwork was the one category of clutter that beat me every single month. Lease renewal notices, hydro bills, T4 slips, random Canada Post flyers, all of it landed on the same 12 inches of kitchen counter until I built the system below. It's not fancy, but it's held up for three apartments since.
 
 ## Why Does Paperwork Pile Up Faster in a Small Apartment?
 

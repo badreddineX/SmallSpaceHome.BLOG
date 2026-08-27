@@ -3,7 +3,7 @@ title: "How to Decorate a Small Living Room"
 description: "A step-by-step guide to decorating a small living room in a Canadian rental — layout, lighting, furniture scale, colour, and storage, in the right order."
 image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-01-11"
-dateModified: "2026-08-06"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["small living room", "how to decorate a small space", "decorating small spaces", "living room decor", "Canada", "renter-friendly", "apartment"]
 featured: false
@@ -155,6 +155,16 @@ Good living room plant options:
 Once everything is in place, step back and look at the room critically. What could come out?
 
 The goal is a room where everything has a purpose and nothing is just sitting there because you haven't decided what to do with it. Small living rooms look best when they're slightly spare — room to breathe between objects.
+
+## Mistakes That Make a Small Living Room Feel Smaller
+
+A few habits undo everything the 10 steps above accomplish — and they're the ones I made first, before learning to avoid them.
+
+- **Pushing every piece of furniture against the wall.** It feels like it saves space, but it actually creates a dead, unused pool of floor in the middle of the room. Floating the sofa a few centimetres out and angling one chair breaks the "waiting room" look.
+- **Buying a rug that's too small.** A rug that only fits under the coffee table, with all the furniture legs sitting on bare floor around it, is the single most common small-space mistake. It visually shrinks the room instead of anchoring it.
+- **Matching every piece of wood tone exactly.** A living room where the coffee table, TV console, and shelving are all the identical shade of oak reads as a showroom set, not a lived-in room. Mixing two complementary tones looks more intentional.
+- **Skipping curtains because "the blinds are fine."** Bare or low-hung blinds cap the visual height of a room at window height. Ceiling-height curtain panels cost under $90 CAD in total and are one of the cheapest ways to make a low ceiling read as taller.
+- **Decorating before decluttering.** Adding art, plants, and cushions on top of visual clutter just adds more clutter. Clear the room first, then decorate what's left.
 
 ---
 

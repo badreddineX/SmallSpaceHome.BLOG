@@ -3,7 +3,7 @@ title: "Small Apartment Pantry Organization"
 description: "Organize a small apartment pantry cupboard for under $40 CAD — Dollarama containers, reused jars, and shelf risers. A real Canadian renter's system."
 image: "/images/pantry-jars-cabinet-organized.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["pantry organization", "budget organization", "Dollarama", "small apartment", "Canada", "under $40", "renter-friendly"]
 featured: false
@@ -37,7 +37,7 @@ This is the budget-first companion to our [17 fridge & pantry organization ideas
 
 Most small apartments don't have a pantry room, just one or two kitchen cupboards doing the job. The fastest fix isn't new furniture, it's using the vertical space you already have. According to CMHC, most Canadian rental apartments fall under 700 sq ft, which means cupboard space is already tight before you add a single container.
 
-I rent a one-bedroom in Ottawa with exactly one 60 cm wide pantry cupboard. Before I organized it, half the space was wasted on tall gaps above short items like spice jars and snack boxes. A $13 shelf riser fixed that in ten minutes.
+I live in my 510 sq ft Toronto apartment with exactly one 60 cm wide pantry cupboard. Before I organized it, half the space was wasted on tall gaps above short items like spice jars and snack boxes. A $13 shelf riser fixed that in ten minutes.
 
 The goal isn't a Pinterest-perfect pantry with 20 matching canisters. It's making every inch of one small cupboard actually usable, for as little money as possible.
 

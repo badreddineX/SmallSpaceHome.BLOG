@@ -3,7 +3,7 @@ title: "Small Apartment Storage Bins & Baskets"
 description: "Which storage bins and baskets fit under-bed, closet shelves, and entryways in a small Canadian apartment — sizes, materials, IKEA picks, and CAD prices."
 image: "/images/storage-wicker-shelf.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["storage bins", "baskets", "small apartment storage", "IKEA storage", "closet organization", "Canada", "renter-friendly"]
 featured: false
@@ -36,7 +36,7 @@ The right storage bin depends entirely on where it's going, not on which one loo
 
 A bin that's perfect for a closet shelf is often the wrong choice under a bed, and vice versa. Clearance, humidity, and how often you need to see inside the bin all change by location — which is why buying six of the same bin for a whole apartment usually backfires.
 
-I made this mistake in my first Toronto rental: bought eight identical opaque plastic totes thinking uniformity equals organization. Half of them sat under a bed I could barely slide them into, and the other half sat on open shelving looking like a storage unit, not a living room. ****
+I made this mistake in my first Toronto rental: bought eight identical opaque plastic totes thinking uniformity equals organization. Half of them sat under a bed I could barely slide them into, and the other half sat on open shelving looking like a storage unit, not a living room.
 
 The fix is picking bin type by function first. A bin under a bed needs to be flat and low-profile. A bin on an open shelf needs to look good from across the room. A bin in a closet needs to stack. Once you sort by function, the material and size choice gets a lot easier.
 
@@ -66,7 +66,7 @@ Open shelving needs baskets that look intentional from across the room, since an
 
 A medium woven basket (~$15–$35 CAD depending on size and retailer) typically holds 10–15 lbs, which covers remotes, chargers, kids' toys, or a rolled throw blanket. Because the weave hides what's inside, woven baskets aren't the right choice for anything you need to find quickly — that's what labeled bins in a closet are for.
 
-**** Most small-space guides treat baskets as purely decorative and bins as purely functional, but the better split is about visibility, not room. A basket you can't see into belongs anywhere you don't need daily access; a bin you can see into belongs anywhere you do, regardless of whether that's a closet or a living room shelf.
+Most small-space guides treat baskets as purely decorative and bins as purely functional, but the better split is about visibility, not room. A basket you can't see into belongs anywhere you don't need daily access; a bin you can see into belongs anywhere you do, regardless of whether that's a closet or a living room shelf.
 
 Pair two matching baskets on the same shelf for a styled look, or stagger sizes across multiple shelves so the eye has somewhere to land. For a wider set of shelving and multi-purpose furniture ideas beyond bins alone, [23 small apartment storage ideas](/blog/storage-ideas-for-small-places) covers vertical shelving, ottomans with hidden storage, and other options for rooms with no extra floor space.
 
@@ -98,7 +98,7 @@ A labeling system only works if the label faces outward on the side you'll actua
 
 Keep labels to one word in large lettering: "sweaters," "cables," "seasonal," "towels." A $10 CAD label maker from Canadian Tire or Amazon.ca does this cleanly, though painter's tape and a permanent marker work just as well and cost almost nothing.
 
-**** After switching from unlabeled bins to one-word outward-facing labels in my own closet, the time to find a specific item dropped from routinely opening two or three bins to opening the right one on the first try, every time. It's a small system, but it's the difference between storage that works and storage that just moves clutter into containers.
+After switching from unlabeled bins to one-word outward-facing labels in my own closet, the time to find a specific item dropped from routinely opening two or three bins to opening the right one on the first try, every time. It's a small system, but it's the difference between storage that works and storage that just moves clutter into containers.
 
 ## Final Thoughts
 

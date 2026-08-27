@@ -3,7 +3,7 @@ title: "Small Entryway & Hallway Storage Ideas for Apartments"
 description: "No-drill entryway storage ideas for small Canadian rentals: freestanding shoe racks, tension-rod coat racks, drop zones, and slim console tables."
 image: "/images/entryway-hallway-console.jpg"
 datePublished: "2026-06-03"
-dateModified: "2026-07-27"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["entryway storage", "entryway organization", "small hallway storage", "hallway storage", "renter-friendly", "Canada", "small apartment"]
 featured: false
@@ -107,3 +107,5 @@ Start with whichever piece solves your biggest daily friction point, then layer 
 4. **Slim console table** ($60–$120 CAD) — adds a surface once the basics are handled
 
 Every option here is reversible, which matters if you move as often as most renters do. For more general apartment storage, [storage ideas for small apartments](/blog/storage-ideas-for-small-places) covers the rest of the unit room by room, and if you're furnishing the whole entry on a renter's budget, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) has more no-drill styling tricks that pair well with these pieces. Start with a $4 tray and a $59 bench, and the daily chaos at your door mostly disappears. For the room right off the hallway, [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) uses the same no-drill approach.
+
+→ Need more vertical space beyond the entry? [Vertical storage ideas for small apartments](/blog/vertical-storage-ideas-small-apartment) covers wall-mounted systems for every room, and [small apartment laundry storage ideas](/blog/small-apartment-laundry-storage-ideas) applies the same no-drill logic to the laundry area.

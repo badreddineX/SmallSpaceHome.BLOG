@@ -3,7 +3,7 @@ title: "Minimalist Small Apartment Ideas"
 description: "Minimalist ideas for small Canadian rentals — how to declutter, edit, and design a space that feels calm, spacious, and intentional without overspending."
 image: "/images/bedroom-minimalist.jpg"
 datePublished: "2026-03-11"
-dateModified: "2026-08-12"
+dateModified: "2026-08-27"
 author: "Badreddine Br"
 tags: ["minimalist apartment", "minimalist small apartment", "minimal apartments", "minimalism", "Canada", "small apartment", "declutter"]
 featured: false
@@ -138,6 +138,16 @@ Minimalism is not a project you complete once. Stuff accumulates. Gifts arrive. 
 The maintenance habit: once a season, walk through every room and ask "does this still earn its space?" What doesn't goes to donation or storage.
 
 Consistent editing is easier than one dramatic purge. A small steady practice prevents the need for a major overhaul.
+
+## Where Minimalism Goes Wrong in a Small Apartment
+
+A few habits push minimalism into something colder and less livable than it needs to be — and they're worth naming, since they're what turns people off the whole approach.
+
+- **Confusing "minimal" with "empty."** A room with nothing on the walls and no texture isn't minimalist, it's just bare. The goal is fewer, better objects — not zero objects. One large plant and a single piece of art still reads as calm, not sparse.
+- **Removing storage before removing stuff.** Getting rid of a dresser or bookshelf before you've actually reduced what you own just relocates the clutter into a pile on the floor. Declutter first, then decide what furniture you still need.
+- **Treating it as a one-weekend project.** A single aggressive purge feels productive, but without the ongoing seasonal edit (Step 7 above), the apartment drifts back to where it started within a few months. The habit matters more than the initial effort.
+- **Applying the surfaces rule inconsistently.** Keeping one countertop spotless while a closet or drawer becomes a dumping ground for everything removed from view isn't minimalism — it's just hiding clutter instead of reducing it.
+- **Buying "minimalist-looking" replacements instead of using what you have.** A perfectly good lamp doesn't need to be swapped for a more aesthetic one just because it doesn't match a mood board. That's still consumption, just dressed in a different style.
 
 ---
 
