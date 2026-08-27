@@ -35,6 +35,58 @@ function shell(bodyHtml, { unsubUrl } = {}) {
 </body></html>`;
 }
 
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"]/g, (c) =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]
+  );
+}
+
+/**
+ * Weekly "new on the blog" digest.
+ * @param {{ posts: Array<{title,description,url,image,category}>, unsubUrl: string }} opts
+ */
+export function digestEmail({ posts, unsubUrl }) {
+  const count = posts.length;
+  const subject =
+    count === 1 ? `New on ${BRAND}: ${posts[0].title}` : `${count} new small-space guides on ${BRAND}`;
+
+  const cards = posts
+    .map(
+      (p) => `
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 24px">
+      <tr><td>
+        ${p.image ? `<a href="${esc(p.url)}"><img src="${esc(p.image)}" alt="" width="448" style="width:100%;max-width:448px;height:auto;border:1px solid #E5DDD3;display:block;margin:0 0 12px"></a>` : ''}
+        ${p.category ? `<p style="margin:0 0 4px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#8B6F47">${esc(p.category)}</p>` : ''}
+        <a href="${esc(p.url)}" style="font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#1C1917;text-decoration:none;font-weight:bold">${esc(p.title)}</a>
+        <p style="margin:6px 0 8px;font-size:14px;color:#57534E">${esc(p.description)}</p>
+        <a href="${esc(p.url)}" style="font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#8B6F47;text-decoration:none">Read it →</a>
+      </td></tr>
+    </table>`
+    )
+    .join('\n');
+
+  const html = shell(
+    `
+    <h1 style="margin:0 0 8px;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#1C1917">${count === 1 ? 'New this week' : "What's new this week"}</h1>
+    <p style="margin:0 0 24px;font-size:14px;color:#8a8078">Fresh ${count === 1 ? 'guide' : 'guides'} for small Canadian apartments — renter-friendly, real CAD prices.</p>
+    ${cards}
+    <p style="margin:24px 0 0;font-size:14px">Browse everything at <a href="${SITE}/blog" style="color:#8B6F47">smallspacehome.ca/blog</a>.</p>
+  `,
+    { unsubUrl }
+  );
+
+  const text = [
+    count === 1 ? 'New this week on SmallSpace Home' : `What's new this week on SmallSpace Home`,
+    '',
+    ...posts.map((p) => `• ${p.title}\n  ${p.url}`),
+    '',
+    `Browse everything: ${SITE}/blog`,
+    `Unsubscribe: ${unsubUrl}`,
+  ].join('\n');
+
+  return { subject, html, text, listUnsubscribe: unsubUrl };
+}
+
 export function confirmEmail({ confirmUrl }) {
   const subject = `Confirm your ${BRAND} subscription`;
   const html = shell(`

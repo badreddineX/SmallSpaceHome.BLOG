@@ -4,8 +4,9 @@ Self-hosted email capture + double opt-in, running as Vercel serverless function
 against a Neon Postgres database. Transactional email (confirm / welcome /
 unsubscribe) goes out through the Hostinger mailbox over SMTP.
 
-The **weekly broadcast** is **Phase 2** and is not built yet — see the bottom of
-this file.
+The **weekly digest** (auto "what's new on the blog") is built too — see
+[Weekly digest](#weekly-digest-built) at the bottom. It needs a Resend key set
+before it does anything.
 
 ---
 
@@ -115,15 +116,67 @@ update subscribers set status='unsubscribed', unsubscribed_at=now() where email 
 
 ---
 
-## Phase 2 — the weekly broadcast (not built)
+## Weekly digest (built)
 
-When there are ~30–50 confirmed subscribers and issue #001 is drafted:
+Auto-generated "what's new on the blog" email. **No hand-writing** — it reads the
+site's own post list and sends only when there's something new.
 
-1. Add a sending provider — **Resend** (free 3k/mo, 100/day) or **Amazon SES**
-   (~$0.10/1k, needs sandbox removal). Add its DKIM record and **merge SPF into
-   one record** that lists both Hostinger and the new sender.
-2. Write issues as MDX in `src/content/` (new `issues` collection).
-3. Build `api/broadcast.js` — bearer-token protected (`BROADCAST_TOKEN`), renders
-   the latest issue, loops `status='active'` in batches, sends via the provider,
-   writes a row to the `issues` table. Every issue must include the physical
-   address + one-click unsubscribe (helpers already in `api/_lib/templates.js`).
+```
+Vercel Cron (Mon 13:00 UTC)  ──▶  /api/broadcast
+   │ max(covered_through) from issues  →  "last covered" date
+   │ fetch /newsletter-feed.json       →  current post list (title, blurb, image, category)
+   │ posts newer than last-covered, capped at 6
+   │ if none → exit, send nothing
+   │ else → digestEmail() per subscriber (own unsubscribe link)
+   │        sendBatch() via Resend, 100/batch
+   ▼ insert issues row (covered_through = newest post date)
+```
+
+| File | Role |
+|---|---|
+| `src/pages/newsletter-feed.json.js` | machine-readable post list (excluded from sitemap) |
+| `api/broadcast.js` | the cron endpoint |
+| `api/_lib/resend.js` | Resend batch sender (bulk only) |
+| `api/_lib/templates.js` → `digestEmail()` | the digest layout |
+| `vercel.json` → `crons` | weekly trigger |
+
+### Setup
+
+1. **Resend** (resend.com, free): add a **sending subdomain** `send.smallspacehome.ca`
+   → paste the DNS records it shows into Hostinger (SPF/DKIM/MX for that
+   subdomain only — the `hello@` mailbox is untouched). Wait for "Verified".
+2. Create an API key → Vercel env:
+
+   | Var | Value |
+   |---|---|
+   | `RESEND_API_KEY` | `re_…` from Resend |
+   | `NEWSLETTER_BULK_FROM` | `SmallSpace Home <hello@send.smallspacehome.ca>` |
+   | `CRON_SECRET` | a long random string |
+
+3. Run the `issues` table migration in Neon (safe to re-run):
+   ```sql
+   alter table issues add column if not exists covered_through timestamptz;
+   ```
+4. Deploy. Vercel registers the cron from `vercel.json` automatically
+   (Project → Settings → Cron Jobs to confirm).
+
+### Testing / manual trigger
+
+```bash
+# dry run — shows what would be sent, sends nothing
+curl -H "Authorization: Bearer $CRON_SECRET" \
+  "https://smallspacehome.ca/api/broadcast?dryRun=1"
+
+# real send
+curl -H "Authorization: Bearer $CRON_SECRET" \
+  "https://smallspacehome.ca/api/broadcast"
+```
+
+First real run: `covered_through` is empty, so it sends the **last 7 days** of
+posts (max 6). To seed the marker without emailing the backlog, insert a row by
+hand first: `insert into issues (slug, subject, covered_through) values ('seed', 'seed', now());`
+
+### Later — shop block
+
+When the Fourthwall store is live, add a "From the shop" section to
+`digestEmail()` in `templates.js` (a few product cards under the post list).

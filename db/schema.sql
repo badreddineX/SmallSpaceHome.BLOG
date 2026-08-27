@@ -20,12 +20,16 @@ create table if not exists subscribers (
 create index if not exists subscribers_status_idx on subscribers (status);
 create index if not exists subscribers_created_at_idx on subscribers (created_at);
 
--- Optional: log of sent issues, used by the Phase 2 broadcast route.
+-- Log of sent digests, used by api/broadcast.js.
 create table if not exists issues (
-  id            bigint generated always as identity primary key,
-  slug          text        not null unique,     -- e.g. '001-under-bed-storage'
-  subject       text        not null,
-  sent_at       timestamptz,
-  recipient_count integer   not null default 0,
-  created_at    timestamptz not null default now()
+  id              bigint generated always as identity primary key,
+  slug            text        not null unique,
+  subject         text        not null,
+  sent_at         timestamptz,
+  recipient_count integer     not null default 0,
+  covered_through timestamptz,                    -- newest post datePublished included in this digest
+  created_at      timestamptz not null default now()
 );
+
+-- If `issues` was created before covered_through existed, add it:
+alter table issues add column if not exists covered_through timestamptz;
