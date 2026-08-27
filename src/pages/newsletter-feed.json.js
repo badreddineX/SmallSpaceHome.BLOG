@@ -11,15 +11,21 @@ export async function GET(context) {
 
   const site = context.site?.toString().replace(/\/$/, '') || 'https://smallspacehome.ca';
 
+  // Email images: use the ~60KB /images/thumb/ webp variant (960px — crisp at
+  // the ~448px the digest renders it), same one the post cards use. The raw
+  // /images/ originals are 5-6000px / ~800KB and far too heavy for email.
+  const emailImg = (img) =>
+    img && !img.startsWith('http')
+      ? `${site}${img.replace('/images/', '/images/thumb/').replace(/\.(jpe?g|png)$/i, '.webp')}`
+      : img || null;
+
   const body = {
     generatedAt: new Date().toISOString(),
     posts: sorted.slice(0, 25).map((post) => ({
       title: post.data.title,
       description: post.data.description,
       url: `${site}/blog/${post.id}`,
-      image: post.data.image
-        ? `${site}${post.data.image.replace(/\.(jpe?g|png)$/i, '.webp')}`
-        : null,
+      image: emailImg(post.data.image),
       category: post.data.category,
       datePublished: post.data.datePublished,
       dateModified: post.data.dateModified,
