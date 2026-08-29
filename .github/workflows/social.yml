@@ -1,0 +1,58 @@
+name: Social auto-post
+
+# Publishes the next queued Instagram post from social/queue.json via the Meta
+# Graph API, then commits social/state.json so nothing repeats. Runs on GitHub's
+# servers — your machine can be off.
+
+on:
+  schedule:
+    # ~1pm and ~6pm US-Eastern. GitHub cron can lag 15-60 min; that's fine here.
+    - cron: '0 17 * * *'
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (log only, post nothing)'
+        type: boolean
+        default: false
+      posts_per_run:
+        description: 'How many to publish'
+        default: '1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: social-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Publish
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '1' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: node social/publish.mjs
+
+      - name: Commit state
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          if ! git diff --quiet social/state.json; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add social/state.json
+            git commit -m "social: mark posted [skip ci]"
+            git push
+          else
+            echo "no change to state.json"
+          fi

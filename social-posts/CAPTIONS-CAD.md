@@ -1,8 +1,8 @@
-# CAD — Instagram + Facebook captions
+# CAD — Instagram captions
 
-Meta Business Suite has no bulk import — paste one at a time into the Planner.
-Image: `social-posts/2026-08-13/<slug>-ig.png` (and `-fb.png` for Facebook)
-IG feed posts can't carry a live link — keep bio link on the newest post. FB captions include the URL.
+Consumed by the auto-poster via `social/build-queue.mjs` → `social/queue.json`.
+Image: `social-posts/ready-CAD/NN-<slug>.jpg`
+IG feed posts can’t carry a live link — keep the bio link on the newest post.
 
 ---
 
@@ -20,13 +20,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #canada
 ```
 
-**Facebook:**  (image: `apartment-decor-ideas-on-a-budget-fb.png`)
-```
-Cheap — but it doesn’t look cheap.
-
-Transform your rental for under $200 CAD. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/apartment-decor-ideas-on-a-budget
-```
 
 ---
 
@@ -44,13 +37,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #canada
 ```
 
-**Facebook:**  (image: `apartment-decor-ideas-fb.png`)
-```
-Deposit-safe decorating that doesn’t look temporary.
-
-14 renter-friendly apartment decor ideas for Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/apartment-decor-ideas
-```
 
 ---
 
@@ -68,13 +54,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #under50
 ```
 
-**Facebook:**  (image: `budget-apartment-decor-under-50-fb.png`)
-```
-Whole look for under $100 CAD 👇
-
-Real Canadian apartment decor ideas under $50 CAD. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/budget-apartment-decor-under-50
-```
 
 ---
 
@@ -92,13 +71,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #rentaldecorating #budgettips #canada
 ```
 
-**Facebook:**  (image: `cheapest-ways-rental-feel-stylish-fb.png`)
-```
-Cheap — but it doesn’t look cheap.
-
-Make a Canadian rental feel stylish for almost nothing. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/cheapest-ways-rental-feel-stylish
-```
 
 ---
 
@@ -116,13 +88,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #commandstrips #nodrilldecorating #renterfriendlydecor
 ```
 
-**Facebook:**  (image: `command-strip-decorating-hacks-renters-fb.png`)
-```
-Made a rental feel like home — nothing permanent.
-
-15 renter-friendly Command strip decorating ideas that won't void your security deposit. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/command-strip-decorating-hacks-renters
-```
 
 ---
 
@@ -140,13 +105,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #condostorage #renterfriendly #canada
 ```
 
-**Facebook:**  (image: `condo-storage-ideas-toronto-vancouver-fb.png`)
-```
-Every centimetre counts in a small apartment.
-
-Condo storage ideas for small Toronto and Vancouver units. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/condo-storage-ideas-toronto-vancouver
-```
 
 ---
 
@@ -164,13 +122,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #cozyapartment #winterdecor #canada
 ```
 
-**Facebook:**  (image: `cozy-winter-apartment-decor-fb.png`)
-```
-Deposit-safe decorating that doesn’t look temporary.
-
-Cozy winter apartment decor ideas for Canadian renters. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/cozy-winter-apartment-decor
-```
 
 ---
 
@@ -188,13 +139,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #dollarama #canada
 ```
 
-**Facebook:**  (image: `dollarama-finds-look-expensive-fb.png`)
-```
-Cheap — but it doesn’t look cheap.
-
-The Dollarama items that read as high-end in a Canadian rental. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/dollarama-finds-look-expensive
-```
 
 ---
 
@@ -212,13 +156,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #facebookmarketplace #secondhandfurniture #budgetfurniture
 ```
 
-**Facebook:**  (image: `facebook-marketplace-furnishing-budget-fb.png`)
-```
-Where the money actually made a difference.
-
-How to use Facebook Marketplace to furnish a small Canadian apartment for less. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/facebook-marketplace-furnishing-budget
-```
 
 ---
 
@@ -236,13 +173,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #falldecor #autumnapartment #canada
 ```
 
-**Facebook:**  (image: `fall-apartment-decorating-ideas-fb.png`)
-```
-Renter-friendly, and it comes off clean 👇
-
-Fall apartment decorating ideas for Canadian renters. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/fall-apartment-decorating-ideas
-```
 
 ---
 
@@ -260,13 +190,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #canada
 ```
 
-**Facebook:**  (image: `free-cheap-apartment-decor-diy-vs-buy-fb.png`)
-```
-Where the money actually made a difference.
-
-Which apartment decor projects save money, and which cost more than just buying?. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/free-cheap-apartment-decor-diy-vs-buy
-```
 
 ---
 
@@ -284,13 +207,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #smallkitchen #canada
 ```
 
-**Facebook:**  (image: `fridge-pantry-organization-small-apartment-fb.png`)
-```
-Every centimetre counts in a small apartment.
-
-Practical, renter-friendly fridge and pantry organization ideas for Canadian small-space apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/fridge-pantry-organization-small-apartment
-```
 
 ---
 
@@ -308,13 +224,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #canada #apartment
 ```
 
-**Facebook:**  (image: `how-to-decorate-a-small-living-room-fb.png`)
-```
-Deposit-safe decorating that doesn’t look temporary.
-
-A step-by-step guide to decorating a small living room in a Canadian rental. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/how-to-decorate-a-small-living-room
-```
 
 ---
 
@@ -332,13 +241,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #ikeahacks #smallspace #canada
 ```
 
-**Facebook:**  (image: `ikea-small-space-hacks-fb.png`)
-```
-Small apartment, zero clutter. Here’s how.
-
-15 IKEA small space hacks for Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/ikea-small-space-hacks
-```
 
 ---
 
@@ -356,13 +258,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #januaryreset #resetapartment #organization
 ```
 
-**Facebook:**  (image: `january-reset-organization-ideas-fb.png`)
-```
-One weekend reset that actually holds up.
-
-15 January reset organization ideas for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/january-reset-organization-ideas
-```
 
 ---
 
@@ -380,13 +275,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #minimalistapartment #minimalapartments #minimalism
 ```
 
-**Facebook:**  (image: `minimalist-small-apartment-ideas-fb.png`)
-```
-Made a rental feel like home — nothing permanent.
-
-Minimalist ideas for small Canadian rentals. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/minimalist-small-apartment-ideas
-```
 
 ---
 
@@ -404,13 +292,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #petfriendly #smallspace #canada
 ```
 
-**Facebook:**  (image: `pet-friendly-small-apartment-ideas-fb.png`)
-```
-Small apartment, zero clutter. Here’s how.
-
-Practical, renter-approved pet setup ideas for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/pet-friendly-small-apartment-ideas
-```
 
 ---
 
@@ -428,13 +309,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #montrealrenters #apartmentstorage #packingtips
 ```
 
-**Facebook:**  (image: `quebec-moving-day-storage-guide-fb.png`)
-```
-The system that finally stuck 👇
-
-Quebec's July 1 Moving Day floods Montreal with movers and boxes on one single date. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/quebec-moving-day-storage-guide
-```
 
 ---
 
@@ -452,13 +326,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #nodrillsolutions
 ```
 
-**Facebook:**  (image: `renter-friendly-apartment-decor-ideas-fb.png`)
-```
-Made a rental feel like home — nothing permanent.
-
-Decorate your rental apartment without losing your deposit. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/renter-friendly-apartment-decor-ideas
-```
 
 ---
 
@@ -476,13 +343,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #bikestorage #renterfriendly #nodrillstorage
 ```
 
-**Facebook:**  (image: `renter-friendly-bike-storage-small-apartments-fb.png`)
-```
-Every centimetre counts in a small apartment.
-
-No garage, no drilling, still no bike blocking your hallway. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/renter-friendly-bike-storage-small-apartments
-```
 
 ---
 
@@ -500,13 +360,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #gallerywall #renterfriendlydecor #canada
 ```
 
-**Facebook:**  (image: `renter-friendly-gallery-wall-ideas-fb.png`)
-```
-Renter-friendly, and it comes off clean 👇
-
-15 no-nail, no-damage gallery wall ideas for Canadian apartment renters. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/renter-friendly-gallery-wall-ideas
-```
 
 ---
 
@@ -524,13 +377,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #seasonalstorage #closetrotation #renterfriendly
 ```
 
-**Facebook:**  (image: `seasonal-storage-off-season-clothes-gear-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-Canadian closets hold two wardrobes at once. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/seasonal-storage-off-season-clothes-gear
-```
 
 ---
 
@@ -548,13 +394,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #studentapartment #moveinchecklist #canada
 ```
 
-**Facebook:**  (image: `september-student-move-in-storage-guide-fb.png`)
-```
-Cheap — but it doesn’t look cheap.
-
-Moving into your first Canadian apartment this September?. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/september-student-move-in-storage-guide
-```
 
 ---
 
@@ -572,13 +411,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #balconystorage #renterfriendly #canada
 ```
 
-**Facebook:**  (image: `small-apartment-balcony-storage-ideas-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-No-drill balcony storage ideas for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-balcony-storage-ideas
-```
 
 ---
 
@@ -596,13 +428,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #bathroomstorage #canada #renterfriendly
 ```
 
-**Facebook:**  (image: `small-apartment-bathroom-storage-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-Where to buy bathroom storage that works in a small rental: 12 no-drill ideas with real CAD prices from Amazon.ca, IKEA, and HomeSense. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-bathroom-storage
-```
 
 ---
 
@@ -620,13 +445,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #skincarestorage #makeuporganization #beautystorage
 ```
 
-**Facebook:**  (image: `small-apartment-beauty-skincare-storage-fb.png`)
-```
-One weekend reset that actually holds up.
-
-Organize skincare, makeup, and beauty products in a small Canadian apartment. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-beauty-skincare-storage
-```
 
 ---
 
@@ -644,13 +462,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #bedroomstorage #smallbedroom #canada
 ```
 
-**Facebook:**  (image: `small-apartment-bedroom-storage-ideas-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-13 bedroom storage ideas for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-bedroom-storage-ideas
-```
 
 ---
 
@@ -668,13 +479,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #coffeecorner #smallspace #canada
 ```
 
-**Facebook:**  (image: `small-apartment-coffee-corner-ideas-fb.png`)
-```
-Made a rental feel like home — nothing permanent.
-
-Small apartment coffee corner ideas that save space, avoid drilling, and look stylish. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-coffee-corner-ideas
-```
 
 ---
 
@@ -692,13 +496,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #homegym #apartmentgym #canada
 ```
 
-**Facebook:**  (image: `small-apartment-home-gym-storage-setup-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-Build a real home gym in a small Canadian apartment. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-home-gym-storage-setup
-```
 
 ---
 
@@ -716,13 +513,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #homeworkspace #canada
 ```
 
-**Facebook:**  (image: `small-apartment-home-office-ideas-fb.png`)
-```
-Renter-friendly, and it comes off clean 👇
-
-No spare room?. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-home-office-ideas
-```
 
 ---
 
@@ -740,13 +530,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #laundrystorage #renterfriendly
 ```
 
-**Facebook:**  (image: `small-apartment-laundry-storage-ideas-fb.png`)
-```
-No drilling, no lost deposit — just more room.
-
-Small apartment laundry storage ideas for tight in-suite closets and shared building laundry rooms. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-laundry-storage-ideas
-```
 
 ---
 
@@ -764,13 +547,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #budgetdecor #affordabledecor #dollaramafinds #budgetorganization #canada
 ```
 
-**Facebook:**  (image: `small-apartment-organization-ideas-on-a-budget-fb.png`)
-```
-Whole look for under $100 CAD 👇
-
-15 budget organization ideas for small Canadian apartments, all under $100 CAD. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-organization-ideas-on-a-budget
-```
 
 ---
 
@@ -788,13 +564,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #organization #canada #renterfriendly
 ```
 
-**Facebook:**  (image: `small-apartment-organization-fb.png`)
-```
-One weekend reset that actually holds up.
-
-A complete room-by-room organization system for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-organization
-```
 
 ---
 
@@ -812,13 +581,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #pantryorganization #budgetorganization #dollarama
 ```
 
-**Facebook:**  (image: `small-apartment-pantry-organization-budget-fb.png`)
-```
-No drilling, no lost deposit — just more room.
-
-Organize a small apartment pantry cupboard for under $40 CAD. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-pantry-organization-budget
-```
 
 ---
 
@@ -836,13 +598,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #mailorganization #filingsystem #rentertips
 ```
 
-**Facebook:**  (image: `small-apartment-paperwork-mail-organization-fb.png`)
-```
-Small apartment, zero clutter. Here’s how.
-
-Stop losing lease documents and bills in a small rental. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-paperwork-mail-organization
-```
 
 ---
 
@@ -860,13 +615,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #canada #renterfriendly
 ```
 
-**Facebook:**  (image: `small-apartment-pet-supply-organization-fb.png`)
-```
-One weekend reset that actually holds up.
-
-Organize dog and cat supplies in a small Canadian apartment. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-pet-supply-organization
-```
 
 ---
 
@@ -884,13 +632,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #plantcorner #canada #smallspace
 ```
 
-**Facebook:**  (image: `small-apartment-plant-corner-ideas-fb.png`)
-```
-Renter-friendly, and it comes off clean 👇
-
-Renter-friendly, low-light plant corner ideas for small Canadian apartments under $50. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-plant-corner-ideas
-```
 
 ---
 
@@ -908,13 +649,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #readingnook #smallspace #canada
 ```
 
-**Facebook:**  (image: `small-apartment-reading-nook-ideas-fb.png`)
-```
-Made a rental feel like home — nothing permanent.
-
-Comfy reading chair and reading nook ideas for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-reading-nook-ideas
-```
 
 ---
 
@@ -932,13 +666,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #shoestorage #entrywayideas #renterfriendly
 ```
 
-**Facebook:**  (image: `small-apartment-shoe-storage-ideas-fb.png`)
-```
-No drilling, no lost deposit — just more room.
-
-Renter-friendly shoe storage for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-shoe-storage-ideas
-```
 
 ---
 
@@ -956,13 +683,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #storagebins #baskets #ikeastorage
 ```
 
-**Facebook:**  (image: `small-apartment-storage-bins-baskets-guide-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-Which storage bins and baskets fit under-bed, closet shelves, and entryways in a small Canadian apartment. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-apartment-storage-bins-baskets-guide
-```
 
 ---
 
@@ -980,13 +700,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #smallbedroom #bedroomdecor #canada
 ```
 
-**Facebook:**  (image: `small-bedroom-decor-ideas-fb.png`)
-```
-Deposit-safe decorating that doesn’t look temporary.
-
-Small bedroom decor ideas for Canadian renters. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-bedroom-decor-ideas
-```
 
 ---
 
@@ -1004,13 +717,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #closetorganization #smallcloset #renterfriendly
 ```
 
-**Facebook:**  (image: `small-closet-organization-rental-apartment-fb.png`)
-```
-No drilling, no lost deposit — just more room.
-
-No-drill closet organization for Canadian renters. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-closet-organization-rental-apartment
-```
 
 ---
 
@@ -1028,13 +734,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #entrywaystorage #hallwaystorage #renterfriendly
 ```
 
-**Facebook:**  (image: `small-entryway-hallway-storage-ideas-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-No-drill entryway storage ideas for small Canadian rentals: freestanding shoe racks, tension-rod coat racks, drop zones, and slim console tables. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-entryway-hallway-storage-ideas
-```
 
 ---
 
@@ -1052,13 +751,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #renterfriendly #canada
 ```
 
-**Facebook:**  (image: `small-living-room-storage-solutions-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-Small living room storage ideas that use furniture, not walls. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-living-room-storage-solutions
-```
 
 ---
 
@@ -1076,13 +768,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #apartmentfurniture #canada #ikea
 ```
 
-**Facebook:**  (image: `small-space-furniture-fb.png`)
-```
-Deposit-safe decorating that doesn’t look temporary.
-
-What I'd buy again and what I regret after furnishing a 510 sq ft Toronto apartment three times. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-space-furniture
-```
 
 ---
 
@@ -1100,13 +785,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #kitchenorganization #smallkitchen #canada
 ```
 
-**Facebook:**  (image: `small-space-kitchen-organization-fb.png`)
-```
-One weekend reset that actually holds up.
-
-14 kitchen organization ideas for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-space-kitchen-organization
-```
 
 ---
 
@@ -1124,13 +802,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #canada
 ```
 
-**Facebook:**  (image: `small-space-living-room-ideas-fb.png`)
-```
-Renter-friendly, and it comes off clean 👇
-
-15 practical small living room ideas tested in a real Canadian apartment. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/small-space-living-room-ideas
-```
 
 ---
 
@@ -1148,13 +819,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #apartmentorganization #homeorganization #declutter #springcleaning #organization #canada
 ```
 
-**Facebook:**  (image: `spring-cleaning-organization-tips-fb.png`)
-```
-Small apartment, zero clutter. Here’s how.
-
-Spring cleaning and organization guide for Canadian renters. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/spring-cleaning-organization-tips
-```
 
 ---
 
@@ -1172,13 +836,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #storagebed #canada #renterfriendly
 ```
 
-**Facebook:**  (image: `NO IMAGE`)
-```
-No drilling, no lost deposit — just more room.
-
-Storage bed vs. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/storage-bed-buying-guide-small-studio
-```
 
 ---
 
@@ -1196,13 +853,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #renterfriendly #canada
 ```
 
-**Facebook:**  (image: `storage-ideas-for-small-places-fb.png`)
-```
-No drilling, no lost deposit — just more room.
-
-Out of storage in your Canadian apartment?. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/storage-ideas-for-small-places
-```
 
 ---
 
@@ -1220,13 +870,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #bedrisers #canada
 ```
 
-**Facebook:**  (image: `under-bed-storage-ideas-small-apartment-fb.png`)
-```
-Every centimetre counts in a small apartment.
-
-Under bed storage ideas for small apartments in Canada. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/under-bed-storage-ideas-small-apartment
-```
 
 ---
 
@@ -1244,13 +887,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #verticalstorage #renterfriendly #canada
 ```
 
-**Facebook:**  (image: `vertical-storage-ideas-small-apartment-fb.png`)
-```
-Found more storage without moving to a bigger place 👇
-
-Smart vertical storage solutions for small Canadian apartments. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/vertical-storage-ideas-small-apartment
-```
 
 ---
 
@@ -1268,13 +904,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #canada
 ```
 
-**Facebook:**  (image: `vibey-apartment-living-room-ideas-fb.png`)
-```
-Made a rental feel like home — nothing permanent.
-
-Vibey apartment living room ideas focused on mood, not layout. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/vibey-apartment-living-room-ideas
-```
 
 ---
 
@@ -1292,13 +921,6 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #rentaldecor #renterfriendly #apartmentstyle #canada #smallspace #budgetdecorating
 ```
 
-**Facebook:**  (image: `warm-earthy-color-palette-small-apartment-fb.png`)
-```
-Made a rental feel like home — nothing permanent.
-
-Warm earthy color palette ideas for small rental apartments, renter-friendly, no-drill, under $200 CAD. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/warm-earthy-color-palette-small-apartment
-```
 
 ---
 
@@ -1316,12 +938,5 @@ Full guide — link in bio.
 #smallspaceliving #smallapartment #rentersofinstagram #apartmentdecor #smallspacesquad #smallspacestorage #apartmentstorage #storagesolutions #storagefurniture #canada #renterfriendly
 ```
 
-**Facebook:**  (image: `NO IMAGE`)
-```
-Every centimetre counts in a small apartment.
-
-Real Canadian retailers for hidden storage furniture, by piece and by budget. Real CAD prices, renter-friendly, no renovation — read the full guide:
-https://smallspacehome.ca/blog/where-to-buy-small-space-storage-furniture
-```
 
 ---
