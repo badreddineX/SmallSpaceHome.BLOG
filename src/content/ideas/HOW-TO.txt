@@ -22,9 +22,17 @@ Body = the tip. 120-170 words, one concrete thing to do this week. Plain text.
 
 QUEUE
 -----
-1  001-under-bed-bags        Storage
-2  002-over-door-organizers  Organization
-3  003-command-strip-walls   Decor
-4  004-dollarama-finds       Budget Tips
+1  001-under-bed-bags            Storage
+2  002-over-door-organizers      Organization
+3  003-command-strip-walls       Decor
+4  004-dollarama-finds           Budget Tips
+5  005-bathroom-cart-turntable   Storage (bathroom)
+6  006-coffee-corner-tray        Kitchen / styling
+7  007-entryway-drop-zone        Entryway
+8  008-kitchen-cabinet-doubling  Kitchen organization
+9  009-off-season-swap           Seasonal storage
+10 010-turn-off-the-overhead     Lighting / vibe
+11 011-low-light-plant-corner    Plants / decor
+12 012-marketplace-one-piece     Budget / furniture
 
-Add the next as 005-... To reorder, change the `order:` numbers.
+Add the next as 013-... To reorder, change the `order:` numbers.
