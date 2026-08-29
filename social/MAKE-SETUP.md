@@ -41,12 +41,14 @@ Make.com → **Create a new scenario**. Add three modules in a row:
 | Photo / Image URL | `1. image_url` (map from Module 1) |
 | Caption | `1. caption` (map from Module 1) |
 
-### Module 3 — Google Sheets · "Update a Row"
+### Module 3 — Google Sheets · "Update a Cell"
+Use **Update a Cell**, not "Update a Row" — Update-a-Row can blank the other
+columns if you don't remap them.
 | Field | Value |
 |---|---|
 | Spreadsheet / Sheet | same as Module 1 |
-| Row number | `1. Row number` (Make exposes this on the Search Rows output) |
-| `posted` column | `{{formatDate(now; "YYYY-MM-DD")}}` |
+| Cell | `E` + `1. Row number` (the `posted` column is E) — type `E`, then map the Row number field right after it |
+| Value | `{{formatDate(now; "YYYY-MM-DD")}}` |
 
 ## 3. Schedule it
 
