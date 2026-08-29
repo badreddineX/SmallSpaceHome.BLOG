@@ -41,6 +41,12 @@ const siteUrl   = 'https://smallspacehome.ca';
 const fullUrl   = slug ? `${siteUrl}/blog/${slug}` : path ? `${siteUrl}${path}` : siteUrl;
 const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const fullTitle = `${title} | SmallSpace Home`;
+// The <title> tag drives the SERP snippet, which truncates past ~60 chars --
+// Google then rewrites it itself, usually worse. Keep the " | SmallSpace Home"
+// suffix only when the post title leaves room; past that, ship the bare title
+// (and if the bare title is itself over ~60, that post's frontmatter title
+// needs a trim). og:/twitter: keep the branded form.
+const metaTitle = fullTitle.length <= 60 ? fullTitle : title;
 
 // Social platforms (Facebook, Pinterest, LinkedIn) crop og:image to the declared
 // width/height, not the file's real dimensions -- an undeclared or wrong pair
@@ -196,7 +202,7 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
 <style is:inline set:html={fontCss}></style>
 
 <!-- Primary -->
-<title>{fullTitle}</title>
+<title>{metaTitle}</title>
 <meta name="description" content={description} />
 <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'} />
 <link rel="canonical" href={fullUrl} />

@@ -1,9 +1,9 @@
 ---
-title: "Small Space Furniture: What Actually Works (3 Years of Real Testing)"
-description: "What I'd buy again and what I regret after furnishing a 510 sq ft Toronto apartment three times — real CAD prices from IKEA, Wayfair, and Amazon Canada, and what actually held up."
+title: "Small Space Furniture: What Actually Works After 3 Years"
+description: "What I'd buy again and what I regret after furnishing a 510 sq ft Toronto apartment three times — with real CAD prices and what actually held up."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
-dateModified: "2026-08-26"
+dateModified: "2026-08-29"
 author: "Badreddine Br"
 tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false

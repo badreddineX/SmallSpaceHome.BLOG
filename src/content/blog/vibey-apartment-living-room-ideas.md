@@ -1,9 +1,9 @@
 ---
 title: "Vibey Apartment Living Room Ideas: Warm, Moody Styling"
-description: "Vibey apartment living room ideas focused on mood, not layout — warm lighting, texture layering, and curated styling with real CAD prices from IKEA, HomeSense, and Structube."
+description: "Vibey apartment living room ideas focused on mood, not layout — warm lighting, texture layering, and curated styling with real CAD prices."
 image: "/images/living-room-cozy.jpg"
 datePublished: "2026-08-08"
-dateModified: "2026-08-08"
+dateModified: "2026-08-29"
 author: "Badreddine Br"
 tags: ["vibey apartment living room", "cozy apartment aesthetic", "warm lighting ideas", "small apartment decor", "moody living room", "apartment styling canada", "renter-friendly", "Canada"]
 featured: false
