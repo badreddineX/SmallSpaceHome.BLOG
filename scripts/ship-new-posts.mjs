@@ -14,7 +14,7 @@
 //              filters posts by that date and will silently skip anything the
 //              cron considers "already covered".
 //
-// See SHIP-PIPELINE.md at the "space work (blogging)" folder root for the why.
+// See "space work (blogging)/scripts/SHIP-PIPELINE.md" for the why.
 
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
