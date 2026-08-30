@@ -5,12 +5,13 @@ import { digestEmail } from './_lib/templates.js';
 const SITE_URL = (process.env.SITE_URL || 'https://smallspacehome.ca').replace(/\/$/, '');
 const MAX_POSTS_PER_EMAIL = 6;
 
-// The weekly email. Triggered by Vercel Cron (see vercel.json). Vercel sends
-// `Authorization: Bearer <CRON_SECRET>` automatically; the same header lets you
-// trigger it by hand. ?dryRun=1 → compute + return, send nothing.
+// The new-post digest. Triggered by Vercel Cron every 2 days (see vercel.json).
+// Vercel sends `Authorization: Bearer <CRON_SECRET>` automatically; the same
+// header lets you trigger it by hand. ?dryRun=1 → compute + return, send nothing.
 //
-// Each run: pick the next unsent weekly idea + any posts published since the
-// last email. Send if there's at least one of the two; otherwise skip.
+// Each run: send ONLY if one or more posts were published since the last issue.
+// When it sends, the next unsent weekly tip rides along in the same email. A run
+// with no new post sends nothing (the tip queue waits for the next post).
 export default async function handler(req, res) {
   const secret = process.env.CRON_SECRET;
   if (!secret || req.headers.authorization !== `Bearer ${secret}`) {
@@ -45,11 +46,11 @@ export default async function handler(req, res) {
         .sort((a, b) => a.order - b.order)
         .find((i) => !sentIdeas.has(i.slug)) || null;
 
-    if (!idea && !newPosts.length) {
+    if (!newPosts.length) {
       return res.status(200).json({
         ok: true,
         sent: 0,
-        reason: 'nothing to send — no unsent idea and no new posts',
+        reason: 'nothing to send — no new posts since the last issue',
       });
     }
 

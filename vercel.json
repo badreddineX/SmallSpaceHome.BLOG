@@ -1,7 +1,7 @@
 {
   "trailingSlash": false,
   "crons": [
-    { "path": "/api/broadcast", "schedule": "0 13 * * 1" }
+    { "path": "/api/broadcast", "schedule": "0 13 */2 * *" }
   ],
   "redirects": [
     { "source": "/blog/storage-solutions-for-small-apartments", "destination": "/blog/storage-ideas-for-small-places", "permanent": true },

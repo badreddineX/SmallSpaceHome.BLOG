@@ -116,18 +116,18 @@ update subscribers set status='unsubscribed', unsubscribed_at=now() where email 
 
 ---
 
-## The weekly email (built)
+## The new-post digest (built)
 
-Every Monday. **Leads with a curated "idea of the week"** from a queue you write
-ahead of time (`src/content/ideas/*.md`); any posts published since the last
-send follow underneath. Sends if there's an unsent idea OR a new post.
+Runs **every 2 days** (13:00 UTC). Sends **only when a post has been published
+since the last issue** — subscribers hear about new posts within ~48h, and get
+nothing on quiet days. When it does send, the next unsent "idea of the week"
+from your queue (`src/content/ideas/*.md`) rides along under the post list.
 
 ```
-Vercel Cron (Mon 13:00 UTC)  ──▶  /api/broadcast
+Vercel Cron (every 2 days, 13:00 UTC)  ──▶  /api/broadcast
    │ fetch /newsletter-feed.json  →  recent posts + the idea queue
-   │ next idea whose filename isn't already in issues.idea_slug
    │ posts newer than max(covered_through), capped at 6
-   │ neither? → skip
+   │ no new post? → skip (idea queue waits)
    │ else → digestEmail({ idea, posts }) per subscriber, sendBatch via Resend
    ▼ insert issues row (idea_slug = the idea used, covered_through = newest post)
 ```
