@@ -8,7 +8,8 @@
     "build": "astro build",
     "postbuild": "node scripts/inject-image-dimensions.mjs",
     "preview": "astro preview",
-    "compress-images": "node scripts/compress-images.mjs"
+    "compress-images": "node scripts/compress-images.mjs",
+    "ship": "node scripts/ship-new-posts.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
