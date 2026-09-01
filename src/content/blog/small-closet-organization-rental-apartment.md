@@ -1,6 +1,6 @@
 ---
 title: "Very Small Closet Organization Ideas (Rentals)"
-description: "No-drill ideas for a very small closet in a rental — slim hangers, shelf risers, over-door racks, and how to organize a tiny closet with lots of clothes, deposit intact."
+description: "No-drill ideas for a very small closet in a rental — slim hangers, shelf risers, over-door racks, and how to fit lots of clothes in a tiny closet."
 image: "/images/blog-09-img1.jpg"
 datePublished: "2026-05-29"
 dateModified: "2026-08-29"
