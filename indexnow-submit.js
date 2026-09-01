@@ -13,6 +13,7 @@ const urlList = [
   "https://smallspacehome.ca/privacy-policy",
   "https://smallspacehome.ca/terms",
   "https://smallspacehome.ca/blog",
+  "https://smallspacehome.ca/blog/apartment-bathroom-decor-ideas",
   "https://smallspacehome.ca/blog/apartment-decor-ideas",
   "https://smallspacehome.ca/blog/apartment-decor-ideas-on-a-budget",
   "https://smallspacehome.ca/blog/budget-apartment-decor-under-50",
