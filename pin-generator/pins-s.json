@@ -1,0 +1,466 @@
+[
+ {
+  "slug": "apartment-bathroom-decor-ideas",
+  "template": "S",
+  "headline": "Apartment Bathroom <em>Decor</em>",
+  "domain": "smallspacehome.ca",
+  "number": "01",
+  "photo": "./public/images/bathroom-decor-styled.jpg"
+ },
+ {
+  "slug": "apartment-decor-ideas-on-a-budget",
+  "template": "S",
+  "headline": "Budget Apartment <em>Decor</em>",
+  "domain": "smallspacehome.ca",
+  "number": "02",
+  "photo": "./public/images/cozy-corner-lamp-mirror.jpg"
+ },
+ {
+  "slug": "apartment-decor-ideas",
+  "template": "S",
+  "headline": "Small Apartment <em>Decorating</em>",
+  "domain": "smallspacehome.ca",
+  "number": "03",
+  "photo": "./public/images/blog-19-img1.jpg"
+ },
+ {
+  "slug": "budget-apartment-decor-under-50",
+  "template": "S",
+  "headline": "Apartment Decor for Under <em>$50</em>",
+  "domain": "smallspacehome.ca",
+  "number": "04",
+  "photo": "./public/images/minimalist-living-room-wood-floor.jpg"
+ },
+ {
+  "slug": "cheapest-ways-rental-feel-stylish",
+  "template": "S",
+  "headline": "Make a Rental Feel <em>Stylish</em>",
+  "domain": "smallspacehome.ca",
+  "number": "05",
+  "photo": "./public/images/nordic-living-room-gray-couch.jpg"
+ },
+ {
+  "slug": "command-strip-decorating-hacks-renters",
+  "template": "S",
+  "headline": "No-Damage Command Strip Decorating <em>Hacks</em>",
+  "domain": "smallspacehome.ca",
+  "number": "06",
+  "photo": "./public/images/decor-floating-shelves.jpg"
+ },
+ {
+  "slug": "condo-storage-ideas-toronto-vancouver",
+  "template": "S",
+  "headline": "Toronto & Vancouver Condo <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "07",
+  "photo": "./public/images/storage-ottoman.jpg"
+ },
+ {
+  "slug": "cozy-winter-apartment-decor",
+  "template": "S",
+  "headline": "Cozy Winter Apartment <em>Decor</em>",
+  "domain": "smallspacehome.ca",
+  "number": "08",
+  "photo": "./public/images/blog-22-img2.jpg"
+ },
+ {
+  "slug": "dollarama-finds-look-expensive",
+  "template": "S",
+  "headline": "Dollarama Finds That Look <em>Expensive</em>",
+  "domain": "smallspacehome.ca",
+  "number": "09",
+  "photo": "./public/images/styled-corner-shelf-decor.jpg"
+ },
+ {
+  "slug": "facebook-marketplace-furnishing-budget",
+  "template": "S",
+  "headline": "Furnish a Rental from <em>Marketplace</em>",
+  "domain": "smallspacehome.ca",
+  "number": "10",
+  "photo": "./public/images/eclectic-vintage-apartment-furniture.jpg"
+ },
+ {
+  "slug": "fall-apartment-decorating-ideas",
+  "template": "S",
+  "headline": "Fall Apartment <em>Decorating</em>",
+  "domain": "smallspacehome.ca",
+  "number": "11",
+  "photo": "./public/images/hero-living-room.jpg"
+ },
+ {
+  "slug": "free-cheap-apartment-decor-diy-vs-buy",
+  "template": "S",
+  "headline": "Free & Cheap Apartment <em>Decor</em>",
+  "domain": "smallspacehome.ca",
+  "number": "12",
+  "photo": "./public/images/cozy-living-room-diy-touches.jpg"
+ },
+ {
+  "slug": "fridge-pantry-organization-small-apartment",
+  "template": "S",
+  "headline": "Fridge & Pantry <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "13",
+  "photo": "./public/images/kitchen-organized-white.jpg"
+ },
+ {
+  "slug": "how-to-decorate-a-small-living-room",
+  "template": "S",
+  "headline": "Decorate a Small Living <em>Room</em>",
+  "domain": "smallspacehome.ca",
+  "number": "14",
+  "photo": "./public/images/small-apartment-decorating-living-room.jpg"
+ },
+ {
+  "slug": "ikea-small-space-hacks",
+  "template": "S",
+  "headline": "IKEA Small Space Hacks for <em>Apartments</em>",
+  "domain": "smallspacehome.ca",
+  "number": "15",
+  "photo": "./public/images/scandinavian-minimalist-furniture.jpg"
+ },
+ {
+  "slug": "january-reset-organization-ideas",
+  "template": "S",
+  "headline": "January Reset &amp; <em>Declutter</em>",
+  "domain": "smallspacehome.ca",
+  "number": "16",
+  "photo": "./public/images/closet-wardrobe-open.jpg"
+ },
+ {
+  "slug": "minimalist-small-apartment-ideas",
+  "template": "S",
+  "headline": "Minimalist Small <em>Apartment</em>",
+  "domain": "smallspacehome.ca",
+  "number": "17",
+  "photo": "./public/images/bedroom-minimalist.jpg"
+ },
+ {
+  "slug": "pet-friendly-small-apartment-ideas",
+  "template": "S",
+  "headline": "Pet-Friendly Small Apartment <em>Setups</em>",
+  "domain": "smallspacehome.ca",
+  "number": "18",
+  "photo": "./public/images/cozy-living-room-cat-dog.jpg"
+ },
+ {
+  "slug": "quebec-moving-day-storage-guide",
+  "template": "S",
+  "headline": "Quebec Moving Day Storage & <em>Packing</em>",
+  "domain": "smallspacehome.ca",
+  "number": "19",
+  "photo": "./public/images/moving-day-boxes-apartment.jpg"
+ },
+ {
+  "slug": "renter-friendly-apartment-decor-ideas",
+  "template": "S",
+  "headline": "Renter-Friendly Apartment <em>Decor</em>",
+  "domain": "smallspacehome.ca",
+  "number": "20",
+  "photo": "./public/images/apartment-tv-console-vase.jpg"
+ },
+ {
+  "slug": "renter-friendly-bike-storage-small-apartments",
+  "template": "S",
+  "headline": "Renter-Friendly Bike <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "21",
+  "photo": "./public/images/bike-wall-storage-indoor.jpg"
+ },
+ {
+  "slug": "renter-friendly-gallery-wall-ideas",
+  "template": "S",
+  "headline": "Renter-Friendly Gallery <em>Wall</em>",
+  "domain": "smallspacehome.ca",
+  "number": "22",
+  "photo": "./public/images/gallery-wall-frames-plant.jpg"
+ },
+ {
+  "slug": "seasonal-storage-off-season-clothes-gear",
+  "template": "S",
+  "headline": "Seasonal Storage for Off-Season <em>Clothes</em>",
+  "domain": "smallspacehome.ca",
+  "number": "23",
+  "photo": "./public/images/seasonal-clothes-wardrobe.jpg"
+ },
+ {
+  "slug": "september-student-move-in-storage-guide",
+  "template": "S",
+  "headline": "Student Move-In Storage <em>Setup</em>",
+  "domain": "smallspacehome.ca",
+  "number": "24",
+  "photo": "./public/images/modern-studio-apartment-kitchen.jpg"
+ },
+ {
+  "slug": "small-apartment-balcony-ideas",
+  "template": "S",
+  "headline": "Small Apartment <em>Balcony</em>",
+  "domain": "smallspacehome.ca",
+  "number": "25",
+  "photo": "./public/images/windowsill-houseplants-corner.jpg"
+ },
+ {
+  "slug": "small-apartment-balcony-storage-ideas",
+  "template": "S",
+  "headline": "Small Apartment Balcony <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "26",
+  "photo": "./public/images/blog-03-img1.jpg"
+ },
+ {
+  "slug": "small-apartment-bathroom-storage",
+  "template": "S",
+  "headline": "Small Apartment Bathroom <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "27",
+  "photo": "./public/images/bathroom-storage-shelves.jpg"
+ },
+ {
+  "slug": "small-apartment-beauty-skincare-storage",
+  "template": "S",
+  "headline": "Small-Space <em>Skincare</em> Storage",
+  "domain": "smallspacehome.ca",
+  "number": "28",
+  "photo": "./public/images/bathroom-wooden-organizer-cart.jpg"
+ },
+ {
+  "slug": "small-apartment-bedroom-storage-ideas",
+  "template": "S",
+  "headline": "Small Bedroom Storage & <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "29",
+  "photo": "./public/images/bedroom-storage-closet.jpg"
+ },
+ {
+  "slug": "small-apartment-coffee-corner-ideas",
+  "template": "S",
+  "headline": "Coffee & Cafe <em>Corner</em>",
+  "domain": "smallspacehome.ca",
+  "number": "30",
+  "photo": "./public/images/kitchen-coffee-corner-sunlight.jpg"
+ },
+ {
+  "slug": "small-apartment-home-gym-storage-setup",
+  "template": "S",
+  "headline": "Small Apartment Home Gym <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "31",
+  "photo": "./public/images/home-gym-equipment-corner.jpg"
+ },
+ {
+  "slug": "small-apartment-home-office-ideas",
+  "template": "S",
+  "headline": "Small Apartment Home <em>Office</em>",
+  "domain": "smallspacehome.ca",
+  "number": "32",
+  "photo": "./public/images/small-home-office-desk.jpg"
+ },
+ {
+  "slug": "small-apartment-laundry-storage-ideas",
+  "template": "S",
+  "headline": "Small Laundry Room Ideas for <em>Apartments</em>",
+  "domain": "smallspacehome.ca",
+  "number": "33",
+  "photo": "./public/images/blog-09-img2.jpg"
+ },
+ {
+  "slug": "small-apartment-organization-ideas-on-a-budget",
+  "template": "S",
+  "headline": "Organize a Rental for <em>$100</em>",
+  "domain": "smallspacehome.ca",
+  "number": "34",
+  "photo": "./public/images/budget-storage-baskets-shelf.jpg"
+ },
+ {
+  "slug": "small-apartment-organization",
+  "template": "S",
+  "headline": "Whole Small Apartment <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "35",
+  "photo": "./public/images/modern-open-plan-apartment.jpg"
+ },
+ {
+  "slug": "small-apartment-pantry-organization-budget",
+  "template": "S",
+  "headline": "Small Apartment Pantry <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "36",
+  "photo": "./public/images/pantry-jars-cabinet-organized.jpg"
+ },
+ {
+  "slug": "small-apartment-paperwork-mail-organization",
+  "template": "S",
+  "headline": "Small Apartment Paperwork <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "37",
+  "photo": "./public/images/hanging-desk-organizer-notes.jpg"
+ },
+ {
+  "slug": "small-apartment-pet-supply-organization",
+  "template": "S",
+  "headline": "Small Apartment Pet Supply <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "38",
+  "photo": "./public/images/dog-food-bowl-storage.jpg"
+ },
+ {
+  "slug": "small-apartment-plant-corner-ideas",
+  "template": "S",
+  "headline": "Plant Corner Ideas for Small <em>Apartments</em>",
+  "domain": "smallspacehome.ca",
+  "number": "39",
+  "photo": "./public/images/plant-corner-palm.jpg"
+ },
+ {
+  "slug": "small-apartment-reading-nook-ideas",
+  "template": "S",
+  "headline": "Small Apartment Reading <em>Nook</em>",
+  "domain": "smallspacehome.ca",
+  "number": "40",
+  "photo": "./public/images/bedroom-shelves-reading.jpg"
+ },
+ {
+  "slug": "small-apartment-shoe-storage-ideas",
+  "template": "S",
+  "headline": "Shoe Storage Ideas for Small <em>Spaces</em>",
+  "domain": "smallspacehome.ca",
+  "number": "41",
+  "photo": "./public/images/minimalist-entryway-hallway.jpg"
+ },
+ {
+  "slug": "small-apartment-storage-bins-baskets-guide",
+  "template": "S",
+  "headline": "Small Apartment Storage Bins & <em>Baskets</em>",
+  "domain": "smallspacehome.ca",
+  "number": "42",
+  "photo": "./public/images/storage-wicker-shelf.jpg"
+ },
+ {
+  "slug": "small-bedroom-decor-ideas",
+  "template": "S",
+  "headline": "Small Bedroom <em>Decor</em>",
+  "domain": "smallspacehome.ca",
+  "number": "43",
+  "photo": "./public/images/blog-06-img1.jpg"
+ },
+ {
+  "slug": "small-closet-organization-rental-apartment",
+  "template": "S",
+  "headline": "Very Small Closet <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "44",
+  "photo": "./public/images/blog-09-img1.jpg"
+ },
+ {
+  "slug": "small-entryway-hallway-storage-ideas",
+  "template": "S",
+  "headline": "Small Entryway & Hallway <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "45",
+  "photo": "./public/images/entryway-hallway-console.jpg"
+ },
+ {
+  "slug": "small-living-room-storage-solutions",
+  "template": "S",
+  "headline": "Small Living Room <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "46",
+  "photo": "./public/images/blog-19-img3.jpg"
+ },
+ {
+  "slug": "small-space-furniture",
+  "template": "S",
+  "headline": "Small Space <em>Furniture</em>",
+  "domain": "smallspacehome.ca",
+  "number": "47",
+  "photo": "./public/images/blog-05-img2.jpg"
+ },
+ {
+  "slug": "small-space-kitchen-organization",
+  "template": "S",
+  "headline": "Small Kitchen <em>Organization</em>",
+  "domain": "smallspacehome.ca",
+  "number": "48",
+  "photo": "./public/images/small-kitchen-organized.jpg"
+ },
+ {
+  "slug": "small-space-living-room-ideas",
+  "template": "S",
+  "headline": "Small Space Living <em>Room</em>",
+  "domain": "smallspacehome.ca",
+  "number": "49",
+  "photo": "./public/images/small-studio-living-room-bright.jpg"
+ },
+ {
+  "slug": "spring-cleaning-organization-tips",
+  "template": "S",
+  "headline": "Spring Cleaning Tips for <em>Apartments</em>",
+  "domain": "smallspacehome.ca",
+  "number": "50",
+  "photo": "./public/images/organized-cleaning-supplies.jpg"
+ },
+ {
+  "slug": "storage-bed-buying-guide-small-studio",
+  "template": "S",
+  "headline": "Storage Beds for Small <em>Studios</em>",
+  "domain": "smallspacehome.ca",
+  "number": "51",
+  "photo": "./public/images/bright-bedroom-mirror.jpg"
+ },
+ {
+  "slug": "storage-ideas-for-small-places",
+  "template": "S",
+  "headline": "Small Apartment <em>Storage</em>",
+  "domain": "smallspacehome.ca",
+  "number": "52",
+  "photo": "./public/images/closet-organizer-shelving.jpg"
+ },
+ {
+  "slug": "studio-apartment-layout-ideas",
+  "template": "S",
+  "headline": "Studio Apartment <em>Layout</em> Ideas",
+  "domain": "smallspacehome.ca",
+  "number": "53",
+  "photo": "./public/images/studio-apartment-cozy-living-room.jpg"
+ },
+ {
+  "slug": "under-bed-storage-ideas-small-apartment",
+  "template": "S",
+  "headline": "Under-Bed Storage Ideas for Small <em>Apartments</em>",
+  "domain": "smallspacehome.ca",
+  "number": "54",
+  "photo": "./public/images/baskets-laundry-by-bed.jpg"
+ },
+ {
+  "slug": "vertical-storage-ideas-small-apartment",
+  "template": "S",
+  "headline": "Vertical Storage Ideas for <em>Apartments</em>",
+  "domain": "smallspacehome.ca",
+  "number": "55",
+  "photo": "./public/images/kitchen-open-shelves.jpg"
+ },
+ {
+  "slug": "vibey-apartment-living-room-ideas",
+  "template": "S",
+  "headline": "Vibey Apartment Living <em>Room</em>",
+  "domain": "smallspacehome.ca",
+  "number": "56",
+  "photo": "./public/images/living-room-cozy.jpg"
+ },
+ {
+  "slug": "warm-earthy-color-palette-small-apartment",
+  "template": "S",
+  "headline": "A Warm, Earthy <em>Palette</em>",
+  "domain": "smallspacehome.ca",
+  "number": "57",
+  "photo": "./public/images/about-strip-shelf.jpg"
+ },
+ {
+  "slug": "where-to-buy-small-space-storage-furniture",
+  "template": "S",
+  "headline": "Where to Buy Small-Space Storage <em>Furniture</em>",
+  "domain": "smallspacehome.ca",
+  "number": "58",
+  "photo": "./public/images/living-room-storage-shelving.jpg"
+ }
+]
