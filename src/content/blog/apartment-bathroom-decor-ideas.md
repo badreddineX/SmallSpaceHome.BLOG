@@ -1,7 +1,7 @@
 ---
 title: "Apartment Bathroom Decor Ideas (Renter-Friendly)"
 description: "Apartment bathroom decor ideas for Canadian renters — no-drill styling, colour, plants, and small upgrades that make a rental bathroom feel yours without risking the deposit."
-image: "/images/bathroom-storage-shelves.jpg"
+image: "/images/bathroom-decor-styled.jpg"
 datePublished: "2026-09-01"
 dateModified: "2026-09-01"
 author: "Badreddine Br"
@@ -48,7 +48,7 @@ A rental bathroom usually comes with a clear plastic liner, no curtain, a thin b
 
 Pick one colour family — sage and cream, warm terracotta and white, navy and oatmeal — and the beige tile you can't change suddenly reads as a neutral background instead of the main event.
 
-![Styled bathroom shelving with folded towels and small decor](/images/bathroom-storage-shelves.jpg)
+![A styled small bathroom with a wood-framed mirror, open shelves and dried flowers on the vanity](/images/bathroom-decor-styled.jpg)
 
 ## How Do You Add Shelves Without Drilling?
 

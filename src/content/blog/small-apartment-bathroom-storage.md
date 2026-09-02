@@ -49,7 +49,7 @@ A freestanding over-toilet shelf unit sits around the toilet tank and adds three
 
 **What to put on the shelves:** Decorative baskets on the top shelf (they hide clutter and look intentional), rolled towels on the middle shelf, daily toiletries on the bottom shelf within easy reach.
 
-![Wall shelves above the toilet in a small apartment bathroom adding vertical storage for essentials without using floor space](/images/unsplash-1584622650111-993a426fbf0a.jpg)
+![A small apartment bathroom with open wall shelves and a wood-framed mirror keeping essentials off the floor](/images/bathroom-decor-styled.jpg)
 
 ---
 
@@ -91,7 +91,7 @@ Most builder-grade medicine cabinets in Canadian rentals are only 8–10 cm deep
 
 The mirror exterior also eliminates the need for a separate bathroom mirror, freeing wall space for other uses.
 
-![Bathroom vanity with mirrored storage and a recessed wall niche shelf keeping toiletries organized and off the counter](/images/unsplash-1600566752355-35792bedcfea.jpg)
+![Bathroom vanity with mirrored storage and a recessed wall niche shelf keeping toiletries organized and off the counter](/images/bathroom-dark-modern.jpg)
 
 ---
 
@@ -146,7 +146,7 @@ A slim two-tier countertop organizer (~$20–$30 CAD) or a wall-mounted toothbru
 
 **What moves off the counter permanently:** extra makeup, cotton balls, hair accessories, backup products. These belong in the over-door organizer, medicine cabinet, or a drawer organizer.
 
-![Wooden tray corralling only daily-use toiletries in one spot, leaving the rest of the bathroom surfaces clear](/images/unsplash-1507652313519-d4e9174996dd.jpg)
+![A wooden organiser cart holding daily-use toiletries in one spot, leaving the rest of the bathroom surfaces clear](/images/bathroom-wooden-organizer-cart.jpg)
 
 ---
 

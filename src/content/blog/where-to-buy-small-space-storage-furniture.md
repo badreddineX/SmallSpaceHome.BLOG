@@ -1,7 +1,7 @@
 ---
 title: "Where to Buy Small-Space Storage Furniture"
 description: "Real Canadian retailers for hidden storage furniture, by piece and by budget — where to buy, what it actually costs, and what to skip."
-image: "/images/storage-ottoman.jpg"
+image: "/images/living-room-storage-shelving.jpg"
 datePublished: "2026-08-17"
 dateModified: "2026-08-17"
 author: "Badreddine Br"
@@ -57,7 +57,7 @@ Amazon.ca is the best source for pre-assembled ottomans and lift-top coffee tabl
 
 Amazon.ca's advantage over IKEA specifically is selection breadth — dozens of brands competing on the same product type, which makes it easy to compare dimensions against a small room before buying, something a single-brand catalogue like IKEA can't offer.
 
-![A tufted storage ottoman with the lid open, showing folded blankets stored inside](/images/storage-ottoman.jpg)
+![An open shelving unit styling books and boxes beside a lounge chair in a small living room](/images/living-room-storage-shelving.jpg)
 
 ## Is Wayfair Canada Worth Checking?
 
