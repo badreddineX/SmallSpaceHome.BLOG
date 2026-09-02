@@ -210,6 +210,30 @@ const templates = {
     <div class="arch"></div>
     <div class="ribbon-wrap"><div class="ribbon"><h2>${p.headline}</h2></div></div>
     <div class="domain">${p.domain}</div>`,
+// ===== S · SCENIC (save-worthy) — full-bleed photo, one short line, tiny domain =====
+  // P1 creative reset: home-decor Pinterest saves the ROOM, not the logo. This is
+  // a near-verbatim photo with a single short headline + a whisper of branding.
+  // 'number' adds a faint "Nº 01" in the corner for scannability only.
+  S: (p) => `
+    <style>${BASE_CSS}
+      body{display:flex;align-items:flex-end}
+      .photo{position:absolute;inset:0;background:url('${p.photo}') center/cover no-repeat}
+      .grain::after{content:'';position:absolute;inset:0;
+        background:linear-gradient(180deg, rgba(20,26,18,0) 0%, rgba(20,26,18,.10) 40%, rgba(14,18,12,.62) 100%)}
+      .voice{position:relative;width:100%;padding:0 72px 62px;display:flex;flex-direction:column;justify-content:flex-end}
+      h2{font-size:62px;line-height:1.12;color:#FDFCF7;max-width:780px;
+         text-shadow:0 1px 20px rgba(0,0,0,.35)}
+      h2 em{color:var(--tan);font-style:italic}
+      .domain{color:rgba(250,247,240,.82);margin-top:18px;font-size:18px;letter-spacing:.22em}
+      .no{position:absolute;top:58px;right:66px;font-family:'Montserrat',sans-serif;font-weight:600;
+          font-size:16px;letter-spacing:.24em;color:rgba(250,247,240,.5)}
+    </style>
+    <div class="photo grain"></div>
+    ${p.number ? `<div class="no">Nº&nbsp;${p.number}</div>` : ''}
+    <div class="voice">
+      <h2>${p.headline}</h2>
+      <div class="domain">${p.domain}</div>
+    </div>`,
 };
 
 // --ig renders Instagram's native 4:5 feed size (1080x1350) instead of

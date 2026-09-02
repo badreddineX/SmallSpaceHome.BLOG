@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "test-clean-storage",
+    "template": "S",
+    "headline": "Small Bedroom Storage That <em>Fits</em>",
+    "domain": "smallspacehome.ca",
+    "number": "01",
+    "photo": "./public/images/featured/bedroom-storage-closet.jpg"
+  },
+  {
+    "slug": "test-clean-bathroom",
+    "template": "S",
+    "headline": "Renter-Safe <em>Bathroom</em> Storage",
+    "domain": "smallspacehome.ca",
+    "photo": "./public/images/featured/bathroom-storage-shelves.jpg"
+  }
+]
