@@ -2,6 +2,7 @@
 import sharp from 'sharp';
 import { join } from 'node:path';
 import { readFileSync } from 'node:fs';
+import hreflangMap from '../lib/hreflang.json';
 
 // Inlined at build time: /fonts.css is only ~7.7KB but as an external stylesheet
 // it render-blocks the whole page for a full network round-trip (Lighthouse
@@ -39,6 +40,8 @@ const {
 
 const siteUrl   = 'https://smallspacehome.ca';
 const fullUrl   = slug ? `${siteUrl}/blog/${slug}` : path ? `${siteUrl}${path}` : siteUrl;
+// Regional twin on britishhomeinterior.co.uk, if this post has one (src/lib/hreflang.json).
+const hreflangAlt = slug && (hreflangMap as Record<string, { 'en-CA': string; 'en-GB': string }>)[slug] || null;
 const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const fullTitle = `${title} | SmallSpace Home`;
 // The <title> tag drives the SERP snippet, which truncates past ~60 chars --
@@ -205,6 +208,13 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
 <meta name="description" content={description} />
 <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'} />
 <link rel="canonical" href={fullUrl} />
+{hreflangAlt && (
+  <>
+    <link rel="alternate" hreflang="en-CA" href={hreflangAlt['en-CA']} />
+    <link rel="alternate" hreflang="en-GB" href={hreflangAlt['en-GB']} />
+    <link rel="alternate" hreflang="x-default" href={hreflangAlt['en-CA']} />
+  </>
+)}
 <link rel="alternate" type="application/rss+xml" title="SmallSpace Home" href="/rss.xml" />
 <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt" />
 <meta name="google-site-verification" content="z1oIcfJSzQJnQ5TivxBkr_cdEvA8f3qzg4OQ9BU04kM" />
