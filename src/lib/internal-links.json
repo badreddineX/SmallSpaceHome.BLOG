@@ -1,0 +1,25 @@
+{
+  "_comment": "Curated internal-link map: phrase -> target post slug. This blog is ALREADY densely linked (see report), so the map here is deliberately small and points at UNDER-linked pages, not the hubs. Max 2 auto-links/post, first occurrence, self-links skipped, longest phrase wins. Run: node scripts/internal-links-report.mjs after editing.",
+
+  "home office setup": "small-apartment-home-office-ideas",
+  "small home office": "small-apartment-home-office-ideas",
+  "balcony storage": "small-apartment-balcony-storage-ideas",
+  "plant corner": "small-apartment-plant-corner-ideas",
+  "coffee corner": "small-apartment-coffee-corner-ideas",
+  "reading nook": "small-apartment-reading-nook-ideas",
+  "home gym": "small-apartment-home-gym-storage-setup",
+  "bike storage": "renter-friendly-bike-storage-small-apartments",
+  "laundry storage": "small-apartment-laundry-storage-ideas",
+  "off-season clothes": "seasonal-storage-off-season-clothes-gear",
+  "Facebook Marketplace": "facebook-marketplace-furnishing-budget",
+  "Dollarama finds": "dollarama-finds-look-expensive",
+  "storage bed": "storage-bed-buying-guide-small-studio",
+  "renter-friendly gallery wall": "renter-friendly-gallery-wall-ideas",
+  "warm earthy colour palette": "warm-earthy-color-palette-small-apartment",
+  "warm earthy color palette": "warm-earthy-color-palette-small-apartment",
+  "earthy colour palette": "warm-earthy-color-palette-small-apartment",
+  "shoe storage": "small-apartment-shoe-storage-ideas",
+  "balcony ideas": "small-apartment-balcony-ideas",
+  "small balcony": "small-apartment-balcony-ideas",
+  "bathroom decor": "apartment-bathroom-decor-ideas"
+}

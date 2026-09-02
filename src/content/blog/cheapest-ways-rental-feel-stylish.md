@@ -69,7 +69,7 @@ Overhead lighting alone tends to flatten a room and make it feel like an office.
 
 ## What Can Dollarama Actually Do for a Rental?
 
-Dollarama items in the $1.25–$5 CAD range can style a shelf, refresh a bathroom, or fill a plant corner for under $20 CAD total, which makes it one of the highest-value stops for a near-zero-budget refresh. The trick is choosing a few good pieces rather than filling every surface.
+Dollarama items in the $1.25–$5 CAD range can style a shelf, refresh a bathroom, or fill a [plant corner](/blog/small-apartment-plant-corner-ideas) for under $20 CAD total, which makes it one of the highest-value stops for a near-zero-budget refresh. The trick is choosing a few good pieces rather than filling every surface.
 
 **A realistic $15–$20 CAD Dollarama haul:**
 
@@ -84,7 +84,7 @@ Skip the seasonal decor aisle unless it's genuinely useful year-round. The best 
 
 ## Are Thrifted and Marketplace Finds Worth the Time?
 
-Facebook Marketplace and Value Village consistently have usable decor and small furniture for $0–$20 CAD, often less than a single new item at a retail store. The catch is that it takes patience, checking listings a few times a week rather than once, and being ready to pick items up quickly.
+[Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) and Value Village consistently have usable decor and small furniture for $0–$20 CAD, often less than a single new item at a retail store. The catch is that it takes patience, checking listings a few times a week rather than once, and being ready to pick items up quickly.
 
 The "free" section of Facebook Marketplace in most Canadian cities regularly has mirrors, side tables, and lamps from people moving out. Across my own last three moves, I picked up a mirror, a side table, and two lamps entirely free this way, items that would have cost $150–$200 CAD new. The only real cost was gas and a Saturday morning.
 

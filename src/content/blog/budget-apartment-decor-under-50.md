@@ -77,7 +77,7 @@ Most budget decor guides push straight to art and plants, but in a small rental,
 - IKEA LACK floating shelf — ~$20–$25 CAD
 - Dollarama woven-look baskets (set of 2–3) — ~$10–$15 CAD
 - Walmart Canada stackable bins — ~$12–$20 CAD
-- Facebook Marketplace — free or under $10 CAD baskets and small shelves during move-out season
+- [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) — free or under $10 CAD baskets and small shelves during move-out season
 
 If you're tight for cash and already have a bit more room in the budget, our guide to [apartment organization under $100 CAD](/blog/small-apartment-organization-ideas-on-a-budget) covers the fuller storage system this shelf-and-basket combo is a starter version of.
 

@@ -26,7 +26,7 @@ Minimalism in a small Canadian apartment is not a style choice — it's a practi
 
 According to CMHC, average rents in major Canadian cities have risen sharply, which means more people are staying in smaller apartments for longer — making livability even more important. I've lived in a 510 sq ft Toronto rental for over three years, and committing to the surfaces rule below was the change that made the biggest difference in how the apartment felt day to day.
 
-**TL;DR:** Start by decluttering one room completely — everything out, then only what serves a clear purpose or brings genuine pleasure goes back. Surface discipline is the daily habit that separates minimalist apartments from the rest: surfaces are either empty or deliberately styled, never used as landing zones. Multi-functional furniture (storage bed, storage ottoman, KALLAX) means you need fewer pieces total. Minimalism costs nothing — the work is editing, not buying.
+**TL;DR:** Start by decluttering one room completely — everything out, then only what serves a clear purpose or brings genuine pleasure goes back. Surface discipline is the daily habit that separates minimalist apartments from the rest: surfaces are either empty or deliberately styled, never used as landing zones. Multi-functional furniture ([storage bed](/blog/storage-bed-buying-guide-small-studio), storage ottoman, KALLAX) means you need fewer pieces total. Minimalism costs nothing — the work is editing, not buying.
 
 ---
 

@@ -46,7 +46,7 @@ Under-bed storage works when the bin's height matches your actual bed clearance,
 
 **IKEA SAMLA boxes** are the most reliable under-bed option in Canada. The 45L size (~$8 CAD) is 39 × 56 × 28 cm and clears most bed frames when turned on its side, while the 22L size (~$6 CAD) fits tighter clearances. Clear plastic means you can see contents without pulling the bin out, which matters for anything you need occasionally, like seasonal bedding.
 
-Fabric under-bed totes with a zip lid work better for soft items like extra pillows or off-season clothes, since they compress slightly and don't need to be perfectly rigid to slide in and out. For a deeper dive on maximizing this specific space, [under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment) covers rolling bins, bed risers, and how to keep the space from becoming a dust trap.
+Fabric under-bed totes with a zip lid work better for soft items like extra pillows or [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear), since they compress slightly and don't need to be perfectly rigid to slide in and out. For a deeper dive on maximizing this specific space, [under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment) covers rolling bins, bed risers, and how to keep the space from becoming a dust trap.
 
 **Citation capsule:** Under-bed clearance on most standard bed frames sold in Canada runs 15–18 cm, while platform beds can clear as little as 10 cm — always measure before choosing a bin taller than 15 cm.
 

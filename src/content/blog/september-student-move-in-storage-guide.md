@@ -111,7 +111,7 @@ For more ways to stretch a tight setup budget further, see our [budget-friendly 
 
 ## Where Can You Buy Cheap or Secondhand Apartment Storage?
 
-Facebook Marketplace and end-of-year campus move-out sales are the cheapest sources for shelving and bins in a university town, often free or under $10 CAD in late April and early May. New students moving in September can catch the tail end of these listings if they search early.
+[Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) and end-of-year campus move-out sales are the cheapest sources for shelving and bins in a university town, often free or under $10 CAD in late April and early May. New students moving in September can catch the tail end of these listings if they search early.
 
 **Best sources ranked by savings:**
 1. **Facebook Marketplace** – search your campus name plus "moving sale," best in late August

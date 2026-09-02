@@ -77,7 +77,7 @@ Warm neutrals and earthy tones outperform stark white or cool gray for a moody, 
 - **A large woven wall hanging or macrame piece** (~$35–$60 CAD, HomeSense) adds warmth without touching paint
 - **Command-strip picture ledges** for layered art (~$20–$30 CAD, IKEA MOSSLANDA) build depth against a plain wall
 
-Our <a href="/blog/warm-earthy-color-palette-small-apartment">warm earthy color palette guide</a> covers the full palette breakdown if you want to go further than accents.
+Our <a href="/blog/warm-earthy-color-palette-small-apartment">[warm earthy color palette](/blog/warm-earthy-color-palette-small-apartment) guide</a> covers the full palette breakdown if you want to go further than accents.
 
 ## 5. What Furniture Layout Supports a Cozy Vibe in a Small Living Room?
 

@@ -27,7 +27,7 @@ Three different searches keep landing on the same problem: "where can I buy smar
 
 If you want the reasoning behind which piece to buy first and how much storage each one actually holds, [small living room storage furniture](/blog/small-living-room-storage-solutions) covers that. This page is just the buying list: where, and for how much.
 
-**TL;DR:** IKEA is cheapest for flat-pack pieces (BESTÅ console, KALLAX, LACK). Amazon.ca and Wayfair Canada are best for pre-assembled ottomans and lift-top coffee tables. HomeSense is the wildcard — check in person for one-off finished pieces at a discount. Facebook Marketplace beats all of them on price for secondhand ottomans and console tables, if you're willing to wait and pick up in person.
+**TL;DR:** IKEA is cheapest for flat-pack pieces (BESTÅ console, KALLAX, LACK). Amazon.ca and Wayfair Canada are best for pre-assembled ottomans and lift-top coffee tables. HomeSense is the wildcard — check in person for one-off finished pieces at a discount. [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) beats all of them on price for secondhand ottomans and console tables, if you're willing to wait and pick up in person.
 
 ---
 

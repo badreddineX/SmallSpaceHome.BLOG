@@ -49,7 +49,7 @@ If your bylaws are vague or you're not sure, a quick email to your property mana
 
 ## What's the Best No-Drill Bike Storage for a Small Balcony?
 
-A freestanding gravity bike rack solves balcony bike storage without a single screw. It leans against the railing or wall using the bike's own weight to stay upright, and most models fold flat when you're not using them. A single-bike gravity rack runs $50–$90 CAD, while two-bike models cost $80–$120 CAD, and either version avoids the wall-mounted brackets that most bike storage guides assume renters can install. This is the setup I've relied on for three straight summers.
+A freestanding gravity bike rack solves balcony [bike storage](/blog/renter-friendly-bike-storage-small-apartments) without a single screw. It leans against the railing or wall using the bike's own weight to stay upright, and most models fold flat when you're not using them. A single-bike gravity rack runs $50–$90 CAD, while two-bike models cost $80–$120 CAD, and either version avoids the wall-mounted brackets that most bike storage guides assume renters can install. This is the setup I've relied on for three straight summers.
 
 Gravity racks work because the bike's front wheel sits in a raised cradle, and the frame's weight naturally counterbalances against the support arm. No wall bracket, no drilled anchor, and no residue when you move out. Most bike storage guides push wall-mounted hooks, but those aren't an option for renters at all — a gravity rack is the only version that's genuinely landlord-safe.
 
@@ -101,6 +101,6 @@ If you're starting from zero, tackle balcony storage in this order for the best 
 4. **Clip-on railing planters** — adds green space without drilling
 5. **Fall teardown checklist** — protects everything you bought
 
-A small balcony can genuinely function as extra storage and living space in a Canadian apartment, as long as you build around what your building actually allows and what the winter can handle. Start with the deck box and the bylaw check, then layer in a bike rack and planters as your space and budget allow.
+A [small balcony](/blog/small-apartment-balcony-ideas) can genuinely function as extra storage and living space in a Canadian apartment, as long as you build around what your building actually allows and what the winter can handle. Start with the deck box and the bylaw check, then layer in a bike rack and planters as your space and budget allow.
 
 For more renter-friendly storage that needs zero drilling, our full [storage ideas for small places](/blog/storage-ideas-for-small-places) post covers 23 more solutions for the rest of the apartment, and our [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) guide covers the other room renters ask about most.

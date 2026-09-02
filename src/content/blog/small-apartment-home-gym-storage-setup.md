@@ -27,7 +27,7 @@ faqs:
 
 You don't need a spare room to build a real home gym. A folding mat, a set of resistance bands, and adjustable dumbbells that live inside a storage ottoman can turn any 2×2 foot corner into a functional workout space. The equipment just has to earn its footprint twice: once during the workout, once folded away.
 
-I've been doing this in my 510 sq ft Toronto apartment for over a year now, and the corner behind my couch does double duty as a reading nook most of the week. The trick isn't buying less equipment, it's buying equipment that disappears.
+I've been doing this in my 510 sq ft Toronto apartment for over a year now, and the corner behind my couch does double duty as a [reading nook](/blog/small-apartment-reading-nook-ideas) most of the week. The trick isn't buying less equipment, it's buying equipment that disappears.
 
 **TL;DR:** Pick foldable or stackable equipment (mat, bands, adjustable dumbbells) instead of fixed gear. Store weights inside a storage ottoman ($60–$120 CAD), stash mats and bands under the bed or on wall hooks, and pick a corner that already has a dual purpose. Total setup cost: roughly $250–$450 CAD.
 

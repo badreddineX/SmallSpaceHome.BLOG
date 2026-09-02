@@ -108,7 +108,7 @@ A SKADIS pegboard costs about $15 CAD, and a basic accessory pack of hooks and c
 
 ## How Do You Combine MICKE Desk and KALLAX for a Home Office?
 
-KALLAX 2×2 placed beside the MICKE desk creates a corner home office setup with twice the storage. The KALLAX handles books, office supplies, and equipment that won't fit on the desk.
+KALLAX 2×2 placed beside the MICKE desk creates a corner [home office setup](/blog/small-apartment-home-office-ideas) with twice the storage. The KALLAX handles books, office supplies, and equipment that won't fit on the desk.
 
 A MICKE desk paired with a 2×2 KALLAX totals about $178 CAD, doubling the storage of a desk-only setup in the same corner footprint.
 
@@ -148,7 +148,7 @@ If combined with NORDLI or MALM bed risers, you can add even more under-bed clea
 
 ## TJUSIG Bench + Hooks as a Complete Entry System
 
-The TJUSIG bench (~$59 CAD) with shoe storage underneath, combined with TJUSIG or ENUDDEN wall hooks above (~$15–$25 CAD), creates a functional entry station for a fraction of a custom mudroom.
+The TJUSIG bench (~$59 CAD) with [shoe storage](/blog/small-apartment-shoe-storage-ideas) underneath, combined with TJUSIG or ENUDDEN wall hooks above (~$15–$25 CAD), creates a functional entry station for a fraction of a custom mudroom.
 
 A TJUSIG bench costs about $59 CAD, and adding wall hooks for another $15 to $25 CAD creates a full entry station for well under $100 CAD total.
 

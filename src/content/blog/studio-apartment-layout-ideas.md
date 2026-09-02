@@ -103,7 +103,7 @@ If your studio has a defined sleeping alcove — a lot of older Canadian buildin
 - Keep one clear side to get in and out, minimum 55–60cm.
 - A single wall light or clip light instead of a lamp on furniture you don't have.
 
-A storage bed does the most work here — the drawers or lift-up base replace a dresser entirely. If you're weighing one up, the [storage bed buying guide for small studios](/blog/storage-bed-buying-guide-small-studio) covers what's worth the money.
+A [storage bed](/blog/storage-bed-buying-guide-small-studio) does the most work here — the drawers or lift-up base replace a dresser entirely. If you're weighing one up, the [storage bed buying guide for small studios](/blog/storage-bed-buying-guide-small-studio) covers what's worth the money.
 
 ## Studio Layout by Apartment Size: A Quick Guide
 

@@ -62,7 +62,7 @@ IKEA PAX wardrobe frames start at around $179 CAD, and at just 50 cm deep, take 
 
 ## Under-Bed Storage Is Non-Negotiable
 
-The space under your bed is the biggest untapped storage area in most apartments. Flat, lidded bins work for off-season clothes, extra linens, or shoes. If your bed frame sits too low, bed risers add 15 cm of clearance for about $25 CAD.
+The space under your bed is the biggest untapped storage area in most apartments. Flat, lidded bins work for [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear), extra linens, or shoes. If your bed frame sits too low, bed risers add 15 cm of clearance for about $25 CAD.
 
 Bed risers add 15 cm of clearance for about $25 CAD, and IKEA SKUBB under-bed bags (~$14 CAD for two) are the cheapest way to turn that reclaimed space into zipped, dust-free storage.
 
@@ -179,7 +179,7 @@ Storage ottomans from Wayfair Canada run about $89–$150 CAD and function as se
 
 ## How Many Pairs of Shoes Fit in an Entry Shoe Bench?
 
-Shoes piled at the door are a small apartment's fastest path to visual chaos. A slim entry bench with shoe storage underneath keeps up to 8–10 pairs accessible and creates the feeling of a defined entryway.
+Shoes piled at the door are a small apartment's fastest path to visual chaos. A slim entry bench with [shoe storage](/blog/small-apartment-shoe-storage-ideas) underneath keeps up to 8–10 pairs accessible and creates the feeling of a defined entryway.
 
 The IKEA TJUSIG bench with shoe storage costs about $59 CAD and holds 8 to 10 pairs of shoes underneath, which is usually enough to stop shoes from piling up at a small apartment's front door.
 

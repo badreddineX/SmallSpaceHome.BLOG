@@ -74,10 +74,10 @@ Buy your boxes and packing supplies by mid-June, because Dollarama, Canadian Tir
 **What to buy (and roughly what it costs in Montreal):**
 - Sturdy medium moving boxes: Dollarama, ~$2–$3 CAD each, or free from grocery stores/SAQ in early June
 - Packing tape, 6-pack: Canadian Tire, ~$12–$15 CAD
-- Vacuum storage bags for bedding and off-season clothes: Amazon.ca, ~$25–$30 CAD for a 6-pack
+- Vacuum storage bags for bedding and [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear): Amazon.ca, ~$25–$30 CAD for a 6-pack
 - Furniture dolly rental or purchase: Canadian Tire, ~$40–$70 CAD to buy, or rent from a local moving supply shop for a day
 
-Across a handful of Montreal renter forums and Facebook Marketplace listings I checked in past June/July windows, free curbside boxes consistently vanish within 48 hours of grocery stores restocking them in June — if you're relying on free boxes, grab them the day you see them, not "later this week."
+Across a handful of Montreal renter forums and [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) listings I checked in past June/July windows, free curbside boxes consistently vanish within 48 hours of grocery stores restocking them in June — if you're relying on free boxes, grab them the day you see them, not "later this week."
 
 If your new place is smaller than your last one, plan your [storage solutions](/blog/storage-ideas-for-small-places) before moving day, not after. Deciding what fits into under-bed bins or a vertical shelf system while everything is still in boxes saves a second round of reorganizing later.
 

@@ -91,7 +91,7 @@ Books absorb humidity from the floor and can develop mildew spots you won't noti
 
 The fix isn't complicated: store only what's fully sealed. A vacuum bag or a bin with a tight lid blocks the moisture exposure that causes the problem in the first place. Loose fabric bins with open weaves don't offer the same protection.
 
-**What's safe:** sealed bins of off-season clothes, zipped bags of extra bedding, shoes in a closed container, board games in their original boxes.
+**What's safe:** sealed bins of [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear), zipped bags of extra bedding, shoes in a closed container, board games in their original boxes.
 
 **What's not:** books, leather bags or shoes without a dust cover, untreated wood boxes, anything already slightly damp when it goes under.
 

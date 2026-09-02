@@ -64,7 +64,7 @@ Most Toronto and Vancouver condo buildings offer a locker as an optional add-on,
 
 The multi-function rule applies here exactly as it does in any small apartment — every piece should do at least two jobs. The condo-specific step most guides miss: **measure your building's elevator and hallway before ordering anything large.** Many downtown towers built in the last 15 years have service elevators sized for moving boxes, not furniture, and a sofa that doesn't fit is an expensive return.
 
-- **IKEA NORDLI storage bed** (~$399–$699 CAD) — drawers replace a dresser, critical in a smaller condo bedroom
+- **IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio)** (~$399–$699 CAD) — drawers replace a dresser, critical in a smaller condo bedroom
 - **IKEA KALLAX** (~$130–$159 CAD) — works as a room divider in open-concept condo layouts
 - **Apartment-size sofa under 200 cm** (IKEA VIMLE or ÄPPLARYD) — confirm it clears your elevator door width, not just your unit door
 
@@ -75,7 +75,7 @@ For the full furniture breakdown with more picks and prices, see our <a href="/b
 Condos rarely have garage or shed space, so bikes and bulky seasonal gear need a different answer than a house would.
 
 - **Wall-mount bike rack, tension or freestanding** (~$25–$40 CAD, Canadian Tire or Amazon.ca) — keeps a bike vertical in an entryway corner without drilling
-- **Weatherproof deck box** for balcony gear, if your board allows balcony storage (varies — check your condo's specific bylaws)
+- **Weatherproof deck box** for balcony gear, if your board allows [balcony storage](/blog/small-apartment-balcony-storage-ideas) (varies — check your condo's specific bylaws)
 - **Seasonal rotation system** for winter tires and off-season clothes — our <a href="/blog/seasonal-storage-off-season-clothes-gear">seasonal storage guide</a> covers the vacuum-bag and bin system that works in tight closets
 
 ## 5. What Storage Rules Are Different for Condos vs. Rental Apartments?

@@ -211,7 +211,7 @@ The bathroom is often the most neglected room in a rental. You can't retile or r
 
 A complete no-installation bathroom refresh, new bath mat, towels, a plant, and a framed print, costs about $60–$100 CAD total, cheap compared to any actual renovation work a renter can't do anyway.
 
-**Bathroom decor that requires zero installation:**
+**[Bathroom decor](/blog/apartment-bathroom-decor-ideas) that requires zero installation:**
 - A new bath mat and matching towels in your colour palette
 - A small plant (pothos or peace lily both tolerate bathroom humidity)
 - A soap dispenser that matches your aesthetic

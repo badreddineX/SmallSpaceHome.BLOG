@@ -149,7 +149,7 @@ Everything else — seasonal footwear, extra bags, rarely-used outerwear — mov
 ### What to add if the entryway is chaotic:
 A door-mounted organizer costs about $25 to $35 CAD and requires no drilling, making it the single highest-impact entryway fix for a chaotic Canadian winter entry.
 
-A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) holds gloves, scarves, small items, and does not require drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, shoe storage, and surface for daily items simultaneously.
+A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) holds gloves, scarves, small items, and does not require drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, [shoe storage](/blog/small-apartment-shoe-storage-ideas), and surface for daily items simultaneously.
 
 ![A reset apartment entryway after January — coat hooks, boot tray, and a clear surface for daily essentials](/images/blog-22-img4.jpg)
 

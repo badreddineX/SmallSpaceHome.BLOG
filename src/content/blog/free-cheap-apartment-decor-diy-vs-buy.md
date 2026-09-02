@@ -77,7 +77,7 @@ Most Canadian rental leases explicitly prohibit tenant electrical work, and hard
 
 ### Most Furniture
 
-Bookshelves, coffee tables, and dressers built from raw lumber rarely beat IKEA or Facebook Marketplace on cost once wood, hardware, and finishing supplies are totalled. A basic IKEA KALLAX shelf runs $59.99–$89.99 CAD fully engineered and pre-cut; matching lumber alone for a DIY equivalent often exceeds $70 CAD before hardware or a single tool purchase.
+Bookshelves, coffee tables, and dressers built from raw lumber rarely beat IKEA or [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) on cost once wood, hardware, and finishing supplies are totalled. A basic IKEA KALLAX shelf runs $59.99–$89.99 CAD fully engineered and pre-cut; matching lumber alone for a DIY equivalent often exceeds $70 CAD before hardware or a single tool purchase.
 
 ![A budget IKEA-style shelving unit and side table styled with decor in a small apartment living room](/images/apartment-tv-console-vase.jpg)
 

@@ -155,7 +155,7 @@ If you lean minimal, our [minimalist small apartment ideas](/blog/minimalist-sma
 
 ## Where to Buy Home Office Pieces in Canada
 
-Facebook Marketplace and Kijiji list second-hand desks and chairs at roughly 40–60% off retail, making them worth checking before paying full price at IKEA or Wayfair Canada.
+[Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) and Kijiji list second-hand desks and chairs at roughly 40–60% off retail, making them worth checking before paying full price at IKEA or Wayfair Canada.
 
 | Store | Best For | Price Range |
 |-------|----------|-------------|

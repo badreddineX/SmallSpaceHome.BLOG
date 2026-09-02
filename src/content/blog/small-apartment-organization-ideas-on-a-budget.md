@@ -48,7 +48,7 @@ Command large hooks hold up to 4.5 kg each and cost about $12 to $15 CAD for a 4
 
 ## 3. Over-Door Organizer (~$25–$35 CAD)
 
-The back of a door is storage you're not using. An over-door organizer with pockets transforms the back of a closet door into shoe storage, or a bathroom door into a holder for hair tools and products.
+The back of a door is storage you're not using. An over-door organizer with pockets transforms the back of a closet door into [shoe storage](/blog/small-apartment-shoe-storage-ideas), or a bathroom door into a holder for hair tools and products.
 
 An over-door organizer with 24 pockets costs $28 to $35 CAD and turns the back of a closet or bathroom door — space almost nobody uses — into real storage without a single screw.
 
@@ -80,7 +80,7 @@ Dollarama's bins and baskets run $2 to $4 CAD each, cheap enough to fill every b
 
 ## 7. How Do IKEA SKUBB Under-Bed Bags Work? (~$14 for 2)
 
-Flat, zippable bags designed to slide under a bed frame. Store off-season clothes, extra linens, or anything you only need twice a year. If your bed sits too low, bed risers (~$25 CAD) add clearance.
+Flat, zippable bags designed to slide under a bed frame. Store [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear), extra linens, or anything you only need twice a year. If your bed sits too low, bed risers (~$25 CAD) add clearance.
 
 A 2-pack of IKEA SKUBB under-bed bags costs about $14 CAD and, combined with $25 CAD bed risers if the frame sits too low, unlocks the single largest untapped storage zone in most small bedrooms.
 

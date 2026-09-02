@@ -76,7 +76,7 @@ I switched to a MEC floor stand (~$45 CAD) in my current place after moving twic
 
 Yes, in most Canadian rentals, provided the bike doesn't block the fire escape path or exceed any weight limit noted in your lease, though it's worth confirming with your landlord first since some buildings prohibit it outright for insurance reasons. A quick email settles it either way.
 
-Balcony storage keeps the bike fully out of your living space, which matters most in a studio or one-bedroom where every square foot of interior floor counts. A weatherproof bike cover (~$25–$40 CAD on Amazon.ca) protects it from rain and UV damage if it's staying out year-round, and a simple balcony wall hook does the same no-drill job outdoors as it does indoors.
+[Balcony storage](/blog/small-apartment-balcony-storage-ideas) keeps the bike fully out of your living space, which matters most in a studio or one-bedroom where every square foot of interior floor counts. A weatherproof bike cover (~$25–$40 CAD on Amazon.ca) protects it from rain and UV damage if it's staying out year-round, and a simple balcony wall hook does the same no-drill job outdoors as it does indoors.
 
 If your balcony doubles as your only outdoor lounging space, this is also where [small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas) becomes relevant. Bikes, planters, and folding chairs all compete for the same narrow strip of railing and wall, and it's worth planning the layout rather than just piling things up.
 

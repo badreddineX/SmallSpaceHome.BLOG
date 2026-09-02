@@ -39,7 +39,7 @@ In apartments under 700 sq ft, there's usually no dedicated office or mudroom, s
 
 The fix isn't more storage. It's one specific spot that catches everything before it reaches any other surface. In my experience, the apartments that stay paper-free aren't the ones with the most organizers, they're the ones where the organizer sits directly in the path between the front door and the kitchen, so sorting happens automatically on the way in.
 
-If you haven't tackled the rest of your entryway yet, our [small apartment organization guide](/blog/small-apartment-organization) covers shoe storage and coat hooks alongside this same command-centre approach.
+If you haven't tackled the rest of your entryway yet, our [small apartment organization guide](/blog/small-apartment-organization) covers [shoe storage](/blog/small-apartment-shoe-storage-ideas) and coat hooks alongside this same command-centre approach.
 
 ## What Is a Wall-Mounted Command Centre?
 
@@ -98,7 +98,7 @@ Yes, for anything you don't need in original physical form, digitizing cuts the 
 
 Tracking my own paper volume after switching to this routine, I went from roughly 40 physical documents a month down to about 8 that actually need a paper original. Everything else lives in three cloud folders and takes seconds to search instead of minutes to dig through a box.
 
-Anyone setting up a small home office alongside this system should also check our [small apartment home office ideas](/blog/small-apartment-home-office-ideas) for desk setups that leave room for a file box without eating your whole living space.
+Anyone setting up a [small home office](/blog/small-apartment-home-office-ideas) alongside this system should also check our [small apartment home office ideas](/blog/small-apartment-home-office-ideas) for desk setups that leave room for a file box without eating your whole living space.
 
 ## What Small Desktop Organizers Actually Help?
 

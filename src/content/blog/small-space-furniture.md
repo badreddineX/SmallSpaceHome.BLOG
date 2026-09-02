@@ -26,7 +26,7 @@ faqs:
 
 I've furnished and refurnished my 510 sq ft Toronto apartment three times — once when I moved in, once after a year of living with my first round of choices and realizing what actually worked, and once more after a move within the same building. This isn't a list of what's for sale. It's what survived three real furnishing rounds, what I sent back, and what I wish I'd bought the first time. Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
-**TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI storage bed replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
+**TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio) replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 
 ---
 
@@ -38,7 +38,7 @@ In a small space, every major piece of furniture should do at least two things. 
 - Ottoman → seating + coffee table + storage
 - Bed → sleeping + storage underneath
 - Bookcase → storage + room divider
-- Bench → seating + shoe storage
+- Bench → seating + [shoe storage](/blog/small-apartment-shoe-storage-ideas)
 
 When you shop with this principle in mind, your choices narrow considerably — and the space works much better.
 
