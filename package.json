@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/to-webp.mjs public/images",
+    "prebuild": "node scripts/compress-images.mjs && node scripts/to-webp.mjs public/images",
     "build": "astro build",
     "postbuild": "node scripts/inject-image-dimensions.mjs && node scripts/check-dist.mjs",
     "check-dist": "node scripts/check-dist.mjs",

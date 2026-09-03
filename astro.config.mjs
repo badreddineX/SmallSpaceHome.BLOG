@@ -47,11 +47,7 @@ export default defineConfig({
       },
     }),
   ],
-  redirects: {
-    '/blog/storage-solutions-for-small-apartments': '/blog/storage-ideas-for-small-places',
-    '/blog/small-space-decorating': '/blog/small-space-living-room-ideas',
-    '/blog/how-to-make-a-small-room-look-bigger': '/blog/small-space-living-room-ideas',
-    '/blog/studio-apartment-ideas': '/blog/small-space-furniture',
-    '/blog/multifunctional-furniture-small-apartment': '/blog/small-space-furniture',
-  },
+  // Consolidation redirects live in vercel.json as real 301s — single source of
+  // truth. They used to be duplicated here, which only generated dead
+  // meta-refresh stub pages in dist. Removed 2026-09-03.
 });
