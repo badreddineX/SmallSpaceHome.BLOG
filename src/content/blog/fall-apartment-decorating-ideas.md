@@ -3,7 +3,7 @@ title: "Fall Apartment Decorating Ideas (Canada)"
 description: "Fall apartment decorating ideas for Canadian renters — seasonal textures, warm tones, and autumn touches that need no permanent changes or a big budget."
 image: "/images/hero-living-room.jpg"
 datePublished: "2025-10-09"
-dateModified: "2025-10-09"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["fall decor", "autumn decorating ideas", "fall apartment ideas", "autumn apartment", "Canada", "seasonal decor", "renter-friendly"]
 featured: false
@@ -98,25 +98,19 @@ This signals "cozy and lived-in" rather than "laundry pile."
 
 ## 7. How Many Cushions Does an Autumn Sofa Actually Need?
 
-4–6 cushions on a sofa in autumn colours transform the room. Swap 2–3 of your regular cushion covers for rust, amber, or deep green ones.
-
-Four to six cushions in autumn tones is the range that reads as intentionally styled rather than sparse or cluttered, and swapping just 2-3 covers for rust or amber ones (Amazon.ca 2-packs run ~$25–$35 CAD) gets you there.
+Four to six cushions in autumn tones is the range that reads as intentionally styled rather than sparse or cluttered, and swapping just 2-3 of your regular covers for rust or amber ones (Amazon.ca 2-packs run ~$25–$35 CAD) gets you there.
 
 **Cost:** Amazon.ca, velvet cushion covers 2-pack ~$25–$35 CAD. IKEA GURLI ~$6 each.
 
 ## 8. How Do You Warm Up Apartment Lighting for Fall Evenings?
 
-Autumn evenings get dark by 7 PM in most of Canada by late October. Your apartment lighting needs to create warmth before the day's light disappears.
-
-Autumn evenings get dark by around 7 PM across most of Canada by late October, which is why warm 2700K bulbs matter more starting this season than any other time of year.
+Autumn evenings get dark by around 7 PM in most of Canada by late October, which is why warm 2700K bulbs matter more starting this season than any other time of year. Your apartment lighting needs to create warmth before the day's light disappears.
 
 If you haven't already switched to warm 2700K bulbs, do it now. Add a candle to the dining table for evening meals. Turn the floor lamp on before the sun sets.
 
 ## 9. How Long Do Dried Botanical Arrangements Actually Last?
 
-Dried botanicals last the entire fall and winter season without any care. They add organic texture and earth tones to shelves, mantels, and tabletops.
-
-A single dried botanical arrangement costs about $15 to $40 CAD and lasts 4 to 6 months without any watering or care, which makes it one of the best cost-per-week decor items on this list.
+Dried botanicals last the entire fall and winter season without any care. A single arrangement costs about $15 to $40 CAD and lasts 4 to 6 months without watering, which makes it one of the best cost-per-week decor items on this list. They add organic texture and earth tones to shelves, mantels, and tabletops.
 
 **What to look for at Canadian floral shops and HomeGoods stores:**
 - Pampas grass (cream-coloured plumes, very popular)

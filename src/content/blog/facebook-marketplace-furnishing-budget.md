@@ -3,7 +3,7 @@ title: "Facebook Marketplace Finds for Furnishing"
 description: "How to use Facebook Marketplace to furnish a small Canadian apartment for less — search tips, safety rules for pickups, and real CAD price ranges."
 image: "/images/eclectic-vintage-apartment-furniture.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["facebook marketplace", "secondhand furniture", "budget furniture", "apartment furnishing", "Canada", "small apartment", "renter-friendly"]
 featured: false
@@ -98,7 +98,7 @@ These ranges assume Marketplace listings in mid-size to large Canadian cities. R
 
 ## How Do You Negotiate Without Being Rude?
 
-A specific counter-offer 15-20% below asking, paired with an offer to pick up the same day, gets accepted far more often than a vague "would you take less" message ([general negotiation behaviour documented in secondhand marketplace research](https://www.facebook.com/marketplace/), consistent with observed seller response patterns). Sellers value certainty and speed as much as the exact number.
+A specific counter-offer 15-20% below asking, paired with an offer to pick up the same day, gets accepted far more often than a vague "would you take less" message. Sellers value certainty and speed as much as the exact number.
 
 Across roughly 20 Marketplace purchases over three years of apartment moves, offers with a specific number and a same-day pickup time got accepted about 70% of the time, while vague "any flexibility on price?" messages were mostly ignored.
 

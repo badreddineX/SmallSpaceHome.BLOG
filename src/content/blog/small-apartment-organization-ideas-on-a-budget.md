@@ -3,7 +3,7 @@ title: "Apartment Organization Under $100 CAD"
 description: "15 budget organization ideas for small Canadian apartments, all under $100 CAD — practical solutions from a Toronto renter, no pricey systems needed."
 image: "/images/budget-storage-baskets-shelf.jpg"
 datePublished: "2025-12-16"
-dateModified: "2026-03-01"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["budget organization", "budget organization ideas", "cheap apartment organization", "small apartment", "Canada", "under $100", "renter-friendly"]
 featured: false
@@ -32,9 +32,7 @@ This one's specifically capped at $100 CAD total. If budget isn't the constraint
 
 ## 1. Do Slim Velvet Hangers Really Free Up Closet Space? (~$18 CAD)
 
-If you do only one thing in this entire list, do this. Switching from bulky plastic hangers to slim velvet ones typically frees 30–40% more hanging space in your closet — immediately, with no rearranging.
-
-Switching from bulky plastic hangers to slim velvet ones typically frees 30-40% more hanging space in your closet immediately, with no rearranging, which is why it's the single highest-leverage $18 CAD purchase in this entire list.
+If you do only one thing in this entire list, do this. Switching from bulky plastic hangers to slim velvet ones typically frees 30–40% more hanging space in your closet — immediately, with no rearranging — which makes it the single highest-leverage $18 CAD purchase on this list.
 
 **Where to buy:** Amazon.ca, 50-pack for ~$18 CAD.
 

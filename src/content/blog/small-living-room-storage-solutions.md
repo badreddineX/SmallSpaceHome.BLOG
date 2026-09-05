@@ -3,7 +3,7 @@ title: "Small Living Room Storage: Furniture That Hides Clutter"
 description: "Small living room storage ideas that use furniture, not walls — storage ottomans, coffee tables with shelves, and TV consoles that hide the clutter."
 image: "/images/blog-19-img3.jpg"
 datePublished: "2026-06-30"
-dateModified: "2026-07-27"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["small living room storage ideas apartment", "living room storage ideas", "hidden storage furniture small apartment", "ottoman storage small living room", "renter-friendly", "Canada"]
 featured: false
@@ -44,7 +44,7 @@ This isn't a decor list. If you want layout, colour, and styling advice for the 
 
 ## What Counts as Hidden Storage Furniture?
 
-Hidden storage furniture is any piece with a compartment, drawer, or lift-top panel built into its structure, not a separate bin sitting on a shelf. A CMHC report notes the average Canadian rental unit runs under 800 sq ft ([CMHC](https://www.cmhc-schl.gc.ca), 2024), which is exactly why furniture needs to multitask.
+Hidden storage furniture is any piece with a compartment, drawer, or lift-top panel built into its structure, not a separate bin sitting on a shelf. The average Canadian rental unit runs under 800 sq ft according to [CMHC](https://www.cmhc-schl.gc.ca)'s housing data, which is exactly why furniture needs to multitask.
 
 Think of it as a filter when you're shopping: does this piece have a lid, a door, a drawer, or a cavity built in? If the answer is no, it's decor, not storage. That distinction matters when you're working with a fixed budget and limited floor space.
 

@@ -3,7 +3,7 @@ title: "Small Bedroom Storage & Organization Ideas"
 description: "13 small bedroom storage and organization ideas for Canadian apartments — closet, under-bed, wall, and furniture solutions. All renter-friendly with real CAD prices."
 image: "/images/bedroom-storage-closet.jpg"
 datePublished: "2026-03-27"
-dateModified: "2026-08-30"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["small bedroom organization ideas", "small bedroom storage", "storage for small bedroom", "under-bed storage", "Canada", "closet organization", "apartment storage"]
 featured: false
@@ -41,7 +41,7 @@ The area under the bed is the largest storage zone in most bedrooms, and it is a
 
 ## 2. Why Are Slim Velvet Hangers the Best Closet Upgrade?
 
-Switching from plastic to slim velvet hangers is the highest-value closet upgrade available, and it's also the easiest first step in a full wardrobe reset — the same declutter-and-rehang pass works whether it's a seasonal changeover or just a closet that's gotten out of hand. Swapping just 30 hangers from 2–2.5 cm plastic to 0.5 cm velvet frees 45–60 cm of rod space — room for 15–20 more garments — for about $18 CAD for a 50-pack. Plastic hangers are 2–2.5 cm thick. Velvet hangers are 0.5 cm thick. Replacing 30 hangers frees 45–60 cm of rod space — room for 15–20 additional garments.
+Switching from plastic to slim velvet hangers is the highest-value closet upgrade available, and it's also the easiest first step in a full wardrobe reset — the same declutter-and-rehang pass works whether it's a seasonal changeover or just a closet that's gotten out of hand. Plastic hangers are 2–2.5 cm thick; velvet hangers are just 0.5 cm. Swapping just 30 of them frees 45–60 cm of rod space — room for 15–20 more garments — for about $18 CAD for a 50-pack.
 
 **Cost:** Amazon.ca, 50-pack ~$18 CAD.
 

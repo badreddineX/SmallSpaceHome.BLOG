@@ -3,7 +3,7 @@ title: "January Reset: Apartment Organization"
 description: "15 January reset organization ideas for small Canadian apartments — declutter, reset every room, and build systems that actually hold through the year."
 image: "/images/closet-wardrobe-open.jpg"
 datePublished: "2025-10-14"
-dateModified: "2026-01-05"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["January reset", "new year organization", "reset apartment", "organization", "new year", "declutter", "Canada", "small apartment"]
 featured: false
@@ -56,8 +56,6 @@ This sequence prioritizes the rooms with the highest daily impact. Bedroom first
 
 The bedroom closet is where the most clutter hides in a small apartment. January is the moment to open it fully and make decisions.
 
-Slim velvet hangers cost about $18 CAD for a 50-pack and free up 30 to 40% of closet rod space immediately, which is often enough on its own to solve most of a small apartment closet's capacity problem.
-
 ### Declutter the closet completely:
 - Pull everything out — every item
 - Every piece of clothing: keep only what was worn in the past 12 months
@@ -78,8 +76,6 @@ January is the right time to reassess what lives under the bed. IKEA SKUBB under
 ## 2. How Do You Reset the Kitchen and Pantry?
 
 The kitchen accumulates more over the holidays than any other room.
-
-Clear stackable bins run about $5 to $8 CAD each, and even the most chaotic under-sink cabinet in a small apartment kitchen typically looks dramatically better after just 20 minutes of emptying, sorting, and rebinning.
 
 ### Pantry and food storage:
 - Empty the pantry completely
@@ -119,7 +115,7 @@ These fill up fast over winter. Empty them in January, assess what's inside, and
 
 The bathroom accumulates slowly and gets ignored until it's suddenly very full.
 
-The bathroom product rule is simple: anything not used in the past 3 months gets removed, which is usually what clears enough counter space for a small tray (~$10–$20 CAD) to actually keep things organized.
+The bathroom product rule is simple: anything not used in the past 3 months gets removed.
 
 ### Product audit:
 - Check expiry dates on every skincare, haircare, and medication product
@@ -147,9 +143,7 @@ The deep-of-winter entryway needs to be functional above all else. Reduce it to 
 Everything else — seasonal footwear, extra bags, rarely-used outerwear — moves to the closet or under-bed storage.
 
 ### What to add if the entryway is chaotic:
-A door-mounted organizer costs about $25 to $35 CAD and requires no drilling, making it the single highest-impact entryway fix for a chaotic Canadian winter entry.
-
-A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) holds gloves, scarves, small items, and does not require drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, [shoe storage](/blog/small-apartment-shoe-storage-ideas), and surface for daily items simultaneously.
+A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) is the single highest-impact fix for a chaotic Canadian winter entry — it holds gloves, scarves, and small items, and requires no drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, [shoe storage](/blog/small-apartment-shoe-storage-ideas), and surface for daily items simultaneously.
 
 ![A reset apartment entryway after January — coat hooks, boot tray, and a clear surface for daily essentials](/images/blog-22-img4.jpg)
 

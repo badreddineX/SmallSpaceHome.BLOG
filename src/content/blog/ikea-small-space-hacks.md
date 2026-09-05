@@ -3,7 +3,7 @@ title: "15 IKEA Small Space Hacks for Apartments"
 description: "15 IKEA small space hacks for Canadian apartments — furniture combos, storage tricks, and unexpected uses, with real CAD prices and what actually works."
 image: "/images/scandinavian-minimalist-furniture.jpg"
 datePublished: "2026-01-25"
-dateModified: "2026-03-13"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["IKEA hacks", "IKEA small apartment", "IKEA apartment hacks", "small space", "Canada", "apartment ideas", "IKEA"]
 featured: false
@@ -70,9 +70,7 @@ Anchor to the wall with the included anti-tip strap. In a rental, this requires 
 
 ## Can a LACK Shelf Work as a Floating Nightstand?
 
-The IKEA LACK shelf (30 × 26 cm, ~$15 CAD) mounted at nightstand height on Command strips eliminates the floor footprint of a bedside table. Holds a lamp, phone, water, and a book — everything a nightstand needs.
-
-A single LACK shelf measures just 30 x 26 cm and costs about $15 CAD, small enough to mount at nightstand height on Command strips and eliminate a bedside table's floor footprint entirely.
+The IKEA LACK shelf (30 × 26 cm, ~$15 CAD) is small enough to mount at nightstand height on Command strips, eliminating the floor footprint of a bedside table entirely. It holds a lamp, phone, water, and a book — everything a nightstand needs.
 
 Two LACK shelves, one on each side of the bed, creates a symmetrical bedroom layout without consuming any floor space.
 
@@ -80,9 +78,7 @@ Two LACK shelves, one on each side of the bed, creates a symmetrical bedroom lay
 
 ## Can KALLAX Double as Entryway Storage and a Bench?
 
-Lay the 1×4 KALLAX horizontally at entry height (about 45 cm off the floor), add a bench cushion on top, and fill each cube with shoe and bag storage. Add hooks on the wall above for coats.
-
-A 1×4 KALLAX laid horizontally at about 45 cm off the floor, topped with a $20–30 CAD bench cushion, turns a $79 CAD bookcase into a functional mudroom-style entry bench.
+Lay the 1×4 KALLAX horizontally at entry height (about 45 cm off the floor), top it with a $20–30 CAD bench cushion, and fill each cube with shoe and bag storage — it turns a $79 CAD bookcase into a functional mudroom-style entry bench. Add hooks on the wall above for coats.
 
 This creates a proper mudroom-style entry in the smallest apartments.
 

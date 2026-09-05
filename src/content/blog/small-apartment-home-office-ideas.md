@@ -3,7 +3,7 @@ title: "Small Apartment Home Office Ideas"
 description: "No spare room? 8 renter-friendly home office setups for small Canadian apartments — desk placement, storage, and separating work from living."
 image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-04-08"
-dateModified: "2026-08-16"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["small apartment home office", "apartment home office", "home office ideas", "small home office", "home workspace", "work from home", "small space desk", "Canada"]
 featured: false
@@ -101,9 +101,7 @@ For how these fit alongside the rest of your furniture, our [apartment size furn
 
 ## Should You Buy the Chair Before Anything Else?
 
-If you work full days, the chair matters more than the desk. A dining chair or a kitchen stool feels fine for an hour and quietly wrecks your back over months. A supportive mid-range office chair runs about $200–$400 CAD at Wayfair Canada or Structube — a fraction of the $1,500 CAD price tag on a premium designer chair — making it the single highest-impact purchase for a full-time small-apartment workspace. This is the one place in a small home office where spending money pays off.
-
-You don't need a $1,500 designer chair. A supportive mid-range office chair runs ~$200–$400 CAD at Wayfair Canada or Structube, and it's the best single investment you can make for a workspace. Two things to look for in a small apartment:
+If you work full days, the chair matters more than the desk. A dining chair or a kitchen stool feels fine for an hour and quietly wrecks your back over months. You don't need a $1,500 designer chair — a supportive mid-range office chair runs about $200–$400 CAD at Wayfair Canada or Structube, and it's the single highest-impact purchase for a full-time small-apartment workspace. This is the one place in a small home office where spending money pays off. Two things to look for in a small apartment:
 
 - **It tucks fully under the desk** — so it doesn't block the walkway when you stand up
 - **A slim back and no giant armrests** — bulky gaming chairs swallow a small room

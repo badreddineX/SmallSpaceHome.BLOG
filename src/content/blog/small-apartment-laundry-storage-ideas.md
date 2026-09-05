@@ -3,7 +3,7 @@ title: "Small Laundry Room Ideas for Apartments"
 description: "Small laundry room ideas for apartments and rentals — organizing a tight in-suite closet or a shared building laundry, no-drill and renter-friendly, with real Canadian prices."
 image: "/images/blog-09-img2.jpg"
 datePublished: "2026-05-22"
-dateModified: "2026-08-27"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["small laundry room ideas", "laundry room organization ideas", "laundry closet organization", "small apartment laundry", "renter-friendly", "in suite laundry", "Canada"]
 featured: false
@@ -47,7 +47,7 @@ This guide covers both situations: the in-suite stacked closet, and the shared b
 
 ## How Do You Organize a Tight In-Suite Laundry Closet?
 
-Most stacked washer/dryer closets in Canadian apartments are under 3 feet wide, with nothing above the machines but dead air. Statistics Canada's most recent housing data shows in-suite laundry is now included in roughly a third of newer purpose-built rental units ([CMHC Rental Market Survey](https://www.cmhc-schl.gc.ca/), 2024), yet almost none come with built-in storage.
+Most stacked washer/dryer closets in Canadian apartments are under 3 feet wide, with nothing above the machines but dead air. In-suite laundry is increasingly common in newer purpose-built rental units, according to [CMHC](https://www.cmhc-schl.gc.ca/)'s rental market data, yet almost none come with built-in storage.
 
 The fix is to treat the space above the machines as your primary storage zone, since the floor space around a stacked unit is usually zero. A tension-rod shelf braces between the closet's side walls and sits just above the dryer vent clearance, holding detergent, dryer sheets, and a mesh bag for delicates.
 
@@ -83,7 +83,7 @@ If a full cart is too much for your space, a slim rolling hamper with a pull-out
 
 ## How Do You Manage Laundry Without In-Suite Machines?
 
-Renters without in-suite laundry rely on a shared building laundry room, and 68% of apartment residents in a 2023 rental housing survey said they wanted better storage for laundry supplies at home ([Apartment List Renter Survey](https://www.apartmentlist.com/), 2023). A portable caddy solves the biggest pain point: carrying detergent, coins, and dryer sheets down multiple floors in one trip.
+Renters without in-suite laundry rely on a shared building laundry room, and the biggest recurring complaint is carrying detergent, coins, and dryer sheets down multiple floors with nothing to hold it all in one trip. A portable caddy solves exactly that.
 
 A basic plastic caddy from Dollarama (~$4–$6 CAD) has a divided tray and a center handle, built for exactly this. Most renters default to a tote bag for laundry supplies, but a caddy with a rigid divided tray actually stops detergent bottles from tipping over mid-hallway, which a soft bag never does.
 
