@@ -3,7 +3,7 @@ title: "Quebec Moving Day Storage & Packing Guide"
 description: "Quebec's July 1 Moving Day floods Montreal with movers and boxes on one single date. Here's how to pack, store, and survive it as a renter — no drilling."
 image: "/images/moving-day-boxes-apartment.jpg"
 datePublished: "2026-04-16"
-dateModified: "2026-07-27"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["moving day quebec", "montreal renters", "july 1 moving", "moving day storage tips", "apartment storage", "packing tips"]
 featured: false
@@ -40,7 +40,7 @@ This timeline spans roughly ten weeks, from booking a truck 8–10 weeks before 
 
 ## What Matters Most on Moving Day
 
-Book your truck or movers by mid-May, not June — Montreal moving companies routinely sell out their July 1 slots eight to ten weeks in advance, according to reports from local movers' associations every spring. If you wait until three weeks out, you're looking at DIY with a rented van and whoever you can bribe with pizza.
+Book your truck or movers by mid-May, not June — Montreal moving companies routinely sell out their July 1 slots eight to ten weeks in advance, every single year. If you wait until three weeks out, you're looking at DIY with a rented van and whoever you can bribe with pizza.
 
 The second thing that matters more than anything else: pack your first-week essentials into a single clearly labelled bin, separate from everything else. On Moving Day, you will not find your phone charger, your coffee maker, or your shower curtain in a wall of identical brown boxes. Trust me on this one.
 

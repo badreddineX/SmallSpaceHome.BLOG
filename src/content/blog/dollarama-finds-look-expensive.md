@@ -3,7 +3,7 @@ title: "Dollarama Finds That Look Expensive"
 description: "The Dollarama items that read as high-end in a Canadian rental — glass vases, planters, and trays for $1–$5 CAD, styled to hide the price tag."
 image: "/images/styled-corner-shelf-decor.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-05"
 author: "Badreddine Br"
 tags: ["dollarama", "budget decor", "cheap apartment decor", "dollar store hacks", "Canada", "small apartment", "renter-friendly"]
 featured: false
@@ -37,7 +37,7 @@ This one's a single-retailer deep dive, not a general budget guide. For the broa
 
 ## Why Do Dollarama Items Sometimes Look Cheap?
 
-Dollarama decor looks cheap when it's bought in its packaged, fully-finished form and set down alone with nothing else around it. A single plastic frame or one bright plastic vase on an empty shelf has nowhere to hide, according to interior stylists who commonly recommend clustering budget objects rather than isolating them ([HGTV Canada](https://www.hgtv.ca), 2023).
+Dollarama decor looks cheap when it's bought in its packaged, fully-finished form and set down alone with nothing else around it. A single plastic frame or one bright plastic vase on an empty shelf has nowhere to hide — clustering budget objects together, rather than isolating them, is the standard styling trick for making cheap pieces read as intentional.
 
 The fix is almost always about grouping, not the object itself. A single $2 ceramic pot on a bare windowsill reads as an afterthought. The same pot next to a taller glass vase and a small stack of books reads as a styled vignette. I learned this the hard way in my first apartment, where I lined up five different Dollarama vases along a shelf like a display case, and it looked exactly like what it was: a dollar store shelf.
 
