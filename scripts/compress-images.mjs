@@ -7,6 +7,7 @@ const DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'public', 'image
 const MAX_WIDTH  = 1400;   // px — wide enough for full-bleed hero on retina
 const MAX_HEIGHT = 1400;   // px
 const QUALITY    = 82;     // JPEG quality (82 = excellent visual / small file)
+const ALREADY_SMALL = 300 * 1024;  // bytes — under this and not oversized = leave alone
 
 async function collectImages(dir) {
   const entries = await readdir(dir, { withFileTypes: true });
@@ -57,11 +58,25 @@ for (const path of files) {
       pipeline = pipeline.jpeg({ quality: QUALITY, mozjpeg: true, progressive: true });
     }
 
+    // Skip work entirely for images that are already small and don't need a
+    // resize. mozjpeg re-encoding an already-optimised file shaves a handful of
+    // bytes every run, which rewrote ~150 files on every `npm run build` and
+    // churned the git tree for no real gain. Leave those untouched.
+    if (!needsResize && before <= ALREADY_SMALL) {
+      console.log(`–  ${label.padEnd(36)} already small, skipped`);
+      totalBefore += before;
+      totalAfter  += before;
+      count++;
+      continue;
+    }
+
     const buf = await pipeline.toBuffer();
     const after = buf.length;
 
-    // Only overwrite if we actually saved space
-    if (after < before) {
+    // Only overwrite when the saving is real (>2% and >2 KB) or we resized --
+    // avoids rewriting a file to reclaim a few hundred bytes.
+    const meaningfulSaving = before - after > 2048 && (before - after) / before > 0.02;
+    if (needsResize ? after < before : meaningfulSaving) {
       await writeFile(path, buf);
       const saved = ((before - after) / before * 100).toFixed(0);
       console.log(`✓  ${label.padEnd(36)} ${(before/1024/1024).toFixed(1)} MB → ${(after/1024/1024).toFixed(1)} MB  (−${saved}%)`);
