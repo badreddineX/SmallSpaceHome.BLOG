@@ -1,6 +1,6 @@
 ---
-title: "Small Space Furniture: What Actually Works After 3 Years"
-description: "What I'd buy again and what I regret after furnishing a 510 sq ft Toronto apartment three times — with real CAD prices and what actually held up."
+title: "Small Living Room & Apartment Furniture That Works"
+description: "The small living room and apartment furniture I'd buy again (and what I regret) after furnishing a 510 sq ft Toronto apartment three times. Real CAD prices."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
 dateModified: "2026-08-29"

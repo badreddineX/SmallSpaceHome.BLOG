@@ -1,6 +1,6 @@
 ---
-title: "15 Small Space Living Room Ideas"
-description: "15 practical small living room ideas tested in a real Canadian apartment — renter-friendly, budget-conscious, and built for tight square footage."
+title: "18 Small Apartment Living Room Ideas (Renter-Friendly)"
+description: "18 small apartment living room ideas tested in a real Canadian rental: sofas that fit, storage, lighting and layouts. Renter-friendly, budget-conscious, built for tight square footage."
 image: "/images/small-studio-living-room-bright.jpg"
 datePublished: "2026-04-02"
 dateModified: "2026-08-26"
