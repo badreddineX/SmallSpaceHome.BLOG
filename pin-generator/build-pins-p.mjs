@@ -205,6 +205,9 @@ while (picked.length < total && pool.length) {
 }
 console.log(`scheduled pins: ${picked.length}`);
 
+// two-tier keywords: tier 1 = broad board-level Pinterest search terms (first), tier 2 = post-specific long-tail
+const BOARD_BROAD = {"Small Apartment Decor Ideas": ["small apartment decor", "apartment decor ideas"], "Apartment Decor on a Budget": ["apartment decor on a budget", "cheap apartment decor"], "Small Apartment Storage Ideas": ["small apartment storage ideas", "apartment storage"], "Small Apartment Organization Ideas": ["small apartment organization", "apartment organization ideas"], "Small Living Room Ideas": ["small living room ideas", "small living room decor"], "Small Bedroom Ideas": ["small bedroom ideas", "small bedroom decor"], "Small Balcony Ideas": ["small balcony ideas", "apartment balcony ideas"], "Small Apartment Bathroom Ideas": ["small bathroom ideas", "apartment bathroom decor"], "Small Apartment Kitchen Ideas": ["small kitchen ideas", "apartment kitchen organization"], "Entryway and Hallway Ideas": ["small entryway ideas", "hallway storage ideas"], "Small Apartment Home Office Ideas": ["small home office ideas", "apartment desk setup"]};
+
 // ---------- render ----------
 mkdirSync(OUT_DIR, { recursive: true });
 const browser = await chromium.launch();
@@ -229,14 +232,15 @@ for (let i = 0; i < picked.length; i++) {
 
   const faq = post.faqs[k === 1 ? -1 : k - 2];
   // Pin title = the article's own title, exactly as published on the blog.
-  const title = post.title.replace(/\s*\(.*?\)\s*$/, '').slice(0, 100);
+  // p1 = the article's own title; repeat pins use a real FAQ question from the same article so titles never duplicate.
+  const title = (k > 1 && faq ? faq.q : post.title.replace(/\s*\(.*?\)\s*$/, '')).slice(0, 100);
   const descBase = (k === 1 || !faq ? post.desc : `${faq.q} ${faq.a}`).replace(/\s+/g, ' ').trim();
   // Keywords: the post's own SEO tags first, then researched phrases ONLY where the slug clearly matches the topic.
   const tagKw = post.tags.filter((t) => !/^(canada|uk|australia)$/i.test(t));
   const room = ROOM_KW.filter(([re]) => re.test(post.slug)).flatMap(([, kw]) => kw);
   const generic = room.length ? [] : (PIN_KW[post.cat] || []);
   const seen = new Set();
-  const kwList = [...tagKw.slice(0, 4), ...room, ...generic]
+  const kwList = [...(BOARD_BROAD[post.board] || []), ...tagKw.slice(0, 4), ...room, ...generic]
     .filter((x) => { const l = x.toLowerCase(); return l && !seen.has(l) && seen.add(l); });
   const kws = kwList.slice(0, 10).join(', ');
   const also = kwList.slice(0, 3).join(', ');
