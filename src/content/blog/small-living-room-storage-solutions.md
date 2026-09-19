@@ -44,7 +44,7 @@ This isn't a decor list. If you want layout, colour, and styling advice for the 
 
 ## What Counts as Hidden Storage Furniture?
 
-Hidden storage furniture is any piece with a compartment, drawer, or lift-top panel built into its structure, not a separate bin sitting on a shelf. The average Canadian rental unit runs under 800 sq ft according to [CMHC](https://www.cmhc-schl.gc.ca)'s housing data, which is exactly why furniture needs to multitask.
+Hidden storage furniture is any piece with a compartment, drawer, or lift-top panel built into its structure, not a separate bin sitting on a shelf.
 
 Think of it as a filter when you're shopping: does this piece have a lid, a door, a drawer, or a cavity built in? If the answer is no, it's decor, not storage. That distinction matters when you're working with a fixed budget and limited floor space.
 

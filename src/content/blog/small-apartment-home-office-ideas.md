@@ -39,7 +39,7 @@ Working from home in a 510 sq ft apartment means your office is also your living
 
 ## You're Not Alone — Most Home Offices Are Improvised
 
-Roughly 22% of Canadians worked from home in some capacity as of late 2025, and about 17% do so most of the time ([Statistics Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/240118/dq240118c-eng.htm), 2025). A huge share of those people are renters in exactly the kind of small urban apartments you find across Toronto, Vancouver, and Montreal — working from an improvised corner, not a dedicated room.
+A huge share of those people are renters in exactly the kind of small urban apartments you find across Toronto, Vancouver, and Montreal — working from an improvised corner, not a dedicated room.
 
 So if your "office" is a corner of the bedroom, you're in the majority. The goal isn't a magazine-worthy study. It's a spot that's comfortable for eight hours, doesn't take over the apartment, and can stay set up so you're not rebuilding it every morning.
 

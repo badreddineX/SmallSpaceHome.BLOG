@@ -30,7 +30,6 @@ A small bedroom organization system means three things working together: a declu
 > - Zone the room first (sleep, storage, work) before buying a single organizer
 > - Declutter one drawer or shelf per session using keep/donate/trash — not the whole room at once
 > - Drawer dividers (~$10-15 CAD) stop folded clothes from collapsing into a pile within a week
-> - Canadian households report holding onto unused items for years; the biggest bedroom clutter source is clothing kept "just in case" ([Salvation Army Canada donation surveys](https://www.salvationarmy.ca), 2024)
 > - Rebuild the system twice a year, not constantly — a system needing weekly resets is the wrong system
 
 ---
@@ -111,7 +110,7 @@ An under-bed storage system works long-term when it's organized by category and 
 
 **What never goes under the bed:** Anything you need daily, anything that traps moisture (damp gear, unwashed laundry), and anything you'd forget existed for a year. If you can't recall what's in a bin without checking, it's stored wrong, not stored well.
 
-Statistics Canada data shows a large share of Canadian renter households live in units under roughly 800 sq ft, particularly in Toronto, Vancouver, and Montreal, where bedroom footprints are correspondingly tight ([Statistics Canada, Census of Population, 2021](https://www150.statcan.gc.ca)). That reality is exactly why an under-bed system, not just under-bed storage, matters: the square footage itself isn't growing, so how you organize it has to do the work.
+Small bedrooms are why an under-bed system, not just under-bed storage, matters: the square footage isn't growing, so how you organize it has to do the work.
 
 [INTERNAL-LINK: under-bed storage ideas for small apartments → /blog/under-bed-storage-ideas-small-apartment for risers, bin types, and what never to store under a bed]
 

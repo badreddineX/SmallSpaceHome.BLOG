@@ -42,7 +42,6 @@ Two things matter more than the rest combined. First, decluttering before organi
 
 ## Why Declutter Before You Organize a Small Closet?
 
-A typical Canadian household holds far more clothing than gets worn regularly — [Statistics Canada household spending data](https://www150.statcan.gc.ca/n1/en/subjects/household_spending) shows clothing purchases have climbed steadily even as closet sizes in new rental builds have shrunk.
 
 Pull every item out onto the bed. Sort into keep, donate, and seasonal storage. Anything you haven't worn in 12 months is a strong donate candidate, with the obvious exception of formalwear and true seasonal gear like winter coats.
 

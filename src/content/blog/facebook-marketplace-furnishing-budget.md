@@ -81,7 +81,7 @@ Heavily upholstered items with unclear history (recliners, ottomans, anything th
 
 ## What Are Realistic Secondhand Prices in Canadian Cities?
 
-Prices for the same dresser or dining table can vary by 30-40% between cities, with Toronto and Vancouver running highest due to demand density, and smaller cities like Winnipeg or Halifax often 20-30% lower for comparable condition ([regional Facebook Marketplace listing patterns](https://www.facebook.com/marketplace/), observed across active category browsing). Knowing the realistic range before you shop keeps you from overpaying or lowballing insultingly.
+Knowing the realistic range before you shop keeps you from overpaying or lowballing insultingly.
 
 | Furniture Type | Secondhand Price Range (CAD) | Buy New Instead? |
 |---|---|---|

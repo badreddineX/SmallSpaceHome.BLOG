@@ -28,7 +28,6 @@ This guide covers both situations: the in-suite stacked closet, and the shared b
 
 > **Key Takeaways**
 > - A tension-mounted shelf above stacked machines adds a full tier of no-drill storage for $35–$50 CAD.
-> - Canadian households spend an average of 2.4 hours a week on laundry ([Statistics Canada General Social Survey](https://www150.statcan.gc.ca/), 2022), so a system that saves searching time pays off fast.
 > - A $4–$6 CAD Dollarama caddy is the single best upgrade for shared building laundry rooms.
 > - Full in-suite setup: $90–$140 CAD. Shared-laundry setup: under $50 CAD.
 
@@ -47,7 +46,7 @@ This guide covers both situations: the in-suite stacked closet, and the shared b
 
 ## How Do You Organize a Tight In-Suite Laundry Closet?
 
-Most stacked washer/dryer closets in Canadian apartments are under 3 feet wide, with nothing above the machines but dead air. In-suite laundry is increasingly common in newer purpose-built rental units, according to [CMHC](https://www.cmhc-schl.gc.ca/)'s rental market data, yet almost none come with built-in storage.
+Most stacked washer/dryer closets in Canadian apartments are under 3 feet wide, with nothing above the machines but dead air.
 
 The fix is to treat the space above the machines as your primary storage zone, since the floor space around a stacked unit is usually zero. A tension-rod shelf braces between the closet's side walls and sits just above the dryer vent clearance, holding detergent, dryer sheets, and a mesh bag for delicates.
 

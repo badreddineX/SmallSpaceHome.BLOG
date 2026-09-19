@@ -56,7 +56,7 @@ That's not a minor inconvenience. Without a rotation plan, off-season items just
 
 ## Vacuum Bags or Garment Bags: Which One for Which Item?
 
-Vacuum-seal bags work best for bulky, synthetic-fill items you're not wearing for months, compressing snow pants and blankets to roughly a quarter of their packed size ([Amazon.ca product data](https://www.amazon.ca/), 2026). Breathable garment bags are the better call for anything with natural fill or fibre.
+Breathable garment bags are the better call for anything with natural fill or fibre.
 
 If it's synthetic-fill, cotton, or a blanket, it can be vacuum-sealed.
 

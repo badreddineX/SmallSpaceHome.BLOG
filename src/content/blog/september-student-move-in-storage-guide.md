@@ -38,7 +38,7 @@ The good news: you don't need much money to make a small apartment functional. Y
 
 ## What Storage Do You Actually Need on Move-In Day?
 
-For a first apartment, five categories cover almost everything: closet storage, under-bed storage, kitchen storage, a desk setup, and a bathroom caddy if you're sharing. A [Statistics Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/220921/dq220921b-eng.htm) report (2022) found renter households under 25 are the fastest-growing rental segment in the country, and most of that group is moving into smaller units than previous generations did.
+For a first apartment, five categories cover almost everything: closet storage, under-bed storage, kitchen storage, a desk setup, and a bathroom caddy if you're sharing.
 
 You don't need to solve every room on day one. Prioritize the closet and kitchen first since you'll use them daily. The desk and bathroom caddy can wait a week if money's tight this month. For more room-by-room ideas once you're settled in, see our [general small apartment storage guide](/blog/storage-ideas-for-small-places).
 
