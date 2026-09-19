@@ -22,6 +22,8 @@ faqs:
     a: "Swap seasonal storage (winter clothes out, spring/summer in — vacuum bags ~$25–$30 CAD on Amazon.ca are ideal). Update systems that stopped working over winter. Do a full pantry rotation. This is also a great time to add any <a href='/blog/storage-ideas-for-small-places'>small-space storage solutions</a> you identified as gaps during the colder months."
 ---
 
+Spring clean in this order: declutter and reset each room first, then clean from top to bottom, using a simple three-product kit instead of a cabinet full of specialty cleaners.
+
 Spring in Canada means the apartment shows the full accumulation of a long winter — extra blankets that never made it back to storage, winter clothes piled with nowhere to go, a pantry full of comfort food. Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to. According to CMHC, rental apartments are home to a growing share of Canadians, and a seasonal reset is one of the most practical ways renters can maintain a well-functioning space without permanent changes.
 
 This guide takes you through every room in the right order. If you also did a [January reset](/blog/january-reset-organization-ideas) at the start of the year, this spring pass is the second checkpoint — the systems you built in January get tested here.
