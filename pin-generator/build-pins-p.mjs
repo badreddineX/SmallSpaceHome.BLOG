@@ -144,27 +144,37 @@ const BASE = `*{margin:0;padding:0;box-sizing:border-box}html,body{width:1000px;
 function fs(h) { const n = h.length; return n <= 18 ? 138 : n <= 28 ? 120 : n <= 38 ? 104 : 90; }
 const POS = ['center', 'center 30%', 'center 70%'];
 
+const PALS = [{bg:'#F0E7DA',ink:'#40302A',acc:'#B4552D',lab:'#B4552D'},{bg:'#F4F5F1',ink:'#24453C',acc:'#8C9E8B',lab:'#5E7A5F'},{bg:'#F7E9C8',ink:'#1B1B1B',acc:'#8E3B2E',lab:'#8E3B2E'}];
+const TAGLINE = 'Ideas for small apartments';
 function tmpl(p, layout) {
-  const size = fs(p.headline);
+  // Round-2 layouts: banner-top (F1), sticker headline (F10), sandwich split (F2). Style rotates by slug hash.
+  const h = [...p.slug].reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7);
+  const style = (h + layout - 1) % 3;
+  const pal = PALS[(h >>> 3) % PALS.length];
+  const n = p.headline.length;
+  // auto-fit: headline must fit 3 lines in the 860px text width and ~300px band height
+  const fit = (w, maxH) => { for (let s = 132; s >= 72; s -= 4) { const cpl = Math.floor(w / (s * 0.6)); const lines = p.headline.split(' ').reduce((a, wd) => { const l = a[a.length - 1]; if (l && (l + ' ' + wd).length <= cpl) a[a.length - 1] = l + ' ' + wd; else a.push(wd); return a; }, []).length; if (lines <= 3 && lines * s * 1.05 <= maxH) return s; } return 72; };
+  const size = fit(860, 290);
   const photo = `background:url('${p.photo}') ${POS[p.k % 3]}/cover no-repeat`;
-  if (layout === 2) { // split: photo top, solid panel bottom
-    return `<style>${BASE} body{background:#24302A}
-      .top{position:absolute;left:0;top:0;width:1000px;height:820px;${photo}}
-      .panel{position:absolute;left:0;top:820px;width:1000px;height:680px;padding:56px 64px;color:#FBF8F1;display:flex;flex-direction:column;justify-content:space-between}
-      .h{font-size:${Math.min(size, 112)}px;color:#FBF8F1}</style>
-      <div class="top"></div><div class="panel"><div><span class="pill">${esc(p.label)}</span><div class="h" style="margin-top:34px">${esc(p.headline)}</div></div><div class="dom" style="color:#C9A87C">${DOMAIN}</div></div>`;
-  }
-  // 1 = overlay, 3 = overlay + number badge
-  const badge = layout === 3 && p.number
-    ? `<div style="position:absolute;top:56px;left:56px;width:230px;height:230px;border-radius:50%;background:#C9A87C;color:#1B211D;display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:0 8px 30px rgba(0,0,0,.35)"><div style="font-weight:800;font-size:120px;line-height:1">${p.number}</div><div style="font-weight:800;font-size:26px;letter-spacing:.18em">IDEAS</div></div>` : '';
-  return `<style>${BASE} body{position:relative}
-    .ph{position:absolute;inset:0;${photo}}
-    .gr{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,14,12,.28) 0%,rgba(10,14,12,0) 24%,rgba(10,14,12,.10) 46%,rgba(10,14,12,.90) 100%)}
-    .tx{position:absolute;left:64px;right:64px;bottom:60px;color:#FBF8F1}
-    .h{font-size:${size}px;text-shadow:0 2px 24px rgba(0,0,0,.45);margin-top:30px}</style>
-    <div class="ph"></div><div class="gr"></div>${badge}
-    ${layout === 3 && p.number ? '' : `<div style="position:absolute;top:56px;left:64px"><span class="pill">${esc(p.label)}</span></div>`}
-    <div class="tx">${layout === 3 && p.number ? `<span class="pill">${esc(p.label)}</span>` : ''}<div class="h">${esc(p.headline)}</div><div class="dom" style="margin-top:26px;opacity:.85">${DOMAIN}</div></div>`;
+  const lab = `color:${pal.lab};font-weight:800;font-size:34px;letter-spacing:.2em`;
+  const pillDark = `position:absolute;left:50px;bottom:56px;background:rgba(20,26,18,.72);color:#FBF8F1;font-weight:700;font-size:30px;letter-spacing:.18em;padding:16px 30px;border-radius:999px`;
+  if (style === 0) return `<style>${BASE} body{background:${pal.bg}}
+    .band{position:absolute;left:0;top:0;width:1000px;height:500px;padding:64px 70px;display:flex;flex-direction:column;justify-content:center}
+    .h{font-size:${size}px;color:${pal.ink};margin-top:22px}.ph{position:absolute;left:0;top:500px;width:1000px;height:1000px;${photo}}</style>
+    <div class="band"><div style="${lab}">${esc(p.label)}</div><div class="h">${esc(p.headline)}</div></div><div class="ph"></div><div style="${pillDark}">${DOMAIN.toUpperCase()}</div>`;
+  if (style === 1) return `<style>${BASE}
+    .ph{position:absolute;inset:0;${photo}}.dim{position:absolute;inset:0;background:rgba(10,14,12,.16)}
+    .lbl{position:absolute;left:-30px;width:1060px;top:1040px;height:290px;background:${pal.bg};transform:rotate(-3deg);display:flex;align-items:center;padding:0 90px;box-shadow:0 14px 40px rgba(0,0,0,.3)}
+    .h{font-size:${Math.min(size, 112)}px;color:${pal.ink}}
+    .badge{position:absolute;right:60px;top:60px;width:220px;height:220px;border-radius:50%;background:${pal.acc};color:#FBF8F1;display:flex;align-items:center;justify-content:center;text-align:center;font-weight:800;font-size:${p.number ? 46 : 34}px;line-height:1.1;letter-spacing:.04em;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:20px}
+    .url{position:absolute;left:0;right:0;bottom:70px;text-align:center;color:#FBF8F1;font-weight:700;font-size:30px;letter-spacing:.22em;text-shadow:0 2px 12px rgba(0,0,0,.7)}</style>
+    <div class="ph"></div><div class="dim"></div><div class="badge">${p.number ? `${p.number}<br>IDEAS` : esc(p.label).replace(' ', '<br>')}</div><div class="lbl"><div class="h">${esc(p.headline)}</div></div><div class="url">${DOMAIN.toUpperCase()}</div>`;
+  return `<style>${BASE} body{background:${pal.bg}}
+    .top{position:absolute;left:0;top:0;width:1000px;height:430px;padding:60px 80px;display:flex;flex-direction:column;justify-content:center}
+    .h{font-size:${Math.min(size, 116)}px;color:${pal.ink};margin-top:18px}.ph{position:absolute;left:0;top:430px;width:1000px;height:730px;${photo}}
+    .bot{position:absolute;left:0;top:1160px;width:1000px;height:340px;padding:60px 80px;display:flex;flex-direction:column;justify-content:center;background:${pal.ink};color:#FBF8F1}</style>
+    <div class="top"><div style="${lab}">${esc(p.label)}</div><div class="h">${esc(p.headline)}</div></div><div class="ph"></div>
+    <div class="bot"><div style="font-weight:700;font-size:54px;line-height:1.15">${esc(TAGLINE)}</div><div style="margin-top:22px;font-weight:700;font-size:32px;letter-spacing:.2em;color:${pal.bg}">${DOMAIN.toUpperCase()}</div></div>`;
 }
 
 // ---------- build post records ----------
