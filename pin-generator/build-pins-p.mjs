@@ -30,6 +30,7 @@ const CSV_OUT = '../pinterest content/pinterest-bulk-upload-CAD-template-P-30day
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const BLOG_DIR = resolve(ROOT, 'src/content/blog');
+const CSV_ONLY = process.argv.includes('--csv-only');
 const OUT_DIR = resolve(ROOT, 'pinterest-pins', PIN_DIR);
 
 // ---------- boards (keyword-first names; create these on Pinterest before uploading) ----------
@@ -207,20 +208,25 @@ for (let i = 0; i < picked.length; i++) {
   const photoName = post.photos[(k - 1) % post.photos.length];
   const photo = pathToFileURL(resolve(ROOT, 'public/images', photoName)).href;
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>${tmpl({ ...post, k, photo, label: labelFor(post.fmRaw, post.pill) }, layout)}</body></html>`;
-  const tmpHtml = resolve(OUT_DIR, '_pin.html');
-  writeFileSync(tmpHtml, html);
-  await page.goto(pathToFileURL(tmpHtml).href, { waitUntil: 'networkidle' });
-  await page.evaluate(() => document.fonts.ready);
+  if (!CSV_ONLY) {
+    const tmpHtml = resolve(OUT_DIR, '_pin.html');
+    writeFileSync(tmpHtml, html);
+    await page.goto(pathToFileURL(tmpHtml).href, { waitUntil: 'networkidle' });
+    await page.evaluate(() => document.fonts.ready);
+  }
   const file = `${post.slug}-p${k}.jpg`;
-  await page.screenshot({ path: resolve(OUT_DIR, file), type: 'jpeg', quality: 90 });
+  if (!CSV_ONLY) await page.screenshot({ path: resolve(OUT_DIR, file), type: 'jpeg', quality: 90 });
 
   const faq = post.faqs[k === 1 ? -1 : k - 2];
   // Pin title = the article's own title, exactly as published on the blog.
   const title = post.title.replace(/\s*\(.*?\)\s*$/, '').slice(0, 100);
   const descBase = (k === 1 || !faq ? post.desc : `${faq.q} ${faq.a}`).replace(/\s+/g, ' ').trim();
-  const room = ROOM_KW.filter(([re]) => re.test(post.slug + ' ' + post.title)).flatMap(([, kw]) => kw);
+  // Keywords: the post's own SEO tags first, then researched phrases ONLY where the slug clearly matches the topic.
+  const tagKw = post.tags.filter((t) => !/^(canada|uk|australia)$/i.test(t));
+  const room = ROOM_KW.filter(([re]) => re.test(post.slug)).flatMap(([, kw]) => kw);
+  const generic = room.length ? [] : (PIN_KW[post.cat] || []);
   const seen = new Set();
-  const kwList = [...room, ...(PIN_KW[post.cat] || ['small apartment ideas', 'renter friendly']), ...post.tags.filter((t) => !/^canada$/i.test(t))]
+  const kwList = [...tagKw.slice(0, 4), ...room, ...generic]
     .filter((x) => { const l = x.toLowerCase(); return l && !seen.has(l) && seen.add(l); });
   const kws = kwList.slice(0, 10).join(', ');
   const also = kwList.slice(0, 3).join(', ');
