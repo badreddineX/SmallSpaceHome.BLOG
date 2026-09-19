@@ -22,6 +22,12 @@ faqs:
 
 Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back.
 
+> **Key Takeaways**
+> - Decide what belongs in your space before you buy any storage.
+> - Work room by room: entryway, living room, kitchen, bedroom (closet first), then bathroom (vertically).
+> - Give every item a home and keep a simple maintenance routine.
+> - Follow the priority order at the end of the guide.
+
 This guide is about the system and the habits, decluttering, zoning, maintenance, not a shopping list. For the room-by-room product roundup, see [storage ideas for small places](/blog/storage-ideas-for-small-places), or for the same ideas capped at $100 CAD, [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
 
 **TL;DR:** Declutter before buying a single bin — it's the step that makes everything else work. Slim velvet hangers (Amazon.ca, ~$18 CAD) free noticeably more closet space immediately. Zone the kitchen by task (prep, cook, pantry, clean) and stop losing things at the back of cabinets. The 10-minute evening reset is the habit that keeps the whole system running.

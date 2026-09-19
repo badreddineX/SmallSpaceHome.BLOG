@@ -27,6 +27,11 @@ faqs:
 
 Storing a bike in a small apartment comes down to three renter-safe options: a no-drill wall hook (~$20–$35 CAD), a freestanding vertical floor stand (~$30–$60 CAD), or your building's bike room if it has one. Each keeps the bike off the floor and out of your walking path without risking your damage deposit.
 
+> **Key Takeaways**
+> - Three renter-safe options: a no-drill wall hook (~$20 to $35 CAD), a freestanding vertical stand (~$30 to $60 CAD) or your building's bike room.
+> - Balconies and entryways can work, with caveats covered below.
+> - Choose by space, bike weight and your lease rules.
+
 
 **TL;DR:** Try your building's bike room first (free, ask property management). If there's none, a tension-mounted vertical rack (~$40–$70 CAD, zero drilling) is the safest bet for a full deposit refund. A single stud-mounted wall hook (~$20–$35 CAD) is cheaper and just as tidy if you're allowed one small hole. Skip floor-only stands in tight entryways — they still eat 30+ cm of width you may not have.
 

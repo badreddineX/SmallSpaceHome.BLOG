@@ -33,6 +33,12 @@ faqs:
 
 Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert.
 
+> **Key Takeaways**
+> - Most small-apartment home offices are improvised; you don't need a spare room.
+> - Pick a desk that fits a corner or a window, and buy the chair first.
+> - Add storage vertically to protect floor space.
+> - Separate work from living space visually if the office shares a room.
+
 **TL;DR:** You don't need a spare room to work from home well. Pick a desk sized to your space (the IKEA MICKE at ~$99 CAD is the standard), put it near a window, invest in a real chair before anything else, and build storage *up* the wall instead of out across the floor. A defined corner beats a cramped whole room.
 
 ---

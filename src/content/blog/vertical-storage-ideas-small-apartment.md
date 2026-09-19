@@ -25,6 +25,12 @@ faqs:
 
 Canadian apartments in major cities tend to run small, and singles under 35 often end up in the tightest units of all. No wonder we're all competing for every vertical inch above head height. No nails. No mess. No landlord headaches.
 
+> **Key Takeaways**
+> - Tension rods, freestanding towers and over-door organizers add storage without drilling.
+> - Command strips can hold light shelves, so check the weight limits.
+> - Use dead space above the closet rod and under the bed.
+> - Ceiling-mounted storage only suits ceilings under 9 feet.
+
 **TL;DR:** Vertical storage in small apartments doesn’t require drilling, custom builds, or sacrificing your security deposit. Renter-safe tension rods, freestanding units, and Command-strapped shelves can triple your storage without leaving a single hole. Focus on underutilized zones: above doors, behind doors, and the empty space from floor to ceiling that most people ignore. Most of these ideas cost under $40 CAD and are ready to move if you relocate.
 
 ## 1. Can Tension Rods Really Replace Shelving in a Small Apartment?

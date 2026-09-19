@@ -27,6 +27,12 @@ faqs:
 
 Facebook Marketplace is the single best source for cheap, solid furniture in Canada, if you know how to search it and what to avoid. Here's exactly how.
 
+> **Key Takeaways**
+> - Search with specific keywords and focus on the furniture categories that are best secondhand.
+> - Follow basic safety rules for in-person pickup.
+> - Negotiate politely and be ready to collect promptly.
+> - Pair your finds with the rest of your apartment so the room looks cohesive.
+
 **TL;DR:** Use specific search terms plus broad ones like "moving sale," save searches with notifications on, and check listings daily during the first and last week of the month (lease turnover). Buy dressers, tables, and bookshelves secondhand — they're built better and priced lower. Buy mattresses and heavily used upholstery new. Meet in public, bring cash, and always inspect before paying.
 
 ---

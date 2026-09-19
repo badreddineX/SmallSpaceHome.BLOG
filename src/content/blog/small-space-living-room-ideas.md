@@ -31,6 +31,13 @@ faqs:
 
 Your living room is the first room guests see and the room you spend the most time in — it's also where the "vibey apartment living room aesthetic" people are chasing lately actually gets built, not through one statement piece but through the layered small decisions below. When it's 180 square feet and doubles as your dining room and [home office](/blog/small-apartment-home-office-ideas), every decision matters.
 
+> **Key Takeaways**
+> - Choose a sofa that fits the room's scale, ideally with visible legs.
+> - Use one large rug instead of several small ones.
+> - Go vertical for storage and use mirrors to bounce light around.
+> - Multi-function pieces such as a nesting coffee table earn their footprint.
+> - Removable wallpaper on one accent wall is a renter-safe upgrade.
+
 The living room is roughly 180 sq ft. If you want the step-by-step sequence instead of a straight list, our guide on [how to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through the same ideas in the order to tackle them.
 
 **TL;DR:** The biggest wins in a small living room are a properly sized sofa, one large rug instead of multiple small ones, vertical storage, and mirrors to double the visual space. Do those four things before anything else.

@@ -27,6 +27,12 @@ faqs:
 
 Dollarama sells glass vases, ceramic planters, and woven baskets for $1 to $5 CAD that look nearly identical to $25–$40 CAD pieces from West Elm or HomeSense once styled correctly. The difference isn't the store, it's the shape you pick and how you group it.
 
+> **Key Takeaways**
+> - Glass vases, ceramic planters and woven baskets at $1 to $5 CAD can pass for much pricier pieces.
+> - The shape you pick and how you group items matter more than the store.
+> - Frames, faux greenery and baskets work too, if you choose them carefully.
+> - Skip the items that look cheap; the guide lists what to leave on the shelf.
+
 The mistake most people make is grabbing the item with the most going on, when the boring one is what actually looks expensive.
 
 This one's a single-retailer deep dive, not a general budget guide. For the broader near-$0 approach across other stores too, see [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish).

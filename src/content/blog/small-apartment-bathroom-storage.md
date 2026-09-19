@@ -31,6 +31,12 @@ faqs:
 
 Want a printable checklist for the rest of the apartment too? Grab the free [23-Point Storage Checklist](/free-storage-checklist).
 
+> **Key Takeaways**
+> - Start with over-toilet shelving, then use the most underused spaces and the area under the sink.
+> - Add shower and bath storage, and keep the counter decluttered.
+> - Towels can be stored without a towel bar.
+> - Stay within a no-drill framework that suits rentals.
+
 ---
 
 ## 1. What's the Best Over-Toilet Shelving Option?
