@@ -1,6 +1,6 @@
 ---
 title: "Small Living Room & Apartment Furniture That Works"
-description: "The small living room and apartment furniture I'd buy again (and what I regret) after furnishing a 510 sq ft Toronto apartment three times. Real CAD prices."
+description: "Small living room and apartment furniture that works, and what to skip: sofas, beds, storage and tables, with real CAD prices."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
 dateModified: "2026-08-29"
