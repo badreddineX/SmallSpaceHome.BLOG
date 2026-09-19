@@ -1,7 +1,7 @@
 name: Social auto-post (Instagram + Facebook)
 on:
   schedule:
-    - cron: "0 22 * * *"      # once a day (22:00 UTC = 6pm Eastern)
+    - cron: "0 12,16,20,0 * * *"      # 4 posts/day (8am, 12pm, 4pm, 8pm Eastern)
   workflow_dispatch:
     inputs:
       dry_run:
