@@ -37,7 +37,7 @@ This is the budget-first companion to our [17 fridge & pantry organization ideas
 
 Most small apartments don't have a pantry room, just one or two kitchen cupboards doing the job. The fastest fix isn't new furniture, it's using the vertical space you already have. According to CMHC, most Canadian rental apartments fall under 700 sq ft, which means cupboard space is already tight before you add a single container.
 
-I live in my 510 sq ft Toronto apartment with exactly one 60 cm wide pantry cupboard. Before I organized it, half the space was wasted on tall gaps above short items like spice jars and snack boxes. A $13 shelf riser fixed that in ten minutes.
+A $13 shelf riser fixed that in ten minutes.
 
 The goal isn't a Pinterest-perfect pantry with 20 matching canisters. It's making every inch of one small cupboard actually usable, for as little money as possible.
 
@@ -82,7 +82,7 @@ Dollarama's clip-lid and stackable bins are worth buying for dry goods with regu
 | Large clear bin | $4–$5 | Canned goods, packets |
 | Lazy Susan turntable | $4–$5 | Oils, sauces, spice jars |
 
-I tracked my own pantry spend for this article: three Dollarama bins, one lazy Susan, and a roll of masking tape came to $16.75 CAD, plus a $13 IKEA VARIERA shelf riser already owned from a previous project. A first-time buyer starting from zero would land close to $30 CAD for the same setup.
+A first-time buyer starting from zero would land close to $30 CAD for the same setup.
 
 Skip Dollarama containers for anything oily, like cooking oil decanted from a large jug. A $2 lid isn't rated for that kind of daily wear and will eventually leak.
 
@@ -99,7 +99,6 @@ If you're labeling more than a dozen containers across your whole kitchen, not j
 
 ## What Does a Full $30–$40 CAD Pantry Cupboard Look Like?
 
-Here's the complete budget breakdown for organizing one small pantry cupboard from empty to fully sorted, based on the setup I actually bought and used.
 
 | Item | Cost (CAD) | Store |
 |------|-----------|-------|

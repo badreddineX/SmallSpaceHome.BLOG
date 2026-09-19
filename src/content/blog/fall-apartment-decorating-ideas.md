@@ -22,7 +22,7 @@ faqs:
 
 Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. CMHC notes that renters make up roughly one-third of Canadian households — and seasonal decorating is one of the most satisfying ways to make a rental feel like a real home.
 
-In my Toronto apartment, two new cushion covers and a cinnamon candle from HomeSense was all it took to shift the whole feel of the living room for autumn. The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
+The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
 
 **TL;DR:** Swap 2–3 summer cushion covers for rust, amber, or deep green ones (IKEA GURLI ~$6 each, or Amazon.ca velvet 2-pack ~$25–$35 CAD). Add one autumn-scented candle from HomeSense (~$20 CAD). Natural elements from outside — pinecones, coloured leaves, dried seed pods — cost nothing and look more authentic than anything purchased. Total fall refresh under $75 CAD.
 

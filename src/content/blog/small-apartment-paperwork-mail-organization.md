@@ -31,13 +31,12 @@ If your kitchen counter has a pile of mail you're avoiding, the fix isn't a bigg
 
 ---
 
-I've lived in my 510 sq ft Toronto apartment for three years, and paperwork was the one category of clutter that beat me every single month. Lease renewal notices, hydro bills, T4 slips, random Canada Post flyers, all of it landed on the same 12 inches of kitchen counter until I built the system below. It's not fancy, but it's held up for three apartments since.
 
 ## Why Does Paperwork Pile Up Faster in a Small Apartment?
 
 In apartments under 700 sq ft, there's usually no dedicated office or mudroom, so mail gets dropped on whatever surface is closest to the door, usually the kitchen counter or dining table. Without a designated landing zone, paper spreads because there's no "wrong place" to put it down.
 
-The fix isn't more storage. It's one specific spot that catches everything before it reaches any other surface. In my experience, the apartments that stay paper-free aren't the ones with the most organizers, they're the ones where the organizer sits directly in the path between the front door and the kitchen, so sorting happens automatically on the way in.
+The fix isn't more storage. It's one specific spot that catches everything before it reaches any other surface. The apartments that stay paper-free aren't the ones with the most organizers, they're the ones where the organizer sits directly in the path between the front door and the kitchen, so sorting happens automatically on the way in.
 
 If you haven't tackled the rest of your entryway yet, our [small apartment organization guide](/blog/small-apartment-organization) covers [shoe storage](/blog/small-apartment-shoe-storage-ideas) and coat hooks alongside this same command-centre approach.
 
@@ -51,7 +50,7 @@ A command centre is a small wall-mounted station, usually 12–18 inches wide, t
 - Dollarama magnetic fridge pockets (temporary/renter option) — $3–$5 CAD each
 - Command strips to hang any of the above without drilling — ~$8–$12 CAD for a multipack
 
-I mounted mine with Command strips on the inside of a coat closet door instead of open wall, which kept it out of sight from the living room but still on the direct path from the door. Small trick, but it matters if your entryway doubles as your living space, which in most Canadian rentals under 600 sq ft, it does.
+Small trick, but it matters if your entryway doubles as your living space, which in most Canadian rentals under 600 sq ft, it does.
 
 ![A small wall-mounted desk and organizer used as a paperwork command centre in a compact apartment entryway](/images/small-home-office-desk.jpg)
 
@@ -96,7 +95,7 @@ Yes, for anything you don't need in original physical form, digitizing cuts the 
 3. Rename the file with date and type, e.g., "2026-08 Hydro Bill"
 4. Shred the physical copy immediately, unless it's an original that must be kept (lease, insurance policy, ID)
 
-Tracking my own paper volume after switching to this routine, I went from roughly 40 physical documents a month down to about 8 that actually need a paper original. Everything else lives in three cloud folders and takes seconds to search instead of minutes to dig through a box.
+Everything else lives in three cloud folders and takes seconds to search instead of minutes to dig through a box.
 
 Anyone setting up a [small home office](/blog/small-apartment-home-office-ideas) alongside this system should also check our [small apartment home office ideas](/blog/small-apartment-home-office-ideas) for desk setups that leave room for a file box without eating your whole living space.
 
@@ -118,7 +117,7 @@ An entryway mail-sorting basket works when it's a single container, positioned e
 - Wall hook or small shelf to hold it, if not using a table — $10–$20 CAD at IKEA
 - A dedicated recycling bin within arm's reach, even a small $5 CAD Dollarama bin works
 
-The habit matters more than the container. Every time I've fallen off this system, it wasn't because the basket disappeared, it was because I stopped sorting at the door and started "dealing with it later." Later rarely comes.
+The habit matters more than the container.
 
 ## What's a Realistic Shredding and Recycling Routine?
 

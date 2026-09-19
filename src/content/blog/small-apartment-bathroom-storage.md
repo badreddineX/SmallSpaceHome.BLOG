@@ -21,8 +21,7 @@ faqs:
   - q: "Can I replace the medicine cabinet in a rental apartment bathroom?"
     a: "You can swap a surface-mounted medicine cabinet without any damage to walls or plumbing. Surface-mounted units typically have two to four screws. Remove the old cabinet, patch the screw holes with renter-safe wall filler when you leave, and install the new one. This is distinct from recessed cabinets (built into the wall), which you should leave untouched in a rental."
 ---
-
-My bathroom in my Toronto rental is 38 square feet. That is not a typo. There is a toilet, a pedestal sink with zero storage underneath, a shower stall, and about 60 cm of floor space between them. When I moved in, my toiletries lived on the toilet tank and the edge of the sink. Within three months I had figured out a system that actually works — no drilling required, all from Canadian retailers, under $180 CAD total for the core setup. Here is that system, in the order that makes the most difference.
+ There is a toilet, a pedestal sink with zero storage underneath, a shower stall, and about 60 cm of floor space between them. Here is that system, in the order that makes the most difference.
 
 **TL;DR:**
 - **First move:** freestanding over-toilet shelves (~$55–$70 CAD, Amazon.ca) — adds three shelves of vertical storage instantly, no drilling

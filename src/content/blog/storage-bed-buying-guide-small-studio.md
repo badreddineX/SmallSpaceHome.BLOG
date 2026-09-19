@@ -24,7 +24,7 @@ faqs:
     a: "Drawer-base frames like the NORDLI ship flat-packed in several boxes and assemble in the room, so they fit through any standard door or elevator that a regular bed frame would. The one thing to check first: total assembled weight (NORDLI queen runs roughly 70–90 kg full frame), since a heavier frame is harder to move again at your next lease renewal."
 ---
 
-"Which space-saving storage bed should I choose for a small studio apartment?" is a real question with a real answer that depends on one measurement: the clearance under whatever bed you have right now, or plan to buy. Grab a tape measure before reading further — it decides which half of this guide applies to you.
+Grab a tape measure before reading further — it decides which half of this guide applies to you.
 
 If you already have bins and risers figured out and just need the how-to, [under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment) covers that in more depth. This page is the buy-new-or-work-with-what-you-have decision, one level up.
 

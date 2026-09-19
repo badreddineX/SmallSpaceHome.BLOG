@@ -20,7 +20,7 @@ faqs:
     a: "A full renter-friendly setup — chair, floor lamp, small rug, and a side table — runs roughly $250 to $650 CAD depending on whether you shop IKEA/Amazon.ca or a mid-range retailer like Structube. The chair is almost always the biggest line item."
 ---
 
-Reading nooks have become one of the most requested small-space decor ideas, and it makes sense: after years of open-plan everything, people want one chair that's just for sitting down and doing nothing else. You don't need a spare room for that. I carved a reading nook out of a 90 cm-wide window corner in my Toronto apartment, and it's become the one spot in the unit I actually fight my roommate for.
+Reading nooks have become one of the most requested small-space decor ideas, and it makes sense: after years of open-plan everything, people want one chair that's just for sitting down and doing nothing else. You don't need a spare room for that.
 
 **TL;DR:** A reading nook needs three things — a comfortable chair scaled to the space, a dedicated light source, and a small surface for a mug or a stack of books. A window corner, the dead space beside a bookcase, or the end of a hallway all work. Full renter-friendly setups run $250–$650 CAD, and nothing requires drilling.
 

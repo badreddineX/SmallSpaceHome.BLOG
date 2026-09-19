@@ -22,7 +22,6 @@ faqs:
 
 IKEA is the default furniture store for Canadian apartment renters for good reason — it's designed for small spaces, available across Canada, and priced for people who might move in two years. But not everything works in a small apartment. These 15 ideas use IKEA products in smart configurations that solve real problems, with no cutting, no major modifications, and no need for a drill. CMHC data shows that rental affordability is a persistent challenge across Canadian cities, which makes budget-conscious furniture choices more important than ever.
 
-I've tested most of these in my own 510 sq ft Toronto apartment — the NORDLI bed and the LACK floating nightstands are the two I'd recommend to anyone starting from scratch.
 
 > **In a hurry?** Buy the KALLAX — it's the most versatile piece at IKEA, working as a room divider, entryway bench, TV console, or home office. Then look at the NORDLI storage bed (replaces a dresser entirely), ceiling-height BILLY bookcases (maximum vertical storage in a 28 cm footprint), and LACK shelves on Command strips for floating nightstands that free floor space completely.
 

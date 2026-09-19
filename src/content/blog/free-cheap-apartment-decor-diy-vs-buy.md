@@ -25,11 +25,11 @@ faqs:
     a: "Curb alerts and 'free' sections on Facebook Marketplace and Buy Nothing groups yield frames, side tables, and shelving regularly in most Canadian cities. Community bulletin boards and end-of-lease moves (April 30/May 1 in Ontario) are peak season for free furniture left on curbs."
 ---
 
-Some apartment decor projects save real money when you DIY them. Others cost more in time, tools, and materials than just buying the cheap version, and that's the trap I fell into more than once during my first year renting. The honest answer is that DIY only wins on low-material, low-tool projects; anything involving furniture-grade construction, electrical work, or bulk fabric is usually a false economy.
+Some apartment decor projects save real money when you DIY them. The honest answer is that DIY only wins on low-material, low-tool projects; anything involving furniture-grade construction, electrical work, or bulk fabric is usually a false economy.
 
 This post isn't a budget tier like the others in this series, it's a decision framework for any budget: should you make it or buy it. For the actual dollar-by-dollar spending plans, see [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) ($200 CAD) or [apartment decor under $50](/blog/budget-apartment-decor-under-50).
 
-**TL;DR:** DIY the small stuff, no-sew pillow covers, painted thrifted frames, curb-alert furniture refreshes, and printed photo galleries. Buy the big stuff, area rugs, light fixtures that need wiring, and most furniture, since a budget retail version is often cheaper than the materials alone. Below is the exact decision table I now use before starting any project.
+**TL;DR:** DIY the small stuff, no-sew pillow covers, painted thrifted frames, curb-alert furniture refreshes, and printed photo galleries. Buy the big stuff, area rugs, light fixtures that need wiring, and most furniture, since a budget retail version is often cheaper than the materials alone.
 
 ---
 
@@ -37,9 +37,8 @@ This post isn't a budget tier like the others in this series, it's a decision fr
 
 DIY only saves money when the materials are cheap and the skill required is low; once a project needs a saw, a sewing machine, or an electrician, the math flips fast. A gallon of paint runs $30–$50 CAD, a basic sewing machine starts around $80 CAD, and specialty tools rarely get used again after one project.
 
-I learned this the hard way building a DIY coffee table in my first apartment. Lumber, brackets, wood glue, and a $40 CAD sander added up to $95 CAD, and it still wobbled. A comparable IKEA LACK table costs $39.99 CAD, already assembled, already level. The break-even point for furniture DIY almost always favours buying unless you already own the tools from a previous project.
+Lumber, brackets, wood glue, and a $40 CAD sander added up to $95 CAD, and it still wobbled. A comparable IKEA LACK table costs $39.99 CAD, already assembled, already level. The break-even point for furniture DIY almost always favours buying unless you already own the tools from a previous project.
 
-The rule I use now: if a project needs a tool I'd only ever use once, I buy the finished item instead.
 
 ## What Small Decor Projects Are Actually Worth DIYing?
 
@@ -47,7 +46,7 @@ Small-material projects with no power tools required are where DIY wins, typical
 
 ### No-Sew Pillow Covers
 
-A yard of fabric at Fabricland runs about $12–$18 CAD and makes two no-sew envelope covers using fusible tape (no sewing machine needed), for roughly $6–$9 CAD each. Retail cushion covers in the same fabric weight run $25–$35 CAD at West Elm or Anthropologie. I've made a dozen of these over two apartments and the only tool required is an iron I already owned.
+A yard of fabric at Fabricland runs about $12–$18 CAD and makes two no-sew envelope covers using fusible tape (no sewing machine needed), for roughly $6–$9 CAD each. Retail cushion covers in the same fabric weight run $25–$35 CAD at West Elm or Anthropologie.
 
 ![No-sew envelope pillow covers made from Fabricland fabric styled on a living room sofa](/images/cozy-corner-lamp-mirror.jpg)
 
@@ -61,7 +60,7 @@ End-of-lease season (April 30 and May 1 in Ontario, when most leases turn over) 
 
 ### Printed Photo Galleries
 
-Costco Canada prints 4×6 photos for roughly $0.25 each, so a wall of 12 personal photos costs about $3 CAD in prints before framing. Paired with the thrifted frames above, a full gallery wall runs $20–$25 CAD total, something I've covered in more detail in [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget), where the gallery wall shows up again as one of the highest-impact purchases under $40 CAD.
+Costco Canada prints 4×6 photos for roughly $0.25 each, so a wall of 12 personal photos costs about $3 CAD in prints before framing.
 
 ## What Decor Should You Just Buy Instead of DIY?
 
@@ -97,11 +96,11 @@ The pattern is consistent: DIY wins when materials are cheap and the finished it
 
 ## How Do You Decide on Borderline Projects?
 
-Before starting any project, ask whether the materials alone cost less than 60% of the retail price, since anything above that threshold rarely justifies the time and tool investment. This one filter has saved me from at least three abandoned weekend projects.
+Before starting any project, ask whether the materials alone cost less than 60% of the retail price, since anything above that threshold rarely justifies the time and tool investment.
 
 Ask three questions before committing: Do I already own the tools, or would I need to buy them for this one project? Is the finished result something I could return or resell if it doesn't work out? And honestly, would I rather spend the weekend on this or doing something else? If the answer to the last one is "something else," that's usually the real answer.
 
-Tracking my own decor spending across two apartments and roughly 15 small projects, the DIY wins averaged 58% savings versus retail, while the DIY losses (furniture, mainly) averaged 22% more expensive than buying, once tools were counted. Small projects win; big builds lose.
+Small projects win; big builds lose.
 
 ## Where Do Free Decor Finds Fit In?
 

@@ -27,7 +27,7 @@ faqs:
 
 Organizing skincare and makeup in a small apartment comes down to three moves: contain products in acrylic organizers, sort by category with drawer dividers, and purge on a schedule so clutter doesn't quietly rebuild every season. None of this requires a big bathroom — it requires containers that match how you actually use the products.
 
-This is the beauty-and-skincare-specific companion to my broader [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) guide, which covers general bathroom storage like shelving and towel systems. This post zooms in on the stuff that actually piles up fastest: serums, palettes, half-used sunscreen, and the seventeen lip products nobody can account for.
+This post zooms in on the stuff that actually piles up fastest: serums, palettes, half-used sunscreen, and the seventeen lip products nobody can account for.
 
 **TL;DR:** Sort skincare into a shallow acrylic tray on the counter ($12–$25 CAD), separate makeup with a drawer organizer or stackable acrylic bins ($15–$30 CAD), add an over-mirror shelf for overflow ($20–$35 CAD), and run a 15-minute expiry check every three months. If bathroom counter space is gone entirely, a small dresser-corner vanity in the bedroom (~$30–$60 CAD, IKEA) solves it without touching the bathroom at all.
 
@@ -41,7 +41,7 @@ This is the beauty-and-skincare-specific companion to my broader [small apartmen
 
 ## Why Does Beauty Product Clutter Build Up So Fast in Small Apartments?
 
-Beauty and skincare clutter grows faster than almost anything else in a small apartment because products arrive constantly (samples, gifts, impulse buys) but rarely get used up before the next one shows up. In my own 510 sq ft Toronto apartment, I counted 34 skincare and makeup items crammed onto an 18-inch counter before I did anything about it.
+Beauty and skincare clutter grows faster than almost anything else in a small apartment because products arrive constantly (samples, gifts, impulse buys) but rarely get used up before the next one shows up.
 
 The problem isn't the bathroom being small. It's that liquid and cream products don't stack, roll around when the counter isn't level, and don't have a natural "home" the way folded towels do. Without a container system, everything just accumulates in whatever order it was set down.
 
@@ -55,7 +55,7 @@ A three-tier system works best: an acrylic tray for daily-use items, a labeled d
 
 **Backstock drawer (out of sight).** Unopened skincare and duplicates go into a labeled drawer, ideally with dividers so bottles don't tip. Dollarama sells basic plastic drawer dividers for $1.50–$4 CAD each, which is enough for most bathroom drawers.
 
-**Rotation basket.** Anything within a month of its expiry date moves to a small basket by the sink as a visual reminder to use it up or toss it. This one habit alone cut my personal skincare pile by almost half within two months. 
+**Rotation basket.** Anything within a month of its expiry date moves to a small basket by the sink as a visual reminder to use it up or toss it.
 
 ![Clear acrylic shelving used to sort skincare bottles by category on a bathroom counter](/images/bathroom-storage-shelves.jpg)
 
@@ -92,7 +92,6 @@ Yes, over-mirror storage adds a narrow shelf in space that's otherwise completel
 
 Adhesive hook versions work for lighter items like a small basket of hair ties or a perfume tray, while tension-rod shelves that wedge between the mirror frame and ceiling can hold slightly more weight. Either option adds roughly 6–10 inches of shelf depth without touching the wall.
 
-This pairs well with ideas from my [small closet organization ideas for rental apartments](/blog/small-closet-organization-rental-apartment) post, since the same no-drill, tension-mounted logic applies to closets too — vertical space is the most underused resource in most small Canadian rentals.
 
 ![A bright mirror area with narrow shelf space above it used for perfume and skincare bottle overflow storage](/images/bright-bedroom-mirror.jpg)
 
@@ -106,7 +105,7 @@ If the bathroom is fully claimed by roommates or family, moving makeup to a smal
 - One acrylic makeup organizer ($15–$30 CAD)
 - A small lamp with a warm bulb for better colour accuracy when applying makeup (~$20–$30 CAD)
 
-Total setup cost lands around $50–$85 CAD, and it removes makeup from the bathroom equation completely. When I moved my makeup to a bedroom dresser corner, my bathroom counter item count dropped from 34 to 11 items, and mornings genuinely got faster because I wasn't sharing counter space with a roommate.
+Total setup cost lands around $50–$85 CAD, and it removes makeup from the bathroom equation completely.
 
 ## How Often Should You Declutter Expired Beauty Products?
 

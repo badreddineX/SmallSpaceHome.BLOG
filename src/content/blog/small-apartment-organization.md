@@ -20,7 +20,7 @@ faqs:
     a: "A rolling garment rack with a fabric cover (~$65–$100 CAD total) handles hanging clothes. A tall dresser takes folded items. Under-bed IKEA SKUBB bags store seasonal gear. Over-door organizers on the bedroom door manage shoes and accessories. Full details in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small apartment bedroom storage guide</a>."
 ---
 
-Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back. I reorganized my 510 sq ft Toronto apartment three times. The first two times I just bought containers. The third time I understood: you have to declutter before you organize, not after. According to CMHC, most Canadian renters live in apartments under 700 sq ft — making a repeatable organization system one of the most practical investments you can make.
+Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back. According to CMHC, most Canadian renters live in apartments under 700 sq ft — making a repeatable organization system one of the most practical investments you can make.
 
 This guide is about the system and the habits, decluttering, zoning, maintenance, not a shopping list. For the room-by-room product roundup, see [storage ideas for small places](/blog/storage-ideas-for-small-places), or for the same ideas capped at $100 CAD, [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
 

@@ -31,7 +31,7 @@ faqs:
     a: "Yes — heavy-duty Command strips (rated up to 7.5 kg for the largest size) hold a fold-down shelf desk or monitor mount without a single screw, and peel off clean at move-out. A tension-rod room divider or a freestanding leaning shelf unit gets you a defined work corner with zero hardware at all, which matters if your lease holds you responsible for patching holes."
 ---
 
-Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert. I've worked full-time from my Toronto apartment for three years, and the desk setup has moved four times before I landed on something that actually works. Here's what I learned — the desks worth buying, where to put them, and how to make a workspace feel intentional instead of like a laptop balanced on the kitchen table.
+Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert.
 
 **TL;DR:** You don't need a spare room to work from home well. Pick a desk sized to your space (the IKEA MICKE at ~$99 CAD is the standard), put it near a window, invest in a real chair before anything else, and build storage *up* the wall instead of out across the floor. A defined corner beats a cramped whole room.
 
@@ -47,7 +47,6 @@ So if your "office" is a corner of the bedroom, you're in the majority. The goal
 
 The best desk spot in a small apartment is wherever you get natural light and can leave the setup standing. A window-facing corner beats a dark hallway nook every time — daylight cuts eye strain and makes a tiny workspace feel open rather than boxed in.
 
-Here's the priority order I'd use in a small apartment:
 
 1. **A spare corner in the living room** — usually the easiest to spare, and you can screen it off
 2. **The bedroom, on the wall opposite the bed** — keeps work out of sight while you sleep
@@ -75,7 +74,6 @@ The trade-off with adhesive-only mounts is weight capacity — check the rated l
 
 The best small-apartment desk is one sized to your actual space, not the biggest one you can afford. A desk that's too deep eats the room; one that's too small leaves you cramped. For most apartments, a 70–100 cm wide surface is the sweet spot, with prices ranging from about $99 CAD for the IKEA MICKE up to $150 CAD for a wall-mounted fold-down option — a functional desk rarely costs more than $150 CAD in Canada.
 
-Here are the picks I'd actually recommend, with real Canadian prices:
 
 ### The reliable standard
 
@@ -85,7 +83,7 @@ The small-apartment default for good reason. A 73 × 50 cm footprint, built-in c
 ### When you need more surface
 
 **IKEA LINNMON tabletop + ALEX drawer unit** — ~$140 CAD total
-A LINNMON top (~$40) on an ALEX drawer unit (~$100) gives you a wide desk *and* real storage in one footprint. This is what I use now — the drawers hold everything that used to clutter the desktop.
+A LINNMON top (~$40) on an ALEX drawer unit (~$100) gives you a wide desk *and* real storage in one footprint.
 
 ### When floor space is truly tight
 
@@ -112,7 +110,6 @@ If floor space is at an absolute premium, a folding ergonomic chair you store be
 
 Build storage *up*, not out. In a small home office, the wall above your desk is the most valuable real estate you have — a floating shelf or two frees the entire desktop and keeps supplies within reach without a single extra piece on the floor. Floating shelves run about $25–$40 CAD each, a rolling drawer unit like the IKEA ALEX costs roughly $100 CAD, and a monitor riser adds another $30–$60 CAD — together building a full storage system without a single extra piece on the floor.
 
-My setup, from most to least useful:
 
 - **Two floating shelves above the desk** (~$25–$40 CAD each, IKEA LACK or similar) — books, a plant, a charging tray
 - **A rolling drawer unit under or beside the desk** (IKEA ALEX, ~$100 CAD) — hides everything you don't want on show, and rolls out of the way

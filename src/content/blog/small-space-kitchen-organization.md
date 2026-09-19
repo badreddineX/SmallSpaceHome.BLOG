@@ -22,7 +22,7 @@ faqs:
     a: "Group items into clear bins by category — dairy, produce, leftovers, condiments — so nothing gets lost at the back. Add a small lazy Susan for jars and condiments, and stackable clear organizers on the door shelving to use vertical space the fixed shelves waste. A full bin-and-organizer set runs ~$20–$35 CAD on Amazon.ca."
 ---
 
-A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. I have a galley kitchen in my 510 sq ft Toronto apartment, and here's what has actually made the most difference over three years. The CMHC notes that a growing share of Canadian households rent rather than own, which means working within kitchen limitations — not renovating around them — is the reality for millions of renters.
+A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. The CMHC notes that a growing share of Canadian households rent rather than own, which means working within kitchen limitations — not renovating around them — is the reality for millions of renters.
 
 **TL;DR:** Zone the kitchen by task before buying any organizer — things should live where they're used. Clear the counters completely (everything except the coffee maker and one plant). Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca) eliminate the "lost at the back of the shelf" problem. An IKEA SKADIS pegboard (~$15 CAD) frees up a full drawer's worth of counter space.
 

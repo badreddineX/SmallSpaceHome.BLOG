@@ -20,7 +20,7 @@ faqs:
     a: "Yes, if the closet is deep enough for KOMPLEMENT inserts or you use a freestanding PAX-adjacent setup. For most standard rental reach-in closets, though, SKUBB boxes and BUMERANG hangers give you 80% of the benefit without any wardrobe frame at all."
 ---
 
-My first Toronto apartment had a closet that was, generously, 60 cm wide. One rod, one shelf, and a landlord who made it very clear the walls were staying exactly as they were. Most closet advice online assumes you're working with a walk-in — this is what actually works for a *very* small closet, when it's the size of a phone booth and already crammed with clothes.
+One rod, one shelf, and a landlord who made it very clear the walls were staying exactly as they were. Most closet advice online assumes you're working with a walk-in — this is what actually works for a *very* small closet, when it's the size of a phone booth and already crammed with clothes.
 
 The short version: declutter before you buy a single organizer, switch to slim hangers first, and use vertical space (shelf risers, stacked bins, the door itself) before you spend money on anything bigger. Every idea below is renter-safe — no drilling, no permanent changes, and everything comes down clean at move-out.
 
@@ -42,7 +42,7 @@ Two things matter more than the rest combined. First, decluttering before organi
 
 ## Why Declutter Before You Organize a Small Closet?
 
-A typical Canadian household holds far more clothing than gets worn regularly — [Statistics Canada household spending data](https://www150.statcan.gc.ca/n1/en/subjects/household_spending) shows clothing purchases have climbed steadily even as closet sizes in new rental builds have shrunk. When I finally pulled everything out of my own closet, nearly a third of it hadn't been worn in over a year.
+A typical Canadian household holds far more clothing than gets worn regularly — [Statistics Canada household spending data](https://www150.statcan.gc.ca/n1/en/subjects/household_spending) shows clothing purchases have climbed steadily even as closet sizes in new rental builds have shrunk.
 
 Pull every item out onto the bed. Sort into keep, donate, and seasonal storage. Anything you haven't worn in 12 months is a strong donate candidate, with the obvious exception of formalwear and true seasonal gear like winter coats.
 
@@ -80,7 +80,7 @@ For more no-drill tricks that work throughout a rental, see our [renter-friendly
 
 Slim velvet hangers free up 30–40% more hanging space than standard plastic or wooden ones, because each hanger measures roughly 0.5 cm thick versus 2–3 cm for bulkier styles. That difference adds up fast in a closet where every centimetre of rod space counts.
 
-In a typical 60 cm rental closet rod, switching from plastic to slim hangers can mean the difference between fitting 20 garments and fitting 30-plus. I made this swap in my own 60 cm closet and went from a rod so tight I couldn't slide hangers across to one with visible breathing room.
+In a typical 60 cm rental closet rod, switching from plastic to slim hangers can mean the difference between fitting 20 garments and fitting 30-plus.
 
 IKEA's BUMERANG hangers (~$8 CAD for a 8-pack) are a solid budget option, though they're not as slim as dedicated velvet hangers. For maximum space savings, Amazon.ca sells slim velvet hangers in bulk, which is the better buy if you're doing your entire wardrobe at once.
 
@@ -133,4 +133,4 @@ If your closet feels impossible right now, tackle these in order for the best re
 4. **Over-door organizer** — 12–24 pockets, zero installation
 5. **Tension rod** — an entire extra hanging tier in five minutes
 
-None of these require a drill, a landlord's permission, or a big budget. Start with decluttering and slim hangers this weekend. Those two moves alone solved most of my own closet problem, and everything after that is just refinement. For the rest of the bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) picks up where this list leaves off, and [IKEA small space hacks](/blog/ikea-small-space-hacks) has more budget-friendly product picks if you want to keep going room by room. Same no-drill approach works in the bathroom too — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for where to buy it.
+None of these require a drill, a landlord's permission, or a big budget. Start with decluttering and slim hangers this weekend. For the rest of the bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) picks up where this list leaves off, and [IKEA small space hacks](/blog/ikea-small-space-hacks) has more budget-friendly product picks if you want to keep going room by room. Same no-drill approach works in the bathroom too — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for where to buy it.

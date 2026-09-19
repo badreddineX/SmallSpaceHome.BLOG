@@ -27,7 +27,7 @@ faqs:
 
 You don't need a spare room to build a real home gym. A folding mat, a set of resistance bands, and adjustable dumbbells that live inside a storage ottoman can turn any 2×2 foot corner into a functional workout space. The equipment just has to earn its footprint twice: once during the workout, once folded away.
 
-I've been doing this in my 510 sq ft Toronto apartment for over a year now, and the corner behind my couch does double duty as a [reading nook](/blog/small-apartment-reading-nook-ideas) most of the week. The trick isn't buying less equipment, it's buying equipment that disappears.
+The trick isn't buying less equipment, it's buying equipment that disappears.
 
 **TL;DR:** Pick foldable or stackable equipment (mat, bands, adjustable dumbbells) instead of fixed gear. Store weights inside a storage ottoman ($60–$120 CAD), stash mats and bands under the bed or on wall hooks, and pick a corner that already has a dual purpose. Total setup cost: roughly $250–$450 CAD.
 
@@ -94,7 +94,7 @@ For heavier gear, a small over-the-door rack ($20–$30 CAD at Canadian Tire) ho
 
 A corner as small as 2×2 feet works for a full bodyweight and band routine, as long as it's positioned where a folded mat and ottoman don't block a walking path. Pick a corner near an outlet if you use a phone or tablet for workout videos, and near a wall for band anchors.
 
-I use the corner between my couch and the window. The ottoman sits there daily as a side table; workout time, I slide it six inches, unroll the mat, and I'm set up in under a minute. Nobody visiting the apartment would guess it's a gym corner.
+Nobody visiting the apartment would guess it's a gym corner.
 
 **Corner setup checklist:**
 1. Storage ottoman doubling as a table (weights + bands inside)
@@ -112,7 +112,7 @@ Hiding a home gym corner means every piece of equipment has a closed-lid or off-
 - Door-anchor bands unhook and coil onto their wall hook
 - Ottoman slides back into its spot as a side table
 
-Do this consistently and guests never know there's a gym in the room. Tracking my own routine over three months, the full hide-away takes about 90 seconds once the storage pieces are in place, closer to what you'd expect from putting away a laundry basket than dismantling equipment.
+Do this consistently and guests never know there's a gym in the room.
 
 ![A closet with open sliding doors showing folded gear stored on a shelf, an example of hiding home gym equipment out of sight](/images/closet-wardrobe-open.jpg)
 

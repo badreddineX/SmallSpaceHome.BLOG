@@ -26,9 +26,7 @@ faqs:
     a: "Pothos, ZZ plant, snake plant, and pothos again — they tolerate low light and the humidity actually helps them. A small fern or a spider plant works if you have a window. If the bathroom has no natural light at all, rotate a plant in from another room every couple of weeks, or use a realistic faux plant and skip the guilt."
 ---
 
-My first apartment bathroom in Montreal was a windowless box with a builder-beige everything: beige tile, beige tub surround, a plastic mirror cabinet, and a fluorescent tube that made everyone look ill. I couldn't paint it, couldn't touch the tile, and couldn't drill a single hole. For about a year I just didn't look at it.
 
-Then I spent one Saturday and around $180 CAD, and it went from "the room I apologise for" to genuinely the nicest small room in the apartment. Nothing I did left a mark. When I moved out, twenty minutes of unscrewing tension rods and peeling off hooks put it back exactly as I found it.
 
 Rental bathrooms are the hardest room to decorate because everything permanent belongs to the landlord. But almost everything that *makes* a bathroom feel styled — colour, texture, light, greenery, a bit of art — is soft, freestanding, or stick-on. Here's what actually works.
 
@@ -112,7 +110,7 @@ Here's the whole thing as a shopping list, roughly in the order to buy it:
 | Plant + a plain soap pump + one small frame | $35–$60 |
 | **Total** | **$195–$363** |
 
-You can do the top four rows for under $110 CAD and stop there — that alone resets the room. Everything below the bulb is the difference between "clean and tidy" and "this looks like a place I chose."
+You can do the top four rows for under $110 CAD and stop there — that alone resets the room.
 
 For the storage side of a small bathroom — where to actually put toiletries, towels, and cleaning supplies when there's no cabinet — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage). And for the no-drill hanging methods that make all of this possible, [command strip decorating hacks for renters](/blog/command-strip-decorating-hacks-renters) covers what holds what.
 

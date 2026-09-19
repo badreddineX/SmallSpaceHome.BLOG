@@ -20,7 +20,7 @@ faqs:
     a: "Technically most no-drill, freestanding items don't require permission, but many condo and apartment buildings restrict what's visible on balconies regardless of installation method. Always check your lease or condo bylaws first — some buildings ban bikes, grills, or anything above railing height entirely."
 ---
 
-A balcony is the one piece of outdoor space most small-apartment renters in Canada actually get, and most of us waste it. A real balcony makeover starts with solving storage first — there's no point styling a space that's covered in a bike and a bin nobody can move. (Once the storage is sorted, [small apartment balcony ideas](/blog/small-apartment-balcony-ideas/) covers the seating, privacy, lighting, and plants.) It's also the trickiest storage zone in the whole apartment: everything has to survive rain, snow, and freeze-thaw cycles, and almost nothing can be drilled or bolted down. I've spent three summers testing gear on a 6x8 foot balcony in Toronto, and these are the setups that actually held up.
+A balcony is the one piece of outdoor space most small-apartment renters in Canada actually get, and most of us waste it. A real balcony makeover starts with solving storage first — there's no point styling a space that's covered in a bike and a bin nobody can move. (Once the storage is sorted, [small apartment balcony ideas](/blog/small-apartment-balcony-ideas/) covers the seating, privacy, lighting, and plants.) It's also the trickiest storage zone in the whole apartment: everything has to survive rain, snow, and freeze-thaw cycles, and almost nothing can be drilled or bolted down.
 
 ---
 
@@ -41,7 +41,6 @@ Four things matter more than anything else here: a **freestanding gravity bike r
 
 Most Canadian rental and condo buildings allow *some* balcony storage, but the rules differ enormously between buildings, and violating them can mean a fine or a forced removal notice. Always check your lease or condo bylaws before buying anything for the balcony.
 
-Common restrictions I've run into personally include bans on visible storage above railing height, no bikes or grills at all in some high-rises, and mandatory clearance around the fire escape path. My first Toronto building banned anything visible from the street-facing side, which ruled out half the deck boxes I originally wanted.
 
 If your bylaws are vague or you're not sure, a quick email to your property manager beats guessing. Ask specifically about bikes, deck boxes, and anything mounted to the railing — those are the three categories buildings restrict most often.
 
@@ -49,7 +48,7 @@ If your bylaws are vague or you're not sure, a quick email to your property mana
 
 ## What's the Best No-Drill Bike Storage for a Small Balcony?
 
-A freestanding gravity bike rack solves balcony [bike storage](/blog/renter-friendly-bike-storage-small-apartments) without a single screw. It leans against the railing or wall using the bike's own weight to stay upright, and most models fold flat when you're not using them. A single-bike gravity rack runs $50–$90 CAD, while two-bike models cost $80–$120 CAD, and either version avoids the wall-mounted brackets that most bike storage guides assume renters can install. This is the setup I've relied on for three straight summers.
+A freestanding gravity bike rack solves balcony [bike storage](/blog/renter-friendly-bike-storage-small-apartments) without a single screw. It leans against the railing or wall using the bike's own weight to stay upright, and most models fold flat when you're not using them. A single-bike gravity rack runs $50–$90 CAD, while two-bike models cost $80–$120 CAD, and either version avoids the wall-mounted brackets that most bike storage guides assume renters can install.
 
 Gravity racks work because the bike's front wheel sits in a raised cradle, and the frame's weight naturally counterbalances against the support arm. No wall bracket, no drilled anchor, and no residue when you move out. Most bike storage guides push wall-mounted hooks, but those aren't an option for renters at all — a gravity rack is the only version that's genuinely landlord-safe.
 
@@ -61,7 +60,7 @@ A few models hold two bikes stacked, which is worth the extra $20–$30 CAD if y
 
 A resin deck box is the highest-impact single purchase for balcony storage, holding cushions, tools, and off-season gear while staying fully weatherproof year-round. Canadian Tire and HomeSense both carry resin models from $60–$150 CAD depending on size, and they need zero installation.
 
-Resin outperforms wood or fabric storage bins on a balcony because it doesn't rot, warp, or mildew when it sits through a wet Canadian spring. A lid that seals tightly also keeps mice and squirrels out, which matters more in ground-floor and low-rise units. My first storage bin was a canvas one from a big-box store, and it was moldy by the second September.
+Resin outperforms wood or fabric storage bins on a balcony because it doesn't rot, warp, or mildew when it sits through a wet Canadian spring. A lid that seals tightly also keeps mice and squirrels out, which matters more in ground-floor and low-rise units.
 
 Size the box to your actual balcony footprint before buying. A 100-gallon box eats a huge chunk of a small deck, while a 30–50 gallon box usually fits cushions, a small fan, and gardening tools without dominating the space.
 
@@ -81,11 +80,11 @@ For more no-drill, renter-safe ideas that work indoors too, see our [storage ide
 
 ## What Should Come Inside for a Canadian Winter?
 
-Anything with electronics, glass, or liquid that can freeze and crack needs to come inside before the first hard freeze. String lights, glass planters, and half-full watering cans are the most common casualties I've seen on balconies each winter.
+Anything with electronics, glass, or liquid that can freeze and crack needs to come inside before the first hard freeze.
 
 Resin deck boxes, metal bike racks, and empty ceramic pots generally survive a Canadian winter outdoors without issue, since they're built to handle freeze-thaw cycles. Cushions and fabric items should still come in though, since trapped moisture inside a sealed box can mildew even when the box itself is fine.
 
-Of the balcony items I've left outside over three winters in Toronto, only the items with liquid or glass ever failed. Everything resin, metal, or empty-ceramic came through intact every year.
+Everything resin, metal, or empty-ceramic came through intact every year.
 
 A quick fall checklist: empty and store cushions inside, disconnect and coil string lights, drain planters and watering cans completely, and confirm your deck box lid still seals before the first snow.
 

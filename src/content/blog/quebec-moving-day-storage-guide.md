@@ -23,7 +23,7 @@ faqs:
     a: "Check grocery stores, the SAQ, and pharmacies for free boxes starting in early June, before the July 1 rush clears them out. Dollarama also sells sturdy medium boxes for around $2–$3 CAD each if you need a guaranteed supply."
 ---
 
-If you've never lived in Quebec, the idea of an entire province moving apartments on the exact same day sounds made up. I promise it isn't. Every July 1, U-Hauls line every street in Montreal, mattresses lean against every stop sign, and every elevator in every triplex is booked solid from 8 a.m. to dark. I've done two Moving Days here, and the difference between a smooth one and a miserable one comes down almost entirely to what you do in the weeks before, not on the day itself.
+If you've never lived in Quebec, the idea of an entire province moving apartments on the exact same day sounds made up. Every July 1, U-Hauls line every street in Montreal, mattresses lean against every stop sign, and every elevator in every triplex is booked solid from 8 a.m. to dark.
 
 ## Moving Day Timeline at a Glance
 
@@ -42,7 +42,7 @@ This timeline spans roughly ten weeks, from booking a truck 8–10 weeks before 
 
 Book your truck or movers by mid-May, not June — Montreal moving companies routinely sell out their July 1 slots eight to ten weeks in advance, every single year. If you wait until three weeks out, you're looking at DIY with a rented van and whoever you can bribe with pizza.
 
-The second thing that matters more than anything else: pack your first-week essentials into a single clearly labelled bin, separate from everything else. On Moving Day, you will not find your phone charger, your coffee maker, or your shower curtain in a wall of identical brown boxes. Trust me on this one.
+The second thing that matters more than anything else: pack your first-week essentials into a single clearly labelled bin, separate from everything else. On Moving Day, you will not find your phone charger, your coffee maker, or your shower curtain in a wall of identical brown boxes.
 
 ## Why Does Quebec Have a Province-Wide Moving Day?
 
@@ -63,7 +63,7 @@ Colour-code your boxes by room using dollar-store stickers, and you'll cut unpac
 - Sharpie multi-pack, ~$4 CAD, for labelling box contents
 - A roll of stretch wrap (~$8–$10 CAD at Canadian Tire) to bundle drawers shut without emptying them
 
-The single best trick I picked up my second Moving Day: leave clothes in your dresser drawers and just wrap the whole dresser in stretch wrap. You skip re-folding an entire wardrobe, and the drawers won't slide open on the truck.
+You skip re-folding an entire wardrobe, and the drawers won't slide open on the truck.
 
 Pack room by room, starting with whatever you use least. Off-season gear, books, and decor go first; kitchen basics and toiletries go last, in the box you carry yourself.
 
@@ -77,7 +77,6 @@ Buy your boxes and packing supplies by mid-June, because Dollarama, Canadian Tir
 - Vacuum storage bags for bedding and [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear): Amazon.ca, ~$25–$30 CAD for a 6-pack
 - Furniture dolly rental or purchase: Canadian Tire, ~$40–$70 CAD to buy, or rent from a local moving supply shop for a day
 
-Across a handful of Montreal renter forums and [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) listings I checked in past June/July windows, free curbside boxes consistently vanish within 48 hours of grocery stores restocking them in June — if you're relying on free boxes, grab them the day you see them, not "later this week."
 
 If your new place is smaller than your last one, plan your [storage solutions](/blog/storage-ideas-for-small-places) before moving day, not after. Deciding what fits into under-bed bins or a vertical shelf system while everything is still in boxes saves a second round of reorganizing later.
 

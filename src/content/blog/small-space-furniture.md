@@ -23,8 +23,7 @@ faqs:
   - q: "How do I choose apartment-size furniture that fits a small Canadian apartment?"
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
 ---
-
-I've furnished and refurnished my 510 sq ft Toronto apartment three times — once when I moved in, once after a year of living with my first round of choices and realizing what actually worked, and once more after a move within the same building. This isn't a list of what's for sale. It's what survived three real furnishing rounds, what I sent back, and what I wish I'd bought the first time. Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
+ Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
 **TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio) replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 
@@ -144,23 +143,19 @@ The best option if dining space is truly minimal. Folds flat against the wall wh
 
 ## What I'd Buy Again vs. What I Regret
 
-After three rounds of furnishing the same 510 sq ft apartment, the list of what actually earned its keep is shorter than what I started with.
 
 **Buy again, no hesitation:**
-- **IKEA NORDLI storage bed** — three years in, drawers still glide smoothly, and it's the single piece that's saved me from ever needing a dresser.
-- **Storage ottoman** — I underestimated this one at first. It's done coffee table, extra seating for guests, and off-season bedding storage without ever feeling like it's doing too much.
-- **IKEA LACK side table** — cheap enough that I don't think twice about using it hard, and it's outlasted furniture that cost five times as much.
+-
 
 **Regretted and returned:**
-- **A 3-seat sectional** (not from this list) — looked fine in the store, ate a third of my living room the moment it arrived. Returning a sofa in a Toronto apartment building means booking the service elevator and hoping it fits, which it barely did. Learned to measure the actual walking path, not just the floor area, before buying anything with a footprint this big.
+- Returning a sofa in a Toronto apartment building means booking the service elevator and hoping it fits, which it barely did. Learned to measure the actual walking path, not just the floor area, before buying anything with a footprint this big.
 - **A glass-top coffee table** — visually "opened up" the room in photos, but glass shows every mark within a day of normal use, and it's the first thing a moving guest bumps into in a small space. Swapped for the storage ottoman above within two months.
-- **A boxy armchair "for reading"** — never actually got used, since it visually crowded the room enough that I avoided sitting in that corner. The POÄng listed above solved what this was supposed to solve, for less money.
+- The POÄng listed above solved what this was supposed to solve, for less money.
 
 The pattern across all three regrets: they looked right in a photo or showroom, but failed the test that actually matters in under 600 sq ft — does it earn its footprint every day, not just the day you buy it.
 
 ## What Does It Actually Cost to Furnish a Small Apartment? A Real Budget Breakdown
 
-Furnishing a small Canadian apartment from empty to fully livable costs roughly $800–$900 CAD for the essentials, based on the actual IKEA and Wayfair Canada prices used to furnish my 510 sq ft unit. That number covers a bed, seating, storage, and a desk — not decor, not a dining set, just the pieces a small space genuinely needs to function.
 
 Here's what that breaks down to, piece by piece, for a studio or one-bedroom in the 450–550 sq ft range:
 

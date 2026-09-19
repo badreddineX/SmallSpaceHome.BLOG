@@ -23,7 +23,7 @@ faqs:
     a: "Twice a year works for most Canadian climates: a spring swap around April when temperatures stabilize above freezing, and a fall swap around late September or October before the first real cold snap. Two fixed dates keep the system from sliding."
 ---
 
-Canadian apartments ask for something most closets were never built for: a full winter wardrobe and a full summer wardrobe, stored in the same 2-foot-wide space, twelve months a year. You can't just buy more hangers. You need a rotation system. I've run the same swap in a 510 sq ft Toronto rental for three winters now, and it's the difference between a closet that works and one that fights you every October.
+Canadian apartments ask for something most closets were never built for: a full winter wardrobe and a full summer wardrobe, stored in the same 2-foot-wide space, twelve months a year. You can't just buy more hangers. You need a rotation system.
 
 The good news is this doesn't require new furniture. It requires the right bags for the right materials, one designated storage zone, and two calendar dates you actually keep. For more general closet setup, our [storage ideas for small places](/blog/storage-ideas-for-small-places) guide covers the vertical and under-bed basics this system builds on.
 
@@ -58,7 +58,7 @@ That's not a minor inconvenience. Without a rotation plan, off-season items just
 
 Vacuum-seal bags work best for bulky, synthetic-fill items you're not wearing for months, compressing snow pants and blankets to roughly a quarter of their packed size ([Amazon.ca product data](https://www.amazon.ca/), 2026). Breathable garment bags are the better call for anything with natural fill or fibre.
 
-The rule I use: if it's down, wool, or a structured coat, it goes in a breathable bag. If it's synthetic-fill, cotton, or a blanket, it can be vacuum-sealed. I made the mistake of vacuum-sealing a down jacket my first winter here, and it never fully re-lofted after storage, the compressed feathers just stayed flatter. That coat now hangs in a breathable garment bag on the closet's top rod instead.
+If it's synthetic-fill, cotton, or a blanket, it can be vacuum-sealed.
 
 **What to buy:**
 - Vacuum bag set, 6 mixed sizes: Amazon.ca, roughly $25–$30 CAD
@@ -78,7 +78,7 @@ Snow boots, in particular, are the item most people forget to plan for. They're 
 
 ## What's the Simplest Twice-a-Year Rotation Routine?
 
-A fixed spring and fall swap date beats "whenever I get around to it," and most renters find mid-April and late September line up well with actual weather shifts in Canada's major cities ([Environment Canada](https://weather.gc.ca/) seasonal averages, 2026). Two dates on the calendar, treated like any other recurring task, keep the system from sliding for months.
+Two dates on the calendar, treated like any other recurring task, keep the system from sliding for months.
 
 **The spring swap (mid-April):**
 1. Pull winter coats, boots, and snow gear out of active rotation
@@ -98,7 +98,7 @@ If you're doing this swap alongside a broader seasonal reset, our [spring cleani
 
 The rotation only survives if the dormant zone stays genuinely out of reach, since anything half-accessible tends to get raided mid-season and never repacked properly. Label bags by category, not by season, so you're not guessing what's inside in October.
 
-Tracking my own closet over three swap cycles, the single biggest failure point wasn't the bags, it was skipping the label step. A $28–$40 CAD label maker takes about ten minutes to use per swap, a small cost that stops bags from getting opened "just to check" and never resealed properly. Unlabeled bags get opened "just to check," and once open they rarely get resealed properly. That label maker, from Amazon.ca or Staples, solves this in about ten minutes per swap.
+A $28–$40 CAD label maker takes about ten minutes to use per swap, a small cost that stops bags from getting opened "just to check" and never resealed properly. Unlabeled bags get opened "just to check," and once open they rarely get resealed properly. That label maker, from Amazon.ca or Staples, solves this in about ten minutes per swap.
 
 Cedar blocks or lavender sachets (Dollarama, $2–$4 CAD) in each storage bag also help, especially for wool items sitting dormant for six months at a stretch. It's a small step, but it's the difference between a coat that smells fine in October and one that needs an emergency wash.
 

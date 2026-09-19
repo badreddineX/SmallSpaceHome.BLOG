@@ -20,7 +20,7 @@ faqs:
     a: "Standard flat storage bins need about 15 cm (6 inches) of clearance. Measure your bed's actual gap with a tape measure before buying — many platform and low-profile frames only clear 8–10 cm without risers."
 ---
 
-The space under your bed can hold two full storage bins per side, yet most Canadian renters use it for a stray sock and a suitcase. I measured my own bed frame before writing this: 11 cm of clearance, just short of the 15 cm most bins need. A $22 CAD set of risers fixed that in ten minutes.
+The space under your bed can hold two full storage bins per side, yet most Canadian renters use it for a stray sock and a suitcase. A $22 CAD set of risers fixed that in ten minutes.
 
 This post is a deep dive on that one zone specifically. For the full-room approach, see our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide, and for storage across the whole apartment, check our [small apartment storage ideas](/blog/storage-ideas-for-small-places) roundup.
 
@@ -47,7 +47,7 @@ This post is a deep dive on that one zone specifically. For the full-room approa
 
 Bed risers are the cheapest, highest-leverage purchase for this zone, and most Canadian retailers sell a set for $20–$28 CAD ([Canadian Tire](https://www.canadiantire.ca), 2026). Adding 12–15 cm of clearance often turns a bed frame from unusable storage into space for two full rows of bins.
 
-My bed frame sat at 11 cm before risers, just under the 15 cm most flat bins need. A $22 CAD set of stackable plastic risers from Amazon.ca solved it in about ten minutes, no tools required. I went from fitting nothing to fitting four IKEA SKUBB bags side by side.
+A $22 CAD set of stackable plastic risers from Amazon.ca solved it in about ten minutes, no tools required.
 
 Risers come in a few styles worth knowing about.
 
@@ -69,7 +69,7 @@ Bins keep their shape and are easy to slide in and out one-handed. That matters 
 
 Vacuum bags win on raw volume. A queen duvet that takes up an entire bin can compress down to a slim rectangle with a vacuum bag, which matters most if your clearance is tight. A six-bag mixed set runs $25–$30 CAD at Amazon.ca. The tradeoff: vacuum bags aren't great for anything with structure, like shoes, since they crush under pressure.
 
-**My approach:** I use bins for anything I might need on short notice (extra bedding, off-season shoes) and vacuum bags only for things I won't touch for months, like winter coats in July. Mixing both gets more total capacity than committing to one system.
+Mixing both gets more total capacity than committing to one system.
 
 ---
 
@@ -101,7 +101,7 @@ The fix isn't complicated: store only what's fully sealed. A vacuum bag or a bin
 
 Measure before you buy anything, not after a bin shows up that doesn't fit. Use a tape measure at the lowest point of the frame, not the highest corner, since bed frames often slope and the tightest spot is what actually matters ([Consumer Reports](https://www.consumerreports.org), 2023).
 
-I measured my own frame in three spots, headboard end, footboard end, and the middle, and got three slightly different numbers. The lowest one, 11 cm, was the real constraint. If I'd measured only the highest point, I'd have ordered bins that didn't fit at all.
+The lowest one, 11 cm, was the real constraint.
 
 Write the number down before you shop. Most flat bins need about 15 cm, IKEA SKUBB bags need closer to 12 cm since they're softer-sided, and rolling drawers need 15–18 cm minimum. Bed risers close most of that gap for under $25 CAD if you come up short.
 

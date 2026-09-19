@@ -20,7 +20,7 @@ faqs:
     a: "Under-bed IKEA SKUBB bags (~$14 CAD), a tall PAX wardrobe in the corner, over-door organizers on the bedroom door, and floating shelves on the walls. A bench at the foot of the bed with storage inside helps too. Full breakdown in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small bedroom storage ideas</a> guide."
 ---
 
-A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices — light colours, correct bed placement, and layered lighting — can make even a compact Canadian apartment bedroom feel calm, spacious, and restful. I sleep in a small bedroom every night in my 510 sq ft Toronto apartment, and here's what has actually made a difference. In my own space, switching to ceiling-height curtains was the single most impactful change — the room felt noticeably taller the same day I hung them.
+A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices — light colours, correct bed placement, and layered lighting — can make even a compact Canadian apartment bedroom feel calm, spacious, and restful.
 
 **TL;DR:** Replace the overhead bulb with a warm 2700K lamp — it's the single fastest way to transform a small bedroom. Position the bed against the longest wall. Use a leaning full-length mirror to add depth and reflect light. Keep nightstands and dresser tops nearly clear — in a small room, surface clutter reads as room clutter.
 

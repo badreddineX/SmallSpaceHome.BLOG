@@ -27,9 +27,8 @@ faqs:
     a: "Yes, but the layout has to work harder. Zone the bed off visually so one person can sleep while the other is up, choose a real sofa rather than a loveseat so there's a second place to sit, add storage for two people's clothes (a dresser plus a wardrobe rack), and agree on a system for keeping the shared floor clear. It works best when the studio is at least 400 square feet."
 ---
 
-The studio I lived in near downtown Toronto was 380 square feet, one window, and a kitchen that was really just a wall. For the first few months I treated it like a bedroom that happened to have a stove, and it felt like one — the bed was the first thing you saw walking in, the only place to sit, and the surface everything landed on.
 
-The fix wasn't more furniture or a Murphy bed I couldn't afford. It was deciding where the invisible lines were: this corner is for sleeping, this stretch of floor is for everything else, and the path between the door and the bathroom stays clear no matter what. Once the room had zones, it stopped feeling like one cramped bedroom and started feeling like a small apartment.
+The real work is deciding where the invisible lines go: this corner is for sleeping, this stretch of floor is for everything else, and the path between the door and the bathroom stays clear no matter what. Once the room had zones, it stopped feeling like one cramped bedroom and started feeling like a small apartment.
 
 Here's how to lay out a studio so it works for sitting, sleeping, working, and eating — without building anything, and with furniture you can take to the next place.
 

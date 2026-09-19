@@ -27,7 +27,7 @@ faqs:
 
 Dollarama sells glass vases, ceramic planters, and woven baskets for $1 to $5 CAD that look nearly identical to $25–$40 CAD pieces from West Elm or HomeSense once styled correctly. The difference isn't the store, it's the shape you pick and how you group it.
 
-I've furnished two rentals almost entirely off Dollarama runs, and the pieces nobody guesses are from there are always the plainest ones: a clear glass vase, a matte ceramic pot, an unmarked wooden tray. The mistake most people make is grabbing the item with the most going on, when the boring one is what actually looks expensive.
+The mistake most people make is grabbing the item with the most going on, when the boring one is what actually looks expensive.
 
 This one's a single-retailer deep dive, not a general budget guide. For the broader near-$0 approach across other stores too, see [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish).
 
@@ -39,7 +39,7 @@ This one's a single-retailer deep dive, not a general budget guide. For the broa
 
 Dollarama decor looks cheap when it's bought in its packaged, fully-finished form and set down alone with nothing else around it. A single plastic frame or one bright plastic vase on an empty shelf has nowhere to hide — clustering budget objects together, rather than isolating them, is the standard styling trick for making cheap pieces read as intentional.
 
-The fix is almost always about grouping, not the object itself. A single $2 ceramic pot on a bare windowsill reads as an afterthought. The same pot next to a taller glass vase and a small stack of books reads as a styled vignette. I learned this the hard way in my first apartment, where I lined up five different Dollarama vases along a shelf like a display case, and it looked exactly like what it was: a dollar store shelf.
+The fix is almost always about grouping, not the object itself. A single $2 ceramic pot on a bare windowsill reads as an afterthought. The same pot next to a taller glass vase and a small stack of books reads as a styled vignette.
 
 Grouping odd numbers, mixing heights, and leaving breathing room between clusters is the entire trick. It costs nothing extra and takes about ten minutes per shelf.
 
@@ -119,7 +119,6 @@ The fastest way to style a shelf of Dollarama items is a wooden tray as the base
 3. Add one short item (a ceramic planter or a small stack of books)
 4. Leave visible empty space, don't fill every inch
 
-Across the shelves I've restyled in two different rentals, the sets that got the most compliments from guests were never the ones with the most objects on them, they were the ones with the most empty space between three or four well-chosen pieces.
 
 ![Cozy corner styled with a lamp, mirror, and layered Dollarama decor pieces for an expensive-looking small apartment](/images/cozy-corner-lamp-mirror.jpg)
 

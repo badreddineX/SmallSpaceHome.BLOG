@@ -27,7 +27,7 @@ faqs:
 
 Shoe storage ideas for small spaces all run into the same wall: there's no floor to give up. It's the first small-apartment problem you notice, because a pile of shoes is the first thing you see walking in the door. The fix isn't one perfect product, it's matching the storage type to your entryway's actual shape: slim racks for narrow hallways, over-door organizers when there's zero floor space, and a seasonal rotation system so winter boots don't live by the door year-round.
 
-I've rented three apartments in Ontario over the past five years, and every single one had a different entryway shape, a tiny 60 cm hallway, a shared building foyer, and a bachelor unit with no entry closet at all. What follows is the system that actually worked in each one, not a generic list.
+What follows is the system that actually worked in each one, not a generic list.
 
 **TL;DR:** Start with a slim entryway rack (30–40 cm deep, $30–$60 CAD at IKEA) for daily shoes. Add an over-door organizer ($20–$35 CAD, Amazon.ca) if floor space is zero. Rotate winter boots into under-bed bins or closet top shelves once the snow's gone, keeping only 4–8 active pairs by the door. Total setup: $50–$120 CAD, fully renter-friendly.
 
@@ -39,7 +39,6 @@ A slim entryway shoe rack, 30–40 cm deep, is the best option for most small Ca
 
 The depth matters more than the width here. A standard shoe is about 25–30 cm long, so anything under 35 cm deep will still stick out slightly, but it clears most narrow Canadian hallways where a full closet-depth unit simply won't fit.
 
-**What worked in my 60 cm-wide hallway:**
 - A two-tier slim rack tucked directly behind the door, so it's invisible when the door's open
 - Angled-shelf racks (shoes point downward) fit more pairs in less depth than flat shelves
 - A slim bench-style rack doubles as a place to sit while putting shoes on, useful in winter when you're wrestling with boot zippers
@@ -59,7 +58,6 @@ The trade-off is visibility. Shoes go behind a door instead of by the entryway, 
 2. Shared apartments where two or three people need shoe storage and there's only one door available
 3. Buildings with strict no-drilling rules in the lease, since these organizers use existing door hardware
 
-My bachelor unit had a single interior door between the entry and the rest of the apartment, and an over-door organizer on that door held both my partner's and my daily shoes without a single rack cluttering the floor.
 
 ## What About Under-Bench and Under-Stair Shoe Storage?
 

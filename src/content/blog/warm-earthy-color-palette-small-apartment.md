@@ -20,13 +20,13 @@ faqs:
     a: "Keep your walls neutral (off-white or warm greige) and only layer warmth in textiles and accessories. A $38 IKEA KIVIK armchair in 'Nordviken' warm grey or a $22 linen throw from Simons keeps it grounded but open. Always have at least one reflective surface nearby—think glass, mirrored trays, or metallic frames—to break up bulk."
 ---
 
-You're not alone if your small apartment feels like it's stuck in beige limbo—or worse, bounces cold blues off concrete walls. Most renters avoid bold colour changes because of lease restrictions, which is exactly why textiles and removable accents do so much of the work here. I've cobbled together warm, grounded palettes in my 510 sq ft Toronto apartment using only tension rods, Command strips, and paint samples swiped from HomeSense—zero holes, zero regrets.
+You're not alone if your small apartment feels like it's stuck in beige limbo—or worse, bounces cold blues off concrete walls. Most renters avoid bold colour changes because of lease restrictions, which is exactly why textiles and removable accents do so much of the work here.
 
 **TL;DR:** Warm earthy tones—like clay, ochre, terracotta, and warm greige—work beautifully in small rentals if kept *neutral on walls* and *rich in textiles and accessories*. Stick to renter-friendly fixes: peel-and-stick wallpaper samples, woven wall hangings, and affordable layered textures. Avoid dark, heavy hues in small spaces—go light-on-dark instead. You'll add coziness without violating your lease.
 
 ## 1. How Do You Start a Warm Palette Without Painting?
 
-Skip painting entire walls unless your landlord says yes (and even then, check your lease). Instead, define warmth from the floor up. A soft warm greige rug like the IKEA STOENSE ($59 CAD for 5'x7') grounds the room without overwhelming it. Pair with off-white curtains in a natural linen weave ($29 CAD at HomeSense) and a white or cream area rug to keep light bouncing. In my own place, I used the STOENSE in "Sand" beside a freestanding shelf, and instantly made the space feel tenanted—not staged.
+Skip painting entire walls unless your landlord says yes (and even then, check your lease). Instead, define warmth from the floor up. A soft warm greige rug like the IKEA STOENSE ($59 CAD for 5'x7') grounds the room without overwhelming it. Pair with off-white curtains in a natural linen weave ($29 CAD at HomeSense) and a white or cream area rug to keep light bouncing.
 
 ![Small apartment living area with warm beige rug, tension rod curtains, and wooden accent wall art](/images/living-room-cozy.jpg)
 

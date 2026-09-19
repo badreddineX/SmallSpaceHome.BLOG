@@ -20,7 +20,7 @@ faqs:
     a: "Yes, largely. Zoning costs nothing. Decluttering costs nothing. Repurposing a shoebox as a drawer divider costs nothing. The only real spend most renters need is under-bed bags (~$14 CAD) and maybe drawer dividers (~$10-15 CAD) — the system matters more than the products."
 ---
 
-A small bedroom organization system means three things working together: a decluttering method you actually repeat, zones that separate sleep from storage from work, and containers inside your existing furniture that stop drawers and shelves from turning back into junk piles. Most small bedroom advice skips straight to buying bins. That's backwards. [PERSONAL EXPERIENCE] In my own 510 sq ft Toronto rental, the bins didn't fix anything until I fixed the system underneath them first.
+A small bedroom organization system means three things working together: a decluttering method you actually repeat, zones that separate sleep from storage from work, and containers inside your existing furniture that stop drawers and shelves from turning back into junk piles. Most small bedroom advice skips straight to buying bins.
 
 **TL;DR:** Zone the room before buying anything: sleep, storage, and (if you work from home) a small work corner. Declutter one drawer or shelf at a time using keep/donate/trash, not the whole room in one sitting. Inside drawers, group by category with dividers so nothing collapses into a pile. Redo the whole system twice a year, timed to the seasonal clothing swap.
 
@@ -127,7 +127,7 @@ A bedroom organization system survives long-term through one short daily habit a
 
 **The twice-yearly full rebuild:** Spring and fall, redo the whole system: empty every zone, re-sort, re-file, relabel the under-bed bins. This is also when you catch zones that have quietly stopped working, maybe the work corner never gets used and should become storage instead.
 
-[PERSONAL EXPERIENCE] The system that's lasted for me isn't the fanciest one. It's the one I could actually keep doing every single night without it feeling like a chore. That's the real test of any bedroom organization system: not how good it looks the day you build it, but whether it's still standing in six months.
+That's the real test of any bedroom organization system: not how good it looks the day you build it, but whether it's still standing in six months.
 
 [INTERNAL-LINK: small apartment organization → /blog/small-apartment-organization for the same zone-and-declutter system applied to the whole apartment]
 

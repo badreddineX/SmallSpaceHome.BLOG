@@ -27,7 +27,6 @@ faqs:
 
 Storing a bike in a small apartment comes down to three renter-safe options: a no-drill wall hook (~$20–$35 CAD), a freestanding vertical floor stand (~$30–$60 CAD), or your building's bike room if it has one. Each keeps the bike off the floor and out of your walking path without risking your damage deposit.
 
-I've lived in three different rental units in Toronto and Ottawa with a bike and no garage, no storage locker, and — in one case — a landlord who flatly said no drilling in the hallway. What follows is what actually worked, what wrecked a wall the one time I rushed it, and where I'd spend money versus skip it entirely.
 
 **TL;DR:** Try your building's bike room first (free, ask property management). If there's none, a tension-mounted vertical rack (~$40–$70 CAD, zero drilling) is the safest bet for a full deposit refund. A single stud-mounted wall hook (~$20–$35 CAD) is cheaper and just as tidy if you're allowed one small hole. Skip floor-only stands in tight entryways — they still eat 30+ cm of width you may not have.
 
@@ -39,7 +38,7 @@ A standard adult bike is roughly 175 cm long and 60 cm wide when parked on both 
 
 That's the whole problem in one sentence: bikes are designed to be ridden horizontally, not stored in a 500 sq ft apartment. Every storage method below is really just a way to force the bike vertical, or out of the room entirely, without damaging a wall you don't own.
 
-My first Toronto rental had a 90 cm wide entryway. A bike leaned against the wall there meant squeezing past it every single day, and it fell over twice in one week, once onto a lamp. Getting it vertical on a $28 hook solved the problem in an afternoon.
+A bike leaned against the wall there meant squeezing past it every single day, and it fell over twice in one week, once onto a lamp. Getting it vertical on a $28 hook solved the problem in an afternoon.
 
 ## What Are the Best No-Drill Wall Hooks for Bike Storage?
 
@@ -70,7 +69,6 @@ Floor stands are freestanding, so they can tip if bumped, and they still take up
 - Apartments where even Command hooks feel risky (some landlords specifically object to any adhesive on painted walls)
 - Renters who move often and don't want to reinstall wall hardware every time
 
-I switched to a MEC floor stand (~$45 CAD) in my current place after moving twice in two years. Reinstalling wall hooks each move got old fast, and the stand just comes with me.
 
 ## Can You Store a Bike on Your Balcony?
 
@@ -117,7 +115,6 @@ Ask property management directly rather than assuming there isn't one. Some buil
 | Vertical floor stand | $30–$60 | None | Renters who move often, corners |
 | Balcony wall hook + cover | $30–$55 total | Minimal to none | Studios/1-beds with no interior space to spare |
 
-This table is roughly the order I'd try things in, cheapest and lowest-risk first, moving down only if the option above it doesn't fit the apartment or the lease.
 
 ## Final Thoughts
 

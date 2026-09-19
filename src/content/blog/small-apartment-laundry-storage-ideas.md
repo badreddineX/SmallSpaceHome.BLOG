@@ -20,7 +20,7 @@ faqs:
     a: "A full in-suite laundry closet system, shelf, door rack, and rolling cart, runs about $90–$140 CAD total. If you're limited to shared building laundry, a caddy and a rolling hamper cover the essentials for under $50 CAD."
 ---
 
-Small laundry room ideas usually assume you have a *room*. In an apartment you don't — you have a closet the size of a phone booth, and you're trying to find the detergent balanced on top of the dryer. In-suite stacked washer/dryer units are now standard in a lot of newer Canadian condo and apartment buildings, and the closet around them is almost always an afterthought. I've organized three of these tight closets in three different Toronto rentals, and the fixes are cheap, renter-safe, and take under an hour.
+Small laundry room ideas usually assume you have a *room*. In an apartment you don't — you have a closet the size of a phone booth, and you're trying to find the detergent balanced on top of the dryer. In-suite stacked washer/dryer units are now standard in a lot of newer Canadian condo and apartment buildings, and the closet around them is almost always an afterthought.
 
 This guide covers both situations: the in-suite stacked closet, and the shared building laundry room down the hall. Neither needs drilling, and neither needs much money.
 
@@ -63,7 +63,7 @@ If a tension shelf won't fit your closet's exact width, a freestanding wire shel
 
 An over-door rack turns the back of your laundry closet door into a second storage zone, holding detergent pods, stain sticks, and lint roller refills at eye level. It clips over a standard door in under two minutes with zero tools or drilling required, and at $22–$32 CAD it's one of the fastest, cheapest storage upgrades available for a rental laundry closet.
 
-Keep the heaviest items, full detergent jugs, on the lowest shelf so the rack doesn't sag or pull the door hinge over time. In my current apartment, moving detergent off the dryer top and onto a door rack freed up the only flat surface in the closet, which now holds my drying rack when it's folded down.
+Keep the heaviest items, full detergent jugs, on the lowest shelf so the rack doesn't sag or pull the door hinge over time.
 
 **What to buy:** Amazon.ca over-door laundry organizer, ~$22–$32 CAD. Look for one rated for at least 15 lbs if you're storing liquid detergent.
 
@@ -91,7 +91,7 @@ A basic plastic caddy from Dollarama (~$4–$6 CAD) has a divided tray and a cen
 
 ### Keep a Quarters Jar Right by the Door
 
-If your building laundry room still runs on coins, a small labelled jar by your front door means you're never digging through a junk drawer on laundry day. I kept a $2 Dollarama jar labelled "laundry" on my entry shelf for two years, and it's the single cheapest fix on this list.
+If your building laundry room still runs on coins, a small labelled jar by your front door means you're never digging through a junk drawer on laundry day.
 
 **Cost:** Dollarama glass jar, ~$2 CAD.
 
@@ -105,7 +105,6 @@ Place the hamper inside a closet on a slim shelf, using the same vertical-storag
 
 ## Laundry Storage Mistakes to Avoid
 
-A few habits show up in almost every stacked-unit closet I've fixed, and they're worth flagging before you buy anything.
 
 - **Mounting a shelf too close to the dryer vent.** Dryer vents need clearance to exhaust properly, and a shelf installed too low can block airflow or trap lint near the heat source. Measure the vent clearance before you buy a tension shelf, not after it's already braced in place.
 - **Overloading a door rack with full detergent jugs on the top hook.** Weight belongs low. A rack loaded top-heavy pulls on the door hinge over months and eventually sags or falls, taking everything on it down at once.

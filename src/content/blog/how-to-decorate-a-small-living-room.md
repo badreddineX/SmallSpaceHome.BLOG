@@ -23,9 +23,9 @@ faqs:
     a: "Three things signal quality on a budget: a large area rug sized correctly (front legs of the sofa sitting on it), ceiling-height curtains, and layered lighting — floor lamp plus table lamp, no harsh overhead. These three changes cost under $400 CAD combined and transform any rental living room."
 ---
 
-A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor. My living room is about 15 sq m in a 510 sq ft Toronto apartment, and here's the step-by-step process that made it feel like a proper room.
+A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor.
 
-According to CMHC, the average Canadian renter's apartment is under 800 sq ft — so these constraints are widely shared. After three years in this Toronto rental, repositioning the sofa was the single most impactful change I made before spending a dollar.
+According to CMHC, the average Canadian renter's apartment is under 800 sq ft — so these constraints are widely shared.
 
 **TL;DR:** Get the sofa positioned first — facing the focal point, floated slightly from the wall. Size the rug correctly (160 x 230 cm minimum, front legs of sofa on it). Fix the lighting with warm 2700K bulbs plus a floor lamp. Curtains hung near the ceiling make the room feel taller without any drilling.
 
@@ -158,7 +158,6 @@ The goal is a room where everything has a purpose and nothing is just sitting th
 
 ## Mistakes That Make a Small Living Room Feel Smaller
 
-A few habits undo everything the 10 steps above accomplish — and they're the ones I made first, before learning to avoid them.
 
 - **Pushing every piece of furniture against the wall.** It feels like it saves space, but it actually creates a dead, unused pool of floor in the middle of the room. Floating the sofa a few centimetres out and angling one chair breaks the "waiting room" look.
 - **Buying a rug that's too small.** A rug that only fits under the coffee table, with all the furniture legs sitting on bare floor around it, is the single most common small-space mistake. It visually shrinks the room instead of anchoring it.

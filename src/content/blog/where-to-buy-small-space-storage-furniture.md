@@ -23,7 +23,7 @@ faqs:
     a: "Yes, usually 40-60% less than retail, but only for the pieces that hold up well used: ottomans, console tables, and bed frames with drawers. Skip secondhand lift-top mechanisms and anything with moving hardware unless you can test it in person, since a broken hinge or stuck lift-top defeats the entire purpose of the piece."
 ---
 
-Three different searches keep landing on the same problem: "where can I buy smart storage furniture," "who sells storage furniture for apartments," "where can I find hidden storage furniture." All three want the same thing — not ideas, an actual retailer and an actual price. This is that list, organized by piece, not by inspiration board.
+This is that list, organized by piece, not by inspiration board.
 
 If you want the reasoning behind which piece to buy first and how much storage each one actually holds, [small living room storage furniture](/blog/small-living-room-storage-solutions) covers that. This page is just the buying list: where, and for how much.
 

@@ -22,7 +22,7 @@ faqs:
 
 Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. CMHC data shows that renters occupy roughly one-third of all Canadian households, and most of those apartments rely entirely on portable changes to create warmth and comfort.
 
-After three winters in a 510 sq ft Toronto apartment, I can say honestly that the lighting swap and a single chunky throw made the single biggest difference — everything else was a bonus. Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
+Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
 
 **TL;DR:** Warm 2700K bulbs (swap every cool-white overhead, ~$15–$25 CAD) plus a floor lamp is the single most effective cozy upgrade. Layer textiles: add a chunky throw and heavier cushions to what you already have (HomeSense throws ~$30–$60 CAD). Add winter scent with soy candles (~$20–$35 CAD). A dedicated reading corner with a lamp and blanket turns the apartment into somewhere you actually want to be in February.
 

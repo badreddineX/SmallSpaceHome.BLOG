@@ -25,7 +25,7 @@ faqs:
     a: "Search broad terms like 'moving sale' and 'must go' alongside specific items — these listings come from people relocating who price to sell fast. Save the search and turn on notifications so new listings reach you within minutes of posting."
 ---
 
-Facebook Marketplace is the single best source for cheap, solid furniture in Canada, if you know how to search it and what to avoid. I furnished most of my first apartment this way for under $600 CAD total, including a real wood dresser, a dining table, and a bookshelf that would have cost triple new. Here's exactly how.
+Facebook Marketplace is the single best source for cheap, solid furniture in Canada, if you know how to search it and what to avoid. Here's exactly how.
 
 **TL;DR:** Use specific search terms plus broad ones like "moving sale," save searches with notifications on, and check listings daily during the first and last week of the month (lease turnover). Buy dressers, tables, and bookshelves secondhand — they're built better and priced lower. Buy mattresses and heavily used upholstery new. Meet in public, bring cash, and always inspect before paying.
 
@@ -33,9 +33,9 @@ Facebook Marketplace is the single best source for cheap, solid furniture in Can
 
 ## How Do You Search Facebook Marketplace Effectively?
 
-The right search strategy surfaces better listings faster: sellers relocating for work post under "moving sale" or "must go," and these listings are typically priced 20-30% below furniture listed with no urgency ([Facebook Marketplace](https://www.facebook.com/marketplace/), ongoing seller behaviour pattern I've tracked across three moves). Specific keywords alone miss this entire category of motivated sellers.
+Specific keywords alone miss this entire category of motivated sellers.
 
-I search two ways every time. First, the specific item ("dresser," "IKEA MALM," "dining table for 4"). Second, the broad urgency terms ("moving," "must go," "downsizing," "estate sale"). The second search consistently turns up better prices because these sellers want the item gone this week, not top dollar.
+First, the specific item ("dresser," "IKEA MALM," "dining table for 4"). Second, the broad urgency terms ("moving," "must go," "downsizing," "estate sale"). The second search consistently turns up better prices because these sellers want the item gone this week, not top dollar.
 
 Most buyers only search by item name and miss the urgency-seller category entirely, which is where the real discounts live. A $400 sofa listed as "moving, must sell by Friday" often sells for $150 to whoever shows up with cash that day.
 
@@ -53,7 +53,6 @@ Filter by distance (10-15 km keeps pickup manageable without a van), price range
 
 Meeting in a public, well-lit location or bringing someone with you for large item pickups prevents the majority of Marketplace safety issues reported by Canadian police services ([Toronto Police Service community safety advisories](https://www.tps.ca/), general guidance). For furniture too large to carry, meeting at the seller's home is often unavoidable, so a few extra precautions matter.
 
-I always text a friend the seller's first name, address, and pickup time before I go, and I never send an e-transfer deposit to "hold" an item I haven't seen. That single rule has saved me from at least two listings that turned out to be fake once I asked follow-up questions.
 
 **Practical safety checklist:**
 - Meet in daylight hours when picking up at someone's home
@@ -102,7 +101,7 @@ A specific counter-offer 15-20% below asking, paired with an offer to pick up th
 
 Across roughly 20 Marketplace purchases over three years of apartment moves, offers with a specific number and a same-day pickup time got accepted about 70% of the time, while vague "any flexibility on price?" messages were mostly ignored.
 
-Say something like: "Hi, I can pick this up today for $70 cash, does that work?" instead of asking an open-ended question. Sellers moving out on a deadline usually say yes because a guaranteed sale today beats holding out for full price next week.
+Sellers moving out on a deadline usually say yes because a guaranteed sale today beats holding out for full price next week.
 
 Don't lowball insultingly (under 40% of asking) unless the item has visible flaws you're pointing out specifically. That approach mostly gets you ignored, not a counter-offer.
 

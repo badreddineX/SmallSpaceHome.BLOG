@@ -28,7 +28,7 @@ faqs:
 
 Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. According to CMHC, the majority of Canadian renters live in apartments under 700 sq ft, which means every decor dollar needs to work harder.
 
-After three years in a 510 sq ft Toronto rental, the priority order below is exactly how I'd spend $200 all over again. Here's how to transform a rental apartment for under $200 CAD.
+Here's how to transform a rental apartment for under $200 CAD.
 
 This is specifically the $200 CAD whole-apartment version. If $200 is more than you want to spend, [apartment decor under $50](/blog/budget-apartment-decor-under-50) covers a single tighter problem instead of the whole apartment, and [free & cheap decor: DIY vs. buy](/blog/free-cheap-apartment-decor-diy-vs-buy) breaks down which of these purchases are actually worth making yourself.
 

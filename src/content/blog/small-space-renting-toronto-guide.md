@@ -38,7 +38,7 @@ Toronto renting means one thing above almost every other Canadian city: your uni
 
 Condo moves in Toronto almost always require booking a freight elevator in advance, something a house or walk-up move never demands. Most towers require a two-hour elevator booking window with a refundable damage deposit ([common condo management practice](https://www.cmhc-schl.gc.ca), verify with your specific building), and missing that window can push your move to the following week.
 
-**[PERSONAL EXPERIENCE]** I moved into a King West tower without booking the elevator first. Management turned us away at the door, and we spent four hours re-parking a loaded truck on a street with a two-hour meter limit. Book the elevator the same day you get your keys, not the week before you move.
+Management turned us away at the door, and we spent four hours re-parking a loaded truck on a street with a two-hour meter limit. Book the elevator the same day you get your keys, not the week before you move.
 
 A few Toronto-specific logistics to sort early:
 

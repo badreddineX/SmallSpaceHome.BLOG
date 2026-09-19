@@ -20,7 +20,7 @@ faqs:
     a: "They solve different problems. Storage furniture hides items you want out of sight — remotes, cables, blankets — while wall shelving displays items and uses vertical space. Most small living rooms need both, not one instead of the other."
 ---
 
-A coffee table is just a flat surface unless it's also doing storage work. In a small Canadian living room, every piece of furniture you buy should hide something. I've swapped three pieces in my own 180 sq ft living room for versions with built-in storage, and the difference isn't cosmetic — it's the number of things that are no longer sitting on the floor.
+A coffee table is just a flat surface unless it's also doing storage work. In a small Canadian living room, every piece of furniture you buy should hide something.
 
 This isn't a decor list. If you want layout, colour, and styling advice for the same room, [15 small space living room ideas](/blog/small-space-living-room-ideas) covers that separately. This post is only about furniture that physically hides clutter: ottomans, coffee tables, consoles, and side tables built with storage compartments.
 
@@ -58,7 +58,6 @@ A storage bench ottoman (100+ cm wide) holds roughly double what a standard 45×
 
 **Tufted lift-top ottomans** add a hinged, padded top sturdy enough to use as an actual table surface for drinks or a laptop, which the plain lift-off lids on cheaper cube ottomans usually aren't.
 
-My own ottoman is a $99 CAD Amazon.ca cube version, and it fits every board game I own plus a spare throw blanket, with just enough room left for a small stack of magazines.
 
 **Cost:** Cube ottomans ~$70–$110 CAD. Bench ottomans ~$110–$180 CAD. Tufted lift-top versions ~$130–$220 CAD.
 
@@ -106,7 +105,6 @@ A complete hidden-storage furniture set for a small living room, one ottoman, on
 
 That range assumes mid-range IKEA or Amazon.ca pieces rather than premium brands. Buying one piece at a time, starting with whichever area of your living room looks most cluttered, spreads that cost out and lets you judge whether each piece is actually pulling its weight before adding the next.
 
-Tracking my own three pieces over eight months, the ottoman gets used daily, the console gets used daily, and the nesting side table gets used only when I have guests over, worth knowing before you commit to a full set at once.
 
 ---
 

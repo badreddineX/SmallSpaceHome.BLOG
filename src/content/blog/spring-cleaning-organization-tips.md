@@ -24,7 +24,7 @@ faqs:
 
 Spring in Canada means the apartment shows the full accumulation of a long winter — extra blankets that never made it back to storage, winter clothes piled with nowhere to go, a pantry full of comfort food. Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to. According to CMHC, rental apartments are home to a growing share of Canadians, and a seasonal reset is one of the most practical ways renters can maintain a well-functioning space without permanent changes.
 
-After three years in a 510 sq ft Toronto apartment, I do this reset every April without fail — it genuinely makes the space feel new again. This guide takes you through every room in the right order. If you also did a [January reset](/blog/january-reset-organization-ideas) at the start of the year, this spring pass is the second checkpoint — the systems you built in January get tested here.
+This guide takes you through every room in the right order. If you also did a [January reset](/blog/january-reset-organization-ideas) at the start of the year, this spring pass is the second checkpoint — the systems you built in January get tested here.
 
 **TL;DR:** Declutter before cleaning — remove what doesn't belong before washing what does. The best order is bedroom, then kitchen, then living room, then bathroom, then entryway. Spring is the perfect time to do the winter-to-summer clothing swap (vacuum storage bags, ~$25–$30 CAD, Amazon.ca). Use this reset to install any storage systems that stopped working over winter.
 
@@ -49,7 +49,6 @@ Most people skip step 1 and wonder why step 3 doesn't last. It doesn't last beca
 
 ## Do You Really Need a Cabinet Full of Cleaners?
 
-Before you buy a single specialty cleaner, know that most of a spring deep-clean can be done with white vinegar, baking soda, and dish soap — the same three things I've used for three years in my own apartment, and they cost a fraction of name-brand sprays.
 
 White vinegar costs about $3 to $5 CAD per jug and, combined with baking soda and dish soap, replaces the five or more single-purpose cleaning sprays that would otherwise crowd a small apartment's under-sink cabinet.
 

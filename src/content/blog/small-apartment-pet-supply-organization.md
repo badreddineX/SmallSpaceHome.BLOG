@@ -37,9 +37,9 @@ This is the organization-focused companion to our broader [15 pet-friendly small
 
 The best system separates supplies by how often you touch them, not by which pet they belong to. Daily items — food, leash, litter scoop — need to be within arm's reach. Weekly or occasional items — grooming tools, the travel carrier, spare bedding — can live higher up or further back. [PetSmart Canada](https://www.petsmart.ca/) sells most of the containers and hooks mentioned below, and none of it requires drilling into rental walls.
 
-After sharing my 510 sq ft Toronto apartment with a cat and, for a while, a foster dog, the biggest change I made wasn't buying more bins. It was giving every category exactly one home instead of letting things pile up wherever they landed that day.
+The key is giving every category exactly one home instead of letting things pile up wherever they land that day.
 
-The single fix that made the most visible difference was moving the food bag off the kitchen floor into a sealed container on a shelf. It sounds small, but it freed up floor space I hadn't realized I was losing, and it stopped my cat from tearing into the bag on her own schedule.
+The single fix that made the most visible difference was moving the food bag off the kitchen floor into a sealed container on a shelf.
 
 ### Zone 1: Food and Treats
 
@@ -61,7 +61,7 @@ Most guides recommend a wall-mounted leash rack, but in a rental where you can't
 
 One basket, one rule: everything goes back in it. A canvas or wire basket from Dollarama ($8–$12 CAD) or IKEA ($15–$20 CAD) contains chew toys, balls, and ropes in a single spot, usually tucked beside the couch or under a side table.
 
-Rotate toys every couple of weeks instead of keeping all of them out at once. Store the "off-duty" half in a bin in a closet, then swap. This keeps the visible basket from overflowing and, in my experience, makes toys more interesting to the pet when they reappear — a small trick that also just looks tidier.
+Rotate toys every couple of weeks instead of keeping all of them out at once. Store the "off-duty" half in a bin in a closet, then swap.
 
 ## Where Should the Litter Box Go in a Studio or One-Bedroom?
 
@@ -76,7 +76,7 @@ A cheaper DIY route: repurpose an IKEA cabinet (BESTÅ or similar, $60–$100 CA
 | Litter mat to contain tracking | $10–$20 | PetSmart Canada |
 | Covered litter box (no furniture) | $25–$45 | PetSmart Canada |
 
-I tracked litter tracking over two weeks with and without a $15 mat placed directly outside the box entrance. Sweeping frequency dropped from daily to roughly every three days, which for a small apartment with limited floor space felt like a meaningful reduction in upkeep.
+Sweeping frequency dropped from daily to roughly every three days, which for a small apartment with limited floor space felt like a meaningful reduction in upkeep.
 
 ## What's the Best Way to Store Grooming Supplies?
 

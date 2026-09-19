@@ -23,19 +23,19 @@ faqs:
     a: "Choose plants with thick, waxy leaves like ZZ plants or parlor palms. Avoid overly moist soil — let the top inch dry before watering. If you see fungus gnats, top-dress with sand or sprinkle cinnamon, both under $10 CAD at local garden centers."
 ---
 
-You're not alone if your apartment's darkest corner currently houses a forgotten umbrella, a stack of expired grocery bags, or nothing at all. Low natural light is a real complaint in a lot of older Canadian rental stock built before 1990. I've tested plant corners in my own 510 sq ft Toronto apartment, including one spot with *zero* direct sunlight where I kept a snake plant for two years.
+You're not alone if your apartment's darkest corner currently houses a forgotten umbrella, a stack of expired grocery bags, or nothing at all. Low natural light is a real complaint in a lot of older Canadian rental stock built before 1990.
 
 **TL;DR:** You don’t need a sun-drenched corner or a green thumb to pull off a plant nook — low-light staples like ZZ plants and snake plants thrive on neglect, tension rods and freestanding stands avoid lease-break penalties, and under-$30 setups look intentional, not afterthought-y.
 
 ## 1. The IKEA Skådala Stack Corner
 
-The Skådala system is built for renters. The white plastic shelves snap together with no tools, mount to the wall withCommand strips (not included — they hold up fine for 20–30 lbs per shelf), and never drill. I stacked two shelves to hold a 12” pot on top and a trailing pothos in a hanging planter below. Total cost: ~$65 CAD at IKEA Toronto (before tax). It slides into a 36”-wide corner and opens up vertical space for a small stool or woven rug underneath.
+The Skådala system is built for renters. The white plastic shelves snap together with no tools, mount to the wall withCommand strips (not included — they hold up fine for 20–30 lbs per shelf), and never drill. Total cost: ~$65 CAD at IKEA Toronto (before tax). It slides into a 36”-wide corner and opens up vertical space for a small stool or woven rug underneath.
 
 ![A white IKEA Skådala corner shelf holding a snake plant and trailing pothos, against a beige wall](/images/bedroom-minimalist.jpg)
 
 ## 2. A Freestanding Wooden Tiered Stand
 
-Forget wall mounts — the Structube Karlskrona wooden stand ($49 CAD) leans into the corner and lifts plants to varying heights. Two tiers, ~22” wide, and it’s surprisingly sturdy for the price. I use it with a 6” ceramic pot (Simons’ handmade pot, $24 CAD) on top and a smaller trailing fern below. Bonus: the natural wood tone matches most small-space furniture in older apartment walk-ups.
+Forget wall mounts — the Structube Karlskrona wooden stand ($49 CAD) leans into the corner and lifts plants to varying heights. Two tiers, ~22” wide, and it’s surprisingly sturdy for the price. Bonus: the natural wood tone matches most small-space furniture in older apartment walk-ups.
 
 ## 3. The Tension Rod Plant Hanger Trick
 
@@ -47,7 +47,7 @@ The IKEA Micke desk ($79 CAD) is a sneaky hero: the drawer hides extra potting s
 
 ## 5. The Potted Corner Vignette
 
-Group three varying heights: a tall snake plant (Sansevieria trifasciata, ~$22 CAD at Canadian Tire), a mid-height ZZ plant (~$24 CAD at HomeSense), and a small trailing ivy in a 4” pot (~$8 CAD). Arrange in a loose triangle facing inward. Paint the pots in coordinating tones (I used clay, white, and black at Simons’ seasonal home section — $15 CAD each). The contrast makes the corner feel curated, not chaotic.
+Group three varying heights: a tall snake plant (Sansevieria trifasciata, ~$22 CAD at Canadian Tire), a mid-height ZZ plant (~$24 CAD at HomeSense), and a small trailing ivy in a 4” pot (~$8 CAD). Arrange in a loose triangle facing inward. The contrast makes the corner feel curated, not chaotic.
 
 ![Three pots of varying sizes arranged in a corner with a small floor rug and woven pendant light overhead](/images/scandinavian-minimalist-furniture.jpg)
 

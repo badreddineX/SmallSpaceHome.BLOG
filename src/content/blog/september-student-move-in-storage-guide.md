@@ -23,7 +23,7 @@ faqs:
     a: "No. Most first-year storage problems are solved with soft bins, hooks, and stackable bins rather than furniture. Save furniture purchases (a KALLAX or a small dresser) for once you know how you actually use the space."
 ---
 
-Moving out for the first time in September is exciting and, frankly, a little overwhelming. You've got a truck full of boxes, a tiny apartment or dorm-adjacent unit, and a budget that's mostly gone to first and last month's rent already. I moved into my first place with almost no plan for storage and spent the first two weeks living out of suitcases on the floor. This checklist is what I wish someone had handed me before move-in day.
+Moving out for the first time in September is exciting and, frankly, a little overwhelming. You've got a truck full of boxes, a tiny apartment or dorm-adjacent unit, and a budget that's mostly gone to first and last month's rent already.
 
 The good news: you don't need much money to make a small apartment functional. You need a plan, a few key pieces, and the willingness to buy some things secondhand. This guide walks through storage room by room, gives you two realistic budgets, and tells you exactly where to shop in Canada, new and used.
 
@@ -57,7 +57,7 @@ If your closet is tiny or nonexistent (common in older buildings near campus), a
 
 Under-bed storage is the single highest-value move for a first apartment because it uses space you're already paying rent on. Flat bins under a twin or double bed can hold an entire off-season wardrobe for under $20 CAD total.
 
-Skip the fancy zip bags for now. Two flat plastic bins from Dollarama (~$4–$5 each) or a repurposed IKEA SKUBB bag (~$14 CAD for a 2-pack) both do the job. I've found students consistently skip under-bed storage in favor of visible shelving, but it's actually the cheapest square footage in the whole apartment, because it's already empty and nobody's charging you extra for it.
+Skip the fancy zip bags for now. Two flat plastic bins from Dollarama (~$4–$5 each) or a repurposed IKEA SKUBB bag (~$14 CAD for a 2-pack) both do the job.
 
 **Cost:** $8–$20 CAD depending on bins chosen.
 
@@ -71,7 +71,7 @@ A student kitchen usually has one or two cabinets and barely any counter space, 
 - A basic dish rack that folds flat when not in use (~$12–$18 CAD, Canadian Tire or Amazon.ca)
 - Adhesive cabinet door racks for spice jars and lids (~$15–$22 CAD, Amazon.ca)
 
-If your kitchen has zero counter space, an IKEA SKADIS pegboard (~$15 CAD) mounted with Command strips solves it without drilling. This one purchase alone has probably saved me more counter space than anything else in a first kitchen.
+If your kitchen has zero counter space, an IKEA SKADIS pegboard (~$15 CAD) mounted with Command strips solves it without drilling.
 
 ## What Do You Need for a Small Desk or Study Space?
 

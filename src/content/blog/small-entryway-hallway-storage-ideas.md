@@ -20,7 +20,7 @@ faqs:
     a: "A drop zone is a fixed spot near your door for keys, wallet, and mail so you're not searching for them every morning. A single small tray or wall pocket organizer ($8–$20 CAD) is enough. It's the cheapest habit-forming fix on this list."
 ---
 
-Small apartment entryways get almost no design attention, but they take the most daily abuse: wet boots, dropped keys, a coat pile that migrates onto the nearest chair. Statistics Canada reports the average rented apartment in a major Canadian city runs under 700 square feet ([Statistics Canada](https://www150.statcan.gc.ca/), 2021), which usually means the entry is a narrow strip, not a room. I've rented three apartments with entryways under a metre wide, and every fix in this guide is fully freestanding or removable, so nothing here needs a drill or a landlord's permission.
+Small apartment entryways get almost no design attention, but they take the most daily abuse: wet boots, dropped keys, a coat pile that migrates onto the nearest chair. Statistics Canada reports the average rented apartment in a major Canadian city runs under 700 square feet ([Statistics Canada](https://www150.statcan.gc.ca/), 2021), which usually means the entry is a narrow strip, not a room.
 
 ---
 
@@ -43,7 +43,7 @@ Small apartment entryways get almost no design attention, but they take the most
 
 ## What's the Best No-Drill Shoe Storage for a Small Entryway?
 
-A freestanding shoe bench with open cubbies underneath holds 8–10 pairs and needs zero wall mounting, since the whole unit sits on its own legs. IKEA's TJUSIG bench (~$59 CAD) is the option I keep recommending because it doubles as a place to sit while you put boots on. I've used one in two different rentals and moved it between apartments without a single tool.
+A freestanding shoe bench with open cubbies underneath holds 8–10 pairs and needs zero wall mounting, since the whole unit sits on its own legs.
 
 If your entry is too narrow for a bench, a slim two-tier shoe rack (Amazon.ca, ~$25–$35 CAD) tucks against the wall in a 30 cm footprint. Canadian Tire also carries basic wire shoe racks in the $15–$25 CAD range, which work fine for a rotation of everyday shoes even if they're less durable long term.
 
@@ -71,7 +71,7 @@ A drop zone is one fixed spot for keys, wallet, transit card, and mail, and it's
 
 Dollarama sells decorative trays and small baskets for $2–$4 CAD each, more than enough for a basic drop zone. If you want something wall-mounted without drilling, a Command-strip hanging pocket organizer (Amazon.ca, ~$15 CAD) works for mail and a smaller catch-all for keys underneath.
 
-In my own apartment, adding a $4 Dollarama tray by the door cut my "where are my keys" mornings from a near-daily occurrence to maybe once a month. The system only works if the tray is the first thing you see walking in, not a step to the side.
+The system only works if the tray is the first thing you see walking in, not a step to the side.
 
 ## What Kind of Console Table Fits a Narrow Hallway?
 

@@ -28,7 +28,6 @@ faqs:
 
 Fifty dollars CAD sounds like nothing when you're staring at a bare rental apartment, but it's enough to fix the three things that actually bother people: harsh lighting, visible clutter, and a shelf that looks half-finished. The trick is picking one or two problems and solving them well instead of spreading $50 across ten small items that don't add up to anything.
 
-I've moved apartments four times in the last six years, twice with a moving budget so tight that decor came dead last. What I learned each time is that a $50 CAD budget works fine, as long as you buy in the right order and stop trying to decorate the whole apartment at once.
 
 This one's about solving one or two specific problems for $50, not decorating a whole room. If you've got more to spend across the whole apartment, see [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) for the $200 CAD version, or [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) if you want to go even cheaper on styling specifically.
 
@@ -40,7 +39,6 @@ This one's about solving one or two specific problems for $50, not decorating a 
 
 At $50 CAD, you can cover one full upgrade category (lighting or storage) plus a couple of small filler pieces, rather than a little bit of everything. Canadian Tire warm LED multipacks run $12–$15 CAD, and Dollarama covers frames, vases, and candles at $1.50–$5 CAD each ([Dollarama](https://www.dollarama.com), 2026).
 
-In my current 480 sq ft apartment, I spent my first $50 CAD entirely on lighting and one shelf, and skipped decor items completely for the first month. It was the right call. A well-lit, tidy room with nothing on the walls still looked better than my previous apartment stuffed with cheap art under bad lighting.
 
 The general size of most Canadian rental apartments, as tracked by CMHC, means small upgrades matter more than in a house — every item is visible from nearly every angle in a studio or one-bedroom.
 
@@ -118,7 +116,7 @@ It's tempting to buy a cheap $15 CAD rug or poster just to fill space, but a too
 
 ## Final Thoughts
 
-Fifty dollars CAD is a real, workable decorating budget in a Canadian apartment, as long as you pick one or two problems to solve instead of touching every room at once. Lighting first, storage second, one styled surface last, in that order, every time I've moved.
+Fifty dollars CAD is a real, workable decorating budget in a Canadian apartment, as long as you pick one or two problems to solve instead of touching every room at once.
 
 The apartment doesn't need to be finished this month. It needs to look a little better than it did last week, and $50 CAD spent in the right order does exactly that.
 

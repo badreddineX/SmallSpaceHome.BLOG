@@ -20,7 +20,7 @@ faqs:
     a: "Yes — the IKEA NORDLI ($399–$699 CAD) has enough drawer space to replace a full dresser. Removing the dresser from a small bedroom frees significant floor space and makes the room feel noticeably larger. It's one of the most impactful single furniture purchases for a Canadian renter."
 ---
 
-Most small bedroom organization ideas assume you have furniture to work with. In a small Canadian apartment the room has to do double duty — sleep and storage — and most do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. After three years in my 510 sq ft Toronto rental, the under-bed and closet changes in this list are the ones I'd make first — they cost under $35 CAD and the difference is immediate. Here is the complete approach to bedroom storage, in the order that makes the most difference.
+Most small bedroom organization ideas assume you have furniture to work with. In a small Canadian apartment the room has to do double duty — sleep and storage — and most do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. Here is the complete approach to bedroom storage, in the order that makes the most difference.
 
 **TL;DR:** Start with under-bed storage (IKEA SKUBB bags, ~$14 CAD) and slim velvet hangers (~$18 CAD, Amazon.ca) — together these two changes can transform a small bedroom for under $35 CAD. Add a tension rod for double hanging ($15 CAD) and an over-door closet organizer ($28–$35 CAD). The IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio) ($399–$699 CAD) replaces the dresser entirely and is the most impactful single furniture purchase for a small bedroom.
 
