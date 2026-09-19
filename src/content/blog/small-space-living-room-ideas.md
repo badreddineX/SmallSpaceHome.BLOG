@@ -11,6 +11,7 @@ category: "Decor"
 relatedPosts:
   - "how-to-decorate-a-small-living-room"
   - "small-living-room-storage-solutions"
+  - "small-apartment-layout-ideas"
 readTime: 9
 slug: "small-space-living-room-ideas"
 faqs:

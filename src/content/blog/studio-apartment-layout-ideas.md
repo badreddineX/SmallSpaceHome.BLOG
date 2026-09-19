@@ -13,6 +13,7 @@ relatedPosts:
   - "storage-bed-buying-guide-small-studio"
   - "small-space-furniture"
   - "small-space-living-room-ideas"
+  - "small-apartment-layout-ideas"
 faqs:
   - q: "How do you divide a studio apartment without building a wall?"
     a: "Use furniture and sightlines instead of construction. Float a sofa or an open shelving unit with its back to the bed to separate sleeping from living, run a curtain on a ceiling track ($30–$60 CAD) across the bed alcove, or use a tall bookcase as a partial divider. The goal isn't a sealed room — it's blocking the direct view of the bed from the front door and the sofa."
