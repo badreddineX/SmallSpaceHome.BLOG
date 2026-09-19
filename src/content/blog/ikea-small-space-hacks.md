@@ -176,7 +176,7 @@ Starting from zero in a small Canadian apartment, this order makes the most sens
 
 Total for the essentials: **~$650–$1,050 CAD** — a complete small apartment storage system.
 
-These IKEA picks have been tested in real Canadian apartments and they hold up. Start with whatever solves your biggest problem — the NORDLI if storage is the issue, the KALLAX if you need a living room anchor, the BILLY if you're drowning in books. Get one piece working before adding the next.
+These IKEA picks suit small Canadian apartments. Start with whatever solves your biggest problem — the NORDLI if storage is the issue, the KALLAX if you need a living room anchor, the BILLY if you're drowning in books. Get one piece working before adding the next.
 
 → Want the full room-by-room storage roundup beyond IKEA-specific pieces? [Storage ideas for small places](/blog/storage-ideas-for-small-places) covers every room with exact setup instructions and CAD costs.
 
