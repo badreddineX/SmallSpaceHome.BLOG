@@ -215,10 +215,9 @@ for (let i = 0; i < picked.length; i++) {
   await page.screenshot({ path: resolve(OUT_DIR, file), type: 'jpeg', quality: 90 });
 
   const faq = post.faqs[k === 1 ? -1 : k - 2];
-  const primary = PRIMARY[post.slug] || null;
-  const title = (k === 1 || !faq ? (primary || post.title) : faq.q).replace(/\s*\(.*?\)\s*$/, '').slice(0, 100);
-  const lead = k === 1 || !faq ? `${primary || post.title}: ` : '';
-  const descBase = (lead + (k === 1 || !faq ? post.desc : faq.a)).replace(/\s+/g, ' ').trim();
+  // Pin title = the article's own title, exactly as published on the blog.
+  const title = post.title.replace(/\s*\(.*?\)\s*$/, '').slice(0, 100);
+  const descBase = (k === 1 || !faq ? post.desc : `${faq.q} ${faq.a}`).replace(/\s+/g, ' ').trim();
   const room = ROOM_KW.filter(([re]) => re.test(post.slug + ' ' + post.title)).flatMap(([, kw]) => kw);
   const seen = new Set();
   const kwList = [...room, ...(PIN_KW[post.cat] || ['small apartment ideas', 'renter friendly']), ...post.tags.filter((t) => !/^canada$/i.test(t))]
