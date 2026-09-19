@@ -57,6 +57,44 @@ const PIN_KW = {
   'Budget Tips': ['apartment decor on a budget', 'cheap apartment decor', 'budget apartment makeover'],
 };
 
+
+// ---------- keyword research (OpenSEO, Canada, 2026-09-19) ----------
+// Volumes/mo: very small closet organization ideas 1300, renter friendly wallpaper 1000, best peel and stick
+// wallpaper canada 320, small apartment storage ideas 140, storage solutions for small rooms 90,
+// clothes storage ideas for small spaces 70, small apartment decor ideas 70. Canada-only niche terms are tiny,
+// so pin titles lead with the broader phrase people actually search.
+const PRIMARY = {
+  'small-closet-organization-rental-apartment': 'Very Small Closet Organization Ideas',
+  'small-apartment-bedroom-storage-ideas': 'Small Bedroom Storage Ideas',
+  'small-bedroom-organization-ideas': 'Small Bedroom Organization Ideas',
+  'storage-ideas-for-small-places': 'Storage Ideas for Small Apartments',
+  'small-apartment-organization': 'Small Apartment Organization Ideas',
+  'apartment-decor-ideas': 'Small Apartment Decor Ideas',
+  'apartment-decor-ideas-on-a-budget': 'Small Apartment Decor on a Budget',
+  'renter-friendly-apartment-decor-ideas': 'Renter Friendly Decor Ideas',
+  'small-apartment-balcony-ideas': 'Small Apartment Balcony Ideas',
+  'small-space-living-room-ideas': 'Small Living Room Ideas for Apartments',
+  'small-apartment-layout-ideas': 'Small Apartment Layout Ideas',
+  'studio-apartment-layout-ideas': 'Studio Apartment Layout Ideas',
+  'small-apartment-home-office-ideas': 'Small Apartment Home Office Ideas',
+  'small-apartment-bathroom-storage': 'Small Bathroom Storage Ideas',
+  'vertical-storage-ideas-small-apartment': 'Vertical Storage Ideas for Small Spaces',
+  'small-apartment-pantry-organization-budget': 'Small Pantry Organization on a Budget',
+};
+const ROOM_KW = [
+  [/closet|wardrobe|hanger/i, ['very small closet organization ideas', 'how to organize a small closet', 'clothes storage ideas for small spaces', 'small closet organization']],
+  [/bedroom/i, ['small bedroom storage ideas', 'storage ideas for small spaces bedroom', 'bedroom storage shelves', 'small bedroom organization']],
+  [/wallpaper/i, ['renter friendly wallpaper', 'peel and stick wallpaper', 'removable wallpaper']],
+  [/storage|vertical|shelf|shelves/i, ['small apartment storage ideas', 'storage ideas for small apartments', 'storage solutions for small rooms']],
+  [/organiz/i, ['small apartment organization ideas', 'apartment organization ideas', 'apartment closet organization ideas']],
+  [/decor|dollarama|gallery|budget|stylish/i, ['small apartment decor ideas', 'renter friendly decor', 'apartment decor on a budget', 'rental apartment decorating ideas']],
+  [/bathroom/i, ['small bathroom storage ideas', 'apartment bathroom organization ideas']],
+  [/kitchen|pantry|fridge/i, ['small apartment kitchen organization ideas', 'apartment pantry organization ideas']],
+  [/balcony/i, ['small apartment balcony ideas', 'small balcony decor']],
+  [/living|sofa|layout|studio/i, ['small living room ideas', 'small apartment layout ideas', 'studio apartment ideas']],
+  [/office|desk/i, ['small apartment home office ideas', 'small desk ideas']],
+];
+
 // ---------- parsing ----------
 function split(md) {
   const m = md.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
@@ -177,16 +215,21 @@ for (let i = 0; i < picked.length; i++) {
   await page.screenshot({ path: resolve(OUT_DIR, file), type: 'jpeg', quality: 90 });
 
   const faq = post.faqs[k === 1 ? -1 : k - 2];
-  const title = (k === 1 || !faq ? post.title : faq.q).replace(/\s*\(.*?\)\s*$/, '').slice(0, 100);
-  const descBase = k === 1 || !faq ? post.desc : faq.a;
+  const primary = PRIMARY[post.slug] || null;
+  const title = (k === 1 || !faq ? (primary || post.title) : faq.q).replace(/\s*\(.*?\)\s*$/, '').slice(0, 100);
+  const lead = k === 1 || !faq ? `${primary || post.title}: ` : '';
+  const descBase = (lead + (k === 1 || !faq ? post.desc : faq.a)).replace(/\s+/g, ' ').trim();
+  const room = ROOM_KW.filter(([re]) => re.test(post.slug + ' ' + post.title)).flatMap(([, kw]) => kw);
   const seen = new Set();
-  const kws = [...(PIN_KW[post.cat] || ['small apartment ideas', 'renter friendly']), ...post.tags.filter((t) => !/^canada$/i.test(t))]
-    .filter((x) => { const l = x.toLowerCase(); return l && !seen.has(l) && seen.add(l); }).slice(0, 9).join(', ');
+  const kwList = [...room, ...(PIN_KW[post.cat] || ['small apartment ideas', 'renter friendly']), ...post.tags.filter((t) => !/^canada$/i.test(t))]
+    .filter((x) => { const l = x.toLowerCase(); return l && !seen.has(l) && seen.add(l); });
+  const kws = kwList.slice(0, 10).join(', ');
+  const also = kwList.slice(0, 3).join(', ');
   const day = Math.floor(i / SLOTS.length), slot = SLOTS[i % SLOTS.length];
   const d = new Date(START.getTime() + day * 86400000);
   const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}T${slot}`;
   rows.push([title, `https://raw.githubusercontent.com/${REPO}/${BRANCH}/pinterest-pins/${PIN_DIR}/${file}`, post.board,
-    '', (descBase.replace(/\s+/g, ' ').trim().slice(0, 440) + ' Save this pin for later.'), `${SITE}/blog/${post.slug}?utm_source=pinterest&utm_medium=social&utm_campaign=cad_p${k}`, date, kws].map(csvCell));
+    '', ((descBase.slice(0, 380) + ` Related: ${also}. Save this pin for later.`).slice(0, 490)), `${SITE}/blog/${post.slug}?utm_source=pinterest&utm_medium=social&utm_campaign=cad_p${k}`, date, kws].map(csvCell));
   boardCount[post.board] = (boardCount[post.board] || 0) + 1;
 }
 await browser.close();
