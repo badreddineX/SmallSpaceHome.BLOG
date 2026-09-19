@@ -123,3 +123,5 @@ Every studio layout that works has one thing in common: a clear line of empty fl
 Draw the walking path, zone the bed into a corner, block the sightline with one piece, and leave two walls mostly bare. That's the whole system, and it costs nothing but an afternoon with a tape measure.
 
 → For the furniture that fits these layouts, see [small-space furniture](/blog/small-space-furniture) and the [storage bed buying guide](/blog/storage-bed-buying-guide-small-studio). For styling the living zone once the layout's set, [small-space living room ideas](/blog/small-space-living-room-ideas).
+
+**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/small-space-renting-toronto-guide)

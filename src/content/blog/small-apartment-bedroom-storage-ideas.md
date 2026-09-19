@@ -173,3 +173,5 @@ Complete the first five steps of the priority order before considering larger pu
 → Want the under-bed step in more depth? [Under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment) covers risers, lidded bins vs. vacuum bags, and what never to store under a bed.
 
 → For the closet specifically, [small closet organization ideas for rental apartments](/blog/small-closet-organization-rental-apartment) goes deeper on slim hangers, over-door racks, and stackable bins.
+
+**Related reading:** [Small Bedroom Organization Ideas: A System, Not a Shopping List](/blog/small-bedroom-organization-ideas)

@@ -169,3 +169,5 @@ Organization in a small apartment is a system, not a one-time project. Get the d
 → Three rooms this system applies to directly: [seasonal storage for off-season clothes and gear](/blog/seasonal-storage-off-season-clothes-gear) for the closet swap-out, [small closet organization for rental apartments](/blog/small-closet-organization-rental-apartment) for the storage zone itself, and [small apartment laundry storage ideas](/blog/small-apartment-laundry-storage-ideas) if your laundry setup is part of the same room. Moving apartments entirely? [Quebec moving day storage guide](/blog/quebec-moving-day-storage-guide) covers the province's unique lease-turnover timeline, and [under-bed storage ideas](/blog/under-bed-storage-ideas-small-apartment) is usually the fastest win once you're settled.
 
 → Working from home in the same small space? [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) applies this same zone-based system to carving out a dedicated work corner.
+
+**Related reading:** [Small Bedroom Organization Ideas: A System, Not a Shopping List](/blog/small-bedroom-organization-ideas)

@@ -91,3 +91,5 @@ Always check your specific building's bylaws before installing anything in a sha
 ---
 
 Want the full room-by-room system this is built on? See our <a href="/blog/small-apartment-organization">complete apartment organization guide</a>, or grab the free <a href="/free-storage-checklist">23-Point Storage Checklist</a> to work through your whole condo one room at a time.
+
+**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/small-space-renting-toronto-guide)

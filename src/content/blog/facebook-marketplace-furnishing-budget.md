@@ -120,3 +120,5 @@ Facebook Marketplace rewards patience and a specific search strategy more than l
 → Next, check the [small space furniture guide](/blog/small-space-furniture) to make sure whatever you find on Marketplace actually fits your space before you commit to a pickup, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for the one room Marketplace furniture rarely covers.
 
 → Deciding whether to buy secondhand or make it yourself instead? See [DIY vs. buy for apartment decor](/blog/free-cheap-apartment-decor-diy-vs-buy).
+
+**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/small-space-renting-toronto-guide)
