@@ -29,7 +29,7 @@ You're not the only one cringing at the fridge-jungle that appears every Sunday 
 
 ## 1. How Do You Create Fridge Door Zones That Actually Work?
 
-Your fridge door holds nearly 40% of your storage—but it’s often a dumping ground for condiments and random snacks. Divide it into zones: top shelf for dressings and sauces (use a narrow bin to catch drips), middle for milk and juice (only 1-2 bottles per shelf), bottom for butter/cheese, and bottom-most for drinks. A $8.99 tension rod across the door interior (Amazon.ca) lets you hang reusable produce bags or small baskets—great for herbs or prepped snacks.
+Divide it into zones: top shelf for dressings and sauces (use a narrow bin to catch drips), middle for milk and juice (only 1-2 bottles per shelf), bottom for butter/cheese, and bottom-most for drinks. A $8.99 tension rod across the door interior (Amazon.ca) lets you hang reusable produce bags or small baskets—great for herbs or prepped snacks.
 
 ![Fridge door divided into labeled zones with clear bins and a tension rod holding herbs](/images/kitchen-open-shelves.jpg)
 

@@ -55,7 +55,7 @@ Storage in Toronto depends entirely on your building's era, and the fix in a 201
 
 Pre-war and postwar low-rises tend to have real, if small, closets and sometimes a basement storage cage. 1960s–80s highrise towers often have decent closet depth but almost no other built-in storage, and lockers are hit or miss. Post-2010 condo towers are built compact, with closets sized for a minimalist lifestyle, though many include a small locker in the building's storage room.
 
-**[UNIQUE INSIGHT]** The building-era pattern matters more than square footage alone. Two units at the same 500 sq ft can have completely different real storage capacity depending on whether the closets were designed in 1975 or 2018, since older buildings simply had looser space standards before condo construction costs made every square foot count.
+The building-era pattern matters more than square footage alone. Two units at the same 500 sq ft can have completely different real storage capacity depending on whether the closets were designed in 1975 or 2018, since older buildings simply had looser space standards before condo construction costs made every square foot count.
 
 For the full room-by-room storage system, no drilling, elevator-size furniture math, and the real math on whether a locker is worth paying for, see our complete [Toronto & Vancouver condo storage guide](/blog/condo-storage-ideas-toronto-vancouver). It covers this in depth so we won't repeat it here.
 

@@ -171,7 +171,7 @@ Here's what that breaks down to, piece by piece, for a studio or one-bedroom in 
 
 This is a bare-essentials budget, not a full furnish — it assumes you already have a couch, or you're prioritizing sleep and storage first and adding seating later. Swap the NORDLI for the cheaper FJELLSE frame (~$149 CAD) and the total for a truly tight budget drops to around **$486–$526 CAD**, which is realistic for a first apartment or a move where cash is genuinely limited.
 
-Where the money actually goes for most first-time small-space furnishers: the bed eats 45–55% of the budget, storage eats another 20%, and everything else splits the remainder. If you're deciding what to cut first, dining and a proper desk are the two most deferrable — a kitchen counter with stools and a laptop on a lap desk both work as short-term stand-ins.
+If you're deciding what to cut first, dining and a proper desk are the two most deferrable — a kitchen counter with stools and a laptop on a lap desk both work as short-term stand-ins.
 
 ## More Multifunctional and Renter-Friendly Picks
 

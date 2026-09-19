@@ -35,7 +35,7 @@ This is the budget-first companion to our [17 fridge & pantry organization ideas
 
 ## Why Organize a Pantry Cupboard Instead of Buying New Storage?
 
-Most small apartments don't have a pantry room, just one or two kitchen cupboards doing the job. The fastest fix isn't new furniture, it's using the vertical space you already have. According to CMHC, most Canadian rental apartments fall under 700 sq ft, which means cupboard space is already tight before you add a single container.
+Most small apartments don't have a pantry room, just one or two kitchen cupboards doing the job. The fastest fix isn't new furniture, it's using the vertical space you already have.
 
 A $13 shelf riser fixed that in ten minutes.
 

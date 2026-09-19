@@ -22,7 +22,7 @@ faqs:
 
 January in Canada is the right time to reset. The holidays leave behind extra stuff — gifts, packaging, food, decoration — and the apartment absorbs all of it. By early January, a small apartment that worked well in November can feel genuinely cramped. A reset fixes that. Not a full renovation, not a new furniture purchase — a systematic declutter and reorganize that gets the space back to a baseline that works.
 
-According to CMHC, the majority of urban Canadian renters live in apartments under 750 sq ft. In spaces this size, clutter has an outsized impact — and so does clearing it.
+In spaces this size, clutter has an outsized impact — and so does clearing it.
 
 **TL;DR:** Declutter before you organize — removing excess is the step that makes everything else work. Start in the bedroom and closet (Saturday morning), move to the kitchen and pantry (Saturday afternoon), then the living area, bathroom, and entryway (Sunday). The entire reset takes one weekend if you stay in sequence and don't stop to organize before decluttering.
 
@@ -64,7 +64,7 @@ The bedroom closet is where the most clutter hides in a small apartment. January
 - Bedding extras: one spare set is enough — more than that is taking space from things you actually use
 
 ### The closet organization reset:
-Slim velvet hangers (~$18 CAD at Amazon.ca) immediately free 30–40% of rod space. After decluttering, this alone may solve most of the closet problem. Hang by category: tops, bottoms, dresses, outerwear. Heavy winter coats go at the far end or on a separate hook.
+Slim velvet hangers (~$18 CAD at Amazon.ca) immediately free a good amount of rod space. After decluttering, this alone may solve most of the closet problem. Hang by category: tops, bottoms, dresses, outerwear. Heavy winter coats go at the far end or on a separate hook.
 
 Folded items: use shelf dividers (~$12–$15 CAD at IKEA Canada) to keep stacks from collapsing. Jeans, sweaters, and knitwear fold better than they hang anyway.
 

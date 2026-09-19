@@ -24,7 +24,7 @@ One rod, one shelf, and a landlord who made it very clear the walls were staying
 
 The short version: declutter before you buy a single organizer, switch to slim hangers first, and use vertical space (shelf risers, stacked bins, the door itself) before you spend money on anything bigger. Every idea below is renter-safe — no drilling, no permanent changes, and everything comes down clean at move-out.
 
-Two things matter more than the rest combined. First, decluttering before organizing — a smaller closet doesn't need more bins, it needs fewer things in it, and skipping this step means you're just organizing clutter more neatly. Second, slim hangers, which alone free up 30–40% more rod space for about $18 CAD ([our storage ideas guide](/blog/storage-ideas-for-small-places) covers this same swap for the rest of the apartment). Once those two are done, everything else is optimization.
+Two things matter more than the rest combined. First, decluttering before organizing — a smaller closet doesn't need more bins, it needs fewer things in it, and skipping this step means you're just organizing clutter more neatly. Second, slim hangers, which alone free up noticeably more rod space for about $18 CAD ([our storage ideas guide](/blog/storage-ideas-for-small-places) covers this same swap for the rest of the apartment). Once those two are done, everything else is optimization.
 
 ---
 
@@ -33,7 +33,7 @@ Two things matter more than the rest combined. First, decluttering before organi
 | Fix | Cost (CAD) | Impact |
 |---|---|---|
 | Declutter | Free | Removes the root problem before you buy anything |
-| Slim hangers | $8–$18 | 30–40% more rod space |
+| Slim hangers | $8–$18 | noticeably more rod space |
 | Shelf risers | $3–$13 | Doubles a shelf's usable tiers |
 | Over-door organizer | $28–$40 | Adds 12–24 storage pockets, zero installation |
 | Tension rod | $15–$22 | Adds a full extra hanging tier in ~5 minutes |
@@ -77,7 +77,7 @@ For more no-drill tricks that work throughout a rental, see our [renter-friendly
 
 ## Do Slim Velvet Hangers Really Free Up That Much Space?
 
-Slim velvet hangers free up 30–40% more hanging space than standard plastic or wooden ones, because each hanger measures roughly 0.5 cm thick versus 2–3 cm for bulkier styles. That difference adds up fast in a closet where every centimetre of rod space counts.
+Slim velvet hangers free up noticeably more hanging space than standard plastic or wooden ones, because each hanger measures roughly 0.5 cm thick versus 2–3 cm for bulkier styles. That difference adds up fast in a closet where every centimetre of rod space counts.
 
 In a typical 60 cm rental closet rod, switching from plastic to slim hangers can mean the difference between fitting 20 garments and fitting 30-plus.
 
@@ -127,7 +127,7 @@ A cheaper option is a rolling garment rack with a fabric cover, which runs $35�
 If your closet feels impossible right now, tackle these in order for the best return per dollar spent:
 
 1. **Declutter first** — free, and it does more than any organizer
-2. **Slim hangers** — 30–40% more space for $8–18 CAD
+2. **Slim hangers** — noticeably more space for $8–18 CAD
 3. **Shelf risers** — double a shelf's capacity for $3–13 CAD
 4. **Over-door organizer** — 12–24 pockets, zero installation
 5. **Tension rod** — an entire extra hanging tier in five minutes

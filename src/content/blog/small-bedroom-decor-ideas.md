@@ -156,9 +156,9 @@ Every piece in a small bedroom needs to earn its floor space. If you don't use i
 
 This is a decor tip, not a lifestyle lecture. An unmade bed is the biggest source of visual chaos in a small bedroom. When the bed is made, the room looks 10 times tidier — even if nothing else is perfect.
 
-In a small bedroom, the bed occupies roughly 60-70% of the visual space, which is why making it every morning has more impact on how tidy the whole room looks than almost any other single habit.
+In a small bedroom, the bed is the largest visual element, which is why making it every morning has more impact on how tidy the whole room looks than almost any other single habit.
 
-In a small bedroom, the bed is 60–70% of the visual space. Make it and the whole room improves.
+In a small bedroom, the bed is the largest visual element. Make it and the whole room improves.
 
 ---
 

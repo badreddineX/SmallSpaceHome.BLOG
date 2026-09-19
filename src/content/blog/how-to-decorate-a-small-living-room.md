@@ -25,7 +25,6 @@ faqs:
 
 A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor.
 
-According to CMHC, the average Canadian renter's apartment is under 800 sq ft — so these constraints are widely shared.
 
 **TL;DR:** Get the sofa positioned first — facing the focal point, floated slightly from the wall. Size the rug correctly (160 x 230 cm minimum, front legs of sofa on it). Fix the lighting with warm 2700K bulbs plus a floor lamp. Curtains hung near the ceiling make the room feel taller without any drilling.
 

@@ -26,7 +26,7 @@ faqs:
     a: "The trick is spending on the three things people actually notice — lighting, textiles, and one focal wall — instead of spreading a small budget across twenty small objects. A warm bulb, one good rug, and a gallery wall done with Command strips reads as intentional, not thrifted, even at under $200 CAD total."
 ---
 
-Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar. According to CMHC, the majority of Canadian renters live in apartments under 700 sq ft, which means every decor dollar needs to work harder.
+Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar.
 
 Here's how to transform a rental apartment for under $200 CAD.
 
@@ -94,7 +94,7 @@ A gallery wall of printed photos costs almost nothing. Print your own photos at 
 
 Before spending anything, do these changes that cost nothing:
 
-**Declutter** — remove everything that doesn't belong in the room. Every surface cleared. This single change makes most apartments look 50% better immediately.
+**Declutter** — remove everything that doesn't belong in the room. Every surface cleared. This single change makes most apartments look noticeably better immediately.
 
 **Rearrange furniture** — float the sofa 5–10 cm off the wall, move the coffee table to the correct distance (45 cm from the sofa), centre the TV. These are free adjustments that make a room feel deliberately arranged rather than just filled with furniture.
 

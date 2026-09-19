@@ -27,7 +27,7 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 
 This is the full room-by-room storage roundup, no budget cap. For the declutter-first system and habits behind it, see [small apartment organization](/blog/small-apartment-organization); for the same ideas kept under $100 CAD total, see [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
 
-Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (30–40% more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
+Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (noticeably more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
 
 **Want this whole list on one printable page?** Grab the free [23-Point Storage Checklist](/free-storage-checklist) — print it, stick it on the fridge, check items off as you go.
 
@@ -36,7 +36,7 @@ Four moves outperform everything else on this list: go vertical first (walls abo
 | Priority | Solution | Cost (CAD) | Why It's First |
 |---|---|---|---|
 | 1 | Under-bed storage bags (IKEA SKUBB) | ~$14 | Biggest capacity gain, zero floor footprint |
-| 2 | Slim velvet hangers (50-pack) | ~$18 | Frees 30–40% more closet space instantly |
+| 2 | Slim velvet hangers (50-pack) | ~$18 | Frees noticeably more closet space instantly |
 | 3 | Over-door organizers | ~$28–$40 | Full storage system, zero drilling, zero floor space |
 | 4 | Vertical wall shelves (IKEA LACK 2-pack) | ~$24 | Uses the most underused space in any apartment |
 | 5 | KALLAX cube unit or PAX wardrobe | ~$79–$179 | Anchor piece that scales with the whole room |
@@ -144,11 +144,11 @@ The IKEA RASKOG 3-tier rolling cart costs about $39 CAD and works as a kitchen i
 
 ## Do Slim Velvet Hangers Really Free Up Closet Space?
 
-Switching your entire wardrobe from bulky plastic hangers to slim velvet hangers typically frees 30–40% more hanging space — for about $18 CAD.
+Switching your entire wardrobe from bulky plastic hangers to slim velvet hangers typically frees noticeably more hanging space — for about $18 CAD.
 
 **Cost:** Amazon.ca slim velvet hangers, 50-pack ~$18 CAD.
 
-![Slim velvet hangers free up 30-40% more hanging space in any closet instantly](/images/blog-04-img3.jpg)
+![Slim velvet hangers free up noticeably more hanging space in any closet instantly](/images/blog-04-img3.jpg)
 
 ## Drawer Dividers for Every Drawer
 

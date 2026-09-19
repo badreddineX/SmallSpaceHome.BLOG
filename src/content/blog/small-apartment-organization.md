@@ -20,11 +20,11 @@ faqs:
     a: "A rolling garment rack with a fabric cover (~$65–$100 CAD total) handles hanging clothes. A tall dresser takes folded items. Under-bed IKEA SKUBB bags store seasonal gear. Over-door organizers on the bedroom door manage shoes and accessories. Full details in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small apartment bedroom storage guide</a>."
 ---
 
-Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back. According to CMHC, most Canadian renters live in apartments under 700 sq ft — making a repeatable organization system one of the most practical investments you can make.
+Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back.
 
 This guide is about the system and the habits, decluttering, zoning, maintenance, not a shopping list. For the room-by-room product roundup, see [storage ideas for small places](/blog/storage-ideas-for-small-places), or for the same ideas capped at $100 CAD, [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
 
-**TL;DR:** Declutter before buying a single bin — it's the step that makes everything else work. Slim velvet hangers (Amazon.ca, ~$18 CAD) free 30–40% more closet space immediately. Zone the kitchen by task (prep, cook, pantry, clean) and stop losing things at the back of cabinets. The 10-minute evening reset is the habit that keeps the whole system running.
+**TL;DR:** Declutter before buying a single bin — it's the step that makes everything else work. Slim velvet hangers (Amazon.ca, ~$18 CAD) free noticeably more closet space immediately. Zone the kitchen by task (prep, cook, pantry, clean) and stop losing things at the back of cabinets. The 10-minute evening reset is the habit that keeps the whole system running.
 
 ---
 
@@ -92,10 +92,10 @@ A small apartment kitchen requires systems, not just tidiness. Stackable clear p
 
 ## How Do You Organize the Bedroom — Closet First?
 
-The bedroom serves two purposes: sleep and storage. Slim velvet hangers cost about $18 CAD for a 50-pack and free 30–40% more hanging space immediately — the single highest-return move in the whole bedroom system. Most small apartment bedrooms do the storage part badly, which affects the sleep part.
+The bedroom serves two purposes: sleep and storage. Slim velvet hangers cost about $18 CAD for a 50-pack and free noticeably more hanging space immediately — the single highest-return move in the whole bedroom system. Most small apartment bedrooms do the storage part badly, which affects the sleep part.
 
 **Start with the closet:**
-- Slim velvet hangers throughout — frees 30–40% more hanging space for ~$18 CAD (50-pack, Amazon.ca)
+- Slim velvet hangers throughout — frees noticeably more hanging space for ~$18 CAD (50-pack, Amazon.ca)
 - Second tension rod below the existing one for shirts and jackets
 - Over-door organizer on the closet door for shoes and accessories (~$25–$35 CAD)
 

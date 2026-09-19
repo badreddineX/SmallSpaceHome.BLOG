@@ -44,7 +44,7 @@ In a small Canadian apartment bedroom, there are usually three candidate zones: 
 
 **The storage zone** is the closet, dresser, and under-bed area. This is where the bulk of your belongings should physically live; if items are stored outside this zone (piled on the floor, draped over a chair), that's a sign the storage zone itself needs a system, not that you need more zones.
 
-**The work zone**, if you have one, should be the smallest footprint that works. [UNIQUE INSIGHT] We've found that a corner desk under 60 cm deep, positioned so you can't see the bed from the chair, keeps the "sleep" and "work" identities of the room from bleeding into each other, which matters more for actual sleep quality than most decor advice acknowledges.
+**The work zone**, if you have one, should be the smallest footprint that works. A corner desk under 60 cm deep, positioned so you can't see the bed from the chair, keeps the "sleep" and "work" identities of the room from bleeding into each other, which matters more for actual sleep quality than most decor advice acknowledges.
 
 A rug is the easiest no-drill way to define a zone without touching a wall. A small area rug (~$40-60 CAD, IKEA or Structube) under a desk and chair visually separates "work" from "sleep" even in a single open room.
 
@@ -66,7 +66,7 @@ The method that sticks is one drawer or one shelf at a time, sorted into keep, d
 4. Put back only the keep pile, and only in a way that leaves visible gaps, not a tight fit.
 5. Bag the donate pile immediately and put it by the door. Waiting even a day drops the odds it actually leaves the apartment.
 
-[PERSONAL EXPERIENCE] The step people skip is #4. If everything you kept fits back in with zero room to spare, you haven't actually decluttered, you've just repacked the same volume more neatly. A properly decluttered drawer should close without you having to press down on it.
+The step people skip is #4. If everything you kept fits back in with zero room to spare, you haven't actually decluttered, you've just repacked the same volume more neatly. A properly decluttered drawer should close without you having to press down on it.
 
 Canadians donate large volumes of clothing and household goods to organizations like Diabetes Canada and the Salvation Army every year, much of it items that sat unused for a long stretch before being cleared out ([Salvation Army Canada](https://www.salvationarmy.ca), 2024). The bedroom closet and dresser are consistently among the top sources of donated items in home decluttering drives, which tracks with how much of a small bedroom's clutter is really clothing, not clutter in the general sense.
 
@@ -88,7 +88,7 @@ A drawer organization system needs physical dividers and a consistent category r
 
 **The filing fold, not the flat stack:** Folding shirts so they stand vertically in a row, like files in a cabinet, means you see every item at a glance instead of digging through a stack and disturbing everything below it. This one change, more than any bin purchase, is what keeps a drawer from re-cluttering.
 
-[UNIQUE INSIGHT] Most bedroom organization content treats the dresser as a solved problem once you own dividers. In practice, the fold method matters more than the container, we've seen the same $12 CAD divider set fail in a flat-stack drawer and work perfectly in a filed one.
+Most bedroom organization content treats the dresser as a solved problem once you own dividers. In practice, the fold method matters more than the container: the same divider set can fail in a flat-stack drawer and work perfectly in a filed one.
 
 **One drawer, one function:** Resist mixing categories in a single drawer "because there's room." A junk-drawer mentality inside a dresser defeats the entire point of a system; if a drawer needs a catch-all, give it exactly one, clearly labelled, rather than letting every drawer slowly become one.
 

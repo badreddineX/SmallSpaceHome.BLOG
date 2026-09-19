@@ -32,7 +32,7 @@ This one's specifically capped at $100 CAD total. If budget isn't the constraint
 
 ## 1. Do Slim Velvet Hangers Really Free Up Closet Space? (~$18 CAD)
 
-If you do only one thing in this entire list, do this. Switching from bulky plastic hangers to slim velvet ones typically frees 30–40% more hanging space in your closet — immediately, with no rearranging — which makes it the single highest-leverage $18 CAD purchase on this list.
+If you do only one thing in this entire list, do this. Switching from bulky plastic hangers to slim velvet ones typically frees noticeably more hanging space in your closet — immediately, with no rearranging — which makes it the single highest-leverage $18 CAD purchase on this list.
 
 **Where to buy:** Amazon.ca, 50-pack for ~$18 CAD.
 

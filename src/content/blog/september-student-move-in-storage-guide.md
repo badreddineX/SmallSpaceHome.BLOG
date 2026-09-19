@@ -44,7 +44,7 @@ You don't need to solve every room on day one. Prioritize the closet and kitchen
 
 ## How Do You Set Up Closet Storage on a Student Budget?
 
-A closet system for under $30 CAD is realistic if you skip the fancy organizers and use hangers, bins, and an over-door rack instead. Slim hangers alone can free up 30–40% more hanging space in a tiny closet.
+A closet system for under $30 CAD is realistic if you skip the fancy organizers and use hangers, bins, and an over-door rack instead. Slim hangers alone can free up noticeably more hanging space in a tiny closet.
 
 **The starter kit:**
 - Slim velvet hangers, 20-pack from Dollarama or Amazon.ca (~$10–$14 CAD)
@@ -121,12 +121,11 @@ For more ways to stretch a tight setup budget further, see our [budget-friendly 
 5. **IKEA Canada** – for furniture pieces you want new (KALLAX, RASKOG, shelving)
 6. **Amazon.ca** – for specific organizers you can't find locally (drawer dividers, over-door racks)
 
-Comparing listings across three Ontario campus Facebook groups in late August, secondhand bookshelves and small dressers consistently sold for 40-60% less than the equivalent new item at IKEA, and a good number were listed free for pickup only.
 
 ## FAQ
 
 **What storage do I actually need for a first student apartment in Canada?**
-Start with five things: under-bed bins, a few Dollarama baskets for the closet, an over-door organizer, stackable kitchen bins, and a small caddy if your bathroom is shared. That covers 90% of what a first-year student needs, for around $60–$80 CAD total.
+Start with five things: under-bed bins, a few Dollarama baskets for the closet, an over-door organizer, stackable kitchen bins, and a small caddy if your bathroom is shared. That covers most of what a first-year student needs, for around $60–$80 CAD total.
 
 **How much does it cost to set up storage for a student apartment?**
 A bare-minimum setup runs $60–$90 CAD using mostly Dollarama and secondhand pieces. A slightly nicer setup with an IKEA piece or two lands closer to $180–$250 CAD. Either way, you don't need to spend it all in one weekend.

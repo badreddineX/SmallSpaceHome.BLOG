@@ -185,7 +185,7 @@ Most no-drill bathroom fixes — freestanding shelves, over-door organizers, ten
 - Replacing a recessed medicine cabinet
 - Altering any plumbing connections
 
-**The practical test:** If you can take it with you when you move and leave the bathroom in identical condition, it's a no-drill solution. This covers 90% of the storage changes on this list.
+**The practical test:** If you can take it with you when you move and leave the bathroom in identical condition, it's a no-drill solution. This covers most of the storage changes on this list.
 
 ---
 
@@ -200,7 +200,7 @@ Most no-drill bathroom fixes — freestanding shelves, over-door organizers, ten
 | 5 | Freestanding towel rack or over-door hook rack | ~$30–$45 |
 | **Total steps 1–5** | | **~$168–$250** |
 
-Complete steps 1 through 3 before spending on anything else. These three changes handle 80% of bathroom storage problems in a small Canadian apartment. Steps 4 and 5 are refinements.
+Complete steps 1 through 3 before spending on anything else. These three changes handle most bathroom storage problems in a small Canadian apartment. Steps 4 and 5 are refinements.
 
 ---
 
@@ -218,7 +218,7 @@ Two IKEA RÅSKOG rolling carts (~$30 CAD each, $60 CAD total) give a shared bath
 
 ---
 
-Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves 50% of the clutter problem in a small Canadian apartment bathroom.
+Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves much of the clutter problem in a small Canadian apartment bathroom.
 
 → For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget).
 

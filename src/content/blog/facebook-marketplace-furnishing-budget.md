@@ -93,13 +93,11 @@ Knowing the realistic range before you shop keeps you from overpaying or lowball
 | Mattress / box spring | $20–$80 | Yes, buy new |
 | Heavily upholstered recliner (unknown history) | $40–$120 | Yes, buy new |
 
-These ranges assume Marketplace listings in mid-size to large Canadian cities. Rural areas and smaller towns often run 20-40% lower simply because there's less competition for the same listing.
 
 ## How Do You Negotiate Without Being Rude?
 
-A specific counter-offer 15-20% below asking, paired with an offer to pick up the same day, gets accepted far more often than a vague "would you take less" message. Sellers value certainty and speed as much as the exact number.
+Sellers value certainty and speed as much as the exact number.
 
-Across roughly 20 Marketplace purchases over three years of apartment moves, offers with a specific number and a same-day pickup time got accepted about 70% of the time, while vague "any flexibility on price?" messages were mostly ignored.
 
 Sellers moving out on a deadline usually say yes because a guaranteed sale today beats holding out for full price next week.
 

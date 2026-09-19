@@ -39,7 +39,7 @@ faqs:
 
 ## 1. Why Does Overhead Lighting Kill the Vibe in a Small Apartment?
 
-A single ceiling fixture floods a room in flat, even light with almost no shadow or warmth, which is the opposite of what "cozy" actually looks like. Most rental apartments come with exactly this setup by default, so it's the first thing to change (Philips Lighting Research, 2024).
+A single ceiling fixture floods a room in flat, even light with almost no shadow or warmth, which is the opposite of what "cozy" actually looks like. Most rental apartments come with exactly this setup by default, so it's the first thing to change.
 
 **Fix it with layers, not brightness:**
 - A dimmable floor lamp in the corner (~$40–$70 CAD, IKEA NYFORS or LERSTA) — pair it with a comfortable chair and this corner doubles as a proper [reading nook](/blog/small-apartment-reading-nook-ideas)
@@ -51,7 +51,7 @@ Turn the overhead light off entirely most evenings. Three low, warm sources scat
 
 ## 2. What Bulb Temperature Actually Reads as "Cozy"?
 
-Bulb temperature matters more than fixture design for how warm a room feels, and it's the cheapest fix on this list. Look for 2200K–2700K, labelled "soft white" or "warm white" on Canadian retail packaging, not "daylight" (Lighting Research Center, 2023).
+Bulb temperature matters more than fixture design for how warm a room feels, and it's the cheapest fix on this list. Look for 2200K–2700K, labelled "soft white" or "warm white" on Canadian retail packaging, not "daylight".
 
 Most rental fixtures ship with 4000K+ "daylight" or "cool white" bulbs, which is why a perfectly nice room can still feel clinical. Swapping every bulb in the living room to warm white costs about $15–$25 CAD total at Canadian Tire or Amazon.ca and is the single highest-impact, lowest-cost change on this whole list.
 
@@ -91,7 +91,7 @@ This is a mood layout, not a maximum-storage layout. If floor space is genuinely
 
 ## 6. How Do Plants Contribute to a Vibey Apartment Aesthetic?
 
-Real or realistic faux greenery adds organic texture and softens hard lines in a small room, and it's one of the lowest-cost mood upgrades available. NASA's classic clean-air study and later apartment-scale research both link greenery to a calmer perceived environment, though the effect on "vibe" is mostly visual (Wolverton et al., NASA, 1989).
+Real or realistic faux greenery adds organic texture and softens hard lines in a small room, and it's one of the lowest-cost mood upgrades available.
 
 - Low-light-tolerant options for apartments: pothos, snake plant, ZZ plant (~$15–$35 CAD, Canadian Tire or IKEA)
 - A cluster of 2–3 plants at varying heights reads better than one large plant alone
@@ -124,7 +124,7 @@ Mirrors do double duty here: they bounce warm lamp light around the room, which 
 
 ## 10. What's the Cheapest Single Change That Makes the Biggest Vibe Difference?
 
-Swapping every bulb in the room to warm white (2200K–2700K) is the highest-impact, lowest-cost change, typically under $25 CAD total for a whole living room (Lighting Research Center, 2023). It affects every surface in the room simultaneously, unlike a single new object.
+Swapping every bulb in the room to warm white (2200K–2700K) is the highest-impact, lowest-cost change, typically under $25 CAD total for a whole living room. It affects every surface in the room simultaneously, unlike a single new object.
 
 Across the apartment styling projects tracked for this site, lighting-first changes (bulb swap plus 2–3 added lamps) were rated the single most noticeable "vibe" improvement in before/after comparisons, ahead of new textiles or rearranged furniture, at roughly a quarter of the typical budget.
 

@@ -63,17 +63,17 @@ Amazon.ca's advantage over IKEA specifically is selection breadth — dozens of 
 
 Wayfair Canada sits above Amazon.ca on price but below Amazon on selection breadth, which makes it worth a look specifically for finished console tables and larger storage benches that need to match a particular style, not just fit a budget.
 
-Wayfair's storage benches and console tables run $110–$450 CAD, generally 20–40% more than a comparable Amazon.ca listing, but with more consistent photography and dimensions listed for apartment-specific use cases (studio, one-bedroom) that make it easier to judge fit before ordering. Worth a look specifically when a piece needs to match an existing decor style, not just hit a budget number.
+Wayfair's storage benches and console tables run $110–$450 CAD, often more than a comparable Amazon.ca listing, but with more consistent photography and dimensions listed for apartment-specific use cases (studio, one-bedroom) that make it easier to judge fit before ordering. Worth a look specifically when a piece needs to match an existing decor style, not just hit a budget number.
 
 ## What Does HomeSense Actually Have?
 
-HomeSense has no fixed catalogue, which is both the appeal and the risk: stock varies by location and week, but pieces are frequently 30–50% below the equivalent new price at IKEA, Amazon.ca, or Wayfair for finished ottomans, console tables, and storage baskets.
+HomeSense has no fixed catalogue, which is both the appeal and the risk: stock varies by location and week, but pieces are frequently well below the equivalent new price at IKEA, Amazon.ca, or Wayfair for finished ottomans, console tables, and storage baskets.
 
 There's no way to check HomeSense stock online, so this only works if a location is on your regular route. Worth a look before any of the online retailers if you're not in a rush, since finding the right piece there is meaningfully cheaper than buying new elsewhere.
 
 ## Should You Buy Storage Furniture Secondhand?
 
-Facebook Marketplace and local Buy Nothing groups routinely list storage ottomans, console tables, and bed frames with drawers at 40–60% below retail, since these are exactly the pieces apartment and condo dwellers sell when they move rather than pay to ship.
+Facebook Marketplace and local Buy Nothing groups routinely list storage ottomans, console tables, and bed frames with drawers well below retail, since these are exactly the pieces apartment and condo dwellers sell when they move rather than pay to ship.
 
 **Buy secondhand:** ottomans, console tables, bed frames with drawers, bookshelves. These have no moving mechanisms to fail and are easy to inspect in five minutes.
 

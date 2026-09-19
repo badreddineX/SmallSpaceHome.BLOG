@@ -104,7 +104,7 @@ A small acrylic organizer (typically $10–$16 CAD) attached to the *back* of a 
 4. **Large picture hanging strips**—for pegboards and light shelving  
 5. **Clear hooks**—for plants, small organizers, and pantry storage  
 
-Command strips aren’t magic—they won’t stick to rough concrete or dusty surfaces—but for 95% of Canadian apartments (concrete, drywall, smooth plaster), they’re the closest thing to renter-friendly construction glue. Test one strip first, wait 24 hours, then trust it. You’ll keep your deposit *and* your sanity.
+Command strips aren’t magic—they won’t stick to rough concrete or dusty surfaces—but for most Canadian apartments (concrete, drywall, smooth plaster), they’re the closest thing to renter-friendly construction glue. Test one strip first, wait 24 hours, then trust it. You’ll keep your deposit *and* your sanity.
 
 → [5 Small-Space Furniture Hacks That Fit Through Stairs](/blog/small-space-furniture)  
 → [12 Renters-Approved Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places)  

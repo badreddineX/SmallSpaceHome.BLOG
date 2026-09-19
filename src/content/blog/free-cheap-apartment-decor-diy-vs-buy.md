@@ -42,7 +42,7 @@ Lumber, brackets, wood glue, and a $40 CAD sander added up to $95 CAD, and it st
 
 ## What Small Decor Projects Are Actually Worth DIYing?
 
-Small-material projects with no power tools required are where DIY wins, typically saving 40–70% versus retail with almost no risk of a wasted afternoon. No-sew pillow covers, painted thrift-store frames, and printed photo galleries all fall into this category.
+No-sew pillow covers, painted thrift-store frames, and printed photo galleries all fall into this category.
 
 ### No-Sew Pillow Covers
 
