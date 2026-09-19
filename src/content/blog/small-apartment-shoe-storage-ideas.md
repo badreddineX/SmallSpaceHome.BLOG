@@ -1,6 +1,6 @@
 ---
 title: "Shoe Storage Ideas for Small Spaces"
-description: "Shoe storage ideas for small spaces and apartments — slim entryway racks, over-door organizers, and seasonal boot rotation, all renter-friendly with real Canadian prices."
+description: "Shoe storage ideas for small apartments: slim entryway racks, over-door organizers and seasonal boot rotation, all renter-friendly with real Canadian prices."
 image: "/images/minimalist-entryway-hallway.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-30"

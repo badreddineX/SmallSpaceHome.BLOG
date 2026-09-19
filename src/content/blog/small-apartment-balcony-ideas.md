@@ -1,6 +1,6 @@
 ---
 title: "Small Apartment Balcony Ideas (Renter-Friendly)"
-description: "Small apartment balcony ideas for Canadian renters — seating, privacy screens, lighting, and plants that survive, all no-drill and built for a short season and a cold winter."
+description: "Small apartment balcony ideas for Canadian renters: no-drill seating, privacy screens, lighting and plants for a short season and cold winters."
 image: "/images/windowsill-houseplants-corner.jpg"
 datePublished: "2026-08-30"
 dateModified: "2026-08-30"

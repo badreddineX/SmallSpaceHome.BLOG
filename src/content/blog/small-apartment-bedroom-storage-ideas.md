@@ -1,6 +1,6 @@
 ---
 title: "Small Bedroom Storage & Organization Ideas"
-description: "13 small bedroom storage and organization ideas for Canadian apartments — closet, under-bed, wall, and furniture solutions. All renter-friendly with real CAD prices."
+description: "13 small bedroom storage ideas for Canadian apartments: closet, under-bed, wall and furniture solutions, all renter-friendly with real CAD prices."
 image: "/images/bedroom-storage-closet.jpg"
 datePublished: "2026-03-27"
 dateModified: "2026-09-05"

@@ -1,6 +1,6 @@
 ---
 title: "Small Laundry Room Ideas for Apartments"
-description: "Small laundry room ideas for apartments and rentals — organizing a tight in-suite closet or a shared building laundry, no-drill and renter-friendly, with real Canadian prices."
+description: "Small laundry room ideas for apartments and rentals: organize a tight in-suite closet or shared building laundry, no-drill, with real Canadian prices."
 image: "/images/blog-09-img2.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-09-05"

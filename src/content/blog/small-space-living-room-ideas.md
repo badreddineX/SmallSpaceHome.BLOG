@@ -1,6 +1,6 @@
 ---
 title: "18 Small Apartment Living Room Ideas (Renter-Friendly)"
-description: "18 small apartment living room ideas tested in a real Canadian rental: sofas that fit, storage, lighting and layouts. Renter-friendly, budget-conscious, built for tight square footage."
+description: "18 small apartment living room ideas for Canadian renters: sofas that fit, storage, lighting and layouts. Renter-friendly and budget-conscious."
 image: "/images/small-studio-living-room-bright.jpg"
 datePublished: "2026-04-02"
 dateModified: "2026-08-26"

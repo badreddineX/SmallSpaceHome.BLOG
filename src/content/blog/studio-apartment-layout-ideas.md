@@ -1,6 +1,6 @@
 ---
 title: "Studio Apartment Layout Ideas That Actually Work"
-description: "Studio apartment layout ideas for Canadian renters — how to zone one room into sleep, work, and living areas without building walls, plus real furniture picks and CAD prices."
+description: "Studio apartment layout ideas for Canadian renters: how to zone one room into sleep, work and living areas without walls, with CAD prices."
 image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-08-30"
 dateModified: "2026-08-30"
