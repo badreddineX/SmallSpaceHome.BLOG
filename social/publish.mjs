@@ -30,6 +30,7 @@ const RAW_BASE = (
   process.env.RAW_BASE ||
   'https://raw.githubusercontent.com/badreddineX/SmallSpaceHome.BLOG/main/'
 ).replace(/\/?$/, '/');
+const FB_PAGE_ID = process.env.FB_PAGE_ID; // optional: also post each item to the Facebook Page (with a clickable link)
 const DRY = process.env.DRY_RUN === '1';
 
 if (!DRY && (!TOKEN || !IG_USER_ID)) {
@@ -45,6 +46,7 @@ try {
   state = { instagram: [] };
 }
 state.instagram ||= [];
+state.facebook ||= [];
 
 async function graph(path, params) {
   const body = new URLSearchParams({ ...params, access_token: TOKEN });
@@ -66,6 +68,18 @@ async function postInstagram(item, imageUrl) {
   return published.id;
 }
 
+async function postFacebook(item, imageUrl) {
+  const r = await graph(`${FB_PAGE_ID}/photos`, {
+    url: imageUrl,
+    caption: `${item.title}
+
+${item.fbText}
+
+Read the full guide: ${item.link}`,
+  });
+  return r.post_id || r.id;
+}
+
 const done = new Set(state.instagram);
 const pending = queue.filter((q) => !done.has(q.slug));
 
@@ -82,6 +96,10 @@ for (const item of pending.slice(0, PER_RUN)) {
   try {
     const id = await postInstagram(item, imageUrl);
     state.instagram.push(item.slug);
+    if (FB_PAGE_ID && !state.facebook.includes(item.slug)) {
+      try { const fid = await postFacebook(item, imageUrl); state.facebook.push(item.slug); console.log(`facebook ${item.slug} -> ${fid}`); }
+      catch (e) { console.error(`FB FAILED ${item.slug}: ${e.message}`); errors.push(`fb ${item.slug}: ${e.message}`); }
+    }
     changed = true;
     published++;
     console.log(`published ${item.slug} -> ${id}`);

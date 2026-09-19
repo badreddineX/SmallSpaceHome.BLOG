@@ -59,7 +59,7 @@ for (const f of readdirSync(BLOG).filter((x) => x.endsWith('.md'))) {
     '',
     hashtags,
   ].join('\n');
-  items.push({ slug, title, date: scalar(fm, 'datePublished'), image: `${IMG_REL}/${img}`, imageUrl: IMG_BASE + img, igCaption: caption });
+  items.push({ slug, title, link: `https://smallspacehome.ca/blog/${slug}?utm_source=facebook&utm_medium=social&utm_campaign=cad_fb`, fbText: desc, date: scalar(fm, 'datePublished'), image: `${IMG_REL}/${img}`, imageUrl: IMG_BASE + img, igCaption: caption });
 }
 items.sort((a, b) => (b.date || '').localeCompare(a.date || '') || a.slug.localeCompare(b.slug));
 items.forEach((q, i) => { q.order = i + 1; });
