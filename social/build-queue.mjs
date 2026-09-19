@@ -1,53 +1,67 @@
-// Builds social/queue.json — the ordered post queue the auto-poster consumes.
-// Source of truth: social-posts/CAPTIONS-CAD.md (the human-written captions) +
-// social-posts/ready-CAD/NN-<slug>.jpg (the rendered images, git-tracked so
-// they have a public raw.githubusercontent URL).
-//
-// Run this whenever you edit the captions or add images, then commit queue.json.
+// Builds social/queue.json for the Instagram auto-poster from the blog posts + the 4:5 images
+// rendered by `node pin-generator/build-pins-p.mjs --ig`. Clean UTF-8 captions, keyword-first.
 //   node social/build-queue.mjs
-import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const CAPTIONS = resolve(root, 'social-posts/CAPTIONS-CAD.md');
-const IMG_DIR = resolve(root, 'social-posts/ready-CAD');
-const IMG_REPO_PREFIX = 'social-posts/ready-CAD'; // path inside the repo, for the raw URL
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
+const BLOG = resolve(ROOT, 'src/content/blog');
+// ---- per-blog config ----
+const IMG_REL = 'social-posts/ig-2026-09';
+const IMG_BASE = 'https://raw.githubusercontent.com/badreddineX/SmallSpaceHome.BLOG/main/social-posts/ig-2026-09/';
+const BASE_TAGS = ['#smallapartment', '#rentersofinstagram'];
+const AUDIENCE = 'Canadian small-apartment renters';
+// -------------------------
+const IMG_DIR = resolve(ROOT, IMG_REL);
 
-// slug -> "NN-slug.jpg"
-const imageBySlug = {};
-for (const f of readdirSync(IMG_DIR)) {
-  const m = f.match(/^(\d+)-(.+)\.jpe?g$/i);
-  if (m) imageBySlug[m[2]] = f;
+function frontmatter(text) {
+  const parts = text.split(/^---\s*$/m);
+  return parts.length >= 3 ? parts[1] : '';
 }
-
-const md = readFileSync(CAPTIONS, 'utf8');
-// Split on "## N. Title" headers
-const sections = md.split(/^## \d+\.\s+/m).slice(1);
-
-const queue = [];
-for (const sec of sections) {
-  const title = sec.split('\n')[0].trim();
-  const imgRef = sec.match(/image:\s*`([^`]+?)(?:-ig)?\.png`/);
-  if (!imgRef) continue;
-  const slug = imgRef[1];
-  const image = imageBySlug[slug];
-  if (!image) continue; // no rendered image yet — skip until one exists
-
-  const igBlock = sec.match(/\*\*Instagram:\*\*\s*```\s*([\s\S]*?)```/);
-  if (!igBlock) continue;
-
-  queue.push({
-    slug,
-    title,
-    image: `${IMG_REPO_PREFIX}/${image}`,
-    igCaption: igBlock[1].trim(),
-    link: `https://smallspacehome.ca/blog/${slug}`,
-  });
+function scalar(fm, key) {
+  for (const line of fm.split(/\r?\n/)) {
+    if (line.startsWith(key + ':')) {
+      const v = line.slice(key.length + 1).trim();
+      try { return JSON.parse(v); } catch { return v.replace(/^"|"$/g, ''); }
+    }
+  }
+  return '';
 }
+function tagsOf(fm) {
+  for (const line of fm.split(/\r?\n/)) {
+    if (line.startsWith('tags:')) {
+      try { return JSON.parse(line.slice(5).trim()); } catch { return []; }
+    }
+  }
+  return [];
+}
+const hash = (t) => '#' + t.toLowerCase().replace(/[^a-z0-9]+/g, '');
 
-// Keep the numeric prefix order from the image filenames — stable, human-editable.
-queue.sort((a, b) => a.image.localeCompare(b.image, undefined, { numeric: true }));
-
-writeFileSync(resolve(root, 'social/queue.json'), JSON.stringify(queue, null, 2) + '\n');
-console.log(`social/queue.json — ${queue.length} posts`);
+const items = [];
+for (const f of readdirSync(BLOG).filter((x) => x.endsWith('.md'))) {
+  const slug = f.replace(/\.md$/, '');
+  const img = `${slug}-ig.jpg`;
+  if (!existsSync(resolve(IMG_DIR, img))) continue;
+  const fm = frontmatter(readFileSync(resolve(BLOG, f), 'utf8'));
+  const title = scalar(fm, 'title');
+  if (!title) continue;
+  const desc = scalar(fm, 'description');
+  const tags = tagsOf(fm).filter((t) => !/^(canada|uk|australia)$/i.test(t));
+  const hashtags = [...new Set([...BASE_TAGS, ...tags.slice(0, 6).map(hash)])]
+    .filter((h) => h.length > 4 && h.length < 32).slice(0, 5).join(' ');
+  const caption = [
+    title.replace(/\s*\|.*$/, ''),
+    '',
+    desc,
+    '',
+    `Save this for later. Full guide: link in bio. More ideas for ${AUDIENCE}.`,
+    '',
+    hashtags,
+  ].join('\n');
+  items.push({ slug, title, date: scalar(fm, 'datePublished'), image: `${IMG_REL}/${img}`, imageUrl: IMG_BASE + img, igCaption: caption });
+}
+items.sort((a, b) => (b.date || '').localeCompare(a.date || '') || a.slug.localeCompare(b.slug));
+items.forEach((q, i) => { q.order = i + 1; });
+writeFileSync(resolve(ROOT, 'social/queue.json'), JSON.stringify(items, null, 2) + '\n');
+console.log(`queue: ${items.length} posts`);

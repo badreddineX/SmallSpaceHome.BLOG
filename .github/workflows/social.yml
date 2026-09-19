@@ -1,0 +1,33 @@
+name: Social auto-post (Instagram)
+on:
+  schedule:
+    - cron: "0 22 * * *"      # once a day (22:00 UTC = 6pm Eastern)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (log only, post nothing)"
+        type: boolean
+        default: true
+permissions:
+  contents: write
+concurrency: social-post
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Publish next queued post
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          POSTS_PER_RUN: "1"
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+        run: node social/publish.mjs
+      - name: Save state (so nothing posts twice)
+        run: |
+          git config user.name "social-bot"
+          git config user.email "social-bot@users.noreply.github.com"
+          git add social/state.json
+          git diff --cached --quiet || (git commit -m "social: mark posted" && git push)

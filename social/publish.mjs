@@ -33,8 +33,8 @@ const RAW_BASE = (
 const DRY = process.env.DRY_RUN === '1';
 
 if (!DRY && (!TOKEN || !IG_USER_ID)) {
-  console.error('Missing META_TOKEN or IG_USER_ID. Set them as GitHub repo secrets.');
-  process.exit(1);
+  console.log('META_TOKEN / IG_USER_ID not set yet (GitHub repo secrets): nothing posted, exiting cleanly.');
+  process.exit(0);
 }
 
 const queue = JSON.parse(readFileSync(QUEUE, 'utf8'));
@@ -74,7 +74,7 @@ let changed = false;
 const errors = [];
 
 for (const item of pending.slice(0, PER_RUN)) {
-  const imageUrl = RAW_BASE + encodeURI(item.image);
+  const imageUrl = item.imageUrl || RAW_BASE + encodeURI(item.image);
   if (DRY) {
     console.log(`[dry] ${item.slug}\n     img: ${imageUrl}\n     cap: ${item.igCaption.split('\n')[0]}…`);
     continue;
