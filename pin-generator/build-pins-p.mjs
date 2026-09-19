@@ -31,7 +31,10 @@ const CSV_OUT = '../pinterest content/pinterest-bulk-upload-CAD-template-P-30day
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const BLOG_DIR = resolve(ROOT, 'src/content/blog');
 const CSV_ONLY = process.argv.includes('--csv-only');
-const OUT_DIR = resolve(ROOT, 'pinterest-pins', PIN_DIR);
+// --ig: render every post once at 4:5 (1000x1250, Instagram feed max ratio), same layouts; no CSV
+const IG_MODE = process.argv.includes('--ig');
+const H = IG_MODE ? 1250 : 1500;
+const OUT_DIR = IG_MODE ? resolve(ROOT, 'social-posts/ig-2026-09') : resolve(ROOT, 'pinterest-pins', PIN_DIR);
 
 // ---------- boards (keyword-first names; create these on Pinterest before uploading) ----------
 const BOARD_RULES = [
@@ -137,7 +140,7 @@ const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replac
 
 // ---------- templates ----------
 const FONTS = `<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Inter:wght@600;700;800&display=swap" rel="stylesheet">`;
-const BASE = `*{margin:0;padding:0;box-sizing:border-box}html,body{width:1000px;height:1500px;overflow:hidden;font-family:'Inter',Arial,sans-serif}
+const BASE = `*{margin:0;padding:0;box-sizing:border-box}html,body{width:1000px;height:${H}px;overflow:hidden;font-family:'Inter',Arial,sans-serif}
 .pill{display:inline-block;background:#C9A87C;color:#1B211D;font-weight:800;font-size:27px;letter-spacing:.16em;padding:14px 26px;border-radius:999px}
 .h{font-family:'Playfair Display',Georgia,serif;font-weight:800;line-height:1.08;letter-spacing:-.01em}
 .dom{font-weight:700;font-size:23px;letter-spacing:.22em;text-transform:uppercase}`;
@@ -160,19 +163,19 @@ function tmpl(p, layout) {
   const pillDark = `position:absolute;left:50px;bottom:56px;background:rgba(20,26,18,.72);color:#FBF8F1;font-weight:700;font-size:30px;letter-spacing:.18em;padding:16px 30px;border-radius:999px`;
   if (style === 0) return `<style>${BASE} body{background:${pal.bg}}
     .band{position:absolute;left:0;top:0;width:1000px;height:500px;padding:64px 70px;display:flex;flex-direction:column;justify-content:center}
-    .h{font-size:${size}px;color:${pal.ink};margin-top:22px}.ph{position:absolute;left:0;top:500px;width:1000px;height:1000px;${photo}}</style>
+    .h{font-size:${size}px;color:${pal.ink};margin-top:22px}.ph{position:absolute;left:0;top:500px;width:1000px;height:${H - 500}px;${photo}}</style>
     <div class="band"><div style="${lab}">${esc(p.label)}</div><div class="h">${esc(p.headline)}</div></div><div class="ph"></div><div style="${pillDark}">${DOMAIN.toUpperCase()}</div>`;
   if (style === 1) return `<style>${BASE}
     .ph{position:absolute;inset:0;${photo}}.dim{position:absolute;inset:0;background:rgba(10,14,12,.16)}
-    .lbl{position:absolute;left:-30px;width:1060px;top:1040px;height:290px;background:${pal.bg};transform:rotate(-3deg);display:flex;align-items:center;padding:0 90px;box-shadow:0 14px 40px rgba(0,0,0,.3)}
+    .lbl{position:absolute;left:-30px;width:1060px;top:${H - 460}px;height:290px;background:${pal.bg};transform:rotate(-3deg);display:flex;align-items:center;padding:0 90px;box-shadow:0 14px 40px rgba(0,0,0,.3)}
     .h{font-size:${Math.min(size, 112)}px;color:${pal.ink}}
     .badge{position:absolute;right:60px;top:60px;width:220px;height:220px;border-radius:50%;background:${pal.acc};color:#FBF8F1;display:flex;align-items:center;justify-content:center;text-align:center;font-weight:800;font-size:${p.number ? 46 : 34}px;line-height:1.1;letter-spacing:.04em;box-shadow:0 10px 30px rgba(0,0,0,.35);padding:20px}
     .url{position:absolute;left:0;right:0;bottom:70px;text-align:center;color:#FBF8F1;font-weight:700;font-size:30px;letter-spacing:.22em;text-shadow:0 2px 12px rgba(0,0,0,.7)}</style>
     <div class="ph"></div><div class="dim"></div><div class="badge">${p.number ? `${p.number}<br>IDEAS` : esc(p.label).replace(' ', '<br>')}</div><div class="lbl"><div class="h">${esc(p.headline)}</div></div><div class="url">${DOMAIN.toUpperCase()}</div>`;
   return `<style>${BASE} body{background:${pal.bg}}
     .top{position:absolute;left:0;top:0;width:1000px;height:430px;padding:60px 80px;display:flex;flex-direction:column;justify-content:center}
-    .h{font-size:${Math.min(size, 116)}px;color:${pal.ink};margin-top:18px}.ph{position:absolute;left:0;top:430px;width:1000px;height:730px;${photo}}
-    .bot{position:absolute;left:0;top:1160px;width:1000px;height:340px;padding:60px 80px;display:flex;flex-direction:column;justify-content:center;background:${pal.ink};color:#FBF8F1}</style>
+    .h{font-size:${Math.min(size, 116)}px;color:${pal.ink};margin-top:18px}.ph{position:absolute;left:0;top:430px;width:1000px;height:${H - 770}px;${photo}}
+    .bot{position:absolute;left:0;top:${H - 340}px;width:1000px;height:340px;padding:60px 80px;display:flex;flex-direction:column;justify-content:center;background:${pal.ink};color:#FBF8F1}</style>
     <div class="top"><div style="${lab}">${esc(p.label)}</div><div class="h">${esc(p.headline)}</div></div><div class="ph"></div>
     <div class="bot"><div style="font-weight:700;font-size:54px;line-height:1.15">${esc(TAGLINE)}</div><div style="margin-top:22px;font-weight:700;font-size:32px;letter-spacing:.2em;color:${pal.bg}">${DOMAIN.toUpperCase()}</div></div>`;
 }
@@ -203,6 +206,7 @@ while (picked.length < total && pool.length) {
   if (i < 0) i = 0;
   picked.push(pool.splice(i, 1)[0]);
 }
+if (IG_MODE) { picked.length = 0; for (const p of posts) picked.push({ post: p, k: 1 }); }
 console.log(`scheduled pins: ${picked.length}`);
 
 // two-tier keywords: tier 1 = broad board-level Pinterest search terms (first), tier 2 = post-specific long-tail
@@ -211,7 +215,7 @@ const BOARD_BROAD = {"Small Apartment Decor Ideas": ["small apartment decor", "a
 // ---------- render ----------
 mkdirSync(OUT_DIR, { recursive: true });
 const browser = await chromium.launch();
-const page = await browser.newPage({ viewport: { width: 1000, height: 1500 }, deviceScaleFactor: 1 });
+const page = await browser.newPage({ viewport: { width: 1000, height: H }, deviceScaleFactor: 1 });
 const csvCell = (s) => `"${String(s).replace(/"/g, '""')}"`;
 const rows = [['Title', 'Media URL', 'Pinterest board', 'Thumbnail', 'Description', 'Link', 'Publish date', 'Keywords']];
 const boardCount = {};
@@ -227,7 +231,7 @@ for (let i = 0; i < picked.length; i++) {
     await page.goto(pathToFileURL(tmpHtml).href, { waitUntil: 'networkidle' });
     await page.evaluate(() => document.fonts.ready);
   }
-  const file = `${post.slug}-p${k}.jpg`;
+  const file = IG_MODE ? `${post.slug}-ig.jpg` : `${post.slug}-p${k}.jpg`;
   if (!CSV_ONLY) await page.screenshot({ path: resolve(OUT_DIR, file), type: 'jpeg', quality: 90 });
 
   const faq = post.faqs[k === 1 ? -1 : k - 2];
@@ -252,6 +256,6 @@ for (let i = 0; i < picked.length; i++) {
   boardCount[post.board] = (boardCount[post.board] || 0) + 1;
 }
 await browser.close();
-writeFileSync(resolve(ROOT, CSV_OUT), '\uFEFF' + rows.map((r) => r.join(',')).join('\r\n') + '\r\n');
+if (!IG_MODE) writeFileSync(resolve(ROOT, CSV_OUT), '\uFEFF' + rows.map((r) => r.join(',')).join('\r\n') + '\r\n');
 console.log(`CSV -> ${CSV_OUT}`);
 console.log('boards used:', boardCount);
