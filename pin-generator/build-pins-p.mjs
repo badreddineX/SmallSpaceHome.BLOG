@@ -136,10 +136,10 @@ function labelFor(fmRaw, pill) {
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
 // ---------- templates ----------
-const FONTS = `<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">`;
-const BASE = `*{margin:0;padding:0;box-sizing:border-box}html,body{width:1000px;height:1500px;overflow:hidden;font-family:'Montserrat',Arial,sans-serif}
+const FONTS = `<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Inter:wght@600;700;800&display=swap" rel="stylesheet">`;
+const BASE = `*{margin:0;padding:0;box-sizing:border-box}html,body{width:1000px;height:1500px;overflow:hidden;font-family:'Inter',Arial,sans-serif}
 .pill{display:inline-block;background:#C9A87C;color:#1B211D;font-weight:800;font-size:27px;letter-spacing:.16em;padding:14px 26px;border-radius:999px}
-.h{font-weight:800;line-height:1.04;letter-spacing:-.02em}
+.h{font-family:'Playfair Display',Georgia,serif;font-weight:800;line-height:1.08;letter-spacing:-.01em}
 .dom{font-weight:700;font-size:23px;letter-spacing:.22em;text-transform:uppercase}`;
 function fs(h) { const n = h.length; return n <= 18 ? 138 : n <= 28 ? 120 : n <= 38 ? 104 : 90; }
 const POS = ['center', 'center 30%', 'center 70%'];
