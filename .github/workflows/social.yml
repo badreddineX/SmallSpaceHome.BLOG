@@ -1,7 +1,7 @@
 name: Social auto-post (Instagram + Facebook)
 on:
   schedule:
-    - cron: "0 12,16,20,0 * * *"      # 4 posts/day (8am, 12pm, 4pm, 8pm Eastern)
+    - cron: "0 12,16,20 * * *"        # 3 posts/day (8am, 12pm, 4pm Eastern)
   workflow_dispatch:
     inputs:
       dry_run:
@@ -27,6 +27,7 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
         run: node social/publish.mjs
       - name: Save state (so nothing posts twice)
+        if: always()
         run: |
           git config user.name "social-bot"
           git config user.email "social-bot@users.noreply.github.com"
