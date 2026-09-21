@@ -1,5 +1,5 @@
 ---
-title: "How to Organize Small Spaces: Room-by-Room Apartment Guide"
+title: "How to Organize Small Spaces: Renter-Safe Room-by-Room Guide"
 description: "How to organize small spaces in a rental: declutter first, then a renter-friendly storage system for the entryway, kitchen, closet and bathroom."
 image: "/images/modern-open-plan-apartment.jpg"
 datePublished: "2025-10-28"
