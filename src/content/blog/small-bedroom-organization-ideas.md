@@ -48,9 +48,7 @@ In a small Canadian apartment bedroom, there are usually three candidate zones: 
 
 A rug is the easiest no-drill way to define a zone without touching a wall. A small area rug (~$40-60 CAD, IKEA or Structube) under a desk and chair visually separates "work" from "sleep" even in a single open room.
 
-[IMAGE: small bedroom zoned with rug marking work corner separate from bed - search "small bedroom desk corner rug"]
-
-[INTERNAL-LINK: small bedroom decor ideas → /blog/small-bedroom-decor-ideas for the visual/colour side of the same room]
+Related: [small bedroom decor ideas](/blog/small-bedroom-decor-ideas)
 
 ---
 
@@ -74,7 +72,7 @@ Canadians donate large volumes of clothing and household goods to organizations 
 
 [CHART: Bar chart - time investment comparison, "whole-room declutter (one 6-hour session, high abandonment)" vs "zone-based declutter (six 30-minute sessions across two weeks)" - source: professional organizer methodology]
 
-[INTERNAL-LINK: small closet organization for rental apartments → /blog/small-closet-organization-rental-apartment for the closet-specific deep dive]
+Related: [small closet organization for rental apartments](/blog/small-closet-organization-rental-apartment)
 
 ---
 
@@ -92,9 +90,7 @@ Most bedroom organization content treats the dresser as a solved problem once yo
 
 **One drawer, one function:** Resist mixing categories in a single drawer "because there's room." A junk-drawer mentality inside a dresser defeats the entire point of a system; if a drawer needs a catch-all, give it exactly one, clearly labelled, rather than letting every drawer slowly become one.
 
-[IMAGE: dresser drawer with clothes folded vertically filing-style with dividers - search "drawer organization filing fold dividers"]
-
-[INTERNAL-LINK: small apartment bedroom storage ideas → /blog/small-apartment-bedroom-storage-ideas for the furniture and product roundup that pairs with this system]
+Related: [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas)
 
 ---
 
@@ -112,7 +108,7 @@ An under-bed storage system works long-term when it's organized by category and 
 
 Small bedrooms are why an under-bed system, not just under-bed storage, matters: the square footage isn't growing, so how you organize it has to do the work.
 
-[INTERNAL-LINK: under-bed storage ideas for small apartments → /blog/under-bed-storage-ideas-small-apartment for risers, bin types, and what never to store under a bed]
+Related: [under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment)
 
 ---
 
@@ -128,7 +124,7 @@ A bedroom organization system survives long-term through one short daily habit a
 
 That's the real test of any bedroom organization system: not how good it looks the day you build it, but whether it's still standing in six months.
 
-[INTERNAL-LINK: small apartment organization → /blog/small-apartment-organization for the same zone-and-declutter system applied to the whole apartment]
+Related: [small apartment organization](/blog/small-apartment-organization)
 
 ---
 
