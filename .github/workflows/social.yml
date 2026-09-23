@@ -1,4 +1,4 @@
-name: Social auto-post (Instagram + Facebook)
+name: Social auto-post (Instagram)
 on:
   schedule:
     - cron: "0 12,16,20 * * *"        # 3 posts/day (8am, 12pm, 4pm Eastern)
@@ -22,7 +22,6 @@ jobs:
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           POSTS_PER_RUN: "1"
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
         run: node social/publish.mjs
