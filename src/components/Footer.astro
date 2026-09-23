@@ -523,8 +523,16 @@ const organizationJsonLd = JSON.stringify({
   document.getElementById('cookie-decline')?.addEventListener('click', () => {
     localStorage.setItem('cookie-consent', 'declined');
     banner.classList.add('hidden');
-    // Nothing to do here -- analytics/Clarity were never loaded, and stay
-    // that way (Consent Mode default in SEO.astro is already 'denied').
+    // Analytics may already be running (Canada is opt-out), so tell Consent
+    // Mode to stop storing. Future page loads won't start it at all.
+    if (typeof window.gtag === 'function') {
+      window.gtag('consent', 'update', {
+        analytics_storage: 'denied',
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+      });
+    }
   });
 })();
 </script>

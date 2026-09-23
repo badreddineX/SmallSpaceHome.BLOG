@@ -146,17 +146,36 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
 <script is:inline>
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
-  gtag('consent', 'default', {
-    analytics_storage: 'denied',
-    ad_storage: 'denied',
-    ad_user_data: 'denied',
-    ad_personalization: 'denied',
-    wait_for_update: 500,
-  });
+  // Region-aware defaults. analytics_storage is GRANTED by default outside the
+  // EEA/UK/Switzerland (Canada is opt-out under PIPEDA/CASL), DENIED inside
+  // them until the visitor clicks Accept. A prior "Decline" is always honoured.
+  // The earlier version gated *everything* on an explicit Accept, which hid
+  // ~all Canadian traffic from GA4 (sessions fell ~21/wk -> ~0 after 2026-08-16).
+  // Ads are never used, so the ad_* signals stay denied for everyone.
+  (function(){
+    var c = null;
+    try { c = localStorage.getItem('cookie-consent'); } catch (e) {}
+    var base = { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' };
+    var mk = function(a, extra){ var o = { analytics_storage: a }; for (var k in base) o[k] = base[k]; for (var k2 in extra) o[k2] = extra[k2]; return o; };
+    if (c === 'declined') {
+      gtag('consent', 'default', mk('denied', { wait_for_update: 500 }));
+    } else if (c === 'accepted') {
+      gtag('consent', 'default', mk('granted', {}));
+    } else {
+      // Most specific (regional) rule first, global rule second.
+      gtag('consent', 'default', mk('denied', {
+        wait_for_update: 500,
+        region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','CH','GB'],
+      }));
+      gtag('consent', 'default', mk('granted', {}));
+    }
+  })();
 </script>
 
 <script is:inline>(function(w,d,s,l,gtmId,gaId){
   function start(){
+    if (w.__gaStarted) return;
+    w.__gaStarted = true;
     w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
     var f=d.getElementsByTagName(s)[0];
     var j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
@@ -169,13 +188,11 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
     w.gtag('js', new Date());
     w.gtag('config', gaId);
   }
-  // Real consent gate, not just Consent Mode signaling: the scripts
-  // themselves don't load at all until the visitor has actually accepted
-  // -- stricter than relying on GTM/GA to honour the consent signal, and
-  // the behaviour UK/EU visitors need under PECR/UK GDPR (Canadian
-  // visitors under PIPEDA aren't as strict, but this covers both).
+  // Load unless the visitor has explicitly declined. Consent Mode (above)
+  // keeps EEA/UK visitors cookieless until they accept; everyone else is
+  // measured normally. Clarity below stays strictly opt-in (it sets cookies).
   w.__startAnalytics = start;
-  if (localStorage.getItem('cookie-consent') === 'accepted') {
+  if (localStorage.getItem('cookie-consent') !== 'declined') {
     if (d.readyState === 'complete') start();
     else w.addEventListener('load', start);
   }
