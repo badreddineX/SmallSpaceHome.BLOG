@@ -29,7 +29,7 @@ faqs:
 
 Canadian balconies are a different problem. The season is short — realistically May to September. Winter does real damage to anything left out. Most buildings won't let you drill, bolt, or even hang things over the railing. And the space is usually tiny and overlooked by three other units.
 
-None of that means you can't have a balcony worth sitting on. It means the ideas have to be no-drill, one-season, and cheap enough that you're not upset when something doesn't survive its first November. Here's what actually worked across three summers.
+None of that means you can't have a balcony worth sitting on. It means the ideas have to be no-drill, one-season, and cheap enough that you're not upset when something doesn't survive its first November. Here is what works for a short Canadian balcony season.
 
 **TL;DR:** In order — sort the floor (interlocking tiles or an outdoor rug), add one small folding seat and a side table, clip on a privacy screen, string up solar lights, and add a few one-season plants in railing planters. The whole thing runs $150–$300 CAD, every piece is freestanding or clip-on, and it all comes inside in October. Check your lease or condo bylaws before you buy anything — balcony rules vary more than any other part of an apartment.
 
@@ -56,7 +56,7 @@ The setups that work on a small Canadian balcony:
 
 - **A folding bistro set** (two chairs + a small round table), $80–$150 CAD at Canadian Tire or IKEA. Folds flat against the wall or comes inside entirely for winter.
 - **One lounge chair + a side table** if you're usually out there alone. A folding sling chair ($40–$60) plus a small metal or resin side table ($25–$40).
-- **A bench with storage** along the railing wall — doubles as a deck box for cushions. See [small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas/) for the storage-first version of this.
+- **A bench with storage** along the railing wall — doubles as a deck box for cushions. See [small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas) for the storage-first version of this.
 
 Skip anything with solid wood (warps and greys over one wet season), untreated metal (rusts), or fixed cushions (mildew). Resin, powder-coated metal, and removable cushions are the combination that lasts.
 
@@ -109,4 +109,4 @@ The one habit that makes all of this worth doing: spend an afternoon in October 
 
 Do that once a year and the same balcony setup lasts you three or four summers instead of one. Skip it and you're back at Canadian Tire every May replacing cracked pots and mildewed cushions.
 
-→ For the storage side — bikes, a deck box, keeping the space clear enough to actually use — see [small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas/). For bringing the same relaxed feeling inside, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas/).
+→ For the storage side — bikes, a deck box, keeping the space clear enough to actually use — see [small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas). For bringing the same relaxed feeling inside, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas).

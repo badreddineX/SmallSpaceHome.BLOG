@@ -7,8 +7,8 @@ SmallSpace Home publishes practical, researched organization and decor guidance 
 ## Site
 
 - [Home](https://smallspacehome.ca/): Overview and latest posts
-- [Blog](https://smallspacehome.ca/blog/): Full archive of organization, decor, storage, and budget-tips articles
-- [About](https://smallspacehome.ca/about/): About the site and author
+- [Blog](https://smallspacehome.ca/blog): Full archive of organization, decor, storage, and budget-tips articles
+- [About](https://smallspacehome.ca/about): About the site and author
 - [RSS Feed](https://smallspacehome.ca/rss.xml): Latest posts feed
 
 ## Key guides

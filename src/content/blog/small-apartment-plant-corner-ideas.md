@@ -1,6 +1,6 @@
 ---
 title: "12 Plant Corner Ideas for Small Apartments"
-description: "Renter-friendly, low-light plant corner ideas for small Canadian apartments under $50."
+description: "12 renter-friendly plant corner ideas for small Canadian apartments: low-light plants, shelves and stands that fit a tight corner, all under $50 CAD."
 image: "/images/plant-corner-palm.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-08-27"
