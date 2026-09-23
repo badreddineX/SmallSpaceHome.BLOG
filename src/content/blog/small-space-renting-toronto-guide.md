@@ -1,7 +1,7 @@
 ---
 title: "Small-Space Renting in Toronto: The Complete Guide"
 description: "A city hub guide to small-space renting in Toronto — unit sizes, moving-day logistics, storage realities, furnishing budgets, and local retailers."
-image: "/images/hero-living-room.jpg"
+image: "/images/blog-05-img3.jpg"
 datePublished: "2026-09-12"
 dateModified: "2026-09-12"
 author: "Badreddine Br"

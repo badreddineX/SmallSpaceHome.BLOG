@@ -1,7 +1,7 @@
 ---
 title: "Small Bedroom Organization Ideas: A System, Not a List"
 description: "Small bedroom organization ideas for Canadian renters — zoning, a real decluttering method, drawer systems, and under-bed setups. Renter-safe, no drilling."
-image: "/images/bedroom-storage-closet.jpg"
+image: "/images/blog-08-img2.jpg"
 datePublished: "2026-09-12"
 dateModified: "2026-09-12"
 author: "Badreddine Br"
