@@ -46,6 +46,7 @@ const urlList = [
   "https://smallspacehome.ca/blog/small-apartment-home-gym-storage-setup",
   "https://smallspacehome.ca/blog/small-apartment-home-office-ideas",
   "https://smallspacehome.ca/blog/small-apartment-laundry-storage-ideas",
+  "https://smallspacehome.ca/blog/small-apartment-layout-ideas",
   "https://smallspacehome.ca/blog/small-apartment-organization",
   "https://smallspacehome.ca/blog/small-apartment-organization-ideas-on-a-budget",
   "https://smallspacehome.ca/blog/small-apartment-pantry-organization-budget",
