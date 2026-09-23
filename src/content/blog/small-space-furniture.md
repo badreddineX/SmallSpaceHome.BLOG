@@ -1,6 +1,6 @@
 ---
-title: "Small Living Room & Apartment Furniture That Works"
-description: "Small living room and apartment furniture that works, and what to skip: sofas, beds, storage and tables, with real CAD prices."
+title: "Small Space Furniture: What to Buy in Canada"
+description: "Small space furniture for Canadian apartments: apartment-size sofas, beds, tables and storage with real CAD prices, plus what to skip."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
 dateModified: "2026-08-29"
