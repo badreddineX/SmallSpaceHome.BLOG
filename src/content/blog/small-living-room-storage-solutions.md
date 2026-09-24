@@ -20,6 +20,8 @@ faqs:
     a: "They solve different problems. Storage furniture hides items you want out of sight — remotes, cables, blankets — while wall shelving displays items and uses vertical space. Most small living rooms need both, not one instead of the other."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 A coffee table is just a flat surface unless it's also doing storage work. In a small Canadian living room, every piece of furniture you buy should hide something.
 
 This isn't a decor list. If you want layout, colour, and styling advice for the same room, [15 small space living room ideas](/blog/small-space-living-room-ideas) covers that separately. This post is only about furniture that physically hides clutter: ottomans, coffee tables, consoles, and side tables built with storage compartments.
@@ -69,7 +71,7 @@ A coffee table with a shelf, drawer, or lift-top surface adds a second storage l
 
 **Open lower shelf:** the simplest version. A single shelf beneath the tabletop holds books, remotes, and baskets in plain sight, though it stays visible rather than hidden.
 
-**Lift-top coffee tables:** the tabletop hinges up and slides forward, revealing a storage compartment underneath while the raised surface doubles as a laptop desk. IKEA and Amazon.ca both carry versions in this range.
+**[Lift-top coffee tables](https://amzn.to/4yVb0m7):** the tabletop hinges up and slides forward, revealing a storage compartment underneath while the raised surface doubles as a laptop desk. IKEA and Amazon.ca both carry versions in this range.
 
 **Drawer coffee tables:** one or two drawers along the front edge, good for remotes, coasters, and charging cables you want out of sight but within arm's reach.
 

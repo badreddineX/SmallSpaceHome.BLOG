@@ -23,6 +23,8 @@ faqs:
     a: "Choose plants with thick, waxy leaves like ZZ plants or parlor palms. Avoid overly moist soil — let the top inch dry before watering. If you see fungus gnats, top-dress with sand or sprinkle cinnamon, both under $10 CAD at local garden centers."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 You're not alone if your apartment's darkest corner currently houses a forgotten umbrella, a stack of expired grocery bags, or nothing at all. Low natural light is a real complaint in a lot of older Canadian rental stock built before 1990.
 
 **TL;DR:** You don’t need a sun-drenched corner or a green thumb to pull off a plant nook — low-light staples like ZZ plants and snake plants thrive on neglect, tension rods and freestanding stands avoid lease-break penalties, and under-$30 setups look intentional, not afterthought-y.
@@ -39,7 +41,7 @@ Forget wall mounts — the Structube Karlskrona wooden stand ($49 CAD) leans int
 
 ## 3. The Tension Rod Plant Hanger Trick
 
-This is how you get vertical greenery without drilling. Hook a tension rod between two walls in your corner (the narrower the better — aim for 24–30”), then thread a macramé hanger through it. Add a small 4–6” pot (IKEA DRÖNA pot, $12 CAD) filled with a light-loving but shade-tolerant spider plant. Total: ~$30 CAD. Works great in corners with baseboard trim — the rod grips the trim and the wall just below it.
+This is how you get vertical greenery without drilling. Hook a [tension rod](https://amzn.to/4yZAcbl) between two walls in your corner (the narrower the better — aim for 24–30”), then thread a macramé hanger through it. Add a small 4–6” pot (IKEA DRÖNA pot, $12 CAD) filled with a light-loving but shade-tolerant spider plant. Total: ~$30 CAD. Works great in corners with baseboard trim — the rod grips the trim and the wall just below it.
 
 ## 4. Corner Console with Hidden Plant Storage
 

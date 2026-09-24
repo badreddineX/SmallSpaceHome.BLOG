@@ -25,6 +25,8 @@ faqs:
     a: "This guide is strictly budget-first: cheap containers, reused jars, and a hard $30–$40 CAD cap for a single cupboard. Our <a href='/blog/fridge-pantry-organization-small-apartment'>17 fridge & pantry organization ideas</a> covers a broader system across both fridge and pantry, at any budget level."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 You can organize a small apartment pantry cupboard for under $40 CAD using reused jars, a handful of Dollarama bins, and one cheap shelf riser. No matching container sets, no $200 pantry overhaul required.
 
 This is the budget-first companion to our [17 fridge & pantry organization ideas](/blog/fridge-pantry-organization-small-apartment) guide. That article covers the full fridge-and-pantry system at any budget. This one is narrower on purpose: one small pantry cupboard, real Dollarama and IKEA prices, and a hard ceiling of $30 to $40 CAD.
@@ -80,7 +82,7 @@ Dollarama's clip-lid and stackable bins are worth buying for dry goods with regu
 | Small clip-lid bin | $1.50–$2.50 | Snack bars, tea bags |
 | Medium stackable bin | $2.50–$4 | Loose pasta, rice |
 | Large clear bin | $4–$5 | Canned goods, packets |
-| Lazy Susan turntable | $4–$5 | Oils, sauces, spice jars |
+| [Lazy Susan turntable](https://amzn.to/4ADpmJJ) | $4–$5 | Oils, sauces, spice jars |
 
 A first-time buyer starting from zero would land close to $30 CAD for the same setup.
 

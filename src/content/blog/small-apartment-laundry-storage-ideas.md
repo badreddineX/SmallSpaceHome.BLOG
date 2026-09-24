@@ -20,6 +20,8 @@ faqs:
     a: "A full in-suite laundry closet system, shelf, door rack, and rolling cart, runs about $90–$140 CAD total. If you're limited to shared building laundry, a caddy and a rolling hamper cover the essentials for under $50 CAD."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Small laundry room ideas usually assume you have a *room*. In an apartment you don't — you have a closet the size of a phone booth, and you're trying to find the detergent balanced on top of the dryer. In-suite stacked washer/dryer units are now standard in a lot of newer Canadian condo and apartment buildings, and the closet around them is almost always an afterthought.
 
 This guide covers both situations: the in-suite stacked closet, and the shared building laundry room down the hall. Neither needs drilling, and neither needs much money.
@@ -50,7 +52,7 @@ Most stacked washer/dryer closets in Canadian apartments are under 3 feet wide, 
 
 The fix is to treat the space above the machines as your primary storage zone, since the floor space around a stacked unit is usually zero. A tension-rod shelf braces between the closet's side walls and sits just above the dryer vent clearance, holding detergent, dryer sheets, and a mesh bag for delicates.
 
-**What to buy:** Amazon.ca tension-rod laundry shelf (~$35–$50 CAD), sized to your closet width before ordering — most stacked closets run 27–30 inches wide.
+**What to buy:** Amazon.ca [tension-rod laundry shelf](https://amzn.to/4yZAcbl) (~$35–$50 CAD), sized to your closet width before ordering — most stacked closets run 27–30 inches wide.
 
 ### Wire Shelving as a No-Drill Alternative
 

@@ -22,6 +22,8 @@ faqs:
     a: "The 23 storage ideas on this page are grouped by the four highest-impact moves: going vertical (wall shelves, over-door organizers), claiming under-bed space, upgrading closet hangers, and choosing furniture that stores as well as it seats or sleeps. Together they're the most complete set of storage solutions for small spaces available for a Canadian rental without any drilling."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Storage in a small Canadian apartment is always a negotiation. You're working with maybe 450–650 square feet, a landlord who expects you to leave the walls intact, and winters that demand you store two full wardrobes worth of seasonal gear. The answer isn't a bigger apartment — it's using what you have more deliberately. CMHC data shows that rental households in Canada's major cities are growing year over year, and most of those renters are navigating tight square footage.
 
 > **Key Takeaways**
@@ -69,7 +71,7 @@ IKEA PAX wardrobe frames start at around $179 CAD, and at just 50 cm deep, take 
 
 The space under your bed is the biggest untapped storage area in most apartments. Flat, lidded bins work for [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear), extra linens, or shoes. If your bed frame sits too low, bed risers add 15 cm of clearance for about $25 CAD.
 
-Bed risers add 15 cm of clearance for about $25 CAD, and IKEA SKUBB under-bed bags (~$14 CAD for two) are the cheapest way to turn that reclaimed space into zipped, dust-free storage.
+[Bed risers](https://amzn.to/46J0kuR) add 15 cm of clearance for about $25 CAD, and IKEA SKUBB under-bed bags (~$14 CAD for two) are the cheapest way to turn that reclaimed space into zipped, dust-free storage.
 
 **Best option:** IKEA SKUBB under-bed storage bags, 2-pack (~$14 CAD). They zip closed and keep dust out.
 
@@ -176,7 +178,7 @@ Cabinet door organizer sets cost about $15–$22 CAD on Amazon.ca and turn the w
 
 A storage ottoman does three things: it's seating, a coffee table, and a storage chest. Use it for extra linens, blankets, board games, or anything you don't need daily.
 
-Storage ottomans from Wayfair Canada run about $89–$150 CAD and function as seating, a coffee table, and a hidden storage chest simultaneously, which is why they show up on nearly every small-apartment storage list.
+[Storage ottomans](https://amzn.to/3VehY7d) from Wayfair Canada run about $89–$150 CAD and function as seating, a coffee table, and a hidden storage chest simultaneously, which is why they show up on nearly every small-apartment storage list.
 
 **Cost:** Wayfair Canada storage ottomans from ~$89–$150 CAD.
 

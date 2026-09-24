@@ -31,6 +31,8 @@ faqs:
     a: "Yes — heavy-duty Command strips (rated up to 7.5 kg for the largest size) hold a fold-down shelf desk or monitor mount without a single screw, and peel off clean at move-out. A tension-rod room divider or a freestanding leaning shelf unit gets you a defined work corner with zero hardware at all, which matters if your lease holds you responsible for patching holes."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert.
 
 > **Key Takeaways**
@@ -70,7 +72,7 @@ Most rental leases in Canada either ban drilling into walls outright or make you
 Renter-safe setups worth trying when a studio or bachelor apartment has zero spare room:
 
 - **A Command-strip fold-down shelf desk** (~$40–$70 CAD for the bracket plus strips) — folds flat against the wall between work sessions, and the adhesive strips come off clean at move-out
-- **A tension-rod room divider** (~$25–$45 CAD, adjustable curtain rod plus a lightweight curtain) — wedges between floor and ceiling with no hardware, and gives you a real visual boundary for a work corner in a studio
+- **A [tension rod](https://amzn.to/4yZAcbl) room divider** (~$25–$45 CAD, adjustable curtain rod plus a lightweight curtain) — wedges between floor and ceiling with no hardware, and gives you a real visual boundary for a work corner in a studio
 - **A leaning ladder desk or shelf unit** — freestanding against the wall, no anchoring needed, and doubles as storage above the desk surface
 - **Cable clips with adhesive backing** (~$10–$15 CAD for a pack) instead of drilled-in cable trays — routes cords along a baseboard or under a desk edge without a single screw
 

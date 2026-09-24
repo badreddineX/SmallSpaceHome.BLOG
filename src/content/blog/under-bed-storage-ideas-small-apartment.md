@@ -20,6 +20,8 @@ faqs:
     a: "Standard flat storage bins need about 15 cm (6 inches) of clearance. Measure your bed's actual gap with a tape measure before buying — many platform and low-profile frames only clear 8–10 cm without risers."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 The space under your bed can hold two full storage bins per side, yet most Canadian renters use it for a stray sock and a suitcase. A $22 CAD set of risers fixed that in ten minutes.
 
 This post is a deep dive on that one zone specifically. For the full-room approach, see our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide, and for storage across the whole apartment, check our [small apartment storage ideas](/blog/storage-ideas-for-small-places) roundup.
@@ -47,7 +49,7 @@ This post is a deep dive on that one zone specifically. For the full-room approa
 
 Bed risers are the cheapest, highest-leverage purchase for this zone, and most Canadian retailers sell a set for $20–$28 CAD ([Canadian Tire](https://www.canadiantire.ca), 2026). Adding 12–15 cm of clearance often turns a bed frame from unusable storage into space for two full rows of bins.
 
-A $22 CAD set of stackable plastic risers from Amazon.ca solved it in about ten minutes, no tools required.
+A $22 CAD set of [stackable plastic risers](https://amzn.to/46J0kuR) from Amazon.ca solved it in about ten minutes, no tools required.
 
 Risers come in a few styles worth knowing about.
 
@@ -65,9 +67,9 @@ Platform beds without legs need a different approach: a frame extender or a set 
 
 The right choice depends on what you're storing, not personal preference. Flat lidded bins protect shape-sensitive items like shoes and folded sweaters, while vacuum-seal bags compress bulky items like duvets and winter coats to about a quarter of their original size ([IKEA Canada](https://www.ikea.com/ca/en), 2026).
 
-Bins keep their shape and are easy to slide in and out one-handed. That matters if you're grabbing something specific, like a single pair of boots, rather than an entire seasonal wardrobe swap. IKEA's SKUBB under-bed bags run about $14 CAD for two and zip closed to keep dust out.
+Bins keep their shape and are easy to slide in and out one-handed. That matters if you're grabbing something specific, like a single pair of boots, rather than an entire seasonal wardrobe swap. IKEA's SKUBB under-bed bags run about $14 CAD for two and zip closed to keep dust out — a similar [zippered under-bed bag](https://amzn.to/4rwNiu6) is available on Amazon.ca.
 
-Vacuum bags win on raw volume. A queen duvet that takes up an entire bin can compress down to a slim rectangle with a vacuum bag, which matters most if your clearance is tight. A six-bag mixed set runs $25–$30 CAD at Amazon.ca. The tradeoff: vacuum bags aren't great for anything with structure, like shoes, since they crush under pressure.
+Vacuum bags win on raw volume. A queen duvet that takes up an entire bin can compress down to a slim rectangle with a vacuum bag, which matters most if your clearance is tight. A [six-bag mixed set](https://amzn.to/4hkxQfL) runs $25–$30 CAD at Amazon.ca. The tradeoff: vacuum bags aren't great for anything with structure, like shoes, since they crush under pressure.
 
 Mixing both gets more total capacity than committing to one system.
 

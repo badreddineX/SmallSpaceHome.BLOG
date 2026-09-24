@@ -27,6 +27,8 @@ faqs:
     a: "Mark out the footprint of each piece on the floor with painter's tape or cut cardboard to the same size, then walk through the room. This shows quickly whether a sofa blocks a door, whether a bed leaves enough space beside it, and whether you can still open closets and drawers."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Most small apartments feel cramped because of the layout, not the size. Furniture pushed against every wall, a sofa that's too big, and a walkway that runs right through the middle of the room can make a comfortable apartment feel tight.
 
 These small apartment layout ideas are built around the shapes Canadian renters actually live in: narrow living rooms, squarish one-bedrooms, open-plan condos and rooms with awkward windows or heaters. Most cost nothing to try, since they're about placement rather than buying anything new.
@@ -140,7 +142,7 @@ Our [small apartment home office ideas](/blog/small-apartment-home-office-ideas)
 A small entry sets the tone for the whole apartment.
 
 - **Add a slim shoe rack or bench** to stop shoes spreading into the living space.
-- **Use wall hooks** (renter-safe adhesive ones or over-door hooks) for coats and bags.
+- **Use wall hooks** (renter-safe adhesive ones) or an [over-door organizer](https://amzn.to/4ADoqoH) for coats and bags.
 - **Keep the path from the door clear.** Nothing should block the entrance, even in winter when boots and coats pile up.
 
 ---

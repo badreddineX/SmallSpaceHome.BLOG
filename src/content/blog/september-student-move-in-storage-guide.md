@@ -23,6 +23,8 @@ faqs:
     a: "No. Most first-year storage problems are solved with soft bins, hooks, and stackable bins rather than furniture. Save furniture purchases (a KALLAX or a small dresser) for once you know how you actually use the space."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Moving out for the first time in September is exciting and, frankly, a little overwhelming. You've got a truck full of boxes, a tiny apartment or dorm-adjacent unit, and a budget that's mostly gone to first and last month's rent already.
 
 The good news: you don't need much money to make a small apartment functional. You need a plan, a few key pieces, and the willingness to buy some things secondhand. This guide walks through storage room by room, gives you two realistic budgets, and tells you exactly where to shop in Canada, new and used.
@@ -48,7 +50,7 @@ A closet system for under $30 CAD is realistic if you skip the fancy organizers 
 
 **The starter kit:**
 - Slim velvet hangers, 20-pack from Dollarama or Amazon.ca (~$10–$14 CAD)
-- Over-door shoe organizer for shoes, belts, chargers (~$8–$15 CAD, Dollarama or Amazon.ca)
+- [Over-door shoe organizer](https://amzn.to/4ADoqoH) for shoes, belts, chargers (~$8–$15 CAD, Dollarama or Amazon.ca)
 - Two fabric bins on the closet shelf for off-season stuff (~$4–$6 each, Dollarama)
 
 If your closet is tiny or nonexistent (common in older buildings near campus), a $15–$22 CAD tension rod adds a second hanging tier with zero tools and zero drilling. See our [full storage ideas guide](/blog/storage-ideas-for-small-places) for more no-drill tricks that work on a rented closet.
@@ -57,7 +59,7 @@ If your closet is tiny or nonexistent (common in older buildings near campus), a
 
 Under-bed storage is the single highest-value move for a first apartment because it uses space you're already paying rent on. Flat bins under a twin or double bed can hold an entire off-season wardrobe for under $20 CAD total.
 
-Skip the fancy zip bags for now. Two flat plastic bins from Dollarama (~$4–$5 each) or a repurposed IKEA SKUBB bag (~$14 CAD for a 2-pack) both do the job.
+Skip the fancy zip bags for now. Two flat plastic bins from Dollarama (~$4–$5 each) or an [under-bed zippered storage bag](https://amzn.to/4rwNiu6) like IKEA's SKUBB (~$14 CAD for a 2-pack) both do the job.
 
 **Cost:** $8–$20 CAD depending on bins chosen.
 

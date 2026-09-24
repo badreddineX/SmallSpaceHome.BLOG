@@ -21,7 +21,10 @@ faqs:
   - q: "Can I replace the medicine cabinet in a rental apartment bathroom?"
     a: "You can swap a surface-mounted medicine cabinet without any damage to walls or plumbing. Surface-mounted units typically have two to four screws. Remove the old cabinet, patch the screw holes with renter-safe wall filler when you leave, and install the new one. This is distinct from recessed cabinets (built into the wall), which you should leave untouched in a rental."
 ---
- There is a toilet, a pedestal sink with zero storage underneath, a shower stall, and about 60 cm of floor space between them. Here is that system, in the order that makes the most difference.
+
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
+There is a toilet, a pedestal sink with zero storage underneath, a shower stall, and about 60 cm of floor space between them. Here is that system, in the order that makes the most difference.
 
 **TL;DR:**
 - **First move:** freestanding over-toilet shelves (~$55–$70 CAD, Amazon.ca) — adds three shelves of vertical storage instantly, no drilling
@@ -62,7 +65,7 @@ A freestanding over-toilet shelf unit sits around the toilet tank and adds three
 
 The back of the bathroom door is typically empty in Canadian rental bathrooms. An over-door organizer converts that vertical surface into usable storage with zero wall damage.
 
-A clear pocket over-door organizer (24 pockets, ~$20–$30 CAD on Amazon.ca) holds shampoo, conditioner, body wash, razors, cotton balls, and small accessories in full view. You can see everything without opening a drawer.
+A [clear pocket over-door organizer](https://amzn.to/4ADoqoH) (24 pockets, ~$20–$30 CAD on Amazon.ca) holds shampoo, conditioner, body wash, razors, cotton balls, and small accessories in full view. You can see everything without opening a drawer.
 
 **Options by category:**
 

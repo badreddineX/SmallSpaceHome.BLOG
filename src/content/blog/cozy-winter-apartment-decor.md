@@ -20,6 +20,8 @@ faqs:
     a: "Everything cozy is freestanding or temporary — throw blankets, cushions, candles, plants, warm bulbs, and a floor lamp. None require installation or wall damage. Remove them in spring and the apartment looks exactly as it did when you moved in. Zero deposit risk."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. CMHC data shows that renters occupy roughly one-third of all Canadian households, and most of those apartments rely entirely on portable changes to create warmth and comfort.
 
 Creating a cozy winter apartment doesn't require renovations or a big budget. Most of the changes are textiles, lighting, and scent — all renter-friendly, all reversible.
@@ -48,7 +50,7 @@ Swapping every bulb to warm white 2700K LEDs costs about $15–$25 CAD for a mul
 
 **The winter lighting switch:**
 1. Replace every bulb with warm white 2700K LEDs — ~$15–$25 CAD for a multipack at Canadian Tire
-2. Move the main lighting source from overhead to floor lamps and table lamps
+2. Move the main lighting source from overhead to [floor lamps](https://amzn.to/46Iz5AI) and table lamps
 3. Add candles to the living room, bathroom, and bedroom
 
 Candles are the cozy lighting secret. Even when they're not lit, they signal warmth and intention. When they are lit, the flickering flame creates an atmosphere no electric light can replicate.

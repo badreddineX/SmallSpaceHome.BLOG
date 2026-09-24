@@ -25,6 +25,8 @@ faqs:
     a: "Yes, for renters who need capacity without floor space. A 24-pocket over-door organizer costs $20–$35 CAD on Amazon.ca and adds storage for two people's shoes using a door that would otherwise sit empty."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Shoe storage ideas for small spaces all run into the same wall: there's no floor to give up. It's the first small-apartment problem you notice, because a pile of shoes is the first thing you see walking in the door. The fix isn't one perfect product, it's matching the storage type to your entryway's actual shape: slim racks for narrow hallways, over-door organizers when there's zero floor space, and a seasonal rotation system so winter boots don't live by the door year-round.
 
 What follows is the system that actually worked in each one, not a generic list.
@@ -49,7 +51,7 @@ For more entryway layout ideas beyond just shoes, our [small entryway & hallway 
 
 ## Do Over-Door Shoe Organizers Actually Work?
 
-Over-door organizers work well for apartments with genuinely zero floor space, holding 20-24 pairs on the back of a closet or bedroom door for $20-$35 CAD. Amazon.ca's canvas hanging organizers are the most common version sold to Canadian renters, and they install with hooks, not screws.
+[Over-door organizers](https://amzn.to/4ADoqoH) work well for apartments with genuinely zero floor space, holding 20-24 pairs on the back of a closet or bedroom door for $20-$35 CAD. Amazon.ca's canvas hanging organizers are the most common version sold to Canadian renters, and they install with hooks, not screws.
 
 The trade-off is visibility. Shoes go behind a door instead of by the entryway, which means a second stop on your way out. That's a fine trade in a bachelor unit or studio where the entry itself has no wall space at all.
 

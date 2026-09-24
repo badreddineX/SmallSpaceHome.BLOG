@@ -20,6 +20,8 @@ faqs:
     a: "Technically most no-drill, freestanding items don't require permission, but many condo and apartment buildings restrict what's visible on balconies regardless of installation method. Always check your lease or condo bylaws first — some buildings ban bikes, grills, or anything above railing height entirely."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 For a rental balcony, solve storage first: use no-drill bike storage, a weatherproof deck box and railing planters, and bring soft items inside for the winter.
 
 A balcony is the one piece of outdoor space most small-apartment renters in Canada actually get, and most of us waste it. A real balcony makeover starts with solving storage first — there's no point styling a space that's covered in a bike and a bin nobody can move. (Once the storage is sorted, [small apartment balcony ideas](/blog/small-apartment-balcony-ideas) covers the seating, privacy, lighting, and plants.) It's also the trickiest storage zone in the whole apartment: everything has to survive rain, snow, and freeze-thaw cycles, and almost nothing can be drilled or bolted down.
@@ -60,7 +62,7 @@ A few models hold two bikes stacked, which is worth the extra $20–$30 CAD if y
 
 ## What's the Best Weatherproof Storage Box for a Balcony?
 
-A resin deck box is the highest-impact single purchase for balcony storage, holding cushions, tools, and off-season gear while staying fully weatherproof year-round. Canadian Tire and HomeSense both carry resin models from $60–$150 CAD depending on size, and they need zero installation.
+A [resin deck box](https://amzn.to/3VO2PK0) is the highest-impact single purchase for balcony storage, holding cushions, tools, and off-season gear while staying fully weatherproof year-round. Canadian Tire and HomeSense both carry resin models from $60–$150 CAD depending on size, and they need zero installation.
 
 Resin outperforms wood or fabric storage bins on a balcony because it doesn't rot, warp, or mildew when it sits through a wet Canadian spring. A lid that seals tightly also keeps mice and squirrels out, which matters more in ground-floor and low-rise units.
 
@@ -74,7 +76,7 @@ Clip-on or over-rail planters attach to a standard balcony railing with adjustab
 
 Over-rail planters straddle the railing with the box weight balanced on both sides, so there's nothing to drill and nothing to remove but the box itself. This also matters for compliance: most bylaws that ban drilled hardware are fine with clamp-mounted planters, since nothing is permanently attached to the structure.
 
-If your building bans railing attachments entirely, freestanding vertical planter stands are the workaround. They sit flush against the floor or wall and hold 3–5 tiers of pots in the same footprint as one large planter.
+If your building bans railing attachments entirely, [freestanding vertical planter stands](https://amzn.to/3TPBAyb) are the workaround. They sit flush against the floor or wall and hold 3–5 tiers of pots in the same footprint as one large planter.
 
 **Cost:** IKEA SOCKER or Amazon.ca over-rail planter, ~$20–$45 CAD. Freestanding vertical stands run ~$35–$60 CAD.
 

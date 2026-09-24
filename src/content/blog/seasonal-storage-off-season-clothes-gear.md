@@ -23,6 +23,8 @@ faqs:
     a: "Twice a year works for most Canadian climates: a spring swap around April when temperatures stabilize above freezing, and a fall swap around late September or October before the first real cold snap. Two fixed dates keep the system from sliding."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Canadian apartments ask for something most closets were never built for: a full winter wardrobe and a full summer wardrobe, stored in the same 2-foot-wide space, twelve months a year. You can't just buy more hangers. You need a rotation system.
 
 The good news is this doesn't require new furniture. It requires the right bags for the right materials, one designated storage zone, and two calendar dates you actually keep. For more general closet setup, our [storage ideas for small places](/blog/storage-ideas-for-small-places) guide covers the vertical and under-bed basics this system builds on.
@@ -61,7 +63,7 @@ Breathable garment bags are the better call for anything with natural fill or fi
 If it's synthetic-fill, cotton, or a blanket, it can be vacuum-sealed.
 
 **What to buy:**
-- Vacuum bag set, 6 mixed sizes: Amazon.ca, roughly $25–$30 CAD
+- [Vacuum bag set](https://amzn.to/4hkxQfL), 6 mixed sizes: Amazon.ca, roughly $25–$30 CAD
 - Breathable garment bags, 3-pack: Amazon.ca or Canadian Tire, roughly $18–$25 CAD
 - Cotton storage bags for sweaters: Dollarama, $3–$4 CAD each
 
@@ -69,7 +71,7 @@ If it's synthetic-fill, cotton, or a blanket, it can be vacuum-sealed.
 
 Boots and snow gear belong at floor level, not on shelves, because they're heavy, awkward to lift overhead, and shed grit that shelf fabric doesn't handle well. A closet-floor zone or under-bed bin keeps them out of the way without wasting prime shelf space.
 
-Snow boots, in particular, are the item most people forget to plan for. They're too bulky for a garment bag and too heavy to store overhead safely. A rigid under-bed bin, IKEA SKUBB or similar (~$14 CAD), holds two to three pairs and slides flat under a bed frame, keeping bulky winter footwear off precious shelf space entirely. For gear you use occasionally through winter, a boot tray by the entry keeps the active pair out of the closet entirely, which is also just easier on wet days.
+Snow boots, in particular, are the item most people forget to plan for. They're too bulky for a garment bag and too heavy to store overhead safely. A [rigid under-bed bin](https://amzn.to/4rwNiu6), IKEA SKUBB or similar (~$14 CAD), holds two to three pairs and slides flat under a bed frame, keeping bulky winter footwear off precious shelf space entirely. For gear you use occasionally through winter, a boot tray by the entry keeps the active pair out of the closet entirely, which is also just easier on wet days.
 
 **Best setup by item:**
 - Off-season boots (2-3 pairs): rigid under-bed bin, ~$14–$20 CAD

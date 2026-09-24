@@ -20,6 +20,8 @@ faqs:
     a: "Most leases allow small nail holes for art. For anything heavier, Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Always check your lease first — and if you ask your landlord, do it in writing so you have a record of their response."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Small apartment decorating ideas are everywhere online, but most assume you can paint, drill, and stay for a decade. Decorating a rental in Canada is a different problem — beige walls, a damage deposit on the line, and no permanent changes allowed. CMHC data shows that renters make up roughly one-third of all Canadian households — and most of them are decorating spaces they can't permanently modify. Here's what actually works.
 
 This guide covers the full range, no fixed budget cap. If you're working with a specific ceiling, [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) is the $200 CAD version, [apartment decor under $50](/blog/budget-apartment-decor-under-50) is the tighter cap, and [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish) covers the near-$0 approach.
@@ -59,7 +61,7 @@ This costs nothing and makes every decor decision ten times easier.
 
 If you're renting and can't touch the walls or floors, textiles are your best tool. They add colour, warmth, and texture instantly — and they move with you when you leave.
 
-A living room rug needs to measure at least 160 × 230 cm to properly anchor the seating area, small rugs floating under just the coffee table are the most common textile mistake renters make.
+A [living room rug](https://amzn.to/4At2BYR) needs to measure at least 160 × 230 cm to properly anchor the seating area, small rugs floating under just the coffee table are the most common textile mistake renters make.
 
 **The textile checklist for a rental apartment:**
 - A rug that anchors the living room (160 × 230 cm minimum)
@@ -72,7 +74,7 @@ None of these require installation. All of them dramatically change how a space 
 
 ## 3. How Do You Add a Feature Wall Without Damaging It?
 
-This is the biggest visual upgrade available to renters. A peel-and-stick wallpaper feature wall behind the sofa or the bed transforms the feel of an entire room — and it peels off cleanly when you move out.
+This is the biggest visual upgrade available to renters. A [peel-and-stick wallpaper](https://amzn.to/47gQ6lD) feature wall behind the sofa or the bed transforms the feel of an entire room — and it peels off cleanly when you move out.
 
 A typical accent wall takes 2–3 rolls of peel-and-stick wallpaper at $40–$90 CAD per roll, a fraction of the cost of paint and prep work, and it comes off cleanly when the lease ends.
 

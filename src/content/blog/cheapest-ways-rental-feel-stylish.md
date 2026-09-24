@@ -25,6 +25,8 @@ faqs:
     a: "A full refresh, lighting, a few Dollarama pieces, one thrifted item, and a small textile swap, typically runs $20–$50 CAD. Add removable wallpaper on one wall and the total still stays under $90 CAD for most small Canadian rentals."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Making a rental feel stylish doesn't require a big budget. The three changes that matter most, decluttering, rearranging furniture, and fixing the lighting, cost nothing or close to it, and they change a space more than any single purchase would. Everything below builds from there with realistic CAD prices.
 
 This is the near-$0 version, mostly free changes plus a few sub-$20 finds. Once you've done these, [apartment decor under $50](/blog/budget-apartment-decor-under-50) and [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) are the next steps up if you've got more room to spend.
@@ -93,7 +95,7 @@ Value Village and local thrift shops are better for smaller items, frames, vases
 
 ## Is Removable Wallpaper Worth the Extra Cost?
 
-Peel-and-stick wallpaper runs $15–$40 CAD per roll at Amazon.ca or Dollar Tree Canada, and one accent wall in a small bedroom or entryway often needs just a single roll. It's the one item on this list that isn't free, but it delivers a disproportionate visual change for the price.
+[Peel-and-stick wallpaper](https://amzn.to/47gQ6lD) runs $15–$40 CAD per roll at Amazon.ca or Dollar Tree Canada, and one accent wall in a small bedroom or entryway often needs just a single roll. It's the one item on this list that isn't free, but it delivers a disproportionate visual change for the price.
 
 Apply it to a small, contained wall first, an entryway, the back of a bookshelf, one side of a bedroom, rather than an entire living room. Smaller walls use less material and are far more forgiving if the first application isn't perfect. Test a hidden patch of wall behind furniture for 48 hours before committing to the whole roll, since older rental paint jobs sometimes peel unevenly on removal.
 

@@ -23,6 +23,8 @@ faqs:
     a: "Yes—use a covered litter box like the Trixie Litter Box with Privacy Hood (Canadian Tire, ~$35 CAD), place it inside a tall, narrow storage cabinet (IKEA BESTÄND, ~$50 CAD), and add a carbon filter like the PetSafe ScoopFree Ultra for odor control (~$45 CAD)."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 You're not just surviving your small apartment—you're thriving with a furry roommate. Pet ownership among younger renters has climbed steadily across major Canadian cities, and pet-friendly setups are a real factor in whether people renew their lease.
 
 **TL;DR:** Pet-friendly small-space setup is all about smart zones (not bulk), renter-safe options (tension rods, freestanding gear), and layered surfaces for climbing/exercising. Skip wall-mounted furniture unless your landlord approves, prioritize washable textiles, and keep supplies tucked—but always *within reach*.
@@ -86,7 +88,7 @@ Pet chewers = electrical hazards. No more tripping, no exposed wires, and no “
 
 ## 14. Where Do You Store Poop Bags and Treats Without Clutter?
 
-On top, a lazy Susan holds treats, dental chews, and wipes. Everything fits in under 6” of depth—no more digging in cabinets. Works in bathrooms or linen closets too.
+On top, a [lazy Susan turntable](https://amzn.to/4ADpmJJ) holds treats, dental chews, and wipes. Everything fits in under 6” of depth—no more digging in cabinets. Works in bathrooms or linen closets too.
 
 ## 15. Can Furniture Covers Really Be Both Pet-Proof and Stylish?
  Bonus: add a pet hair roller to your laundry basket so it’s always handy.

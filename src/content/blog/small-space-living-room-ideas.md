@@ -29,6 +29,8 @@ faqs:
     a: "Light wall colours, a properly sized rug, mirrors, and vertical storage cover 80% of the visual impact — none of them require permanent changes. These are the same small living room ideas that work in a rental as well as an owned condo, since nothing here involves drilling or paint beyond what your lease allows."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Your living room is the first room guests see and the room you spend the most time in — it's also where the "vibey apartment living room aesthetic" people are chasing lately actually gets built, not through one statement piece but through the layered small decisions below. When it's 180 square feet and doubles as your dining room and [home office](/blog/small-apartment-home-office-ideas), every decision matters.
 
 > **Key Takeaways**
@@ -98,7 +100,7 @@ A standard coffee table takes up a permanent footprint in your floor plan. A set
 
 ## 8. Why Multi-Function Every Piece?
 
-In a small living room, every piece of furniture should do at least two things — a storage ottoman replacing both a coffee table and a linen closet in one purchase is the kind of two-for-one that defines every recommendation on this list. The fewer single-purpose pieces you own, the more space you have.
+In a small living room, every piece of furniture should do at least two things — a [storage ottoman](https://amzn.to/3VehY7d) replacing both a coffee table and a linen closet in one purchase is the kind of two-for-one that defines every recommendation on this list. The fewer single-purpose pieces you own, the more space you have.
 
 For specific multi-function furniture picks and prices, see the [small space furniture guide](/blog/small-space-furniture).
 

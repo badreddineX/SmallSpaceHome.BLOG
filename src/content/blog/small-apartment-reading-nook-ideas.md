@@ -20,6 +20,8 @@ faqs:
     a: "A full renter-friendly setup — chair, floor lamp, small rug, and a side table — runs roughly $250 to $650 CAD depending on whether you shop IKEA/Amazon.ca or a mid-range retailer like Structube. The chair is almost always the biggest line item."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Reading nooks have become one of the most requested small-space decor ideas, and it makes sense: after years of open-plan everything, people want one chair that's just for sitting down and doing nothing else. You don't need a spare room for that.
 
 **TL;DR:** A reading nook needs three things — a comfortable chair scaled to the space, a dedicated light source, and a small surface for a mug or a stack of books. A window corner, the dead space beside a bookcase, or the end of a hallway all work. Full renter-friendly setups run $250–$650 CAD, and nothing requires drilling.
@@ -70,7 +72,7 @@ Even a small rug (roughly 90 cm × 150 cm) visually separates the reading nook f
 The "closet reading nook" is exactly what it sounds like — converting an underused closet into a tiny reading corner. This works best in a walk-in or reach-in closet that isn't already earning its keep as storage.
 
 **What it takes:**
-- Remove the closet door, or replace it with a curtain on a tension rod
+- Remove the closet door, or replace it with a curtain on a [tension rod](https://amzn.to/4yZAcbl)
 - A slim chair or even a floor cushion, since closets are rarely wide enough for a full chair
 - A single clip-on or battery-powered light, since closets often lack a nearby outlet
 

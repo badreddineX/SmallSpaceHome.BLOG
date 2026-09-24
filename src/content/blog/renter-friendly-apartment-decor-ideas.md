@@ -20,6 +20,8 @@ faqs:
     a: "In most cases, yes — removable wallpaper is made for rentals. That said, always check your lease first, since some Canadian landlords prohibit any wall treatments. When in doubt, apply to a large wooden panel and lean it against the wall instead. Problem solved, deposit protected."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Moving into a Canadian rental doesn't mean living with beige walls and zero personality for years. You can add colour, pattern, warmth, and real style without touching a drill or risking your damage deposit. These ideas are all renter-approved — no drilling, no permanent damage, fully reversible.
 
 **TL;DR:** Removable peel-and-stick wallpaper (Chasing Paper, Tempaper, or Amazon.ca options) is the single biggest visual upgrade available to renters. Command Large Picture Hanging Strips hold up to 7.5 kg per pair — enough for most gallery walls. A correctly sized area rug (5x8 ft minimum) transforms any living room. Plants, lamps, and curtains hung high and wide do the rest.
@@ -108,7 +110,7 @@ Rental curtains (when they exist) are usually the wrong size. Buy curtains that 
 
 Hanging curtains 15 to 20 cm wider than the window frame on each side is the specific measurement that makes windows read as larger and ceilings as taller, without any drilling required beyond the rod bracket itself.
 
-Use a curtain rod with Command hooks for the rod brackets (check weight limits) or a tension rod inside the window frame for lightweight curtains.
+Use a curtain rod with Command hooks for the rod brackets (check weight limits) or a [tension rod](https://amzn.to/4yZAcbl) inside the window frame for lightweight curtains.
 
 ## 7. Peel-and-Stick Wallpaper Inside Closets and Cabinets
 

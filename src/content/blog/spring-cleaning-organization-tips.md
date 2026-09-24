@@ -22,6 +22,8 @@ faqs:
     a: "Swap seasonal storage (winter clothes out, spring/summer in — vacuum bags ~$25–$30 CAD on Amazon.ca are ideal). Update systems that stopped working over winter. Do a full pantry rotation. This is also a great time to add any <a href='/blog/storage-ideas-for-small-places'>small-space storage solutions</a> you identified as gaps during the colder months."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Spring clean in this order: declutter and reset each room first, then clean from top to bottom, using a simple three-product kit instead of a cabinet full of specialty cleaners.
 
 Spring in Canada means the apartment shows the full accumulation of a long winter — extra blankets that never made it back to storage, winter clothes piled with nowhere to go, a pantry full of comfort food. Spring cleaning is not just about cleanliness. It is about reset — getting the apartment back to a state where it works properly and feels good to come home to. According to CMHC, rental apartments are home to a growing share of Canadians, and a seasonal reset is one of the most practical ways renters can maintain a well-functioning space without permanent changes.
@@ -80,7 +82,7 @@ Spring is when you swap winter and summer wardrobes.
 - Winter coats, heavy sweaters, snow pants, and wool items → vacuum storage bags → under-bed or high shelf
 - Spring/summer clothing → front of closet and accessible drawers
 
-Vacuum bags compress winter clothing to a fraction of its size. ~$25–$30 CAD for a 6-bag set at Amazon.ca.
+[Vacuum-seal storage bags](https://amzn.to/4hkxQfL) compress winter clothing to a fraction of its size. ~$25–$30 CAD for a 6-bag set at Amazon.ca.
 
 ### Deep Clean:
 - Wash all bedding including duvet cover and pillowcases

@@ -26,6 +26,8 @@ faqs:
     a: "The trick is spending on the three things people actually notice — lighting, textiles, and one focal wall — instead of spreading a small budget across twenty small objects. A warm bulb, one good rug, and a gallery wall done with Command strips reads as intentional, not thrifted, even at under $200 CAD total."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar.
 
 Here's how to transform a rental apartment for under $200 CAD.
@@ -66,7 +68,7 @@ Harsh overhead lighting is one of the biggest reasons rental apartments feel ins
 
 **Budget lighting upgrade sequence:**
 1. **Warm bulbs everywhere** — $15–$25 CAD for a multipack at Canadian Tire or Amazon.ca
-2. **One floor lamp** — fills a corner, creates ambient light. Amazon.ca budget floor lamps from ~$35–$50 CAD, or check IKEA for ~$45–$89 CAD
+2. **[One floor lamp](https://amzn.to/46Iz5AI)** — fills a corner, creates ambient light. Amazon.ca budget floor lamps from ~$35–$50 CAD, or check IKEA for ~$45–$89 CAD
 3. **LED strip lights behind the TV** — optional accent, ~$20 CAD on Amazon.ca
 
 ## 3. What Textiles Give the Most Warmth for the Money? ($40–$60 CAD)

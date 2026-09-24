@@ -17,8 +17,10 @@ faqs:
   - q: "What furniture should I avoid in a small bedroom?"
     a: "Large solid platform beds, oversized dressers that crowd the room, and single-purpose pieces like vanities or armchairs that eat floor space without pulling their weight. When in doubt, buy the smaller size — you can always add, but taking away means returning something."
   - q: "How do I create storage in a small bedroom without a closet?"
-    a: "Under-bed IKEA SKUBB bags (~$14 CAD), a tall PAX wardrobe in the corner, over-door organizers on the bedroom door, and floating shelves on the walls. A bench at the foot of the bed with storage inside helps too. Full breakdown in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small bedroom storage ideas</a> guide."
+    a: "Under-bed IKEA SKUBB bags (~$14 CAD), a tall PAX wardrobe in the corner, [over-door organizers](https://amzn.to/4ADoqoH) on the bedroom door, and floating shelves on the walls. A bench at the foot of the bed with storage inside helps too. Full breakdown in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small bedroom storage ideas</a> guide."
 ---
+
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 A small bedroom does not need to feel like a storage closet with a bed in it. The right decor choices — light colours, correct bed placement, and layered lighting — can make even a compact Canadian apartment bedroom feel calm, spacious, and restful.
 

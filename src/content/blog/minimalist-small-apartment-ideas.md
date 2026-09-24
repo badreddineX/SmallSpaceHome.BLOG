@@ -22,6 +22,8 @@ faqs:
     a: "A small apartment is a size constraint; a minimalist apartment is a deliberate choice within that constraint. You can have a cluttered 400 sq ft apartment or a spacious-feeling one — the difference is entirely in what you choose to keep. Minimal apartments use the surfaces rule (nothing stays on a flat surface unless it's used daily) to keep that feeling consistent."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Minimalism in a small Canadian apartment is not a style choice — it's a practical necessity. When you're working with 400–650 square feet, every object that doesn't earn its space makes the apartment harder to live in. Minimalism means having exactly what you need and genuinely love, and nothing else. Here's how to approach it without turning your home into an empty showroom.
 
 According to CMHC, average rents in major Canadian cities have risen sharply, which means more people are staying in smaller apartments for longer — making livability even more important.
@@ -101,7 +103,7 @@ The IKEA NORDLI storage bed ($399–$699 CAD) and FRIHETEN sofa bed (~$999 CAD) 
 
 **Multi-function essentials:**
 - **Storage bed** — sleeping and storage. IKEA NORDLI ~$399–$699 CAD
-- **Storage ottoman** — seating, coffee table, and storage. Available at Wayfair Canada and HomeSense in a wide range of sizes and fabrics
+- **[Storage ottoman](https://amzn.to/3VehY7d)** — seating, coffee table, and storage. Available at Wayfair Canada and HomeSense in a wide range of sizes and fabrics
 - **KALLAX bookcase** — storage and room divider
 - **Sofa bed** — for anyone who needs guest sleep space (IKEA FRIHETEN ~$999 CAD)
 

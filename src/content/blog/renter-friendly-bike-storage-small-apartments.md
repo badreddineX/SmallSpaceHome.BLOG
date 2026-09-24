@@ -25,6 +25,8 @@ faqs:
     a: "Not always, but many purpose-built rental buildings in Canada have a bike room in the parkade or basement, often unlocked or accessed by fob. Ask property management directly. It's the single best storage solution because it costs nothing and keeps the bike out of your unit entirely."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Storing a bike in a small apartment comes down to three renter-safe options: a no-drill wall hook (~$20–$35 CAD), a freestanding vertical floor stand (~$30–$60 CAD), or your building's bike room if it has one. Each keeps the bike off the floor and out of your walking path without risking your damage deposit.
 
 > **Key Takeaways**
@@ -56,7 +58,7 @@ Command-rated bike hooks hold up to 35 lbs, enough for most aluminum and steel-f
 
 **Budget picks in Canada:**
 - Command Large Utility Hooks (rated ~7.5 lbs each, use two) — ~$12–$15 CAD at Canadian Tire or Amazon.ca, best for very light bikes only
-- Purpose-built adhesive bike hooks (rated 30–35 lbs) — ~$20–$30 CAD on Amazon.ca
+- [Purpose-built adhesive bike hooks](https://amzn.to/4Ao5aey) (rated 30–35 lbs) — ~$20–$30 CAD on Amazon.ca
 - Steadyrack or similar tension-mount options — ~$60–$90 CAD, no adhesive or drilling at all, works on almost any wall
 
 If your lease actually allows small holes (most do, within reason), a stud-mounted steel hook rated for 40+ lbs costs about $15–$25 CAD at Canadian Tire and is the sturdiest option for heavier hybrid or e-bikes. One screw into a stud, patched with a dab of spackle at move-out.

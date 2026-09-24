@@ -23,13 +23,15 @@ faqs:
     a: "Absolutely. Slim rotating turntables (IKEA STURE, ~$22 CAD) or sliding drawer organizers (Wayfair Canada, ~$19 CAD) let you access back items without overcrowding. A tension rod with hooks (about $12) can double spice storage without modifying anything."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 You're not the only one cringing at the fridge-jungle that appears every Sunday night. Kitchen clutter is one of the most common frustrations renters mention in small apartments—especially fridges and pantries.
 
 **TL;DR:** You don’t need built-in cabinetry—just smart, renter-friendly organization that works *with* your current setup. Focus on vertical space, stackable containers, and clear labeling. Skip adhesive that leaves residue, prioritize freestanding or tension-based solutions, and group items by use (not just location). You’ll save time, money, and stress—no hammer required.
 
 ## 1. How Do You Create Fridge Door Zones That Actually Work?
 
-Divide it into zones: top shelf for dressings and sauces (use a narrow bin to catch drips), middle for milk and juice (only 1-2 bottles per shelf), bottom for butter/cheese, and bottom-most for drinks. A $8.99 tension rod across the door interior (Amazon.ca) lets you hang reusable produce bags or small baskets—great for herbs or prepped snacks.
+Divide it into zones: top shelf for dressings and sauces (use a narrow bin to catch drips), middle for milk and juice (only 1-2 bottles per shelf), bottom for butter/cheese, and bottom-most for drinks. A $8.99 [tension rod](https://amzn.to/4yZAcbl) across the door interior (Amazon.ca) lets you hang reusable produce bags or small baskets—great for herbs or prepped snacks.
 
 ![Fridge door divided into labeled zones with clear bins and a tension rod holding herbs](/images/kitchen-open-shelves.jpg)
 

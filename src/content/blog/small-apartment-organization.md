@@ -20,6 +20,8 @@ faqs:
     a: "A rolling garment rack with a fabric cover (~$65–$100 CAD total) handles hanging clothes. A tall dresser takes folded items. Under-bed IKEA SKUBB bags store seasonal gear. Over-door organizers on the bedroom door manage shoes and accessories. Full details in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small apartment bedroom storage guide</a>."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Organization in a small apartment is not about buying more storage bins. It is about deciding what belongs in your space, where it lives, and then maintaining that system without letting things creep back.
 
 > **Key Takeaways**
@@ -103,7 +105,7 @@ The bedroom serves two purposes: sleep and storage. Slim velvet hangers cost abo
 **Start with the closet:**
 - Slim velvet hangers throughout — frees noticeably more hanging space for ~$18 CAD (50-pack, Amazon.ca)
 - Second tension rod below the existing one for shirts and jackets
-- Over-door organizer on the closet door for shoes and accessories (~$25–$35 CAD)
+- [Over-door organizer](https://amzn.to/4ADoqoH) on the closet door for shoes and accessories (~$25–$35 CAD)
 
 If you're working with a tight budget, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the highest-impact moves for under $50 CAD total.
 

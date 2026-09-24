@@ -20,6 +20,8 @@ faqs:
     a: "Yes, largely. Zoning costs nothing. Decluttering costs nothing. Repurposing a shoebox as a drawer divider costs nothing. The only real spend most renters need is under-bed bags (~$14 CAD) and maybe drawer dividers (~$10-15 CAD) — the system matters more than the products."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 A small bedroom organization system means three things working together: a decluttering method you actually repeat, zones that separate sleep from storage from work, and containers inside your existing furniture that stop drawers and shelves from turning back into junk piles. Most small bedroom advice skips straight to buying bins.
 
 **TL;DR:** Zone the room before buying anything: sleep, storage, and (if you work from home) a small work corner. Declutter one drawer or shelf at a time using keep/donate/trash, not the whole room in one sitting. Inside drawers, group by category with dividers so nothing collapses into a pile. Redo the whole system twice a year, timed to the seasonal clothing swap.
@@ -46,7 +48,7 @@ In a small Canadian apartment bedroom, there are usually three candidate zones: 
 
 **The work zone**, if you have one, should be the smallest footprint that works. A corner desk under 60 cm deep, positioned so you can't see the bed from the chair, keeps the "sleep" and "work" identities of the room from bleeding into each other, which matters more for actual sleep quality than most decor advice acknowledges.
 
-A rug is the easiest no-drill way to define a zone without touching a wall. A small area rug (~$40-60 CAD, IKEA or Structube) under a desk and chair visually separates "work" from "sleep" even in a single open room.
+A rug is the easiest no-drill way to define a zone without touching a wall. A [small area rug](https://amzn.to/4At2BYR) (~$40-60 CAD, IKEA or Structube) under a desk and chair visually separates "work" from "sleep" even in a single open room.
 
 Related: [small bedroom decor ideas](/blog/small-bedroom-decor-ideas)
 

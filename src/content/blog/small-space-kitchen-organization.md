@@ -22,6 +22,8 @@ faqs:
     a: "Group items into clear bins by category — dairy, produce, leftovers, condiments — so nothing gets lost at the back. Add a small lazy Susan for jars and condiments, and stackable clear organizers on the door shelving to use vertical space the fixed shelves waste. A full bin-and-organizer set runs ~$20–$35 CAD on Amazon.ca."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. The CMHC notes that a growing share of Canadian households rent rather than own, which means working within kitchen limitations — not renovating around them — is the reality for millions of renters.
 
 **TL;DR:** Zone the kitchen by task before buying any organizer — things should live where they're used. Clear the counters completely (everything except the coffee maker and one plant). Clear stackable pantry bins (~$5–$8 CAD each, Amazon.ca) eliminate the "lost at the back of the shelf" problem. An IKEA SKADIS pegboard (~$15 CAD) frees up a full drawer's worth of counter space.
@@ -105,7 +107,7 @@ Install Command hooks on the underside of upper cabinets to hang mugs. A 4-pack 
 
 ## 9. Turntable in the Corner Cabinet (~$8–$15 CAD)
 
-Corner cabinets in apartment kitchens are notorious for hiding things in the back where they never get used. A 2-tier lazy Susan turntable costs about $8–$15 CAD and brings everything in a deep corner cabinet to the front with a single spin, instead of staying lost at the back.
+Corner cabinets in apartment kitchens are notorious for hiding things in the back where they never get used. A [2-tier lazy Susan turntable](https://amzn.to/4ADpmJJ) costs about $8–$15 CAD and brings everything in a deep corner cabinet to the front with a single spin, instead of staying lost at the back.
 
 **Where to buy:** Amazon.ca, ~$8–$15 CAD for a 2-tier set.
 

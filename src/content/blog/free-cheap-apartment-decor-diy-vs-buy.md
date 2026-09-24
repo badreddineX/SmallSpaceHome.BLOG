@@ -25,6 +25,8 @@ faqs:
     a: "Curb alerts and 'free' sections on Facebook Marketplace and Buy Nothing groups yield frames, side tables, and shelving regularly in most Canadian cities. Community bulletin boards and end-of-lease moves (April 30/May 1 in Ontario) are peak season for free furniture left on curbs."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Some apartment decor projects save real money when you DIY them. The honest answer is that DIY only wins on low-material, low-tool projects; anything involving furniture-grade construction, electrical work, or bulk fabric is usually a false economy.
 
 This post isn't a budget tier like the others in this series, it's a decision framework for any budget: should you make it or buy it. For the actual dollar-by-dollar spending plans, see [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) ($200 CAD) or [apartment decor under $50](/blog/budget-apartment-decor-under-50).
@@ -72,7 +74,7 @@ Rug-making materials, canvas backing, latex adhesive, and bulk yarn or fabric st
 
 ### Light Fixtures That Need Wiring
 
-Most Canadian rental leases explicitly prohibit tenant electrical work, and hardwiring a pendant or flush-mount fixture incorrectly is a real fire and insurance risk, not just a lease violation. Plug-in pendant kits ($25–$45 CAD on Amazon.ca) exist specifically so renters can add fixture-style lighting without touching house wiring; a swing-arm floor lamp ($35–$50 CAD at IKEA) accomplishes the same mood upgrade with zero electrical involvement.
+Most Canadian rental leases explicitly prohibit tenant electrical work, and hardwiring a pendant or flush-mount fixture incorrectly is a real fire and insurance risk, not just a lease violation. Plug-in pendant kits ($25–$45 CAD on Amazon.ca) exist specifically so renters can add fixture-style lighting without touching house wiring; a [swing-arm floor lamp](https://amzn.to/46Iz5AI) ($35–$50 CAD at IKEA) accomplishes the same mood upgrade with zero electrical involvement.
 
 ### Most Furniture
 

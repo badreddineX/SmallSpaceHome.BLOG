@@ -23,13 +23,15 @@ faqs:
     a: "Skip wall mounts entirely for anything over 2–3 lbs. Use adjustable leaning easels (IKEA LACK shelf converted to an easel for ~$4 CAD) or place oversized art on floating shelves anchored only to freestanding bookshelves nearby — no wall contact needed."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Most renters worry about losing their security deposit over wall damage—yet plenty still hang nails or picture hooks anyway, hoping for the best. Every wall demands a different approach, and the easiest damage-proof method isn't about *how* you hang—it's about *what* you hang and *where* you lean it.
 
 **TL;DR:** Skip the nails—opt for tension rods, adhesive frames, freestanding ledges, and leaning art. Most solutions cost under $25 CAD and leave zero trace. Every method below is designed to leave the wall as you found it.
 
 ## 1. How Do You Hang a Gallery Wall With Zero Wall Contact?
 
-Here’s the trick: install a tension rod horizontally across the top of your wall space (not into the wall—just wedged between floor and ceiling or top of your dresser and shelf). Hang sheer panels, vintage scarves, or unframed watercolour paper panels from the rod using small adhesive clips or clothespins. A 36" rod (Amazon.ca, about $18 CAD) with linen tea towels as the canvas works well; the soft folds create depth and texture. For renters, this avoids *all* mounting hardware. Bonus: pull it down and pack it when you move. Just don’t overtighten—the wood trim can crack if you crank it like a torque wrench.
+Here’s the trick: install a [tension rod](https://amzn.to/4yZAcbl) horizontally across the top of your wall space (not into the wall—just wedged between floor and ceiling or top of your dresser and shelf). Hang sheer panels, vintage scarves, or unframed watercolour paper panels from the rod using small adhesive clips or clothespins. A 36" rod (Amazon.ca, about $18 CAD) with linen tea towels as the canvas works well; the soft folds create depth and texture. For renters, this avoids *all* mounting hardware. Bonus: pull it down and pack it when you move. Just don’t overtighten—the wood trim can crack if you crank it like a torque wrench.
 
 ![Tension rod gallery with tea towel panels in a bright Toronto living room](/images/decor-floating-shelves.jpg)
 

@@ -25,6 +25,8 @@ faqs:
     a: "A functional folding setup, mat, bands, adjustable dumbbells, and a storage ottoman, runs about $250–$450 CAD total from Canadian Tire, Amazon.ca, and Decathlon Canada. That's less than three months of an average GTA gym membership."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 You don't need a spare room to build a real home gym. A folding mat, a set of resistance bands, and adjustable dumbbells that live inside a storage ottoman can turn any 2×2 foot corner into a functional workout space. The equipment just has to earn its footprint twice: once during the workout, once folded away.
 
 The trick isn't buying less equipment, it's buying equipment that disappears.
@@ -51,7 +53,7 @@ One pair takes up the same floor space as a single fixed dumbbell but covers a 5
 
 ## How Do You Store Weights Without a Dedicated Room?
 
-A storage ottoman with a lift-top lid is the single most useful piece in a small apartment home gym, because it hides dumbbells and bands while functioning as a coffee table or extra seating the rest of the day. Canadian Tire and Amazon.ca both carry options from $60–$120 CAD.
+A [storage ottoman](https://amzn.to/3VehY7d) with a lift-top lid is the single most useful piece in a small apartment home gym, because it hides dumbbells and bands while functioning as a coffee table or extra seating the rest of the day. Canadian Tire and Amazon.ca both carry options from $60–$120 CAD.
 
 ![A storage ottoman with a lift-top lid used as hidden weight storage and a coffee table in a small apartment living room](/images/storage-ottoman.jpg)
 
@@ -67,7 +69,7 @@ Heavier plates, kettlebells over 20 lb, or a full weight bench won't fit an otto
 
 ## Can Under-Bed Storage Hold Real Gym Equipment?
 
-Under-bed storage bins with wheels can hold heavier plates, a folded weight bench, or a rolled mat, freeing floor space entirely for the hours you're not training. Rubbermaid and Sterilite under-bed bins run $15–$30 CAD at Canadian Tire and fit most bed frames with a standard 5–7 inch clearance.
+[Under-bed storage bags](https://amzn.to/4rwNiu6) or bins with wheels can hold heavier plates, a folded weight bench, or a rolled mat, freeing floor space entirely for the hours you're not training. Rubbermaid and Sterilite under-bed bins run $15–$30 CAD at Canadian Tire and fit most bed frames with a standard 5–7 inch clearance.
 
 Measure your bed's clearance before buying. A queen bed frame on legs typically clears 6–9 inches, enough for a low-profile bin holding a folded mat, bands, and a set of ankle weights. Platform beds with drawers built in solve this without buying anything extra.
 

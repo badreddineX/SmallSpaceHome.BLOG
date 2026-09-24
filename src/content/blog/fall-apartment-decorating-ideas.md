@@ -20,6 +20,8 @@ faqs:
     a: "Natural elements are free — collect pinecones, dried leaves, and seed pods on any walk. Dollarama has pumpkin and gourd decor for $1–$4 each. HomeSense and Winners carry quality cushions and throws at discount. Canadian Tire for seasonal candles. Total autumn refresh well under $75 CAD."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. CMHC notes that renters make up roughly one-third of Canadian households — and seasonal decorating is one of the most satisfying ways to make a rental feel like a real home.
 
 The secret to good fall apartment decorating is restraint: a few well-placed seasonal elements are far more effective than an apartment full of pumpkins and faux leaves.
@@ -123,7 +125,7 @@ A single arrangement costs ~$15–$40 CAD and lasts 4–6 months.
 
 ## 10. Add a Reading Station
 
-Autumn is reading season. A dedicated reading corner — an armchair or floor cushion, a floor lamp, a side table for a drink — invites the season's natural pace into the apartment.
+Autumn is reading season. A dedicated reading corner — an armchair or floor cushion, a [floor lamp](https://amzn.to/46Iz5AI), a side table for a drink — invites the season's natural pace into the apartment.
 
 If you already have an armchair, move it to the best-lit corner, add the lamp and a blanket, and the reading station is done.
 

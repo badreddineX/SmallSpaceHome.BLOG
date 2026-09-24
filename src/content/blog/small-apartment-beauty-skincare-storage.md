@@ -25,6 +25,8 @@ faqs:
     a: "A tension-mounted or adhesive-hook mirror shelf (~$20–$35 CAD on Amazon.ca) adds a narrow shelf above the medicine cabinet or mirror for perfumes and skincare bottles, using vertical space that's otherwise wasted."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Organizing skincare and makeup in a small apartment comes down to three moves: contain products in acrylic organizers, sort by category with drawer dividers, and purge on a schedule so clutter doesn't quietly rebuild every season. None of this requires a big bathroom — it requires containers that match how you actually use the products.
 
 This post zooms in on the stuff that actually piles up fastest: serums, palettes, half-used sunscreen, and the seventeen lip products nobody can account for.
@@ -61,7 +63,7 @@ A three-tier system works best: an acrylic tray for daily-use items, a labeled d
 
 ## How Should You Organize Makeup in a Small Bathroom or Bedroom?
 
-Makeup organizes best in shallow, divided containers rather than deep boxes, since deep containers hide items at the bottom and lead to duplicate purchases. Stackable acrylic makeup organizers cost $15–$30 CAD at Amazon.ca or Sephora Canada, and they let you see every product at a glance.
+Makeup organizes best in shallow, divided containers rather than deep boxes, since deep containers hide items at the bottom and lead to duplicate purchases. [Stackable acrylic makeup organizers](https://amzn.to/4hus8Il) cost $15–$30 CAD at Amazon.ca or Sephora Canada, and they let you see every product at a glance.
 
 **By category, not by brand.** Group lip products together, eyes together, face products together. This mirrors how you actually get ready in the morning and cuts decision time.
 

@@ -20,6 +20,8 @@ faqs:
     a: "Yes — the IKEA NORDLI ($399–$699 CAD) has enough drawer space to replace a full dresser. Removing the dresser from a small bedroom frees significant floor space and makes the room feel noticeably larger. It's one of the most impactful single furniture purchases for a Canadian renter."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Most small bedroom organization ideas assume you have furniture to work with. In a small Canadian apartment the room has to do double duty — sleep and storage — and most do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. Here is the complete approach to bedroom storage, in the order that makes the most difference.
 
 **TL;DR:** Start with under-bed storage (IKEA SKUBB bags, ~$14 CAD) and slim velvet hangers (~$18 CAD, Amazon.ca) — together these two changes can transform a small bedroom for under $35 CAD. Add a tension rod for double hanging ($15 CAD) and an over-door closet organizer ($28–$35 CAD). The IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio) ($399–$699 CAD) replaces the dresser entirely and is the most impactful single furniture purchase for a small bedroom.
@@ -31,9 +33,9 @@ Most small bedroom organization ideas assume you have furniture to work with. In
 The area under the bed is the largest storage zone in most bedrooms, and it is almost always underused. IKEA SKUBB under-bed bags run about $14 CAD for two, and bed risers (~$25 CAD) add roughly 15 cm of clearance for anyone whose frame sits too low to use the space at all.
 
 **Options:**
-- **IKEA SKUBB under-bed bags** (~$14 CAD for 2) — flat, zippable, dust-resistant. Ideal for [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear) and extra bedding. Available at IKEA Canada
+- IKEA SKUBB under-bed bags (~$14 CAD for 2) — flat, zippable, dust-resistant. Ideal for [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear) and extra bedding. Available at IKEA Canada. A similar [zippered under-bed storage bag](https://amzn.to/4rwNiu6) is available on Amazon.ca
 - **Flat lidded bins** — available at Amazon.ca, Canadian Tire, or IKEA. Choose clear bins so you can see contents without opening
-- **Bed risers** — if your bed frame sits too low (~$25 CAD at Amazon.ca), risers add 15 cm of clearance
+- **[Bed risers](https://amzn.to/46J0kuR)** — if your bed frame sits too low (~$25 CAD at Amazon.ca), risers add 15 cm of clearance
 
 **What to store under the bed:** off-season clothing, extra bed linens, bulky items used rarely (winter duvet in summer, summer blankets in winter), shoes.
 

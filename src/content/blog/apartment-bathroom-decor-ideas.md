@@ -26,6 +26,7 @@ faqs:
     a: "Pothos, ZZ plant, snake plant, and pothos again — they tolerate low light and the humidity actually helps them. A small fern or a spider plant works if you have a window. If the bathroom has no natural light at all, rotate a plant in from another room every couple of weeks, or use a realistic faux plant and skip the guilt."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 
 Rental bathrooms are the hardest room to decorate because everything permanent belongs to the landlord. But almost everything that *makes* a bathroom feel styled — colour, texture, light, greenery, a bit of art — is soft, freestanding, or stick-on. Here's what actually works.
@@ -58,7 +59,7 @@ The wall above the toilet is the most usable empty space in any small bathroom, 
 - **Leaning ladder shelf** — leans against the wall at an angle, no fixing at all. $50–$100 CAD. Good if you have a bit of floor space next to the sink or door.
 - **Tension corner shelf** — a spring-loaded pole with baskets that wedges floor-to-ceiling in the shower corner. $25–$45 CAD. Ends the row of bottles on the tub edge.
 
-For anything lighter — a small plant, a rolled towel, a trailing pot — a second tension rod mounted high across the window recess or between two walls gives you a hanging bar with zero hardware.
+For anything lighter — a small plant, a rolled towel, a trailing pot — a second [tension rod](https://amzn.to/4yZAcbl) mounted high across the window recess or between two walls gives you a hanging bar with zero hardware.
 
 ## Can You Change the Wall Without Painting?
 

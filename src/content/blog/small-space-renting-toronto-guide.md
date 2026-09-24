@@ -17,12 +17,14 @@ faqs:
   - q: "How small are apartments in Toronto?"
     a: "Studios in Toronto typically run 350–500 sq ft, and one-bedrooms usually fall between 500–650 sq ft, smaller than the Canadian average since much of the recent condo stock was built compact to keep purchase and rent prices down. If your unit feels tight, it's not you, it's the building type."
   - q: "Do I need a condo locker in Toronto?"
-    a: "Only if you've already maxed out in-suite storage (vertical shelving, under-bed bins, a storage ottoman) and still have bulky seasonal items like bikes or winter tires. Our <a href='/blog/condo-storage-ideas-toronto-vancouver'>condo storage guide</a> breaks down when a locker is actually worth the monthly fee."
+    a: "Only if you've already maxed out in-suite storage (vertical shelving, under-bed bins, a [storage ottoman](https://amzn.to/3VehY7d)) and still have bulky seasonal items like bikes or winter tires. Our <a href='/blog/condo-storage-ideas-toronto-vancouver'>condo storage guide</a> breaks down when a locker is actually worth the monthly fee."
   - q: "When is the best time to move apartments in Toronto?"
     a: "Toronto doesn't have a single fixed lease-turnover date like Quebec's July 1, but May to September sees the highest volume of listings and moves, since most leases run 12 months from a spring or summer start. Booking your condo's elevator and any freight window at least two weeks ahead matters more than the calendar date."
   - q: "What's the cheapest way to furnish a small Toronto apartment?"
     a: "Facebook Marketplace and IKEA cover most of the budget furniture in Toronto, with secondhand dressers and tables running well below retail. Our <a href='/blog/facebook-marketplace-furnishing-budget'>Marketplace furnishing guide</a> has the full search strategy and price ranges."
 ---
+
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Toronto renting means one thing above almost every other Canadian city: your unit is probably smaller than you'd get for the same rent in Calgary or Halifax, and it's probably in a highrise condo, not a house. Studios commonly run 350–500 sq ft, one-bedrooms 500–650 sq ft. The building stock splits into three eras: pre-war and postwar low-rises with real closets, 1960s–80s highrises with awkward layouts, and post-2010 condo towers built compact by design. Each type changes what actually works for storage and furnishing.
 

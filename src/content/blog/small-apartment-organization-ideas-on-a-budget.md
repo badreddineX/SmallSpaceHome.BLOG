@@ -20,6 +20,8 @@ faqs:
     a: "Dollarama for bins, baskets, and basic hooks — great value for low-load items at $1–$4 each. Amazon.ca for slim hangers, over-door organizers, and drawer dividers. IKEA for larger system pieces. Canadian Tire for Command hooks and strips."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 You do not need a $500 Container Store haul to get your apartment organized. Most small-space organization problems can be solved for well under $100 CAD — if you declutter first, identify the 2–3 specific problems, then buy targeted solutions for those problems only. CMHC data consistently shows that Canadian renters live in some of the smallest units in the country, which makes smart organization essential, not optional.
 
 Here are 15 ideas, all under $100 CAD total, from a Toronto renter who has tested every one of them.
@@ -48,7 +50,7 @@ Command large hooks hold up to 4.5 kg each and cost about $12 to $15 CAD for a 4
 
 The back of a door is storage you're not using. An over-door organizer with pockets transforms the back of a closet door into [shoe storage](/blog/small-apartment-shoe-storage-ideas), or a bathroom door into a holder for hair tools and products.
 
-An over-door organizer with 24 pockets costs $28 to $35 CAD and turns the back of a closet or bathroom door — space almost nobody uses — into real storage without a single screw.
+An [over-door organizer](https://amzn.to/4ADoqoH) with 24 pockets costs $28 to $35 CAD and turns the back of a closet or bathroom door — space almost nobody uses — into real storage without a single screw.
 
 **Where to buy:** Amazon.ca, 24-pocket organizer ~$28–$35 CAD.
 
@@ -56,7 +58,7 @@ An over-door organizer with 24 pockets costs $28 to $35 CAD and turns the back o
 
 A second tension rod below the existing closet rod creates a full extra tier for short clothing items. Takes five minutes and requires no tools.
 
-A second tension rod costs about $15 CAD and takes five minutes to install, effectively doubling the usable hanging tiers in a standard closet for less than the price of a takeout dinner.
+A [second tension rod](https://amzn.to/4yZAcbl) costs about $15 CAD and takes five minutes to install, effectively doubling the usable hanging tiers in a standard closet for less than the price of a takeout dinner.
 
 **Where to buy:** Amazon.ca or Canadian Tire, ~$15 CAD.
 

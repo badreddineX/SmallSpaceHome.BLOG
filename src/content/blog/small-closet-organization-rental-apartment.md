@@ -20,6 +20,8 @@ faqs:
     a: "Yes, if the closet is deep enough for KOMPLEMENT inserts or you use a freestanding PAX-adjacent setup. For most standard rental reach-in closets, though, SKUBB boxes and BUMERANG hangers give you 80% of the benefit without any wardrobe frame at all."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 One rod, one shelf, and a landlord who made it very clear the walls were staying exactly as they were. Most closet advice online assumes you're working with a walk-in — this is what actually works for a *very* small closet, when it's the size of a phone booth and already crammed with clothes.
 
 The short version: declutter before you buy a single organizer, switch to slim hangers first, and use vertical space (shelf risers, stacked bins, the door itself) before you spend money on anything bigger. Every idea below is renter-safe — no drilling, no permanent changes, and everything comes down clean at move-out.
@@ -65,7 +67,7 @@ For a slightly sturdier option, IKEA's VARIERA shelf insert (~$13 CAD) works the
 
 Over-the-door organizers hang directly on a standard closet door and typically add 12–24 pockets of storage, all without a single screw. ([Command Brand installation guide](https://www.command.com/), 2026) They're the single easiest closet upgrade for renters because there's genuinely nothing to install; the hooks just go over the top of the door.
 
-Use the pockets for shoes, folded scarves, jewelry, belts, or small accessories that otherwise end up in a pile on the closet floor. A 24-pocket organizer from Amazon.ca runs $28–40 CAD, and it's usually enough capacity that you won't need a second one unless you have a genuinely large shoe collection.
+Use the pockets for shoes, folded scarves, jewelry, belts, or small accessories that otherwise end up in a pile on the closet floor. A [24-pocket organizer](https://amzn.to/4ADoqoH) from Amazon.ca runs $28–40 CAD, and it's usually enough capacity that you won't need a second one unless you have a genuinely large shoe collection.
 
 Don't limit this trick to the closet door itself. If your bedroom closet is small but you have a second door nearby, like a linen closet or the bathroom door, an over-door rack there can absorb overflow items that don't fit in the closet proper.
 
@@ -89,7 +91,7 @@ IKEA's BUMERANG hangers (~$8 CAD for a 8-pack) are a solid budget option, though
 
 ## How Do Tension Rods Create Extra Closet Tiers?
 
-A second tension rod installed below your existing closet rod adds a full extra tier for shorter items, and it takes about five minutes with zero tools. A tension rod costs $15–$22 CAD and roughly doubles the hanging capacity in the lower half of a closet, making it one of the highest-value no-drill upgrades on this list for the price.
+A [second tension rod](https://amzn.to/4yZAcbl) installed below your existing closet rod adds a full extra tier for shorter items, and it takes about five minutes with zero tools. A tension rod costs $15–$22 CAD and roughly doubles the hanging capacity in the lower half of a closet, making it one of the highest-value no-drill upgrades on this list for the price.
 
 Use the lower tier for shirts, folded trousers, blazers, or kids' clothing, anything that doesn't need full-length hanging room. A tension rod from Amazon.ca or Canadian Tire runs $15–22 CAD, and if your closet is wide, buying two lets you split hanging zones by category.
 

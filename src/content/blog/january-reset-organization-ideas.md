@@ -20,6 +20,8 @@ faqs:
     a: "Slim velvet hangers (~$18 CAD, Amazon.ca) free up 30–40% of closet space. Clear stackable bins with lids (~$5–$8 each, Amazon.ca or IKEA Canada) work for pantry, bathroom, and entryway. A door-mounted organizer (~$25–$35 CAD) works on any door without drilling. Under-bed IKEA SKUBB bags (~$14 CAD) store seasonal items flat. These four items cover most of the visible organization gaps in a small apartment."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 January in Canada is the right time to reset. The holidays leave behind extra stuff — gifts, packaging, food, decoration — and the apartment absorbs all of it. By early January, a small apartment that worked well in November can feel genuinely cramped. A reset fixes that. Not a full renovation, not a new furniture purchase — a systematic declutter and reorganize that gets the space back to a baseline that works.
 
 In spaces this size, clutter has an outsized impact — and so does clearing it.
@@ -90,7 +92,7 @@ Clear stackable bins (~$5–$8 CAD each at Amazon.ca or IKEA Canada) by category
 The holiday season tends to surface appliances that only come out once a year. January is when you decide: does this earn its space? In a small apartment kitchen, every inch of cabinet space is at a premium. A panini press used twice a year does not earn a cabinet.
 
 ### The under-sink cabinet:
-Usually the most chaotic spot in a small apartment kitchen. In January, empty it completely. Install a tension rod across the middle to hang spray bottles. Use a turntable (~$10–$15 CAD) for products at the back. This one cabinet often looks dramatically better in 20 minutes.
+Usually the most chaotic spot in a small apartment kitchen. In January, empty it completely. Install a tension rod across the middle to hang spray bottles. Use a [turntable](https://amzn.to/4ADpmJJ) (~$10–$15 CAD) for products at the back. This one cabinet often looks dramatically better in 20 minutes.
 
 ![An organized pantry with clear labeled bins after a January kitchen reset — every category visible and accessible](/images/blog-22-img3.jpg)
 
@@ -143,7 +145,7 @@ The deep-of-winter entryway needs to be functional above all else. Reduce it to 
 Everything else — seasonal footwear, extra bags, rarely-used outerwear — moves to the closet or under-bed storage.
 
 ### What to add if the entryway is chaotic:
-A door-mounted organizer on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) is the single highest-impact fix for a chaotic Canadian winter entry — it holds gloves, scarves, and small items, and requires no drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, [shoe storage](/blog/small-apartment-shoe-storage-ideas), and surface for daily items simultaneously.
+A [door-mounted organizer](https://amzn.to/4ADoqoH) on the back of the entry closet door (~$25–$35 CAD at Amazon.ca) is the single highest-impact fix for a chaotic Canadian winter entry — it holds gloves, scarves, and small items, and requires no drilling. An IKEA KALLAX unit at the entry, if space allows, functions as bench seating, [shoe storage](/blog/small-apartment-shoe-storage-ideas), and surface for daily items simultaneously.
 
 ![A reset apartment entryway after January — coat hooks, boot tray, and a clear surface for daily essentials](/images/blog-22-img4.jpg)
 

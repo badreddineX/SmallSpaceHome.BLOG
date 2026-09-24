@@ -20,6 +20,8 @@ faqs:
     a: "A drop zone is a fixed spot near your door for keys, wallet, and mail so you're not searching for them every morning. A single small tray or wall pocket organizer ($8–$20 CAD) is enough. It's the cheapest habit-forming fix on this list."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Small apartment entryways get almost no design attention, but they take the most daily abuse: wet boots, dropped keys, a coat pile that migrates onto the nearest chair. Statistics Canada reports the average rented apartment in a major Canadian city runs under 700 square feet ([Statistics Canada](https://www150.statcan.gc.ca/), 2021), which usually means the entry is a narrow strip, not a room.
 
 ---
@@ -51,7 +53,7 @@ Rule of thumb for a small entry: keep only the current season's shoes at the doo
 
 ## How Do You Hang Coats Without Drilling Into a Rental Wall?
 
-A tension-rod coat rack wedges between two walls or a wall and door frame using spring pressure alone, holding several coats without a single screw. These run $20–$35 CAD on Amazon.ca and typically support 5–7 kg, more than enough for a rotation of jackets. Most renters reach for wall hooks first, but a tension rod actually holds more weight per dollar and leaves zero marks.
+A [tension rod](https://amzn.to/4yZAcbl) coat rack wedges between two walls or a wall and door frame using spring pressure alone, holding several coats without a single screw. These run $20–$35 CAD on Amazon.ca and typically support 5–7 kg, more than enough for a rotation of jackets. Most renters reach for wall hooks first, but a tension rod actually holds more weight per dollar and leaves zero marks.
 
 Freestanding coat racks are the other no-drill option, and they work especially well if your hallway is wide enough to spare 40 cm of floor space. Wayfair Canada and Amazon.ca both list wood or metal tree-style racks from $35–$65 CAD.
 
@@ -61,7 +63,7 @@ For anyone with an entry closet already built in, a second tension rod inside th
 
 Door-back hook organizers hang directly over the entry door itself and hold bags, umbrellas, and scarves without touching a single wall. 3M's Command hook line holds up to 2.3 kg per hook and removes cleanly, leaving no residue ([3M Command](https://www.command.com/), 2024). A set of 4–6 hooks on an adhesive rail costs about $12–$18 CAD.
 
-If your entry door swings inward and hooks would get in the way, an over-door organizer with pockets (Amazon.ca, ~$20–$28 CAD) works just as well for umbrellas, gloves, and dog leashes. It hangs off the top of the door, no adhesive or drilling involved either way.
+If your entry door swings inward and hooks would get in the way, an [over-door organizer](https://amzn.to/4ADoqoH) with pockets (Amazon.ca, ~$20–$28 CAD) works just as well for umbrellas, gloves, and dog leashes. It hangs off the top of the door, no adhesive or drilling involved either way.
 
 One habit worth building: assign each household member their own hook. It sounds small, but it's the difference between an organized entry and a pile that grows every week.
 

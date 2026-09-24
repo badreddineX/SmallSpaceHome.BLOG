@@ -23,7 +23,9 @@ faqs:
   - q: "How do I choose apartment-size furniture that fits a small Canadian apartment?"
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
 ---
- Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
+ *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
+Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
 **TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio) replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 
@@ -96,7 +98,7 @@ IKEA storage solutions work differently in bathrooms than in living rooms or bed
 
 ### Coffee Tables and Side Tables
 
-**Storage ottoman with tray** — ~$89–$150 CAD (Wayfair Canada)
+**[Storage ottoman](https://amzn.to/3VehY7d) with tray** — ~$89–$150 CAD (Wayfair Canada)
 The best coffee table option in a small apartment. Stores extra blankets, games, or anything you don't need daily. The tray gives a hard surface for drinks and remotes.
 
 **IKEA LACK side table** — ~$19 CAD

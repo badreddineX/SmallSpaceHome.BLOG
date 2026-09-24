@@ -13,12 +13,14 @@ faqs:
   - q: "Can I use warm earthy tones in a small, dark apartment without making it feel gloomy?"
     a: "Yes—stick to warm neutrals (like ochre, clay, or warm beige) rather than deep browns or moss greens in low light. Paint a single accent wall in Behr's 'Warm Bread' ($45 CAD for 3.78L at HomeSense) and balance with crisp white trim and layered lighting—like a $24 LED desk lamp from IKEA—to bounce light and keep it airy."
   - q: "What's the cheapest way to add warm earthy texture in a renter-friendly way?"
-    a: "Rental-safe woven wall hangings or macramé tapestries in terracotta, rust, or ochre hang over tension rods ($12–$25 CAD at Urban Outfitters Canada or Amazon.ca). You can also layer textured rugs—like a jute or wool blend rug from Canadian Tire (~$89 CAD for 5'x8'). All removable and leave no residue."
+    a: "Rental-safe woven wall hangings or macramé tapestries in terracotta, rust, or ochre hang over [tension rods](https://amzn.to/4yZAcbl) ($12–$25 CAD at Urban Outfitters Canada or Amazon.ca). You can also layer textured rugs—like a jute or wool blend rug from Canadian Tire (~$89 CAD for 5'x8'). All removable and leave no residue."
   - q: "Do warm earthy palettes work with exposed concrete or brick walls?"
     a: "Absolutely. Concrete's cool grey actually *enhances* warm tones. Use Command hooks ($6 CAD for 12-pack on Amazon.ca) to hang framed fabric art or dried botanical prints in cream and burnt sienna. Skip paint unless your lease allows it—opt instead for removable wallpaper samples ($8 CAD/sample at Spoonflower via Amazon.ca)."
   - q: "How do I avoid making my tiny space feel closed-in with warm colors?"
     a: "Keep your walls neutral (off-white or warm greige) and only layer warmth in textiles and accessories. A $38 IKEA KIVIK armchair in 'Nordviken' warm grey or a $22 linen throw from Simons keeps it grounded but open. Always have at least one reflective surface nearby—think glass, mirrored trays, or metallic frames—to break up bulk."
 ---
+
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You're not alone if your small apartment feels like it's stuck in beige limbo—or worse, bounces cold blues off concrete walls. Most renters avoid bold colour changes because of lease restrictions, which is exactly why textiles and removable accents do so much of the work here.
 

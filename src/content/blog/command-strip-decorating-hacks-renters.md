@@ -24,6 +24,8 @@ faqs:
 
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Let’s be real: apartment living in Canada means you can’t just hammer, drill, or paint to your heart’s content. Many landlords will deduct from a deposit for even a single nail hole, especially in units with concrete walls. That makes zero-damage decorating a genuine skill worth learning, and Command strips are the backbone of it. Here’s what *actually* holds weight, looks good, and survives Canadian winters.
 
 **TL;DR:** Command strips are the renter’s best friend—*if* you know which ones to use and where. Stick to smooth, clean surfaces, apply pressure for 30 seconds, and pull straight down when removing. Used correctly, these 15 approaches work in most Canadian apartments with no deposit deductions. Bonus: every item listed costs under $15 CAD and ships across Canada.
@@ -88,7 +90,7 @@ Skip the expensive kitchen island and mount a small pegboard above the counter i
 
 ## 14. Can Tension Rods and Command Strips Combine for Custom Storage?
 
-Combine two renter staples: tension rods (for windows or showers) and Command™ hooks. Sticking hooks to the *underside* of upper cabinets and running a tension rod between them creates a spot to hang pot lids, measuring cups, and cleaning sprays. It saves counter space and looks tidy. Cost: typically $12–$18 CAD for two rods plus $5–$7 CAD for hooks.
+Combine two renter staples: [tension rods](https://amzn.to/4yZAcbl) (for windows or showers) and Command™ hooks. Sticking hooks to the *underside* of upper cabinets and running a tension rod between them creates a spot to hang pot lids, measuring cups, and cleaning sprays. It saves counter space and looks tidy. Cost: typically $12–$18 CAD for two rods plus $5–$7 CAD for hooks.
 
 ## 15. Can You Mount a Desktop Organizer Without Drilling?
 

@@ -20,6 +20,8 @@ faqs:
     a: "Yes — especially for renters who move every 2–3 years. Flat-pack means easy moving, prices are realistic on a renter's budget, and resale on Facebook Marketplace or Kijiji in Toronto, Vancouver, and Calgary holds up well. Assemble carefully and add anti-tip straps where needed."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 The best IKEA hacks for small apartments use KALLAX as a room divider or entry bench, PAX to fix a weak closet, a NORDLI storage bed instead of a dresser, and BILLY or LACK pieces for height and floating storage, all without a drill.
 
 IKEA is the default furniture store for Canadian apartment renters for good reason — it's designed for small spaces, available across Canada, and priced for people who might move in two years. But not everything works in a small apartment. These 15 ideas use IKEA products in smart configurations that solve real problems, with no cutting, no major modifications, and no need for a drill. CMHC data shows that rental affordability is a persistent challenge across Canadian cities, which makes budget-conscious furniture choices more important than ever.
@@ -139,7 +141,7 @@ SKUBB under-bed bags (~$14 for 2) are flat, zip closed, and designed to slide un
 
 SKUBB under-bed bags cost about $14 CAD for a pack of 2 and are the standard flat-storage option for anything only needed twice a year, like off-season clothing.
 
-If combined with NORDLI or MALM bed risers, you can add even more under-bed clearance.
+If combined with NORDLI or MALM bed risers, you can add even more under-bed clearance. If you'd rather skip the IKEA-specific bags, a similar [non-IKEA under-bed storage bag](https://amzn.to/4rwNiu6) from Amazon.ca does the same flat, zip-closed job.
 
 ![IKEA SKUBB under-bed storage bags are designed to slide under any IKEA bed frame](/images/blog-12-img4.jpg)
 

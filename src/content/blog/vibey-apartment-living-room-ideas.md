@@ -25,6 +25,8 @@ faqs:
     a: "Efficiency is about function — multi-purpose furniture, storage, traffic flow. Vibe is about mood — light temperature, texture layering, and a curated, lived-in feel. A room can be perfectly space-efficient and still feel sterile; this guide focuses on the mood layer that sits on top of whatever layout you already have. See our <a href='/blog/small-space-living-room-ideas'>space-saving living room guide</a> for the layout side."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 "Vibey apartment living room" has become a popular way people describe the look they're after, and it's not chasing a new furniture trend. It's a mood problem: most rental living rooms are lit by one bright overhead fixture and furnished for function, not feeling. Fixing that costs less than you'd think, and none of it requires a drill.
 
 **TL;DR:**
@@ -73,7 +75,7 @@ In testing this on a 320-square-foot studio, swapping four throw pillow covers a
 
 Warm neutrals and earthy tones outperform stark white or cool gray for a moody, lived-in feel, and most of this works without a landlord's paint approval. Removable options exist for exactly this reason.
 
-- **Peel-and-stick wallpaper panel** behind the sofa or TV console (~$40–$70 CAD, Amazon.ca) in a terracotta, sage, or warm plaster tone
+- **[Peel-and-stick wallpaper panel](https://amzn.to/47gQ6lD)** behind the sofa or TV console (~$40–$70 CAD, Amazon.ca) in a terracotta, sage, or warm plaster tone
 - **A large woven wall hanging or macrame piece** (~$35–$60 CAD, HomeSense) adds warmth without touching paint
 - **Command-strip picture ledges** for layered art (~$20–$30 CAD, IKEA MOSSLANDA) build depth against a plain wall
 

@@ -25,6 +25,8 @@ faqs:
     a: "Use your phone's built-in scanner (Notes app on iPhone, Google Drive on Android) to photograph bills and receipts, save them to a labelled cloud folder by year, then shred the paper copy immediately. Most Canadians don't need a dedicated scanner for this."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 If your kitchen counter has a pile of mail you're avoiding, the fix isn't a bigger desk. It's a wall-mounted command centre near your door, a filing system with fewer than 15 folders, and a weekly shredding routine. All three fit in under two square feet.
 
 **TL;DR:** Mount a small entryway organizer ($20–$35 CAD) for daily mail sorting, keep a single portable file box ($25–$40 CAD at Staples Canada) for lease/tax/bank documents, digitize everything else with your phone's scanner, and shred weekly. Total system cost: roughly $60–$90 CAD, and it fits in a space smaller than a shoebox.
@@ -46,9 +48,9 @@ A command centre is a small wall-mounted station, usually 12–18 inches wide, t
 
 **Budget options in Canada:**
 - IKEA KUBBIS or TJENA wall organizer — from ~$20–$35 CAD
-- Amazon.ca 3-tier wall-mounted mail sorter — ~$25–$40 CAD
+- Amazon.ca [3-tier wall-mounted mail sorter](https://amzn.to/4xMGDgP) — ~$25–$40 CAD
 - Dollarama magnetic fridge pockets (temporary/renter option) — $3–$5 CAD each
-- Command strips to hang any of the above without drilling — ~$8–$12 CAD for a multipack
+- [Command strips](https://amzn.to/3VfqnHy) to hang any of the above without drilling — ~$8–$12 CAD for a multipack
 
 Small trick, but it matters if your entryway doubles as your living space, which in most Canadian rentals under 600 sq ft, it does.
 

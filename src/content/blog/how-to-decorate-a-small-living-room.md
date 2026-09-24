@@ -23,6 +23,8 @@ faqs:
     a: "Three things signal quality on a budget: a large area rug sized correctly (front legs of the sofa sitting on it), ceiling-height curtains, and layered lighting — floor lamp plus table lamp, no harsh overhead. These three changes cost under $400 CAD combined and transform any rental living room."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 A small living room is a layout puzzle before it's a decorating challenge. Most people skip the puzzle and go straight to buying things — that's backwards. The sequence matters: layout first, then lighting, then furniture, then decor.
 
 
@@ -136,7 +138,7 @@ A small living room needs storage, but it shouldn't look like a storage room.
 
 **Living room storage that looks designed:**
 - **KALLAX as media console** — cubes hide cables, media, and anything you don't want visible. Add fabric inserts for closed storage
-- **Storage ottoman as coffee table** — stores blankets, magazines, board games
+- **[Storage ottoman](https://amzn.to/3VehY7d) as coffee table** — stores blankets, magazines, board games
 - **Floating shelves above the sofa** — books and plants, styled intentionally
 - **Wicker basket beside the sofa** — for extra cushions and throws
 

@@ -23,6 +23,8 @@ faqs:
     a: "Start with IKEA’s LACK wall shelf ($9.99 CAD) using Command strips for light items, a $24.99 CAD tension rod, and a $19.99 CAD hanging pantry organizer from HomeSense for spices or toiletries. Total: ~$75 CAD with zero damage."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Canadian apartments in major cities tend to run small, and singles under 35 often end up in the tightest units of all. No wonder we're all competing for every vertical inch above head height. No nails. No mess. No landlord headaches.
 
 > **Key Takeaways**
@@ -35,7 +37,7 @@ Canadian apartments in major cities tend to run small, and singles under 35 ofte
 
 ## 1. Can Tension Rods Really Replace Shelving in a Small Apartment?
 
-Tension rods are the quiet MVP of small-space storage—especially in older apartments where drilling is banned in the lease. Perfect for folded sweaters, hats, or even extra toilet paper rolls. In the kitchen? Mount a rod above your fridge or oven to hold pot lids vertically or spice tins. Just measure twice: standard door height is 80", so a 75–80" rod gives you ~1–2" of compression grip on either side. Avoid hollow-core doors, common in older rental buildings—they crack under pressure. Stick to walls with solid framing or use a second rod opposite to share the load.
+[Tension rods](https://amzn.to/4yZAcbl) are the quiet MVP of small-space storage—especially in older apartments where drilling is banned in the lease. Perfect for folded sweaters, hats, or even extra toilet paper rolls. In the kitchen? Mount a rod above your fridge or oven to hold pot lids vertically or spice tins. Just measure twice: standard door height is 80", so a 75–80" rod gives you ~1–2" of compression grip on either side. Avoid hollow-core doors, common in older rental buildings—they crack under pressure. Stick to walls with solid framing or use a second rod opposite to share the load.
 
 ![A tension rod mounted above a door holding folded clothes and a hanging shelf bin](/images/closet-walkin.jpg)
 
@@ -51,7 +53,7 @@ For light shelves (think: 6–12" deep, under 4 lbs), go with Command CLAW™ He
 
 ## 4. What's the Best Over-the-Door Organizer for Renters?
 
-Most over-the-door organizers look flimsy—until you pick the right one. The simple fabric kind (like the $14.99 CAD Structube model) sag with wet towels. Instead, grab the SONGMICS 6-Panel Hanging Organizer ($28 CAD on Amazon.ca): plastic-backed, 40" tall, with 6 rigid mesh pockets. The rigidity means no bulging, and the hooks slide over standard doors without scratching. Bonus: reversible mounting—you can hang it left- or right-facing depending on how your door opens. Works great in bathroom entryways too, especially in older units where cabinets tend to run shallow.
+Most over-the-door organizers look flimsy—until you pick the right one. The simple fabric kind (like the $14.99 CAD Structube model) sag with wet towels. Instead, grab the [SONGMICS 6-Panel Hanging Organizer](https://amzn.to/4ADoqoH) ($28 CAD on Amazon.ca): plastic-backed, 40" tall, with 6 rigid mesh pockets. The rigidity means no bulging, and the hooks slide over standard doors without scratching. Bonus: reversible mounting—you can hang it left- or right-facing depending on how your door opens. Works great in bathroom entryways too, especially in older units where cabinets tend to run shallow.
 
 ## 5. Ceiling-Mounted Storage? Only If Your Ceiling’s Under 9 Feet
 

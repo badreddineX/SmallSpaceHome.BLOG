@@ -99,7 +99,7 @@ The one rule: get the chair fully under the desk when you're not working. A chai
 If your studio has a defined sleeping alcove — a lot of older Canadian buildings do — treat it like a small bedroom. The same layout rules apply:
 
 - Bed long-side to the wall, headboard against the shortest wall.
-- Storage goes vertical: shelves above the bed, a slim dresser rather than a wide one, under-bed bins on wheels.
+- Storage goes vertical: shelves above the bed, a slim dresser rather than a wide one, [under-bed storage bags](https://amzn.to/4rwNiu6) or bins on wheels.
 - Keep one clear side to get in and out, minimum 55–60cm.
 - A single wall light or clip light instead of a lamp on furniture you don't have.
 

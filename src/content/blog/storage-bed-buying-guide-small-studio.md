@@ -24,6 +24,8 @@ faqs:
     a: "Drawer-base frames like the NORDLI ship flat-packed in several boxes and assemble in the room, so they fit through any standard door or elevator that a regular bed frame would. The one thing to check first: total assembled weight (NORDLI queen runs roughly 70–90 kg full frame), since a heavier frame is harder to move again at your next lease renewal."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Grab a tape measure before reading further — it decides which half of this guide applies to you.
 
 If you already have bins and risers figured out and just need the how-to, [under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment) covers that in more depth. This page is the buy-new-or-work-with-what-you-have decision, one level up.
@@ -55,7 +57,7 @@ If your current bed frame is otherwise fine and you're not planning to replace i
 
 Bed risers add 12–15 cm of clearance under most existing frames, which is usually enough to fit two rows of flat storage bins per side of a queen or double bed — roughly 2–4 bins total, holding an off-season wardrobe swap or spare bedding.
 
-**Bed risers** ($20–$28 CAD, Amazon.ca or Canadian Tire) slide under each leg and add height without touching the frame itself — reversible in seconds, no tools required. **Flat lidded bins** ($8–$15 CAD each) protect shape-sensitive items like shoes and folded sweaters from dust. **Vacuum-seal bags** ($10–$18 CAD for a multipack) compress bulky items like duvets and winter coats to a quarter of their size, the better option specifically when clearance stays under 15 cm even with risers.
+**[Bed risers](https://amzn.to/46J0kuR)** ($20–$28 CAD, Amazon.ca or Canadian Tire) slide under each leg and add height without touching the frame itself — reversible in seconds, no tools required. **Flat lidded bins** ($8–$15 CAD each) protect shape-sensitive items like shoes and folded sweaters from dust. **Vacuum-seal bags** ($10–$18 CAD for a multipack) compress bulky items like duvets and winter coats to a quarter of their size, the better option specifically when clearance stays under 15 cm even with risers.
 
 Full breakdown of bins vs. bags vs. what never belongs under a bed is in [under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment).
 

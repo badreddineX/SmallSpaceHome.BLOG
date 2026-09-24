@@ -27,6 +27,8 @@ faqs:
     a: "Mostly not — the core no-drill, vertical-first principles are identical. The real differences are building-specific: condo boards often have stricter rules than a private landlord about balcony storage and hallway items, elevators can be smaller than a typical apartment building's, and many condos include a locker that a rental apartment wouldn't. Check your condo's specific bylaws before installing anything on a shared wall or balcony."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Condo living in Toronto or Vancouver means a unique storage problem: the unit is often smaller than a comparable rental apartment, but the building rules are usually stricter about what you can attach to a wall. No drilling into shared walls, balcony restrictions that vary by board, and elevators that weren't built with furniture deliveries in mind. Here's what actually works — tested against those exact constraints, not generic small-space advice.
 
 **TL;DR:**
@@ -45,7 +47,7 @@ The wall space above eye level is the most consistently wasted area in any condo
 
 **Options:**
 - **Floating shelves (adhesive-mount, no drilling)** — ~$25–$45 CAD, Amazon.ca or IKEA LACK shelf
-- **Over-door organizer for closets and the bathroom** — ~$20–$35 CAD
+- **[Over-door organizer](https://amzn.to/4ADoqoH) for closets and the bathroom** — ~$20–$35 CAD
 - **A tall, narrow bookshelf** (IKEA BILLY, 40 cm wide) — ~$79–$99 CAD, fits beside a sofa or in an entryway
 
 **Why this matters more in a condo than a rental house:** condo square footage is usually smaller per dollar than a comparable rental apartment in the same neighbourhood, so vertical space is doing more work per square foot here than almost anywhere else.
@@ -76,7 +78,7 @@ Condos rarely have garage or shed space, so bikes and bulky seasonal gear need a
 
 - **Wall-mount bike rack, tension or freestanding** (~$25–$40 CAD, Canadian Tire or Amazon.ca) — keeps a bike vertical in an entryway corner without drilling
 - **Weatherproof deck box** for balcony gear, if your board allows [balcony storage](/blog/small-apartment-balcony-storage-ideas) (varies — check your condo's specific bylaws)
-- **Seasonal rotation system** for winter tires and off-season clothes — our <a href="/blog/seasonal-storage-off-season-clothes-gear">seasonal storage guide</a> covers the vacuum-bag and bin system that works in tight closets
+- **Seasonal rotation system** for winter tires and off-season clothes — our <a href="/blog/seasonal-storage-off-season-clothes-gear">seasonal storage guide</a> covers the [vacuum-bag](https://amzn.to/4hkxQfL) and bin system that works in tight closets
 
 ## 5. What Storage Rules Are Different for Condos vs. Rental Apartments?
 

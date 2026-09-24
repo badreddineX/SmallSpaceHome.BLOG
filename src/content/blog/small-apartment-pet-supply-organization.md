@@ -25,6 +25,8 @@ faqs:
     a: "Collapsible soft-sided carriers fold flat and slide under a bed or on top of a closet shelf, while hard-sided carriers stack in a closet or store on a high shelf. A carrier used only for vet trips doesn't need dedicated floor space year-round."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 Organizing pet supplies in a small apartment comes down to four zones: a sealed food container near the kitchen, hooks by the door for leashes and bags, a concealed spot for the litter box, and vertical storage for anything used less than weekly. Get those four right and pet clutter mostly disappears.
 
 This is the organization-focused companion to our broader [15 pet-friendly small apartment setup ideas](/blog/pet-friendly-small-apartment-ideas) guide. That article covers the bigger picture: layout, furniture choices, flooring, and pet-proofing a rental. This one goes narrower and answers a more specific question — once you've got a pet-friendly apartment, where does all the *stuff* actually go?
@@ -51,7 +53,7 @@ Keep treats in a smaller, separate container near the same shelf. This avoids th
 
 ### Zone 2: Leashes, Collars, and Poop Bags by the Door
 
-An entryway is prime real estate in any small apartment, so this zone needs to be compact and vertical. Three or four Command hooks, at $2–$5 CAD each from Dollarama or Canadian Tire, hold a leash, a spare collar, and a roll of poop bags without a single drilled hole.
+An entryway is prime real estate in any small apartment, so this zone needs to be compact and vertical. Three or four [Command hooks](https://amzn.to/3VfqnHy), at $2–$5 CAD each from Dollarama or Canadian Tire, hold a leash, a spare collar, and a roll of poop bags without a single drilled hole.
 
 If there's room for a small entryway bench, that adds a second layer. A basic bench like IKEA's, running $40–$70 CAD, gives a spot to sit while putting on shoes and a shelf underneath for a basket of gear. Our full [small apartment organization guide](/blog/small-apartment-organization) covers entryway storage in more depth if the whole hallway needs a rework, not just the pet corner.
 

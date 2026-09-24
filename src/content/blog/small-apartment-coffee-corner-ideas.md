@@ -23,6 +23,8 @@ faqs:
     a: "Use a cable management box like the IKEA SKUBB (on sale for ~$18 CAD at Structube) to hide the power strip, then route cords through a decorative box or a folded fabric pouch. Tension rods with velcro straps also let you coil excess cord out of sight—zero damage, easy to undo."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 You know that moment when you're waking up in your small apartment and *still* have to squeeze past the couch to reach the single outlet by the sink just to brew a decent cup? Yeah—we've all been there. Limited counter space is one of the most common frustrations for urban renters trying to build any kind of morning routine.
 
 **TL;DR:** You don’t need square footage to love your coffee station—you need smart, renter-safe solutions. No permanent changes. No regretting when move-out day rolls around.
@@ -61,7 +63,7 @@ Under-counter storage usually means a single bulk container, but stackable bins 
 
 ## 8. How Do You Add a Hanging Mug Rack Above a Bar Stool?
 
-If you’ve got 12” of wall space above your counter (or where a bar stool might sit), mount a tension rod with hooks. A $7 CAD tension rod and six mini S-hooks (~$3 CAD for 10 at Canadian Tire) let you hang 4–6 mugs, even in a galley kitchen. The whole thing removes cleanly—no drilling required.
+If you’ve got 12” of wall space above your counter (or where a bar stool might sit), mount a tension rod with hooks. A $7 CAD [tension rod](https://amzn.to/4yZAcbl) and six mini S-hooks (~$3 CAD for 10 at Canadian Tire) let you hang 4–6 mugs, even in a galley kitchen. The whole thing removes cleanly—no drilling required.
 
 ## 9. Does a Magnetic Spice Rack Work for Coffee Tools?
 
