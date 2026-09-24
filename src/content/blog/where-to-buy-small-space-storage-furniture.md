@@ -23,6 +23,8 @@ faqs:
     a: "Yes, usually 40-60% less than retail, but only for the pieces that hold up well used: ottomans, console tables, and bed frames with drawers. Skip secondhand lift-top mechanisms and anything with moving hardware unless you can test it in person, since a broken hinge or stuck lift-top defeats the entire purpose of the piece."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
 This is that list, organized by piece, not by inspiration board.
 
 If you want the reasoning behind which piece to buy first and how much storage each one actually holds, [small living room storage furniture](/blog/small-living-room-storage-solutions) covers that. This page is just the buying list: where, and for how much.
@@ -53,7 +55,7 @@ The tradeoff is assembly. Every IKEA piece here ships flat and needs to be built
 
 Amazon.ca is the best source for pre-assembled ottomans and lift-top coffee tables, the two categories where skipping assembly matters most because both pieces are awkward to build solo.
 
-**Storage ottomans** run $70–$220 CAD depending on size (cube vs. bench vs. tufted lift-top) — see [small living room storage furniture](/blog/small-living-room-storage-solutions) for the breakdown by type. **Lift-top coffee tables** run $140–$260 CAD, and arrive mostly or fully assembled, unlike IKEA's flat-pack equivalents. **Over-door and under-bed storage** (the smaller accessory pieces, not furniture) are cheapest here, usually $15–$40 CAD.
+**Storage ottomans** run $70–$220 CAD depending on size (cube vs. bench vs. tufted lift-top) — see [small living room storage furniture](/blog/small-living-room-storage-solutions) for the breakdown by type. A folding faux-leather cube like [this one](https://amzn.to/3VehY7d) is a solid entry-level pick: no assembly, doubles as extra seating, and collapses flat when not needed. **Lift-top coffee tables** run $140–$260 CAD, and arrive mostly or fully assembled, unlike IKEA's flat-pack equivalents. **Over-door and under-bed storage** (the smaller accessory pieces, not furniture) are cheapest here, usually $15–$40 CAD.
 
 Amazon.ca's advantage over IKEA specifically is selection breadth — dozens of brands competing on the same product type, which makes it easy to compare dimensions against a small room before buying, something a single-brand catalogue like IKEA can't offer.
 
