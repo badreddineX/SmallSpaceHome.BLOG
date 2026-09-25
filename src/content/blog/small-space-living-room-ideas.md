@@ -9,9 +9,9 @@ tags: ["small space living room", "small space living", "small living room ideas
 featured: true
 category: "Decor"
 relatedPosts:
-  - "how-to-decorate-a-small-living-room"
   - "small-living-room-storage-solutions"
   - "small-apartment-layout-ideas"
+  - "vibey-apartment-living-room-ideas"
 readTime: 9
 slug: "small-space-living-room-ideas"
 faqs:
@@ -40,7 +40,7 @@ Your living room is the first room guests see and the room you spend the most ti
 > - Multi-function pieces such as a nesting coffee table earn their footprint.
 > - Removable wallpaper on one accent wall is a renter-safe upgrade.
 
-The living room is roughly 180 sq ft. If you want the step-by-step sequence instead of a straight list, our guide on [how to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through the same ideas in the order to tackle them.
+The living room is roughly 180 sq ft. The ideas below are in the order that gives you the biggest visual payoff first.
 
 **TL;DR:** The biggest wins in a small living room are a properly sized sofa, one large rug instead of multiple small ones, vertical storage, and mirrors to double the visual space. Do those four things before anything else.
 
@@ -197,3 +197,16 @@ Read our guide on [small bedroom storage ideas for Canadian apartment renters](/
 → [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the room this guide doesn't touch, with the same renter-friendly approach.
 
 → For the mood and lighting side of this same room, see [vibey apartment living room ideas](/blog/vibey-apartment-living-room-ideas).
+
+## Small Living Room Quick Reference
+
+| Change | Impact | Cost (CAD) |
+|--------|--------|-----------|
+| Correctly sized rug | Very high | $59–$200 |
+| Warm bulb swap + floor lamp | Very high | $25–$150 |
+| Ceiling-height curtains | High | $55–$90 |
+| Sofa repositioned | High | Free |
+| Gallery wall (Command strips) | High | $30–$80 |
+| Storage ottoman | High | $89–$150 |
+| Plants | Medium | $10–$30 each |
+| Throw cushions + blanket | Medium | $40–$100 |

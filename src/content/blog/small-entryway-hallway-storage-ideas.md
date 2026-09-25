@@ -18,6 +18,10 @@ faqs:
     a: "Console tables built for entryways run as narrow as 20–25 cm deep, versus 40+ cm for a standard side table. IKEA and Amazon.ca both carry entryway-specific consoles in this range, so a 90 cm wide hallway can still fit one without blocking passage."
   - q: "What's a drop zone and do I need one?"
     a: "A drop zone is a fixed spot near your door for keys, wallet, and mail so you're not searching for them every morning. A single small tray or wall pocket organizer ($8–$20 CAD) is enough. It's the cheapest habit-forming fix on this list."
+relatedPosts:
+  - "small-apartment-shoe-storage-ideas"
+  - "vertical-storage-ideas-small-apartment"
+  - "storage-ideas-for-small-places"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

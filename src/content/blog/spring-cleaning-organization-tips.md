@@ -20,6 +20,10 @@ faqs:
     a: "A thorough spring clean of a 400–650 sq ft Canadian apartment takes 6–10 hours across 2–3 days. Decluttering takes the longest. Plan a full weekend: bedroom and kitchen on Day 1, living room, bathroom, and entryway on Day 2."
   - q: "What organization updates should I make during spring cleaning?"
     a: "Swap seasonal storage (winter clothes out, spring/summer in — vacuum bags ~$25–$30 CAD on Amazon.ca are ideal). Update systems that stopped working over winter. Do a full pantry rotation. This is also a great time to add any <a href='/blog/storage-ideas-for-small-places'>small-space storage solutions</a> you identified as gaps during the colder months."
+relatedPosts:
+  - "january-reset-organization-ideas"
+  - "small-apartment-organization"
+  - "small-closet-organization-rental-apartment"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

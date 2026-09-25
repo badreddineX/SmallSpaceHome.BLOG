@@ -18,6 +18,10 @@ faqs:
     a: "Absolutely. Concrete's cool grey actually *enhances* warm tones. Use Command hooks ($6 CAD for 12-pack on Amazon.ca) to hang framed fabric art or dried botanical prints in cream and burnt sienna. Skip paint unless your lease allows it—opt instead for removable wallpaper samples ($8 CAD/sample at Spoonflower via Amazon.ca)."
   - q: "How do I avoid making my tiny space feel closed-in with warm colors?"
     a: "Keep your walls neutral (off-white or warm greige) and only layer warmth in textiles and accessories. A $38 IKEA KIVIK armchair in 'Nordviken' warm grey or a $22 linen throw from Simons keeps it grounded but open. Always have at least one reflective surface nearby—think glass, mirrored trays, or metallic frames—to break up bulk."
+relatedPosts:
+  - "apartment-decor-ideas"
+  - "small-bedroom-decor-ideas"
+  - "cozy-winter-apartment-decor"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

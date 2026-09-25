@@ -20,6 +20,10 @@ faqs:
     a: "Vertical storage works best. A pegboard or magnetic wall strip holds pans flat and keeps them accessible. A pot lid organizer in a drawer stops the lid avalanche. If cabinet space is tight, the IKEA RASKOG rolling cart doubles as portable pot storage that tucks out of sight after cooking."
   - q: "How do I organize my fridge in a small apartment?"
     a: "Group items into clear bins by category — dairy, produce, leftovers, condiments — so nothing gets lost at the back. Add a small lazy Susan for jars and condiments, and stackable clear organizers on the door shelving to use vertical space the fixed shelves waste. A full bin-and-organizer set runs ~$20–$35 CAD on Amazon.ca."
+relatedPosts:
+  - "fridge-pantry-organization-small-apartment"
+  - "small-apartment-pantry-organization-budget"
+  - "small-apartment-organization"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

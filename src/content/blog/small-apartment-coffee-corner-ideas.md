@@ -1,5 +1,5 @@
 ---
-title: "15 Coffee & Cafe Corner Ideas"
+title: "15 Small Apartment Coffee Corner Ideas (Renter-Friendly)"
 description: "Small apartment coffee corner ideas that save space, avoid drilling, and look stylish—perfect for Canadian renters."
 image: "/images/kitchen-coffee-corner-sunlight.jpg"
 datePublished: "2026-07-30"

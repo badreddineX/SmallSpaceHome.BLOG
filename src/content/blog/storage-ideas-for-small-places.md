@@ -20,6 +20,10 @@ faqs:
     a: "A focused overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one area at a time keeps costs manageable. If budget is tight, our <a href='/blog/small-apartment-organization-ideas-on-a-budget'>budget organization ideas</a> post covers 15 solutions, all under $100 CAD total."
   - q: "What are the best small apartment storage ideas that don't require a bigger place?"
     a: "The 23 storage ideas on this page are grouped by the four highest-impact moves: going vertical (wall shelves, over-door organizers), claiming under-bed space, upgrading closet hangers, and choosing furniture that stores as well as it seats or sleeps. Together they're the most complete set of storage solutions for small spaces available for a Canadian rental without any drilling."
+relatedPosts:
+  - "vertical-storage-ideas-small-apartment"
+  - "under-bed-storage-ideas-small-apartment"
+  - "small-apartment-organization"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

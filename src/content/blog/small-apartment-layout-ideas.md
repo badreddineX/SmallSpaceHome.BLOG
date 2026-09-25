@@ -3,7 +3,7 @@ title: "Small Apartment Layout Ideas That Save Space (Canada)"
 description: "Small apartment layout ideas for Canadian renters: clearances to plan around, layouts for narrow, square and open-plan units, plus heater tips."
 image: "/images/small-apartment-layout-ideas.jpg"
 datePublished: "2026-09-18"
-dateModified: "2026-09-18"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["small apartment layout ideas", "small apartment layout", "apartment layout ideas canada", "small living room layout ideas", "one bedroom apartment layout", "renter-friendly"]
 featured: false

@@ -20,6 +20,10 @@ faqs:
     a: "Amazon.ca has the widest selection with fast Prime delivery across Toronto, Vancouver, and Calgary. IKEA Canada (GODMORGON series, VESKEN cart) offers reliable quality at low price points. HomeSense often has ceramic and wicker baskets at 40–60% below department store prices. Canadian Tire stocks over-door organizers and Command products year-round."
   - q: "Can I replace the medicine cabinet in a rental apartment bathroom?"
     a: "You can swap a surface-mounted medicine cabinet without any damage to walls or plumbing. Surface-mounted units typically have two to four screws. Remove the old cabinet, patch the screw holes with renter-safe wall filler when you leave, and install the new one. This is distinct from recessed cabinets (built into the wall), which you should leave untouched in a rental."
+relatedPosts:
+  - "apartment-bathroom-decor-ideas"
+  - "vertical-storage-ideas-small-apartment"
+  - "small-apartment-organization"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

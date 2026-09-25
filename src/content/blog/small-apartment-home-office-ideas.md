@@ -10,7 +10,7 @@ featured: false
 category: "Decor"
 relatedPosts:
   - "small-space-furniture"
-  - "how-to-decorate-a-small-living-room"
+  - "small-space-living-room-ideas"
 readTime: 9
 faqs:
   - q: "How do I set up a home office in a small apartment?"

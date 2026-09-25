@@ -3,7 +3,7 @@ title: "Toronto & Vancouver Condo Storage Ideas"
 description: "Condo storage ideas for small Toronto and Vancouver units — no-drill solutions, locker alternatives, and real CAD prices from Amazon.ca and IKEA."
 image: "/images/storage-ottoman.jpg"
 datePublished: "2026-08-06"
-dateModified: "2026-08-06"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["condo storage", "condo storage ideas", "small condo furniture", "condo storage toronto", "condo storage vancouver", "apartment size furniture canada", "renter-friendly", "Canada", "no-drill"]
 featured: false

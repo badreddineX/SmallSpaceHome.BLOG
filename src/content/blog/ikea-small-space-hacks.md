@@ -18,6 +18,10 @@ faqs:
     a: "Media console, room divider, entryway storage, wardrobe base with hanging rod, home office bookcase, or bedside table — the KALLAX does all of it. Fabric inserts (~$6 CAD each at IKEA Canada) turn open cubes into closed storage. It's genuinely the most flexible piece in IKEA's range."
   - q: "Is IKEA furniture worth it for a rental apartment in Canada?"
     a: "Yes — especially for renters who move every 2–3 years. Flat-pack means easy moving, prices are realistic on a renter's budget, and resale on Facebook Marketplace or Kijiji in Toronto, Vancouver, and Calgary holds up well. Assemble carefully and add anti-tip straps where needed."
+relatedPosts:
+  - "small-space-furniture"
+  - "storage-ideas-for-small-places"
+  - "small-apartment-organization"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

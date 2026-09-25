@@ -2,6 +2,8 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { satteri } from '@astrojs/markdown-satteri';
+import rehypeAffiliateLinks from './src/plugins/rehype-affiliate-links.mjs';
 
 // Read each post's dateModified straight from frontmatter (no astro:content
 // access is available here in the config file) so the sitemap can carry a
@@ -28,6 +30,11 @@ export default defineConfig({
   // render-blocking <link> requests (PSI flagged ~650ms wasted across two
   // small CSS files) -- total CSS is only a few KB, cheap to inline.
   build: { inlineStylesheets: 'always' },
+  markdown: {
+    processor: satteri({
+      hastPlugins: [rehypeAffiliateLinks],
+    }),
+  },
   integrations: [
     sitemap({
       filter: (page) =>

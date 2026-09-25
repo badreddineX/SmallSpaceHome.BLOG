@@ -3,7 +3,7 @@ title: "Where to Buy Small-Space Storage Furniture"
 description: "Real Canadian retailers for hidden storage furniture, by piece and by budget — where to buy, what it actually costs, and what to skip."
 image: "/images/living-room-storage-shelving.jpg"
 datePublished: "2026-08-17"
-dateModified: "2026-08-17"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["storage furniture", "where to buy storage furniture", "hidden storage furniture", "small space furniture", "Canada", "renter-friendly"]
 featured: false

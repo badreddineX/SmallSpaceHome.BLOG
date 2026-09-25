@@ -18,6 +18,10 @@ faqs:
     a: "Yes — every element in a renter-friendly reading nook is freestanding: chair, floor lamp, rug, and shelf. Command strips handle any wall art or string lights. Nothing here requires drilling, and everything moves with you at lease-end."
   - q: "How much does it cost to set up a small reading nook?"
     a: "A full renter-friendly setup — chair, floor lamp, small rug, and a side table — runs roughly $250 to $650 CAD depending on whether you shop IKEA/Amazon.ca or a mid-range retailer like Structube. The chair is almost always the biggest line item."
+relatedPosts:
+  - "small-bedroom-decor-ideas"
+  - "small-space-living-room-ideas"
+  - "apartment-decor-ideas"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

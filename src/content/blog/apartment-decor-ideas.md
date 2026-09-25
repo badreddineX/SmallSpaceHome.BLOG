@@ -18,6 +18,10 @@ faqs:
     a: "Personal objects matter more than expensive decor — pick things specific to you, not showroom fillers. Then fix the lighting (warm bulbs and lamps instead of harsh overhead), add a rug to anchor the living room, and keep surfaces clear. Those three moves alone change everything."
   - q: "Can I hang things on the walls in a Canadian rental apartment?"
     a: "Most leases allow small nail holes for art. For anything heavier, Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Always check your lease first — and if you ask your landlord, do it in writing so you have a record of their response."
+relatedPosts:
+  - "apartment-decor-ideas-on-a-budget"
+  - "renter-friendly-apartment-decor-ideas"
+  - "small-space-living-room-ideas"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
@@ -236,7 +240,7 @@ A cohesive, decorated apartment takes time — but you don't have to do it all a
 
 → Ready to take it further on a tight budget? See [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) for the highest-impact moves under $200 CAD.
 
-→ Living room specifically? [How to decorate a small living room](/blog/how-to-decorate-a-small-living-room) walks through layout, lighting, and colour in the right order.
+→ Living room specifically? [How to decorate a small living room](/blog/small-space-living-room-ideas) walks through layout, lighting, and colour in the right order.
 
 ## What's the Rental Apartment Decor Priority Order?
 

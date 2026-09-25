@@ -22,6 +22,10 @@ faqs:
     a: "Space-saving furniture does at least two jobs in one footprint: a storage ottoman (seating + coffee table + storage), a storage bed like the IKEA NORDLI (sleeping + drawers), a sofa bed like the FRIHETEN (seating + guest bed), and nesting tables (surface area that tucks away when not needed). These four categories cover most of what a small apartment needs without adding separate single-purpose pieces."
   - q: "How do I choose apartment-size furniture that fits a small Canadian apartment?"
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
+relatedPosts:
+  - "where-to-buy-small-space-storage-furniture"
+  - "storage-bed-buying-guide-small-studio"
+  - "ikea-small-space-hacks"
 ---
  *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 

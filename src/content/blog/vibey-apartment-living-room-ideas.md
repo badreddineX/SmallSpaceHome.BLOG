@@ -9,7 +9,7 @@ tags: ["vibey apartment living room", "cozy apartment aesthetic", "warm lighting
 featured: false
 category: "Decor"
 relatedPosts:
-  - "how-to-decorate-a-small-living-room"
+  - "small-space-living-room-ideas"
   - "small-space-living-room-ideas"
 readTime: 8
 faqs:

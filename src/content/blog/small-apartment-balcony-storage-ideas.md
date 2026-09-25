@@ -18,6 +18,10 @@ faqs:
     a: "Anything with electronics, glass, or liquid that can freeze and crack should come inside — string lights, glass planters, and half-full watering cans included. Resin deck boxes, metal bike racks, and empty ceramic pots can usually stay outside through a Canadian winter without damage."
   - q: "Do I need my landlord's permission for balcony storage in Canada?"
     a: "Technically most no-drill, freestanding items don't require permission, but many condo and apartment buildings restrict what's visible on balconies regardless of installation method. Always check your lease or condo bylaws first — some buildings ban bikes, grills, or anything above railing height entirely."
+relatedPosts:
+  - "small-apartment-balcony-ideas"
+  - "vertical-storage-ideas-small-apartment"
+  - "storage-ideas-for-small-places"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

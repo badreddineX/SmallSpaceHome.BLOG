@@ -18,6 +18,10 @@ faqs:
     a: "Large solid platform beds, oversized dressers that crowd the room, and single-purpose pieces like vanities or armchairs that eat floor space without pulling their weight. When in doubt, buy the smaller size — you can always add, but taking away means returning something."
   - q: "How do I create storage in a small bedroom without a closet?"
     a: "Under-bed IKEA SKUBB bags (~$14 CAD), a tall PAX wardrobe in the corner, [over-door organizers](https://amzn.to/4ADoqoH) on the bedroom door, and floating shelves on the walls. A bench at the foot of the bed with storage inside helps too. Full breakdown in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small bedroom storage ideas</a> guide."
+relatedPosts:
+  - "small-bedroom-organization-ideas"
+  - "small-apartment-bedroom-storage-ideas"
+  - "warm-earthy-color-palette-small-apartment"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

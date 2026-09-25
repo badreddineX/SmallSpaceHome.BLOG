@@ -18,6 +18,10 @@ faqs:
     a: "A caddy or tote with a handle keeps detergent, dryer sheets, and quarters together in one trip. The Dollarama plastic caddy (~$4–$6 CAD) works fine, or step up to a canvas laundry tote (~$20–$30 CAD from Amazon.ca) if you're hauling supplies down multiple floors."
   - q: "How much does it cost to set up laundry storage in a small apartment?"
     a: "A full in-suite laundry closet system, shelf, door rack, and rolling cart, runs about $90–$140 CAD total. If you're limited to shared building laundry, a caddy and a rolling hamper cover the essentials for under $50 CAD."
+relatedPosts:
+  - "small-apartment-organization"
+  - "vertical-storage-ideas-small-apartment"
+  - "storage-ideas-for-small-places"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

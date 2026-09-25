@@ -3,7 +3,7 @@ title: "Studio Apartment Layout Ideas That Actually Work"
 description: "Studio apartment layout ideas for Canadian renters: how to zone one room into sleep, work and living areas without walls, with CAD prices."
 image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-08-30"
-dateModified: "2026-08-30"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["studio apartment layout ideas", "studio apartment layout", "small bedroom layout ideas", "studio apartment ideas", "renter-friendly", "Canada"]
 featured: false
@@ -27,6 +27,8 @@ faqs:
     a: "Yes, but the layout has to work harder. Zone the bed off visually so one person can sleep while the other is up, choose a real sofa rather than a loveseat so there's a second place to sit, add storage for two people's clothes (a dresser plus a wardrobe rack), and agree on a system for keeping the shared floor clear. It works best when the studio is at least 400 square feet."
 ---
 
+
+*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 The real work is deciding where the invisible lines go: this corner is for sleeping, this stretch of floor is for everything else, and the path between the door and the bathroom stays clear no matter what. Once the room had zones, it stopped feeling like one cramped bedroom and started feeling like a small apartment.
 

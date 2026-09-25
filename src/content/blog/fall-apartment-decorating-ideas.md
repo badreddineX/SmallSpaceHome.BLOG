@@ -18,6 +18,10 @@ faqs:
     a: "Pick 2–3 seasonal elements max: a rust-coloured throw, a cinnamon candle, and a small natural arrangement. Let those do the work. Resist the urge to buy seasonal everything — the apartment should feel like autumn, not like a Halloween display. Restraint is the difference between cozy and chaotic."
   - q: "What fall decor can I find in Canada on a budget?"
     a: "Natural elements are free — collect pinecones, dried leaves, and seed pods on any walk. Dollarama has pumpkin and gourd decor for $1–$4 each. HomeSense and Winners carry quality cushions and throws at discount. Canadian Tire for seasonal candles. Total autumn refresh well under $75 CAD."
+relatedPosts:
+  - "cozy-winter-apartment-decor"
+  - "apartment-decor-ideas-on-a-budget"
+  - "small-apartment-plant-corner-ideas"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

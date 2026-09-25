@@ -26,7 +26,6 @@ const urlList = [
   "https://smallspacehome.ca/blog/fall-apartment-decorating-ideas",
   "https://smallspacehome.ca/blog/free-cheap-apartment-decor-diy-vs-buy",
   "https://smallspacehome.ca/blog/fridge-pantry-organization-small-apartment",
-  "https://smallspacehome.ca/blog/how-to-decorate-a-small-living-room",
   "https://smallspacehome.ca/blog/ikea-small-space-hacks",
   "https://smallspacehome.ca/blog/january-reset-organization-ideas",
   "https://smallspacehome.ca/blog/minimalist-small-apartment-ideas",

@@ -18,6 +18,10 @@ faqs:
     a: "Three habits that actually work: one-in one-out (bring nothing new in without removing something), a 10-minute evening reset daily, and a weekly zone check of one area. Consistency matters more than any bin or shelf you can buy."
   - q: "How do I organize a small apartment bedroom with no closet?"
     a: "A rolling garment rack with a fabric cover (~$65–$100 CAD total) handles hanging clothes. A tall dresser takes folded items. Under-bed IKEA SKUBB bags store seasonal gear. Over-door organizers on the bedroom door manage shoes and accessories. Full details in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small apartment bedroom storage guide</a>."
+relatedPosts:
+  - "small-apartment-organization-ideas-on-a-budget"
+  - "spring-cleaning-organization-tips"
+  - "small-closet-organization-rental-apartment"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

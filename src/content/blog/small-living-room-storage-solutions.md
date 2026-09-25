@@ -18,6 +18,10 @@ faqs:
     a: "A standard 45×45 cm cube ottoman holds roughly two to three folded blankets or a stack of board games — enough for daily-use items, not seasonal storage. For bulkier items, a storage bench ottoman (100+ cm wide) holds noticeably more."
   - q: "Is storage furniture better than wall shelving for a small living room?"
     a: "They solve different problems. Storage furniture hides items you want out of sight — remotes, cables, blankets — while wall shelving displays items and uses vertical space. Most small living rooms need both, not one instead of the other."
+relatedPosts:
+  - "small-space-living-room-ideas"
+  - "small-space-living-room-ideas"
+  - "storage-ideas-for-small-places"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

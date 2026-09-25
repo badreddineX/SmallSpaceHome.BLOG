@@ -3,7 +3,7 @@ title: "Budget Apartment Decor Ideas Under $50 CAD"
 description: "Real Canadian apartment decor ideas under $50 CAD: what to buy at Dollarama, IKEA and Canadian Tire, what to skip, and how to make it look intentional."
 image: "/images/minimalist-living-room-wood-floor.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["budget decor", "under $50", "cheap apartment ideas", "apartment decor", "Canada", "renter-friendly", "Dollarama decor"]
 featured: false

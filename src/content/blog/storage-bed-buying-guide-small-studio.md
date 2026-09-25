@@ -3,7 +3,7 @@ title: "Storage Bed Buying Guide for Small Studios"
 description: "Storage bed vs. bed risers vs. under-bed bins for a small Canadian studio — real prices, real capacity, and which one to actually buy."
 image: "/images/bright-bedroom-mirror.jpg"
 datePublished: "2026-08-17"
-dateModified: "2026-08-17"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["storage bed", "storage bed small apartment", "NORDLI storage bed", "studio apartment bed", "Canada", "renter-friendly"]
 featured: false

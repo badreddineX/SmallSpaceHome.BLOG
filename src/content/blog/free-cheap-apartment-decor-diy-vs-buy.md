@@ -3,7 +3,7 @@ title: "Free & Cheap Apartment Decor: DIY vs. Buy"
 description: "Which apartment decor projects save money, and which cost more than just buying? A Canadian renter's honest DIY vs. buy breakdown."
 image: "/images/cozy-living-room-diy-touches.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["free apartment decor", "cheap apartment decor", "DIY apartment decor", "apartment decor", "Canada", "budget decor", "renter-friendly"]
 featured: false

@@ -18,6 +18,10 @@ faqs:
     a: "Hygge is a Danish concept for warm, contented coziness — the feeling of ease when you're comfortable and unhurried. In an apartment it's primarily about lighting and layering: candles and lamps instead of overhead lights, soft blankets and cushions, scent, and a space that feels like a refuge from the cold outside."
   - q: "How do I add winter decor to a rental apartment without losing my deposit?"
     a: "Everything cozy is freestanding or temporary — throw blankets, cushions, candles, plants, warm bulbs, and a floor lamp. None require installation or wall damage. Remove them in spring and the apartment looks exactly as it did when you moved in. Zero deposit risk."
+relatedPosts:
+  - "fall-apartment-decorating-ideas"
+  - "warm-earthy-color-palette-small-apartment"
+  - "apartment-decor-ideas-on-a-budget"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

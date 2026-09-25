@@ -3,7 +3,7 @@ title: "Renter-Friendly Bike Storage Ideas"
 description: "No garage, no drilling, still no bike blocking your hallway. Wall hooks, floor stands, and balcony options for small Canadian apartments."
 image: "/images/bike-wall-storage-indoor.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["bike storage", "renter-friendly", "small apartment storage", "no-drill storage", "apartment organization", "Canada", "entryway storage"]
 featured: false

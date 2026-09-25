@@ -18,6 +18,10 @@ faqs:
     a: "A rolling garment rack with a fabric cover ($65–$100 CAD total) handles hanging. A tall dresser manages folded items. IKEA SKUBB bags under the bed handle seasonal gear. Over-door organizers on the bedroom door take shoes and accessories. These four together replace a built-in closet completely."
   - q: "Is a storage bed worth it in a small apartment?"
     a: "Yes — the IKEA NORDLI ($399–$699 CAD) has enough drawer space to replace a full dresser. Removing the dresser from a small bedroom frees significant floor space and makes the room feel noticeably larger. It's one of the most impactful single furniture purchases for a Canadian renter."
+relatedPosts:
+  - "small-bedroom-organization-ideas"
+  - "under-bed-storage-ideas-small-apartment"
+  - "small-closet-organization-rental-apartment"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

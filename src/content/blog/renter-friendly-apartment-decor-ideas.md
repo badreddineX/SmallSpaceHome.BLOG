@@ -18,6 +18,10 @@ faqs:
     a: "Command Large Picture Hanging Strips hold up to 7.5 kg per pair and come off without damaging paint. For heavier art, use multiple pairs spaced evenly. Press firmly for 30 seconds and wait 1 hour before hanging anything — skipping the wait is the most common reason they fail."
   - q: "Can I use removable wallpaper in a Canadian rental?"
     a: "In most cases, yes — removable wallpaper is made for rentals. That said, always check your lease first, since some Canadian landlords prohibit any wall treatments. When in doubt, apply to a large wooden panel and lean it against the wall instead. Problem solved, deposit protected."
+relatedPosts:
+  - "apartment-decor-ideas"
+  - "command-strip-decorating-hacks-renters"
+  - "renter-friendly-gallery-wall-ideas"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

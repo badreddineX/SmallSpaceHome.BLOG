@@ -18,6 +18,10 @@ faqs:
     a: "Holiday gifts you won't use, duplicate items (two of the same kitchen tool, extra bedding sets), anything you moved around instead of used in 2025, clothes not worn in the past year, expired pantry and bathroom products, and anything stored 'just in case' that never came up. January is the best time to donate — charity shops restock after the holidays and appreciate the donations."
   - q: "What organization products are worth buying for a January reset?"
     a: "Slim velvet hangers (~$18 CAD, Amazon.ca) free up 30–40% of closet space. Clear stackable bins with lids (~$5–$8 each, Amazon.ca or IKEA Canada) work for pantry, bathroom, and entryway. A door-mounted organizer (~$25–$35 CAD) works on any door without drilling. Under-bed IKEA SKUBB bags (~$14 CAD) store seasonal items flat. These four items cover most of the visible organization gaps in a small apartment."
+relatedPosts:
+  - "spring-cleaning-organization-tips"
+  - "small-apartment-organization"
+  - "small-closet-organization-rental-apartment"
 ---
 
 *This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*

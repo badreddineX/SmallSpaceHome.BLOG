@@ -3,7 +3,7 @@ title: "Apartment Bathroom Decor Ideas (Renter-Friendly)"
 description: "Apartment bathroom decor ideas for Canadian renters: no-drill styling, colour, plants and small upgrades that make a rental bathroom feel yours."
 image: "/images/bathroom-decor-styled.jpg"
 datePublished: "2026-09-01"
-dateModified: "2026-09-01"
+dateModified: "2026-09-25"
 author: "Badreddine Br"
 tags: ["apartment bathroom decor ideas", "small bathroom decor ideas", "rental bathroom decor", "renter-friendly", "Canada"]
 featured: false
