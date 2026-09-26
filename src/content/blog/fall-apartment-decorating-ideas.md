@@ -81,7 +81,7 @@ Real pumpkins cost $3 to $8 CAD each at most Canadian grocery stores in Septembe
 **Buying tips for Canada:**
 - Real pumpkins: available at most grocery stores and garden centres in September–October, $3–$8 CAD each
 - Decorative gourds: smaller, last longer, available at the same places
-- Faux options: Dollarama has reasonable fall items for $1–$4 each
+- Faux options: [Dollarama](/blog/dollarama-finds-look-expensive) has reasonable fall items for $1–$4 each
 
 Cluster 3 pumpkins or gourds in different sizes on the coffee table or entryway — odd numbers look more natural.
 

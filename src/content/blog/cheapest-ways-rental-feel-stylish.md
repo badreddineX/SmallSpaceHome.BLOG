@@ -70,7 +70,7 @@ Overhead lighting alone tends to flatten a room and make it feel like an office.
 
 ## What Can Dollarama Actually Do for a Rental?
 
-Dollarama items in the $1.25–$5 CAD range can style a shelf, refresh a bathroom, or fill a [plant corner](/blog/small-apartment-plant-corner-ideas) for under $20 CAD total, which makes it one of the highest-value stops for a near-zero-budget refresh. The trick is choosing a few good pieces rather than filling every surface.
+[Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) in the $1.25–$5 CAD range can style a shelf, refresh a bathroom, or fill a [plant corner](/blog/small-apartment-plant-corner-ideas) for under $20 CAD total, which makes it one of the highest-value stops for a near-zero-budget refresh. The trick is choosing a few good pieces rather than filling every surface.
 
 **A realistic $15–$20 CAD Dollarama haul:**
 

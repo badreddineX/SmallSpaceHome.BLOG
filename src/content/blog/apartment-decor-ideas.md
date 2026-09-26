@@ -106,7 +106,7 @@ Available at Canadian Tire, Walmart Canada, and Amazon.ca. A pack of 8 large str
 
 ## 5. How Do Gallery Walls Make Blank Walls Disappear?
 
-A well-done gallery wall is one of the most effective apartment decor upgrades you can make. It adds personality, fills dead wall space, and costs far less than a single large piece of art.
+A well-done [gallery wall](/blog/renter-friendly-gallery-wall-ideas) is one of the most effective apartment decor upgrades you can make. It adds personality, fills dead wall space, and costs far less than a single large piece of art.
 
 IKEA's PJÄTTERYD series alone runs $20–$50 CAD per print, cheap enough to build a full gallery wall of 6–8 frames without spending anywhere close to the price of one large statement piece.
 

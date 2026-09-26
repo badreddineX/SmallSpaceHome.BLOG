@@ -54,7 +54,7 @@ A yard of fabric at Fabricland runs about $12–$18 CAD and makes two no-sew env
 
 ### Painted or Restained Thrifted Frames
 
-A mismatched box of frames from Value Village or a church rummage sale costs $1–$3 CAD each. One can of spray paint ($8–$12 CAD at Canadian Tire) coats 10–15 frames in a unified colour, bringing the per-frame cost to under $2 CAD. A matching set of new frames from HomeSense runs $8–$15 CAD each, so a gallery wall of ten frames costs roughly $20 CAD DIY versus $80–$150 CAD new.
+A mismatched box of frames from Value Village or a church rummage sale costs $1–$3 CAD each. One can of spray paint ($8–$12 CAD at Canadian Tire) coats 10–15 frames in a unified colour, bringing the per-frame cost to under $2 CAD. A matching set of new frames from HomeSense runs $8–$15 CAD each, so a [renter-friendly gallery wall](/blog/renter-friendly-gallery-wall-ideas) of ten frames costs roughly $20 CAD DIY versus $80–$150 CAD new.
 
 ### Curb-Alert and Marketplace Furniture Refreshes
 

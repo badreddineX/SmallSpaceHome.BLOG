@@ -119,7 +119,7 @@ When every piece does multiple jobs, you need fewer pieces total.
 
 Minimalism does not mean no decor. It means deliberate decor. Each room has one thing it says visually — one focal point that the eye goes to first.
 
-In the living room: a gallery wall or a large piece of art above the sofa.
+In the living room: a [gallery wall](/blog/renter-friendly-gallery-wall-ideas) or a large piece of art above the sofa.
 In the bedroom: the bed wall, with a simple headboard and careful lighting.
 In the kitchen: one beautiful object (a ceramic fruit bowl, one excellent cutting board) that earns its counter space.
 

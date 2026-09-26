@@ -141,7 +141,7 @@ The FRIHETEN sofa bed costs about $999 CAD, which is more than most single-purpo
 
 ## How Does the SKUBB Under-Bed Storage System Work?
 
-SKUBB under-bed bags (~$14 for 2) are flat, zip closed, and designed to slide under an IKEA bed frame. Store off-season clothing, extra bedding, or anything needed only twice a year.
+SKUBB [under-bed storage bags](/blog/under-bed-storage-ideas-small-apartment) (~$14 for 2) are flat, zip closed, and designed to slide under an IKEA bed frame. Store off-season clothing, extra bedding, or anything needed only twice a year.
 
 SKUBB under-bed bags cost about $14 CAD for a pack of 2 and are the standard flat-storage option for anything only needed twice a year, like off-season clothing.
 

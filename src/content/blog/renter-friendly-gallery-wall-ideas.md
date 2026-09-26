@@ -3,7 +3,7 @@ title: "15 No-Nail Gallery Wall Ideas for Renters"
 description: "15 no-nail, no-damage gallery wall ideas for Canadian apartment renters. Fully reversible and deposit-safe, with layouts you can copy."
 image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["gallery wall", "renter-friendly decor", "Canada", "small space", "no damage decor"]
 featured: false
