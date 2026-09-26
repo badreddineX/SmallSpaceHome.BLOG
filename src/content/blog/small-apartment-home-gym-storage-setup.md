@@ -3,7 +3,7 @@ title: "Small Apartment Home Gym Storage Ideas"
 description: "Build a real home gym in a small Canadian apartment. Folding equipment, storage ottomans, under-bed bins, and wall hooks that hide it all when you're done."
 image: "/images/home-gym-equipment-corner.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["home gym", "apartment gym", "small space storage", "workout equipment storage", "Canada", "renter-friendly", "storage"]
 featured: false

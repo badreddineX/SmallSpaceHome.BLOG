@@ -3,7 +3,7 @@ title: "Small Apartment Decorating Ideas for Renters"
 description: "14 small apartment decorating ideas for Canadian renters — no damage, no lost deposits. Real CAD prices, works in Toronto, Vancouver, and Montreal."
 image: "/images/blog-19-img1.jpg"
 datePublished: "2025-10-20"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["small apartment decorating ideas", "apartment decor ideas canada", "rental decor ideas", "renter-friendly", "Canada", "decor ideas", "budget"]
 featured: false

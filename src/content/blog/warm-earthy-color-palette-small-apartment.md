@@ -3,7 +3,7 @@ title: "7 Warm Earthy Color Palette Ideas for Small Rentals"
 description: "Warm earthy color palette ideas for small rental apartments: terracotta, sand and olive combos that are renter-friendly, no-drill, under $200 CAD."
 image: "/images/about-strip-shelf.jpg"
 datePublished: "2026-08-03"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["warm earthy colors", "warm color palette apartment", "earthy decor ideas", "rental apartment decor", "Canada", "small space", "budget decorating"]
 featured: false

@@ -3,7 +3,7 @@ title: "12 Vertical Storage Ideas for Apartments"
 description: "Smart vertical storage solutions for small Canadian apartments—renter-friendly, no-wall-damage options from IKEA to HomeSense."
 image: "/images/kitchen-open-shelves.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["vertical storage", "vertical storage ideas", "wall storage small apartment", "renter-friendly", "Canada", "small space", "wall-mounted"]
 featured: false

@@ -3,7 +3,7 @@ title: "Small Apartment Skincare & Makeup Storage Ideas"
 description: "Organize skincare, makeup and beauty products in a small apartment: acrylic organizers, drawer dividers and vanity trays that fit tiny bathrooms and rentals."
 image: "/images/bathroom-wooden-organizer-cart.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["skincare storage", "makeup organization", "beauty storage", "small apartment", "Canada", "acrylic organizers", "vanity setup"]
 featured: false
@@ -69,7 +69,7 @@ Makeup organizes best in shallow, divided containers rather than deep boxes, sin
 
 **Reuse Sephora Canada packaging.** The small cardboard boxes and drawstring bags Sephora Canada uses for online orders make surprisingly good drawer dividers for brushes and smaller palettes — a free option before buying anything new. Most organizing guides tell you to buy dividers immediately, but testing free packaging first often solves half the problem before spending a dollar.
 
-**Vertical brush storage.** A small cup or repurposed candle jar holds brushes upright, taking up a fraction of the counter footprint that a flat brush roll needs.
+**Vertical brush storage.** A small cup or repurposed candle jar holds brushes upright, taking up a fraction of the counter footprint that a flat brush roll needs. For more ways to use [vertical storage in a small apartment](/blog/vertical-storage-ideas-small-apartment), the same principle applies to every room.
 
 ### Drawer Dividers: What Actually Fits a Small Bathroom Drawer
 

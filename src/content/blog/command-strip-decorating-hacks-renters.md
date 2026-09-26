@@ -3,7 +3,7 @@ title: "No-Damage Command Strip Decorating Hacks"
 description: "15 renter-friendly Command strip decorating ideas that won't void your security deposit—practical, no-damage solutions for Canadian apartments."
 image: "/images/decor-floating-shelves.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["Command strips", "no-drill decorating", "renter-friendly decor", "Canada", "small space", "no damage"]
 featured: false

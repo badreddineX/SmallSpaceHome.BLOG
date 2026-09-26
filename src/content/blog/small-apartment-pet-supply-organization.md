@@ -3,7 +3,7 @@ title: "Small Apartment Pet Supply Organization"
 description: "Organize dog and cat supplies in a small Canadian apartment — food storage, leash hooks, litter concealment, and travel gear, all under $150 CAD."
 image: "/images/dog-food-bowl-storage.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-27"
+dateModified: "2026-09-26"
 author: "Badreddine Br"
 tags: ["pet supply organization", "small apartment pets", "cat litter box furniture", "dog gear storage", "apartment organization", "Canada", "renter-friendly"]
 featured: false
