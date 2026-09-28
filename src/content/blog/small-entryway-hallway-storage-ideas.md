@@ -85,7 +85,7 @@ Entryway-specific console tables run as narrow as 20–25 cm deep, roughly half 
 
 Look for a console with at least one shelf or drawer so it earns its footprint. A single shelf underneath holds a basket for gloves or extra shoes, while a slim top drawer is enough for mail, a spare phone charger, or sunglasses.
 
-If a full console still feels too big, a wall-mounted floating shelf on Command strips (from our [storage ideas](/blog/storage-ideas-for-small-places) guide) gives you a landing surface at a fraction of the footprint, and it's just as removable when you move out.
+If a full console still feels too big, a wall-mounted floating shelf on Command strips (from our [storage ideas](/blog/storage-ideas-for-small-places) guide) gives you a landing surface at a fraction of the footprint, and it's just as removable when you move out. For a sturdier, fixed option, [MyBetterShelf's floating entryway shelves](https://mybettershelf.com/collections/floating-entryway-shelf) are built specifically for tight entry spaces — worth it if you're not chasing a no-drill setup and want something more permanent.
 
 ## Frequently Asked Questions
 
