@@ -212,7 +212,7 @@ When furnishing a small apartment from scratch:
 5. **Desk** — if working from home
 6. **Dining** — often the last priority; kitchen counter + stools works in very small apartments
 
-For how to make the living room side of this work, see [small space living room ideas](/blog/small-space-living-room-ideas) — sofa sizing, rug placement, and layout tips for compact Canadian living rooms. And if you want a minimalist approach to furniture choices, [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas) covers the "fewer, better pieces" philosophy in detail.
+For how to make the living room side of this work, see [small space living room ideas](/blog/small-space-living-room-ideas) — sofa sizing, rug placement, and layout tips for compact Canadian living rooms. For help deciding where each piece actually goes, [small apartment layout ideas](/blog/small-apartment-layout-ideas) covers clearances, walkways and room-by-room placement. And if you want a minimalist approach to furniture choices, [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas) covers the "fewer, better pieces" philosophy in detail.
 
 ## What to Avoid
 
@@ -235,7 +235,7 @@ For how to make the living room side of this work, see [small space living room 
 | HomeSense | Decor and soft furnishings | $$–$$$ |
 | Structube | Mid-range, apartment-sized | $$–$$$ |
 
-Buy the multi-function pieces first, then fill in secondary items. When in doubt, buy the smaller size — a slightly small piece makes a room feel open, a slightly large one makes it feel cramped.
+Buy the multi-function pieces first, then fill in secondary items. When in doubt, buy the smaller size — a slightly small piece makes a room feel open, a slightly large one makes it feel cramped. For more on how furniture scale and placement change the way a small room feels, see these [small space interior design tips](https://galathome.com/2025/01/26/small-space-interior-design-tips-to-maximize-your-homes-potential/).
 
 If you're setting up a desk in any of these rooms, see [small apartment home office ideas](/blog/small-apartment-home-office-ideas) for furniture picks sized specifically for a corner or closet setup.
 
