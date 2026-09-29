@@ -24,7 +24,6 @@ relatedPosts:
   - "small-closet-organization-rental-apartment"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 January in Canada is the right time to reset. The holidays leave behind extra stuff — gifts, packaging, food, decoration — and the apartment absorbs all of it. By early January, a small apartment that worked well in November can feel genuinely cramped. A reset fixes that. Not a full renovation, not a new furniture purchase — a systematic declutter and reorganize that gets the space back to a baseline that works.
 

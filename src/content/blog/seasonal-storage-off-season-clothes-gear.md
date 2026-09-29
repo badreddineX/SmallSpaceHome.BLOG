@@ -23,7 +23,6 @@ faqs:
     a: "Twice a year works for most Canadian climates: a spring swap around April when temperatures stabilize above freezing, and a fall swap around late September or October before the first real cold snap. Two fixed dates keep the system from sliding."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Canadian apartments ask for something most closets were never built for: a full winter wardrobe and a full summer wardrobe, stored in the same 2-foot-wide space, twelve months a year. You can't just buy more hangers. You need a rotation system.
 

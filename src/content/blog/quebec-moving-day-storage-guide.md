@@ -23,7 +23,6 @@ faqs:
     a: "Check grocery stores, the SAQ, and pharmacies for free boxes starting in early June, before the July 1 rush clears them out. Dollarama also sells sturdy medium boxes for around $2–$3 CAD each if you need a guaranteed supply."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 If you've never lived in Quebec, the idea of an entire province moving apartments on the exact same day sounds made up. Every July 1, U-Hauls line every street in Montreal, mattresses lean against every stop sign, and every elevator in every triplex is booked solid from 8 a.m. to dark.
 

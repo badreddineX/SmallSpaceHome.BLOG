@@ -24,7 +24,6 @@ relatedPosts:
   - "apartment-decor-ideas-on-a-budget"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Canadian winters are long. From late October through March, the days are short and the temperatures are often below freezing — your apartment is where you spend most of that time, and it should feel like a refuge. CMHC data shows that renters occupy roughly one-third of all Canadian households, and most of those apartments rely entirely on portable changes to create warmth and comfort.
 

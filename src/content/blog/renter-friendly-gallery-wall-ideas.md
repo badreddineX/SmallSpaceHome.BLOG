@@ -23,7 +23,6 @@ faqs:
     a: "Skip wall mounts entirely for anything over 2–3 lbs. Use adjustable leaning easels (IKEA LACK shelf converted to an easel for ~$4 CAD) or place oversized art on floating shelves anchored only to freestanding bookshelves nearby — no wall contact needed."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Most renters worry about losing their security deposit over wall damage—yet plenty still hang nails or picture hooks anyway, hoping for the best. Every wall demands a different approach, and the easiest damage-proof method isn't about *how* you hang—it's about *what* you hang and *where* you lean it.
 

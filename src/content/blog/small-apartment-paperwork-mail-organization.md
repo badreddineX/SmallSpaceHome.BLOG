@@ -25,7 +25,6 @@ faqs:
     a: "Use your phone's built-in scanner (Notes app on iPhone, Google Drive on Android) to photograph bills and receipts, save them to a labelled cloud folder by year, then shred the paper copy immediately. Most Canadians don't need a dedicated scanner for this."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 If your kitchen counter has a pile of mail you're avoiding, the fix isn't a bigger desk. It's a wall-mounted command centre near your door, a filing system with fewer than 15 folders, and a weekly shredding routine. All three fit in under two square feet.
 

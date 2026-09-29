@@ -24,7 +24,6 @@ faqs:
     a: "Facebook Marketplace and IKEA cover most of the budget furniture in Toronto, with secondhand dressers and tables running well below retail. Our <a href='/blog/facebook-marketplace-furnishing-budget'>Marketplace furnishing guide</a> has the full search strategy and price ranges."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Toronto renting means one thing above almost every other Canadian city: your unit is probably smaller than you'd get for the same rent in Calgary or Halifax, and it's probably in a highrise condo, not a house. Studios commonly run 350–500 sq ft, one-bedrooms 500–650 sq ft. The building stock splits into three eras: pre-war and postwar low-rises with real closets, 1960s–80s highrises with awkward layouts, and post-2010 condo towers built compact by design. Each type changes what actually works for storage and furnishing.
 

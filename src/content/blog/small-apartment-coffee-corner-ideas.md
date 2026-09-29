@@ -23,7 +23,6 @@ faqs:
     a: "Use a cable management box like the IKEA SKUBB (on sale for ~$18 CAD at Structube) to hide the power strip, then route cords through a decorative box or a folded fabric pouch. Tension rods with velcro straps also let you coil excess cord out of sight—zero damage, easy to undo."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You know that moment when you're waking up in your small apartment and *still* have to squeeze past the couch to reach the single outlet by the sink just to brew a decent cup? Yeah—we've all been there. Limited counter space is one of the most common frustrations for urban renters trying to build any kind of morning routine.
 

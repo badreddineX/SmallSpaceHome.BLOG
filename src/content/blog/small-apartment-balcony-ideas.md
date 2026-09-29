@@ -26,7 +26,6 @@ faqs:
     a: "Anything with fabric, electronics, glass, or liquid: cushions, string lights that aren't rated for winter, glass lanterns, ceramic pots with soil in them, and half-full watering cans. Resin furniture, metal frames, interlocking tiles, and empty pots can usually stay out. Doing this in one afternoon in October saves replacing cracked and mildewed gear every spring."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Canadian balconies are a different problem. The season is short — realistically May to September. Winter does real damage to anything left out. Most buildings won't let you drill, bolt, or even hang things over the railing. And the space is usually tiny and overlooked by three other units.
 

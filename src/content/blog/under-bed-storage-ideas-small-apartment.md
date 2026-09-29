@@ -24,7 +24,6 @@ relatedPosts:
   - "storage-ideas-for-small-places"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 The space under your bed can hold two full storage bins per side, yet most Canadian renters use it for a stray sock and a suitcase. A $22 CAD set of risers fixed that in ten minutes.
 

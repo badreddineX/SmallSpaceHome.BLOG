@@ -24,7 +24,6 @@ relatedPosts:
   - "small-apartment-organization"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 The best IKEA hacks for small apartments use KALLAX as a room divider or entry bench, PAX to fix a weak closet, a NORDLI storage bed instead of a dresser, and BILLY or LACK pieces for height and floating storage, all without a drill.
 

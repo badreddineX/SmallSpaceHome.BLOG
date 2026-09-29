@@ -26,7 +26,6 @@ relatedPosts:
   - "small-closet-organization-rental-apartment"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Spring clean in this order: declutter and reset each room first, then clean from top to bottom, using a simple three-product kit instead of a cabinet full of specialty cleaners.
 

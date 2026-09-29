@@ -24,7 +24,6 @@ relatedPosts:
   - "under-bed-storage-ideas-small-apartment"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 A small bedroom organization system means three things working together: a decluttering method you actually repeat, zones that separate sleep from storage from work, and containers inside your existing furniture that stop drawers and shelves from turning back into junk piles. Most small bedroom advice skips straight to buying bins.
 

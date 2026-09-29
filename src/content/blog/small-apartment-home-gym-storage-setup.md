@@ -25,7 +25,6 @@ faqs:
     a: "A functional folding setup, mat, bands, adjustable dumbbells, and a storage ottoman, runs about $250–$450 CAD total from Canadian Tire, Amazon.ca, and Decathlon Canada. That's less than three months of an average GTA gym membership."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You don't need a spare room to build a real home gym. A folding mat, a set of resistance bands, and adjustable dumbbells that live inside a storage ottoman can turn any 2×2 foot corner into a functional workout space. The equipment just has to earn its footprint twice: once during the workout, once folded away.
 

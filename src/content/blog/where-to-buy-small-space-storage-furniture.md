@@ -23,7 +23,6 @@ faqs:
     a: "Yes, usually 40-60% less than retail, but only for the pieces that hold up well used: ottomans, console tables, and bed frames with drawers. Skip secondhand lift-top mechanisms and anything with moving hardware unless you can test it in person, since a broken hinge or stuck lift-top defeats the entire purpose of the piece."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 This is that list, organized by piece, not by inspiration board.
 

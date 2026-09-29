@@ -26,7 +26,6 @@ relatedPosts:
   - "small-apartment-organization"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 A small apartment kitchen has one organizing principle above all others: everything must earn its counter space. Counters in a small kitchen are too valuable to store anything that isn't used every single day. The CMHC notes that a growing share of Canadian households rent rather than own, which means working within kitchen limitations — not renovating around them — is the reality for millions of renters.
 

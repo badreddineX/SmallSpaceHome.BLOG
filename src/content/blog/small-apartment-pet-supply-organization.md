@@ -25,7 +25,6 @@ faqs:
     a: "Collapsible soft-sided carriers fold flat and slide under a bed or on top of a closet shelf, while hard-sided carriers stack in a closet or store on a high shelf. A carrier used only for vet trips doesn't need dedicated floor space year-round."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Organizing pet supplies in a small apartment comes down to four zones: a sealed food container near the kitchen, hooks by the door for leashes and bags, a concealed spot for the litter box, and vertical storage for anything used less than weekly. Get those four right and pet clutter mostly disappears.
 

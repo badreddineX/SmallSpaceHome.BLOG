@@ -27,7 +27,8 @@ faqs:
     a: "Mark out the footprint of each piece on the floor with painter's tape or cut cardboard to the same size, then walk through the room. This shows quickly whether a sofa blocks a door, whether a bed leaves enough space beside it, and whether you can still open closets and drawers."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
+
+**TL;DR:** Measure clearances first (75–90cm main walkway, 60cm beside the bed). Plan the layout with tape on the floor before moving anything. Scale furniture to the room — apartment-size sofa, visible legs, round coffee table. Float the sofa off the wall. Split a narrow room into two zones with a rug. Work around baseboard heaters by keeping furniture and curtains clear. Test everything before you buy.
 
 Most small apartments feel cramped because of the layout, not the size. Furniture pushed against every wall, a sofa that's too big, and a walkway that runs right through the middle of the room can make a comfortable apartment feel tight.
 

@@ -26,7 +26,6 @@ relatedPosts:
   - "small-apartment-organization"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 There is a toilet, a pedestal sink with zero storage underneath, a shower stall, and about 60 cm of floor space between them. Here is that system, in the order that makes the most difference.
 

@@ -26,7 +26,6 @@ faqs:
     a: "Dollarama fabric bins ($3–$5 CAD) cover closet shelves and drawers. IKEA SKUBB sets ($20–$25 CAD for six) cover the rest of the closet. Together, a full closet and entryway system costs under $60 CAD for most one-bedroom apartments."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 The right storage bin depends entirely on where it's going, not on which one looks nicest at the store. Under-bed spots need flat, low-profile bins under 18 cm tall; closet shelves need stackable fabric bins; open living-room shelving needs woven baskets that hide contents while still looking styled. Match the bin to the location first, then worry about matching bins to each other.
 

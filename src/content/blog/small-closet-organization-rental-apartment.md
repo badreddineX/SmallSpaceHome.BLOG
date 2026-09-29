@@ -24,7 +24,6 @@ relatedPosts:
   - "seasonal-storage-off-season-clothes-gear"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 One rod, one shelf, and a landlord who made it very clear the walls were staying exactly as they were. Most closet advice online assumes you're working with a walk-in — this is what actually works for a *very* small closet, when it's the size of a phone booth and already crammed with clothes.
 

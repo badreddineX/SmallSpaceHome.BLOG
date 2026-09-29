@@ -24,7 +24,6 @@ relatedPosts:
   - "storage-ideas-for-small-places"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Small laundry room ideas usually assume you have a *room*. In an apartment you don't — you have a closet the size of a phone booth, and you're trying to find the detergent balanced on top of the dryer. In-suite stacked washer/dryer units are now standard in a lot of newer Canadian condo and apartment buildings, and the closet around them is almost always an afterthought.
 

@@ -24,7 +24,6 @@ relatedPosts:
   - "storage-ideas-for-small-places"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 A coffee table is just a flat surface unless it's also doing storage work. In a small Canadian living room, every piece of furniture you buy should hide something.
 

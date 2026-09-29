@@ -23,7 +23,6 @@ faqs:
     a: "Choose plants with thick, waxy leaves like ZZ plants or parlor palms. Avoid overly moist soil — let the top inch dry before watering. If you see fungus gnats, top-dress with sand or sprinkle cinnamon, both under $10 CAD at local garden centers."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You're not alone if your apartment's darkest corner currently houses a forgotten umbrella, a stack of expired grocery bags, or nothing at all. Low natural light is a real complaint in a lot of older Canadian rental stock built before 1990.
 

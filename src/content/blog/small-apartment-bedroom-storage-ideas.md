@@ -24,7 +24,6 @@ relatedPosts:
   - "small-closet-organization-rental-apartment"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Most small bedroom organization ideas assume you have furniture to work with. In a small Canadian apartment the room has to do double duty — sleep and storage — and most do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. Here is the complete approach to bedroom storage, in the order that makes the most difference.
 
@@ -168,7 +167,7 @@ Canadian winters require seasonal storage management that doesn't apply in warme
 
 ---
 
-Complete the first five steps of the priority order before considering larger purchases. These five changes alone typically double usable bedroom storage for under $110 CAD.
+Complete the first five steps of the priority order before considering larger purchases.
 
 → Once storage is sorted, [small bedroom decor ideas](/blog/small-bedroom-decor-ideas) covers the visual side — colour, lighting, and layout for a bedroom that feels calm, not just organized.
 

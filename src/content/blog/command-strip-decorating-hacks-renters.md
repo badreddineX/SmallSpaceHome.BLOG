@@ -24,7 +24,6 @@ faqs:
 
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Let’s be real: apartment living in Canada means you can’t just hammer, drill, or paint to your heart’s content. Many landlords will deduct from a deposit for even a single nail hole, especially in units with concrete walls. That makes zero-damage decorating a genuine skill worth learning, and Command strips are the backbone of it. Here’s what *actually* holds weight, looks good, and survives Canadian winters.
 

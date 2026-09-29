@@ -26,7 +26,6 @@ faqs:
     a: "The trick is spending on the three things people actually notice — lighting, textiles, and one focal wall — instead of spreading a small budget across twenty small objects. A warm bulb, one good rug, and a gallery wall done with Command strips reads as intentional, not thrifted, even at under $200 CAD total."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Decorating a Canadian rental apartment on a tight budget is entirely possible. The mistake is buying too many things at once — spreading $200 across 20 items that don't quite go together. A better approach: buy fewer things, prioritize ruthlessly, and understand which purchases deliver the highest visual impact per dollar.
 

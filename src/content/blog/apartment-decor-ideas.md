@@ -24,7 +24,6 @@ relatedPosts:
   - "small-space-living-room-ideas"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Small apartment decorating ideas are everywhere online, but most assume you can paint, drill, and stay for a decade. Decorating a rental in Canada is a different problem — beige walls, a damage deposit on the line, and no permanent changes allowed. CMHC data shows that renters make up roughly one-third of all Canadian households — and most of them are decorating spaces they can't permanently modify. Here's what actually works.
 

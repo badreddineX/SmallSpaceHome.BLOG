@@ -26,7 +26,6 @@ faqs:
     a: "Pothos, ZZ plant, snake plant, and pothos again — they tolerate low light and the humidity actually helps them. A small fern or a spider plant works if you have a window. If the bathroom has no natural light at all, rotate a plant in from another room every couple of weeks, or use a realistic faux plant and skip the guilt."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 
 Rental bathrooms are the hardest room to decorate because everything permanent belongs to the landlord. But almost everything that *makes* a bathroom feel styled — colour, texture, light, greenery, a bit of art — is soft, freestanding, or stick-on. Here's what actually works.

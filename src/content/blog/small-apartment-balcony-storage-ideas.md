@@ -24,7 +24,6 @@ relatedPosts:
   - "storage-ideas-for-small-places"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 For a rental balcony, solve storage first: use no-drill bike storage, a weatherproof deck box and railing planters, and bring soft items inside for the winter.
 

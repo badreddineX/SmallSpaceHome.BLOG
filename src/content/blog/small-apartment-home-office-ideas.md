@@ -31,7 +31,6 @@ faqs:
     a: "Yes — heavy-duty Command strips (rated up to 7.5 kg for the largest size) hold a fold-down shelf desk or monitor mount without a single screw, and peel off clean at move-out. A tension-rod room divider or a freestanding leaning shelf unit gets you a defined work corner with zero hardware at all, which matters if your lease holds you responsible for patching holes."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert.
 

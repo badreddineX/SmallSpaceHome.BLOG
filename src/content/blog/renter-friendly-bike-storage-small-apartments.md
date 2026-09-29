@@ -25,7 +25,6 @@ faqs:
     a: "Not always, but many purpose-built rental buildings in Canada have a bike room in the parkade or basement, often unlocked or accessed by fob. Ask property management directly. It's the single best storage solution because it costs nothing and keeps the bike out of your unit entirely."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Storing a bike in a small apartment comes down to three renter-safe options: a no-drill wall hook (~$20–$35 CAD), a freestanding vertical floor stand (~$30–$60 CAD), or your building's bike room if it has one. Each keeps the bike off the floor and out of your walking path without risking your damage deposit.
 

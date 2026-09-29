@@ -24,7 +24,6 @@ relatedPosts:
   - "apartment-decor-ideas"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Reading nooks have become one of the most requested small-space decor ideas, and it makes sense: after years of open-plan everything, people want one chair that's just for sitting down and doing nothing else. You don't need a spare room for that.
 

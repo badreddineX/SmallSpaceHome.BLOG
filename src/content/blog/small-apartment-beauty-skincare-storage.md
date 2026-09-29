@@ -25,7 +25,6 @@ faqs:
     a: "A tension-mounted or adhesive-hook mirror shelf (~$20–$35 CAD on Amazon.ca) adds a narrow shelf above the medicine cabinet or mirror for perfumes and skincare bottles, using vertical space that's otherwise wasted."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Organizing skincare and makeup in a small apartment comes down to three moves: contain products in acrylic organizers, sort by category with drawer dividers, and purge on a schedule so clutter doesn't quietly rebuild every season. None of this requires a big bathroom — it requires containers that match how you actually use the products.
 

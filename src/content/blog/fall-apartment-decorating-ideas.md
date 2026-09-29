@@ -24,7 +24,6 @@ relatedPosts:
   - "small-apartment-plant-corner-ideas"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Canadian autumn is brief and beautiful — the leaves turn, the air crisps, and everything feels like a warm drink and a blanket. Your apartment can reflect that shift with a few deliberate seasonal changes, all without permanent modifications or a large budget. CMHC notes that renters make up roughly one-third of Canadian households — and seasonal decorating is one of the most satisfying ways to make a rental feel like a real home.
 

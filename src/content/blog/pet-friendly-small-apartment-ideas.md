@@ -23,7 +23,6 @@ faqs:
     a: "Yes—use a covered litter box like the Trixie Litter Box with Privacy Hood (Canadian Tire, ~$35 CAD), place it inside a tall, narrow storage cabinet (IKEA BESTÄND, ~$50 CAD), and add a carbon filter like the PetSafe ScoopFree Ultra for odor control (~$45 CAD)."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You're not just surviving your small apartment—you're thriving with a furry roommate. Pet ownership among younger renters has climbed steadily across major Canadian cities, and pet-friendly setups are a real factor in whether people renew their lease.
 

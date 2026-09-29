@@ -23,7 +23,6 @@ faqs:
     a: "No. Most first-year storage problems are solved with soft bins, hooks, and stackable bins rather than furniture. Save furniture purchases (a KALLAX or a small dresser) for once you know how you actually use the space."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Moving out for the first time in September is exciting and, frankly, a little overwhelming. You've got a truck full of boxes, a tiny apartment or dorm-adjacent unit, and a budget that's mostly gone to first and last month's rent already.
 

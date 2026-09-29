@@ -25,7 +25,6 @@ faqs:
     a: "Curb alerts and 'free' sections on Facebook Marketplace and Buy Nothing groups yield frames, side tables, and shelving regularly in most Canadian cities. Community bulletin boards and end-of-lease moves (April 30/May 1 in Ontario) are peak season for free furniture left on curbs."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Some apartment decor projects save real money when you DIY them. The honest answer is that DIY only wins on low-material, low-tool projects; anything involving furniture-grade construction, electrical work, or bulk fabric is usually a false economy.
 

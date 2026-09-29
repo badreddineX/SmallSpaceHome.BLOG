@@ -24,7 +24,6 @@ relatedPosts:
   - "renter-friendly-gallery-wall-ideas"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Moving into a Canadian rental doesn't mean living with beige walls and zero personality for years. You can add colour, pattern, warmth, and real style without touching a drill or risking your damage deposit. These ideas are all renter-approved — no drilling, no permanent damage, fully reversible.
 

@@ -26,7 +26,6 @@ relatedPosts:
   - "small-apartment-organization"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Storage in a small Canadian apartment is always a negotiation. You're working with maybe 450–650 square feet, a landlord who expects you to leave the walls intact, and winters that demand you store two full wardrobes worth of seasonal gear. The answer isn't a bigger apartment — it's using what you have more deliberately. CMHC data shows that rental households in Canada's major cities are growing year over year, and most of those renters are navigating tight square footage.
 

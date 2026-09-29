@@ -23,7 +23,6 @@ faqs:
     a: "Start with IKEA’s LACK wall shelf ($9.99 CAD) using Command strips for light items, a $24.99 CAD tension rod, and a $19.99 CAD hanging pantry organizer from HomeSense for spices or toiletries. Total: ~$75 CAD with zero damage."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Canadian apartments in major cities tend to run small, and singles under 35 often end up in the tightest units of all. No wonder we're all competing for every vertical inch above head height. No nails. No mess. No landlord headaches.
 

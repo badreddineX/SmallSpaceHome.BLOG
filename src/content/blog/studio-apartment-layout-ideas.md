@@ -28,7 +28,6 @@ faqs:
 ---
 
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 The real work is deciding where the invisible lines go: this corner is for sleeping, this stretch of floor is for everything else, and the path between the door and the bathroom stays clear no matter what. Once the room had zones, it stopped feeling like one cramped bedroom and started feeling like a small apartment.
 
@@ -82,7 +81,7 @@ Pick one piece to do the heavy lifting and keep the rest minimal. In a studio, t
 
 Whatever you choose, keep it off the walls where you can. Furniture pushed against every wall makes a small room feel like a waiting area. One floated piece and some breathing room reads as deliberate.
 
-For the pieces themselves — sizes that fit, where to buy them in Canada — see [small-space furniture](/blog/small-space-furniture).
+For the pieces themselves — sizes that fit, where to buy them in Canada — see [small-space furniture](/blog/small-space-furniture). And if your studio is closer to a one-bedroom in size, our [small apartment layout ideas](/blog/small-apartment-layout-ideas) guide covers clearances and layouts for narrow, square and open-plan units.
 
 ## How Do You Fit a Home Office Into a Studio?
 

@@ -25,7 +25,6 @@ faqs:
     a: "This guide is strictly budget-first: cheap containers, reused jars, and a hard $30–$40 CAD cap for a single cupboard. Our <a href='/blog/fridge-pantry-organization-small-apartment'>17 fridge & pantry organization ideas</a> covers a broader system across both fridge and pantry, at any budget level."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You can organize a small apartment pantry cupboard for under $40 CAD using reused jars, a handful of Dollarama bins, and one cheap shelf riser. No matching container sets, no $200 pantry overhaul required.
 

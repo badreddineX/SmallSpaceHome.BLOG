@@ -24,7 +24,6 @@ faqs:
     a: "Drawer-base frames like the NORDLI ship flat-packed in several boxes and assemble in the room, so they fit through any standard door or elevator that a regular bed frame would. The one thing to check first: total assembled weight (NORDLI queen runs roughly 70–90 kg full frame), since a heavier frame is harder to move again at your next lease renewal."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Grab a tape measure before reading further — it decides which half of this guide applies to you.
 

@@ -24,7 +24,6 @@ relatedPosts:
   - "cozy-winter-apartment-decor"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You're not alone if your small apartment feels like it's stuck in beige limbo—or worse, bounces cold blues off concrete walls. Most renters avoid bold colour changes because of lease restrictions, which is exactly why textiles and removable accents do so much of the work here.
 

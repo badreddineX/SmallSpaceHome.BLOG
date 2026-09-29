@@ -23,7 +23,6 @@ faqs:
     a: "Absolutely. Slim rotating turntables (IKEA STURE, ~$22 CAD) or sliding drawer organizers (Wayfair Canada, ~$19 CAD) let you access back items without overcrowding. A tension rod with hooks (about $12) can double spice storage without modifying anything."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You're not the only one cringing at the fridge-jungle that appears every Sunday night. Kitchen clutter is one of the most common frustrations renters mention in small apartments—especially fridges and pantries.
 

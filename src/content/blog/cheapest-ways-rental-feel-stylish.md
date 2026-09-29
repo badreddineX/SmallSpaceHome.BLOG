@@ -25,7 +25,6 @@ faqs:
     a: "A full refresh, lighting, a few Dollarama pieces, one thrifted item, and a small textile swap, typically runs $20–$50 CAD. Add removable wallpaper on one wall and the total still stays under $90 CAD for most small Canadian rentals."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Making a rental feel stylish doesn't require a big budget. The three changes that matter most, decluttering, rearranging furniture, and fixing the lighting, cost nothing or close to it, and they change a space more than any single purchase would. Everything below builds from there with realistic CAD prices.
 

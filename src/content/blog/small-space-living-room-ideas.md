@@ -29,7 +29,6 @@ faqs:
     a: "Light wall colours, a properly sized rug, mirrors, and vertical storage cover 80% of the visual impact — none of them require permanent changes. These are the same small living room ideas that work in a rental as well as an owned condo, since nothing here involves drilling or paint beyond what your lease allows."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Your living room is the first room guests see and the room you spend the most time in — it's also where the "vibey apartment living room aesthetic" people are chasing lately actually gets built, not through one statement piece but through the layered small decisions below. When it's 180 square feet and doubles as your dining room and [home office](/blog/small-apartment-home-office-ideas), every decision matters.
 

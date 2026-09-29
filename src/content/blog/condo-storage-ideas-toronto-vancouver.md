@@ -27,7 +27,6 @@ faqs:
     a: "Mostly not — the core no-drill, vertical-first principles are identical. The real differences are building-specific: condo boards often have stricter rules than a private landlord about balcony storage and hallway items, elevators can be smaller than a typical apartment building's, and many condos include a locker that a rental apartment wouldn't. Check your condo's specific bylaws before installing anything on a shared wall or balcony."
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Condo living in Toronto or Vancouver means a unique storage problem: the unit is often smaller than a comparable rental apartment, but the building rules are usually stricter about what you can attach to a wall. No drilling into shared walls, balcony restrictions that vary by board, and elevators that weren't built with furniture deliveries in mind. Here's what actually works — tested against those exact constraints, not generic small-space advice.
 

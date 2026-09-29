@@ -24,7 +24,6 @@ relatedPosts:
   - "storage-ideas-for-small-places"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 You do not need a $500 Container Store haul to get your apartment organized. Most small-space organization problems can be solved for well under $100 CAD — if you declutter first, identify the 2–3 specific problems, then buy targeted solutions for those problems only. CMHC data consistently shows that Canadian renters live in some of the smallest units in the country, which makes smart organization essential, not optional.
 

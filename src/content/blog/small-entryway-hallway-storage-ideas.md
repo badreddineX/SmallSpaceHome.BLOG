@@ -24,7 +24,6 @@ relatedPosts:
   - "storage-ideas-for-small-places"
 ---
 
-*This post contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.*
 
 Small apartment entryways get almost no design attention, but they take the most daily abuse: wet boots, dropped keys, a coat pile that migrates onto the nearest chair. Statistics Canada reports the average rented apartment in a major Canadian city runs under 700 square feet ([Statistics Canada](https://www150.statcan.gc.ca/), 2021), which usually means the entry is a narrow strip, not a room.
 
