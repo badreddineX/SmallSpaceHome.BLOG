@@ -3,7 +3,7 @@ title: "15 IKEA Small Space Hacks for Apartments"
 description: "15 IKEA small space hacks for Canadian apartments — furniture combos, storage tricks, and unexpected uses, with real CAD prices and what actually works."
 image: "/images/scandinavian-minimalist-furniture.jpg"
 datePublished: "2026-01-25"
-dateModified: "2026-09-05"
+dateModified: "2026-09-30"
 author: "Badreddine Br"
 tags: ["IKEA hacks", "IKEA small apartment", "IKEA apartment hacks", "small space", "Canada", "apartment ideas", "IKEA"]
 featured: false
@@ -24,6 +24,8 @@ relatedPosts:
   - "small-apartment-organization"
 ---
 
+
+> **Start here:** The KALLAX 2×4 (~$159 CAD) is the single most versatile IKEA piece for a small apartment — room divider, TV console, entry bench, or wardrobe base. If you buy one thing from this list, buy the KALLAX.
 
 The best IKEA hacks for small apartments use KALLAX as a room divider or entry bench, PAX to fix a weak closet, a NORDLI storage bed instead of a dresser, and BILLY or LACK pieces for height and floating storage, all without a drill.
 
@@ -50,7 +52,7 @@ Many older Toronto and Montreal apartments have tiny wardrobes or hall closets t
 
 A PAX wardrobe frame starts around $179 CAD, but a full configuration with doors and interior organizers typically runs $400 to $800 CAD — still often cheaper than a custom closet build-out in an older Toronto or Montreal rental.
 
-Add internal organizers: KOMPLEMENT pull-out trays, JONAXEL shelf units, and a mirror door to make the bedroom feel significantly larger.
+Add internal organizers: [KOMPLEMENT pull-out trays](https://link.amazon/A0fiRlft2), JONAXEL shelf units, and a mirror door to make the bedroom feel significantly larger.
 
 **Cost:** PAX frame starts at ~$179 CAD. Full configuration with doors and interior organizers: ~$400–$800 CAD.
 
@@ -128,7 +130,7 @@ IVAR sections start around $35 CAD each, with a full wardrobe configuration typi
 
 ## Does the HOVET Mirror Really Expand a Small Bedroom?
 
-The HOVET full-length mirror (~$279 CAD) leans against the wall (no installation) and immediately makes any small bedroom feel significantly larger. It reflects light from the window and creates the illusion of a second doorway.
+The [HOVET full-length mirror](https://link.amazon/A0f118hwQ) (~$279 CAD) leans against the wall (no installation) and immediately makes any small bedroom feel significantly larger. It reflects light from the window and creates the illusion of a second doorway.
 
 The HOVET mirror costs about $279 CAD and needs no installation, since it simply leans against the wall while still creating the illusion of a second doorway.
 

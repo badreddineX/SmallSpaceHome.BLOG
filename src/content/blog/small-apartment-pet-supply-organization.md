@@ -107,25 +107,6 @@ Hard-sided carriers don't collapse, but they do stack. Store one on top of a clo
 
 The wide range reflects one real choice: whether to buy purpose-built litter furniture or go the DIY cabinet route. Either way, the food, entryway, and toy zones alone run under $60 CAD and solve most of the visible clutter.
 
-## Frequently Asked Questions
-
-**How do I organize pet supplies in a small apartment?**
-Group by function, not by pet: a sealed bin for food near the kitchen, hooks by the door for leashes and poop bags, a basket for toys in the living room, and a concealed cabinet or bench for the litter box.
-
-**Where should I store dog food in a small apartment?**
-In an airtight container in a kitchen cabinet, pantry, or entryway closet, using something like IKEA's 365+ bins ($10–$25 CAD) to keep food fresh and off the floor.
-
-**How do I hide a litter box in a small apartment?**
-Use furniture built for concealment, such as a side-table-style enclosure ($80–$150 CAD on Amazon.ca), or repurpose an IKEA cabinet with a cut entry hole for less.
-
-**What's the cheapest way to organize leashes and collars by the door?**
-Command hooks from Dollarama or Canadian Tire ($2–$5 CAD each) hold leashes, harnesses, and poop bags without drilling into rental walls.
-
-**How do I store a pet carrier when it's not in use?**
-Collapsible soft-sided carriers fold flat under a bed or on a closet shelf, while hard-sided carriers stack in a closet or sit on a high shelf until the next vet trip.
-
----
-
 None of this requires a big renovation or a big budget. Four zones, a handful of bins and hooks, and the habit of putting things back where they belong will keep pet gear from taking over a small apartment.
 
 → For the bigger picture on setting up a pet-friendly small space from the ground up, see [15 pet-friendly small apartment setup ideas](/blog/pet-friendly-small-apartment-ideas), and [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for keeping pet-washing supplies out of the way.

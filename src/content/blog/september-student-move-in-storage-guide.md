@@ -93,20 +93,7 @@ A simple plastic shower caddy with handles from Dollarama or Canadian Tire works
 
 ## What Does a Realistic Move-In Storage Budget Look Like?
 
-A bare-minimum storage setup for a first apartment costs $60–$90 CAD, while a slightly nicer setup with one or two IKEA furniture pieces runs $180–$250 CAD. Neither budget requires spending everything the first weekend.
-
-**Cheapest viable setup (~$60–$90 CAD):**
-- Closet: hangers + over-door organizer (~$20 CAD)
-- Under-bed: 2 bins (~$10 CAD)
-- Kitchen: stackable bins + Command hooks (~$20 CAD)
-- Desk: organizer tray + cable clips (~$10 CAD)
-- Bathroom caddy if needed (~$12 CAD)
-
-**Slightly nicer setup (~$180–$250 CAD):**
-- Everything above, plus:
-- IKEA KALLAX 2-cube unit for the corner (~$45 CAD)
-- IKEA PAX-alternative small wardrobe if closet space is minimal (~$100 CAD range for smaller units)
-- A rolling cart for the kitchen (~$39 CAD, IKEA RASKOG)
+A bare-minimum storage setup for a first apartment costs $60–$90 CAD, while a slightly nicer setup with one or two IKEA furniture pieces runs $180–$250 CAD. Neither budget requires spending everything the first weekend. The itemized breakdown for both is in the table above.
 
 For more ways to stretch a tight setup budget further, see our [budget-friendly organization ideas](/blog/small-apartment-organization-ideas-on-a-budget).
 

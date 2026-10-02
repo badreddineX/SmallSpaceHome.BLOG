@@ -3,7 +3,7 @@ title: "Storage Bed Buying Guide for Small Studios"
 description: "Storage bed vs. bed risers vs. under-bed bins for a small Canadian studio — real prices, real capacity, and which one to actually buy."
 image: "/images/bright-bedroom-mirror.jpg"
 datePublished: "2026-08-17"
-dateModified: "2026-09-25"
+dateModified: "2026-09-30"
 author: "Badreddine Br"
 tags: ["storage bed", "storage bed small apartment", "NORDLI storage bed", "studio apartment bed", "Canada", "renter-friendly"]
 featured: false
@@ -24,6 +24,8 @@ faqs:
     a: "Drawer-base frames like the NORDLI ship flat-packed in several boxes and assemble in the room, so they fit through any standard door or elevator that a regular bed frame would. The one thing to check first: total assembled weight (NORDLI queen runs roughly 70–90 kg full frame), since a heavier frame is harder to move again at your next lease renewal."
 ---
 
+
+> **Our top pick:** The IKEA NORDLI storage bed ($399–$699 CAD) — holds 8–10 bins' worth of storage in the drawers, eliminates the need for a separate dresser, and ships flat-pack so it fits through any apartment door.
 
 Grab a tape measure before reading further — it decides which half of this guide applies to you.
 
@@ -56,7 +58,7 @@ If your current bed frame is otherwise fine and you're not planning to replace i
 
 Bed risers add 12–15 cm of clearance under most existing frames, which is usually enough to fit two rows of flat storage bins per side of a queen or double bed — roughly 2–4 bins total, holding an off-season wardrobe swap or spare bedding.
 
-**[Bed risers](https://amzn.to/46J0kuR)** ($20–$28 CAD, Amazon.ca or Canadian Tire) slide under each leg and add height without touching the frame itself — reversible in seconds, no tools required. **Flat lidded bins** ($8–$15 CAD each) protect shape-sensitive items like shoes and folded sweaters from dust. **Vacuum-seal bags** ($10–$18 CAD for a multipack) compress bulky items like duvets and winter coats to a quarter of their size, the better option specifically when clearance stays under 15 cm even with risers.
+**[Bed risers](https://amzn.to/46J0kuR)** ($20–$28 CAD, Amazon.ca or Canadian Tire) slide under each leg and add height without touching the frame itself — reversible in seconds, no tools required. **[Flat lidded bins](https://link.amazon/A08AtnNvV)** ($8–$15 CAD each) protect shape-sensitive items like shoes and folded sweaters from dust. **[Vacuum-seal bags](https://amzn.to/4hkxQfL)** ($10–$18 CAD for a multipack) compress bulky items like duvets and winter coats to a quarter of their size, the better option specifically when clearance stays under 15 cm even with risers.
 
 Full breakdown of bins vs. bags vs. what never belongs under a bed is in [under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment).
 
@@ -79,6 +81,15 @@ A full queen NORDLI frame weighs roughly 70–90 kg once assembled, noticeably h
 ## The One-Measurement Decision
 
 Measure your current clearance, or the clearance of the frame you're about to buy, before spending anything. Under 15 cm and not replacing the bed: get risers first, cheapest fix, ten minutes. Under 15 cm and replacing the bed anyway, or furnishing from scratch: go straight to a drawer-base frame like the NORDLI, since the price gap versus a plain frame plus bins is smaller than it looks.
+
+## Quick-Pick Summary
+
+| Option | Cost (CAD) | Best For | Buy |
+|--------|-----------|----------|-----|
+| [Bed risers](https://amzn.to/46J0kuR) | $20–$28 | Adding clearance to your current bed | [Amazon.ca](https://amzn.to/46J0kuR) |
+| [Flat lidded bins](https://link.amazon/A08AtnNvV) | $8–$15 each | Under-bed storage with risers | [Amazon.ca](https://link.amazon/A08AtnNvV) |
+| [Vacuum-seal bags](https://amzn.to/4hkxQfL) | $10–$18 | Bulky items (duvets, coats) | [Amazon.ca](https://amzn.to/4hkxQfL) |
+| IKEA NORDLI drawer bed | $399–$699 | Furnishing from scratch — our top pick | IKEA.ca |
 
 For the rest of the bedroom beyond the bed itself, [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas) covers closets, dressers, and the wall space most people forget about. For furniture that solves this same multi-function problem in other rooms, [small space furniture that actually works](/blog/small-space-furniture) has the full breakdown. And if you're still working out where the bed even goes, [studio apartment layout ideas](/blog/studio-apartment-layout-ideas) covers zoning the room first.
 

@@ -120,25 +120,6 @@ A quarterly 15-minute check keeps expired products from quietly accumulating, si
 
 Toss anything that's changed smell, texture, or colour regardless of the printed date. This one habit prevents the slow rebuild of clutter that undoes every organizing system eventually.
 
-## Frequently Asked Questions
-
-**How do I organize skincare products in a small apartment?**
-Group products by function in a shallow acrylic organizer on the counter, then move backstock into a labeled drawer or under-sink bin. Acrylic organizers from Amazon.ca or IKEA run $12–$25 CAD.
-
-**What's the best way to store makeup in a small bathroom?**
-Use a stackable acrylic makeup organizer with small compartments ($15–$30 CAD) so brushes, palettes, and lip products stay separated, or use a drawer with dividers if counter space is gone.
-
-**How often should I declutter expired skincare and makeup?**
-Check expiry dates every three months, since mascara lasts about 3 months and most skincare lasts 6–12 months once opened.
-
-**Do I need a vanity for makeup storage if I don't have a dressing room?**
-No, a small dresser corner or a $30–$60 CAD IKEA desk with a mirror works fine as a makeup station in a bedroom.
-
-**How can I use over-mirror space for beauty storage?**
-A tension-mounted or adhesive-hook mirror shelf ($20–$35 CAD) adds a narrow shelf above the mirror for perfumes and skincare bottles.
-
----
-
 Skincare and makeup clutter isn't a bathroom-size problem, it's a containment problem. A few acrylic trays, a divided drawer, and a quarterly purge handle almost everything, and a bedroom dresser corner covers the rest if the bathroom's truly out of room.
 
 → For the broader bathroom system this guide fits inside, see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage).

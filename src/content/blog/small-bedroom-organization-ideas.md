@@ -133,24 +133,6 @@ Related: [small apartment organization](/blog/small-apartment-organization)
 
 ---
 
-## Frequently Asked Questions
-
-Below are quick answers to the questions Canadian renters ask most about organizing a small bedroom.
-
-**How do I organize a small bedroom if I don't have furniture to work with yet?**
-Start with zoning, not furniture. Mark a sleep zone, a storage zone, and (if needed) a work zone using a rug or the room's existing layout, before buying anything. Once the zones are clear, you'll know exactly what to buy instead of guessing. Furniture comes second.
-
-**What's the fastest way to declutter a small bedroom before organizing it?**
-Empty one drawer or shelf completely, sort everything into keep, donate, and trash, then put back only what earns its space. Doing one zone per session (20-30 minutes) beats trying the whole room at once, which is how most declutter attempts stall out.
-
-**How often should I redo my bedroom organization system?**
-Twice a year is enough for most Canadian renters, timed to the seasonal clothing swap (roughly April and October). A system that needs constant rebuilding isn't the right system. If you're re-sorting every month, the zones or bins don't match how you actually live.
-
-**Can I organize a small bedroom without buying anything new?**
-Yes, largely. Zoning costs nothing. Decluttering costs nothing. Repurposing a shoebox as a drawer divider costs nothing. The only real spend most renters need is under-bed bags (~$14 CAD) and maybe drawer dividers (~$10-15 CAD), the system matters more than the products.
-
----
-
 ## The Small Bedroom Organization Priority Order
 
 1. **Zone the room** — sleep, storage, work (if needed), before buying anything

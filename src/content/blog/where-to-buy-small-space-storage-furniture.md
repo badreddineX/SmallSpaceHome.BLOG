@@ -3,7 +3,7 @@ title: "Where to Buy Small-Space Storage Furniture"
 description: "Real Canadian retailers for hidden storage furniture, by piece and by budget — where to buy, what it actually costs, and what to skip."
 image: "/images/living-room-storage-shelving.jpg"
 datePublished: "2026-08-17"
-dateModified: "2026-09-25"
+dateModified: "2026-09-30"
 author: "Badreddine Br"
 tags: ["storage furniture", "where to buy storage furniture", "hidden storage furniture", "small space furniture", "Canada", "renter-friendly"]
 featured: false
@@ -23,6 +23,8 @@ faqs:
     a: "Yes, usually 40-60% less than retail, but only for the pieces that hold up well used: ottomans, console tables, and bed frames with drawers. Skip secondhand lift-top mechanisms and anything with moving hardware unless you can test it in person, since a broken hinge or stuck lift-top defeats the entire purpose of the piece."
 ---
 
+
+> **Fastest buy:** A [folding storage ottoman](https://amzn.to/3VehY7d) ($70–$120 CAD on Amazon.ca) arrives pre-assembled, doubles as seating and a coffee table, and solves living room clutter in one purchase.
 
 This is that list, organized by piece, not by inspiration board.
 

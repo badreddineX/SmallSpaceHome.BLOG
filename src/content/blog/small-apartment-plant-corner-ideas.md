@@ -3,7 +3,7 @@ title: "12 Plant Corner Ideas for Small Apartments"
 description: "12 renter-friendly plant corner ideas for small Canadian apartments: low-light plants, shelves and stands that fit a tight corner, all under $50 CAD."
 image: "/images/plant-corner-palm.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-09-26"
+dateModified: "2026-09-30"
 author: "Badreddine Br"
 tags: ["plant corner", "small space plants", "Canada", "small space", "low-light plants"]
 featured: false
@@ -62,7 +62,7 @@ The Structube Ladder Shelf ($59 CAD) is only 28” tall but angles perfectly int
 
 ## 8. A Mini “Plant Nook” With a Rug and Light
 
-A dedicated corner zone makes even a 24” deep nook feel lush. Start with a textured rug (IKEA Rödsnäck, $25 CAD, 2x3 ft) to define the space. Then add a small stool or bench (Structube’s Hemnes stool, $44 CAD) as a planting surface. Top with two plants: a tall dracaena (~$30 CAD at Canadian Tire) and a trailing vining plant. Add a small floor lamp or string lights (IKEA VINTERFINT, $14 CAD) — the warmth balances the green.
+A dedicated corner zone makes even a 24” deep nook feel lush. Start with a textured rug (IKEA Rödsnäck, $25 CAD, 2x3 ft) to define the space. Then add a small stool or bench (Structube’s Hemnes stool, $44 CAD) as a planting surface. Top with two plants: a tall dracaena (~$30 CAD at Canadian Tire) and a trailing vining plant. Add a small [floor lamp](https://amzn.to/46Iz5AI) or string lights (IKEA VINTERFINT, $14 CAD) — the warmth balances the green.
 
 ## 9. The Over-the-Door Planter in the Hallway Corner
 
@@ -74,7 +74,7 @@ Some corners have a dropped ceiling or a recessed electrical box. Place a floati
 
 ## 11. The 3-Plant Terrarium in a Corner Cabinet
 
-If you have a small storage cabinet or bookshelf in your corner, repurpose the bottom shelf. Flip a shallow IKEA FADO terracotta planter tray ($9 CAD) upside-down to create a raised platform, then place a closed glass terrarium (IKEA VINDRIX, $22 CAD) on top. Fill with moisture-loving plants: fittonia, moss, and a tiny fern. Mist weekly — no drainage needed.
+If you have a small storage cabinet or bookshelf in your corner, repurpose the bottom shelf. Flip a shallow IKEA FADO terracotta planter tray ($9 CAD) upside-down to create a raised platform, then place a closed [glass terrarium](https://link.amazon/B05TViQQC) (IKEA VINDRIX, $22 CAD) on top. Fill with moisture-loving plants: fittonia, moss, and a tiny fern. Mist weekly — no drainage needed.
 
 ![A small glass terrarium inside a white cabinet, with soft lighting and a woven rug on the floor](/images/living-room-cozy.jpg)
 

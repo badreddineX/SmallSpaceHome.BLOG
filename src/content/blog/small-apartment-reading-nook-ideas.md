@@ -3,7 +3,7 @@ title: "15 Small Apartment Reading Nook Ideas"
 description: "Comfy reading chair and reading nook ideas for small Canadian apartments — renter-friendly layouts, real CAD prices, and no permanent changes."
 image: "/images/bedroom-shelves-reading.jpg"
 datePublished: "2026-07-27"
-dateModified: "2026-09-26"
+dateModified: "2026-09-30"
 author: "Badreddine Br"
 tags: ["reading nook", "reading nook small apartment", "cozy reading corner", "small space", "Canada", "apartment ideas", "cozy corner"]
 featured: false
@@ -24,6 +24,8 @@ relatedPosts:
   - "apartment-decor-ideas"
 ---
 
+
+> **Quickest setup:** An IKEA POÄNG chair (~$139 CAD) + an [arc floor lamp](https://amzn.to/46Iz5AI) (~$89 CAD) + an IKEA LACK side table (~$15 CAD) = a complete reading nook for under $250 CAD, zero drilling.
 
 Reading nooks have become one of the most requested small-space decor ideas, and it makes sense: after years of open-plan everything, people want one chair that's just for sitting down and doing nothing else. You don't need a spare room for that.
 
@@ -54,8 +56,8 @@ The single biggest mistake is dragging in a full-size armchair meant for a livin
 
 A reading nook without dedicated light is just a chair. An arc floor lamp runs about $89 CAD versus $45 CAD for a basic task lamp, and either should use a warm 2700K bulb — never a cool white one — to keep the corner reading as cozy rather than clinical. Overhead lighting isn't enough for actually reading; you need a light source pointed at the page.
 
-- **Arc floor lamp** — angles light directly over the chair without needing a side table underneath it. IKEA ~$89 CAD.
-- **Task floor lamp with adjustable head** — Amazon.ca options from ~$45 CAD, more affordable but less design impact.
+- **[Arc floor lamp](https://amzn.to/46Iz5AI)** — angles light directly over the chair without needing a side table underneath it. IKEA ~$89 CAD.
+- **[Task floor lamp with adjustable head](https://link.amazon/A0iH8erlS)** — Amazon.ca options from ~$45 CAD, more affordable but less design impact.
 - **Warm bulb, always** — 2700K, never a cool white bulb in a reading corner. It's the difference between cozy and clinical.
 
 ## 4. Add One Small Surface
@@ -85,7 +87,7 @@ For everything else that closet could be doing instead, see [small closet organi
 
 A throw blanket and one or two cushions do more to make a corner feel like a "nook" than almost anything else on this list, and they cost almost nothing by comparison. A chunky knit throw runs about $35–$60 CAD and two cushions add another $15–$25 CAD each — a combined cost that does more for the room than almost anything else in this list.
 
-- Chunky knit throw — Simons or HomeSense, ~$35–$60 CAD
+- [Chunky knit throw](https://link.amazon/A00neJf8w) — Simons or HomeSense, ~$35–$60 CAD
 - 2 cushions in a complementary texture — Amazon.ca or HomeSense, ~$15–$25 CAD each
 
 ## 8. Can a Bookshelf Double as a Backdrop, Not Just Storage?

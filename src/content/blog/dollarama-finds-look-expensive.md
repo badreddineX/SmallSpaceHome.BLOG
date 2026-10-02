@@ -3,7 +3,7 @@ title: "Dollarama Bud Vases & Finds That Look Expensive ($1–$5)"
 description: "The Dollarama bud vases, planters and trays that look high-end in a Canadian rental, all $1–$5 CAD, plus the styling tricks that hide the price tag."
 image: "/images/styled-corner-shelf-decor.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-09-05"
+dateModified: "2026-09-30"
 author: "Badreddine Br"
 tags: ["dollarama", "budget decor", "cheap apartment decor", "dollar store hacks", "Canada", "small apartment", "renter-friendly"]
 featured: false
@@ -73,11 +73,11 @@ This pairs well with the priority order in [apartment decor on a budget](/blog/a
 
 ## What's the Trick With Dollarama Frames?
 
-Dollarama plastic photo frames, around $1.50 to $3 CAD each, look like proper matte metal frames once sprayed with a can of matte black or matte white spray paint. The glossy plastic finish is the only thing giving away the original price, and a $6 can of spray paint fixes it for a whole gallery wall.
+Dollarama plastic photo frames, around $1.50 to $3 CAD each, look like proper matte metal frames once sprayed with a can of matte black or matte white spray paint. The glossy plastic finish is the only thing giving away the original price, and a $6 can of [matte spray paint](https://link.amazon/B037Jfhhz) fixes it for a whole gallery wall.
 
 Buy the frames in one consistent size, or two sizes at most, and spray them all the same colour in one afternoon outside or in a ventilated space. Let them dry fully between coats, which usually takes about 20 minutes for spray paint at this scale.
 
-Fill them with printed photos from Costco (roughly $0.20–$0.50 per 4×6 print) rather than the stock photo insert that comes in the frame. A gallery wall of 8–10 sprayed frames with personal photos costs under $25 CAD total and looks nothing like its parts.
+Fill them with printed photos from Costco or Amazon Prints (roughly $0.20–$0.50 per 4×6 print) rather than the stock photo insert that comes in the frame. A gallery wall of 8–10 sprayed frames with personal photos costs under $25 CAD total and looks nothing like its parts.
 
 ## Which Faux Greenery Doesn't Look Fake?
 

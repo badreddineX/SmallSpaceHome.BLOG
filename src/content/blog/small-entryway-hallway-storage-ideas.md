@@ -86,20 +86,6 @@ Look for a console with at least one shelf or drawer so it earns its footprint. 
 
 If a full console still feels too big, a wall-mounted floating shelf on Command strips (from our [storage ideas](/blog/storage-ideas-for-small-places) guide) gives you a landing surface at a fraction of the footprint, and it's just as removable when you move out. For a sturdier, fixed option, [MyBetterShelf's floating entryway shelves](https://mybettershelf.com/collections/floating-entryway-shelf) are built specifically for tight entry spaces — worth it if you're not chasing a no-drill setup and want something more permanent.
 
-## Frequently Asked Questions
-
-**How do I organize a small apartment entryway with no closet?**
-A freestanding shoe bench plus a tension-rod coat rack replaces a closet entirely, no drilling required. Add an over-door hook organizer on the entry door itself for coats and bags. Together these three pieces cost under $110 CAD and fit in a 60 cm wide entry.
-
-**What can I use instead of hooks if I can't drill in my rental?**
-Command hooks hold up to 2.3 kg each and pull off cleanly with no wall damage ([3M Command](https://www.command.com/), 2024). For anything heavier, like a winter coat, use an over-door hook rack or a freestanding coat rack instead. Both skip the wall completely.
-
-**How narrow can an entryway console table be?**
-Console tables built for entryways run as narrow as 20–25 cm deep, versus 40+ cm for a standard side table. IKEA and Amazon.ca both carry entryway-specific consoles in this range, so a 90 cm wide hallway can still fit one without blocking passage.
-
-**What's a drop zone and do I need one?**
-A drop zone is a fixed spot near your door for keys, wallet, and mail so you're not searching for them every morning. A single small tray or wall pocket organizer ($8–$20 CAD) is enough. It's the cheapest habit-forming fix on this list.
-
 ---
 
 ## What's the Entryway Priority Order for Canadian Renters?

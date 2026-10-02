@@ -75,7 +75,7 @@ Keep the heaviest items, full detergent jugs, on the lowest shelf so the rack do
 
 A rolling cart parked beside your stacked unit solves the "no floor space" problem by adding storage that moves out of the way when you need to open the dryer door fully. The IKEA RASKOG cart runs about $39 CAD and measures roughly 18 inches wide, narrow enough to slide into the gap beside most stacked units without blocking the dryer door. It holds a hamper, folded towels, or a stain-treatment kit on wheels.
 
-The IKEA RASKOG cart (~$39 CAD) is the standard pick here, same one recommended in our <a href="/blog/storage-ideas-for-small-places">small apartment storage ideas</a> guide, because its narrow footprint (about 18 inches wide) slides into the gap next to most stacked units. Roll it out to sort laundry, roll it back when you're done.
+It's the same cart recommended in our <a href="/blog/storage-ideas-for-small-places">small apartment storage ideas</a> guide. Roll it out to sort laundry, roll it back when you're done.
 
 **Cost:** IKEA RASKOG 3-tier cart, ~$39 CAD.
 
@@ -121,22 +121,6 @@ Place the hamper inside a closet on a slim shelf, using the same vertical-storag
 A laundry closet is one of the fastest spaces in an apartment to backslide, since it's usually out of sight and gets used in a rush between other chores. The fix isn't a bigger system, it's a five-minute weekly reset: wipe the shelf, refold the door-rack pockets, and empty the lint trap on the dryer itself, not just the machine's built-in one.
 
 Doing this on the same day each week, right before or after a laundry load, takes less time than reorganizing the whole closet later once it's fully cluttered again. Pair it with the caddy system above if you're using a shared building laundry room, so supplies never end up scattered across two locations.
-
----
-
-## FAQ
-
-**How do I organize a small in-suite laundry closet?**
-Start above the machines with a tension-mounted shelf. Add a door-back rack and a rolling cart beside the unit if space allows. This combination fits closets under 3 feet wide.
-
-**What is the best storage for stackable washer and dryer units?**
-A tension-rod shelf that braces above the stack, no drilling needed. It's the highest-capacity option for the least amount of space, at around $35–$50 CAD.
-
-**How do I carry laundry supplies to a shared building laundry room?**
-Use a caddy or tote to carry detergent, dryer sheets, and quarters in one trip. A $4–$6 CAD Dollarama caddy works fine for most people.
-
-**How much does it cost to set up laundry storage in a small apartment?**
-A full in-suite system runs $90–$140 CAD. Shared building laundry storage costs under $50 CAD for a caddy and rolling hamper.
 
 ---
 

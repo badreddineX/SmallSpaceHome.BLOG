@@ -51,8 +51,6 @@ The good news is this doesn't require new furniture. It requires the right bags 
 
 Most closet systems assume one wardrobe. Canadian renters need two, since a Toronto or Montreal winter demands parkas, snow pants, and boots that summer clothes never touch. [Statistics Canada](https://www150.statcan.gc.ca/) reports the country's major cities regularly see winter lows below -15°C and summer highs above 25°C, a swing that forces two complete gear sets into one closet.
 
-A swing from lows below -15°C to highs above 25°C effectively forces two complete gear sets into a closet built for one, roughly doubling the storage volume a typical Canadian apartment closet was ever designed to hold.
-
 That's not a minor inconvenience. Without a rotation plan, off-season items just pile onto whatever's already there, and the closet stops functioning for either season. The apartments that handle this best don't add storage, they add a schedule: one zone becomes "active," one becomes "dormant," and the two swap twice a year.
 
 ## Vacuum Bags or Garment Bags: Which One for Which Item?
@@ -70,7 +68,7 @@ If it's synthetic-fill, cotton, or a blanket, it can be vacuum-sealed.
 
 Boots and snow gear belong at floor level, not on shelves, because they're heavy, awkward to lift overhead, and shed grit that shelf fabric doesn't handle well. A closet-floor zone or under-bed bin keeps them out of the way without wasting prime shelf space.
 
-Snow boots, in particular, are the item most people forget to plan for. They're too bulky for a garment bag and too heavy to store overhead safely. A [rigid under-bed bin](https://amzn.to/4rwNiu6), IKEA SKUBB or similar (~$14 CAD), holds two to three pairs and slides flat under a bed frame, keeping bulky winter footwear off precious shelf space entirely. For gear you use occasionally through winter, a boot tray by the entry keeps the active pair out of the closet entirely, which is also just easier on wet days.
+Snow boots, in particular, are the item most people forget to plan for. They're too bulky for a garment bag. A [rigid under-bed bin](https://amzn.to/4rwNiu6), IKEA SKUBB or similar (~$14 CAD), holds two to three pairs and slides flat under a bed frame. For gear you use occasionally through winter, a boot tray by the entry keeps the active pair out of the closet entirely, which is also just easier on wet days.
 
 **Best setup by item:**
 - Off-season boots (2-3 pairs): rigid under-bed bin, ~$14–$20 CAD
@@ -99,7 +97,7 @@ If you're doing this swap alongside a broader seasonal reset, our [spring cleani
 
 The rotation only survives if the dormant zone stays genuinely out of reach, since anything half-accessible tends to get raided mid-season and never repacked properly. Label bags by category, not by season, so you're not guessing what's inside in October.
 
-A $28–$40 CAD label maker takes about ten minutes to use per swap, a small cost that stops bags from getting opened "just to check" and never resealed properly. Unlabeled bags get opened "just to check," and once open they rarely get resealed properly. That label maker, from Amazon.ca or Staples, solves this in about ten minutes per swap.
+A $28–$40 CAD label maker from Amazon.ca or Staples takes about ten minutes to use per swap, a small cost that stops bags from getting opened "just to check" and never resealed properly.
 
 Cedar blocks or lavender sachets (Dollarama, $2–$4 CAD) in each storage bag also help, especially for wool items sitting dormant for six months at a stretch. It's a small step, but it's the difference between a coat that smells fine in October and one that needs an emergency wash.
 

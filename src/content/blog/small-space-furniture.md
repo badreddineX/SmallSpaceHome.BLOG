@@ -3,7 +3,7 @@ title: "Small Space Furniture: What to Buy in Canada"
 description: "Small space furniture for Canadian apartments: apartment-size sofas, beds, tables and storage with real CAD prices, plus what to skip."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
-dateModified: "2026-08-29"
+dateModified: "2026-09-30"
 author: "Badreddine Br"
 tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false
@@ -27,6 +27,8 @@ relatedPosts:
   - "storage-bed-buying-guide-small-studio"
   - "ikea-small-space-hacks"
 ---
+
+> **Our top pick:** The [IKEA NORDLI storage bed](https://link.amazon/B09wCqsby) ($399–$699 CAD) replaces both your bed frame and your dresser in one footprint — the single highest-impact furniture buy for a small Canadian apartment.
 
 Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
@@ -52,7 +54,7 @@ The best small space furniture earns its footprint by doing more than one job. P
 
 ### Sofas
 
-**IKEA FRIHETEN sofa bed** — ~$999 CAD
+**[IKEA FRIHETEN sofa bed](https://link.amazon/B09wCqsby)** — ~$999 CAD
 The best sofa bed for a small apartment. It has a large storage chaise, converts to a full-size bed, and doesn't look like a sofa bed. Compact proportions work in most apartment living rooms.
 
 **IKEA HOLMSUND sofa bed** — ~$799 CAD
@@ -107,7 +109,7 @@ The best coffee table option in a small apartment. Stores extra blankets, games,
 **IKEA LACK side table** — ~$19 CAD
 The most-purchased IKEA item for good reason. Clean, simple, and works as a nightstand, side table, or coffee table in a small space.
 
-**Nesting tables** — ~$70–$120 CAD (IKEA or Amazon.ca)
+**[Nesting tables](https://link.amazon/B0ctatKX8)** — ~$70–$120 CAD (IKEA or Amazon.ca)
 Two or three tables that stack together when not in use. Pull one out for extra surface, tuck them away when done.
 
 ### A Comfortable Reading Chair for Small Spaces
@@ -120,7 +122,7 @@ The small-space reading chair standard for a reason: a slim bentwood frame that 
 **Slipper chair (armless)** — ~$120–$200 CAD (Wayfair Canada)
 No arms means it tucks into a corner other chairs can't fit into, while still giving a real place to sit and read instead of perching on the sofa arm.
 
-**Swivel accent chair** — ~$180–$280 CAD (Amazon.ca or Wayfair)
+**[Swivel accent chair](https://link.amazon/A05bs1kiw)** — ~$180–$280 CAD (Amazon.ca or Wayfair)
 Worth the extra cost if the chair needs to do double duty — facing the room for conversation, then swiveling toward a window or reading lamp.
 
 ### Desks
@@ -131,7 +133,7 @@ The small-apartment desk standard. 73 × 50 cm footprint, built-in cable managem
 **IKEA KALLAX 1×4 + LINNMON tabletop** — ~$79 + $39 CAD
 For anyone who needs more desk space, this creates a desk-plus-storage combination that's worth the slightly larger footprint.
 
-**Wall-mounted fold-down desk** — ~$80–$150 CAD (Amazon.ca)
+**[Wall-mounted fold-down desk](https://link.amazon/A00su1IzG)** — ~$80–$150 CAD (Amazon.ca)
 The best option if you need a desk but rarely use it. Completely disappears when folded up.
 
 ![A compact desk setup in a small apartment — MICKE desk with KALLAX storage beside it](/images/blog-07-img4.jpg)
@@ -241,5 +243,17 @@ If you're setting up a desk in any of these rooms, see [small apartment home off
 Living in a Toronto or Vancouver condo specifically? [Condo storage ideas](/blog/condo-storage-ideas-toronto-vancouver) covers the building-specific constraints — elevator sizing, locker math — that apartment buying guides usually skip.
 
 → For inspiration on how to style the furniture you choose, [small space living room ideas](/blog/small-space-living-room-ideas) shows how layout and decor choices work together.
+
+## Quick-Pick Product Summary
+
+| Category | Our Pick | Price (CAD) | Buy |
+|----------|----------|-------------|-----|
+| Bed | IKEA NORDLI storage bed | $399–$699 | [Amazon.ca](https://link.amazon/B09wCqsby) |
+| Sofa | [IKEA FRIHETEN sofa bed](https://link.amazon/B09wCqsby) | ~$999 | [Amazon.ca](https://link.amazon/B09wCqsby) |
+| Coffee table | [Storage ottoman](https://amzn.to/3VehY7d) | $89–$150 | [Amazon.ca](https://amzn.to/3VehY7d) |
+| Desk | IKEA MICKE | ~$99 | IKEA.ca |
+| Side table | IKEA LACK | ~$19 | IKEA.ca |
+| Accent chair | [Swivel accent chair](https://link.amazon/A05bs1kiw) | $180–$280 | [Amazon.ca](https://link.amazon/A05bs1kiw) |
+| Fold-down desk | [Wall-mounted fold-down](https://link.amazon/A00su1IzG) | $80–$150 | [Amazon.ca](https://link.amazon/A00su1IzG) |
 
 → Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) covers that route on a budget. Not sure where to buy small-space pieces at all? See [where to buy small-space storage furniture](/blog/where-to-buy-small-space-storage-furniture). And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/storage-bed-buying-guide-small-studio).
