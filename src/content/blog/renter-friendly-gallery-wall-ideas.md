@@ -9,7 +9,7 @@ tags: ["gallery wall", "renter-friendly decor", "Canada", "small space", "no dam
 featured: false
 category: "Decor"
 relatedPosts:
-  - "renter-friendly-apartment-decor-ideas"
+  - "apartment-decor-ideas"
   - "command-strip-decorating-hacks-renters"
 readTime: 9
 faqs:

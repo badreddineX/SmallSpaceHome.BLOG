@@ -78,7 +78,7 @@ Mixing new and secondhand keeps quality where it matters (mattress, upholstery) 
 
 Renter-safe decor in Toronto follows the same no-drill rule as anywhere in Canada, but condo boards and older-building landlords tend to enforce it more strictly than a small private landlord might. Command strips, tension rods, and adhesive hooks cover most decorating needs without risking your damage deposit.
 
-The core toolkit: Command strips and hooks for wall art and light shelving, a tension curtain rod for room dividers or closet doors without one, and peel-and-stick options for any surface you're not allowed to paint. For the full decorating playbook with product picks and CAD prices, see our [renter-friendly apartment decor guide](/blog/renter-friendly-apartment-decor-ideas) and [command strip decorating hacks](/blog/command-strip-decorating-hacks-renters).
+The core toolkit: Command strips and hooks for wall art and light shelving, a tension curtain rod for room dividers or closet doors without one, and peel-and-stick options for any surface you're not allowed to paint. For the full decorating playbook with product picks and CAD prices, see our [renter-friendly apartment decor guide](/blog/apartment-decor-ideas) and [command strip decorating hacks](/blog/command-strip-decorating-hacks-renters).
 
 Balcony rules deserve a specific mention here. Many Toronto condo boards restrict what can go on a balcony, from planters to string lights, so check your building's bylaws before buying anything for that space. Our [balcony ideas guide](/blog/small-apartment-balcony-ideas) covers renter-safe options that tend to clear most boards, but always confirm locally first.
 

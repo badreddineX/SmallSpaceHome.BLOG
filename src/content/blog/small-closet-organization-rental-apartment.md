@@ -78,7 +78,7 @@ Don't limit this trick to the closet door itself. If your bedroom closet is smal
 
 > Over-door organizers add storage capacity to a closet without drilling, screws, or wall damage, since they hang directly on a standard door frame ([Command Brand](https://www.command.com/), 2026). For renters, that means full functionality with zero risk to a damage deposit.
 
-For more no-drill tricks that work throughout a rental, see our [renter-friendly apartment decor guide](/blog/renter-friendly-apartment-decor-ideas).
+For more no-drill tricks that work throughout a rental, see our [renter-friendly apartment decor guide](/blog/apartment-decor-ideas).
 
 ## Do Slim Velvet Hangers Really Free Up That Much Space?
 

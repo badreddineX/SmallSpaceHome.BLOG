@@ -23,7 +23,7 @@ faqs:
 relatedPosts:
   - "apartment-decor-ideas"
   - "small-space-living-room-ideas"
-  - "renter-friendly-apartment-decor-ideas"
+  - "apartment-decor-ideas"
 ---
 
 

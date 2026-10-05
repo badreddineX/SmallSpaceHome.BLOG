@@ -164,7 +164,7 @@ A full JONAXEL wardrobe configuration runs $150 to $250 CAD depending on setup, 
 
 **Cost:** JONAXEL frame + hanging rod + shelf ~$150–$250 CAD depending on configuration.
 
-For a more specific look at budget-conscious organization, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) pairs well with this list — it covers what to buy first when you're starting from scratch.
+For a more specific look at budget-conscious organization, [small apartment organization ideas on a budget](/blog/small-apartment-organization) pairs well with this list — it covers what to buy first when you're starting from scratch.
 
 ---
 

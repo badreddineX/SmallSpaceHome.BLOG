@@ -13,11 +13,11 @@ faqs:
   - q: "What is the best storage solution for a small apartment in Canada?"
     a: "Go vertical first — wall shelves, tall wardrobes, and over-door organizers add serious capacity without eating floor space. For furniture, the IKEA KALLAX (~$79 CAD) and PAX are the most flexible options. Our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks</a> guide covers the most flexible picks in detail."
   - q: "How do I add storage to an apartment without drilling?"
-    a: "Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Freestanding shelving, tension rods, over-door organizers, and furniture with built-in storage are all drill-free and landlord-approved. See more no-drill ideas in our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly apartment decor guide</a>."
+    a: "Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Freestanding shelving, tension rods, over-door organizers, and furniture with built-in storage are all drill-free and landlord-approved. See more no-drill ideas in our <a href='/blog/apartment-decor-ideas'>renter-friendly apartment decor guide</a>."
   - q: "What are the best stores for apartment storage solutions in Canada?"
     a: "IKEA leads for price and flexibility. Amazon.ca is best for specific organizers like drawer dividers and over-door racks. HomeSense and Canadian Tire carry solid mid-range options. For basic bins and baskets, Dollarama at $2–$4 each gives surprisingly good value."
   - q: "How much does it cost to organize a small apartment in Canada?"
-    a: "A focused overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one area at a time keeps costs manageable. If budget is tight, our <a href='/blog/small-apartment-organization-ideas-on-a-budget'>budget organization ideas</a> post covers 15 solutions, all under $100 CAD total."
+    a: "A focused overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one area at a time keeps costs manageable. If budget is tight, our <a href='/blog/small-apartment-organization'>budget organization ideas</a> post covers 15 solutions, all under $100 CAD total."
   - q: "What are the best small apartment storage ideas that don't require a bigger place?"
     a: "The 23 storage ideas on this page are grouped by the four highest-impact moves: going vertical (wall shelves, over-door organizers), claiming under-bed space, upgrading closet hangers, and choosing furniture that stores as well as it seats or sleeps. Together they're the most complete set of storage solutions for small spaces available for a Canadian rental without any drilling."
 relatedPosts:
@@ -36,7 +36,7 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 > - Floating nightstands free up floor space.
 
 
-This is the full room-by-room storage roundup, no budget cap. For the declutter-first system and habits behind it, see [small apartment organization](/blog/small-apartment-organization); for the same ideas kept under $100 CAD total, see [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
+This is the full room-by-room storage roundup, no budget cap. For the declutter-first system and habits behind it, see [small apartment organization](/blog/small-apartment-organization); for the same ideas kept under $100 CAD total, see [apartment organization under $100](/blog/small-apartment-organization).
 
 Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (noticeably more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
 
@@ -255,7 +255,7 @@ A rolling garment rack costs about $35–$55 CAD and a fabric cover adds another
 
 ---
 
-For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the highest-impact moves for under $100 CAD.
+For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization) covers the highest-impact moves for under $100 CAD.
 
 ## Storage Guides for Every Room
 
@@ -270,7 +270,7 @@ This is the complete map — every room-specific and situation-specific storage 
 - [Living room storage solutions for small apartments](/blog/small-living-room-storage-solutions)
 - [Small kitchen organization ideas](/blog/small-space-kitchen-organization)
 - [Fridge and pantry organization for small kitchens](/blog/fridge-pantry-organization-small-apartment)
-- [Small apartment pantry organization on a budget](/blog/small-apartment-pantry-organization-budget)
+- [Small apartment pantry organization on a budget](/blog/fridge-pantry-organization-small-apartment)
 - [Laundry storage ideas for small apartments](/blog/small-apartment-laundry-storage-ideas)
 - [Balcony and patio storage ideas](/blog/small-apartment-balcony-storage-ideas)
 
@@ -295,7 +295,7 @@ This is the complete map — every room-specific and situation-specific storage 
 
 **Full organization systems:**
 - [Small apartment organization guide](/blog/small-apartment-organization)
-- [Apartment organization under $100 CAD](/blog/small-apartment-organization-ideas-on-a-budget)
+- [Apartment organization under $100 CAD](/blog/small-apartment-organization)
 
 ## The Storage Priority Order for Canadian Renters
 

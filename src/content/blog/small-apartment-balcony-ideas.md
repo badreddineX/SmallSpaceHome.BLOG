@@ -11,7 +11,7 @@ category: "Decor"
 readTime: 8
 relatedPosts:
   - "small-apartment-balcony-storage-ideas"
-  - "renter-friendly-apartment-decor-ideas"
+  - "apartment-decor-ideas"
   - "small-apartment-plant-corner-ideas"
 faqs:
   - q: "How do I make a small apartment balcony usable?"
@@ -109,4 +109,4 @@ The one habit that makes all of this worth doing: spend an afternoon in October 
 
 Do that once a year and the same balcony setup lasts you three or four summers instead of one. Skip it and you're back at Canadian Tire every May replacing cracked pots and mildewed cushions.
 
-→ For the storage side — bikes, a deck box, keeping the space clear enough to actually use — see [small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas). For bringing the same relaxed feeling inside, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas).
+→ For the storage side — bikes, a deck box, keeping the space clear enough to actually use — see [small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas). For bringing the same relaxed feeling inside, [renter-friendly apartment decor ideas](/blog/apartment-decor-ideas).

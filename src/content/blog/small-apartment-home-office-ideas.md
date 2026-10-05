@@ -172,6 +172,8 @@ If you lean minimal, our [minimalist small apartment ideas](/blog/minimalist-sma
 
 Start with the desk and the chair — those two decide whether the space works. Add storage and decor once you know how you actually use the corner. And when in doubt on desk size, go smaller: a compact desk in a clear corner beats a big one crammed against the bed.
 
-→ Setting up the rest of the room too? Our [small space living room ideas](/blog/small-space-living-room-ideas) and [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) cover how to make a work corner blend into the space it shares.
+→ Setting up the rest of the room too? Our [small space living room ideas](/blog/small-space-living-room-ideas) and [renter-friendly apartment decor ideas](/blog/apartment-decor-ideas) cover how to make a work corner blend into the space it shares.
 
 → Need a break-room reset? [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the room right next to most home offices.
+
+→ Drowning in paperwork? [Small apartment paperwork and mail organization](/blog/small-apartment-paperwork-mail-organization) covers the filing system that keeps a home office desk clear.

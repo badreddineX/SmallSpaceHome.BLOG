@@ -109,6 +109,6 @@ Does this all sound like a lot to plan around one date? It is, and that's exactl
 
 Quebec's July 1 Moving Day is unlike anything else in Canada, a single date when nearly an entire province packs up and relocates within roughly 24 hours. Book early, label everything, measure your staircase, and pack a real essentials box. Those four moves separate a smooth transition from a stressful one.
 
-We've found that renters who start their box collection by early June and book movers by mid-May have noticeably calmer moving days than those who scramble in the final two weeks. Once you're settled, our guide to [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) is a good next stop for making the new place feel like home without touching a drill.
+We've found that renters who start their box collection by early June and book movers by mid-May have noticeably calmer moving days than those who scramble in the final two weeks. Once you're settled, our guide to [renter-friendly apartment decor ideas](/blog/apartment-decor-ideas) is a good next stop for making the new place feel like home without touching a drill.
 
 Moving Day only comes once a year in Quebec, but it comes for almost everyone at once. Plan around that, and it's manageable, even with a spiral staircase and a queen mattress involved.

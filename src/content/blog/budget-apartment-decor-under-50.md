@@ -11,7 +11,7 @@ category: "Budget Tips"
 relatedPosts:
   - "apartment-decor-ideas-on-a-budget"
   - "dollarama-finds-look-expensive"
-  - "free-cheap-apartment-decor-diy-vs-buy"
+  - "apartment-decor-ideas-on-a-budget"
 readTime: 6
 faqs:
   - q: "Can you actually decorate an apartment for under $50 CAD?"
@@ -77,7 +77,7 @@ Most budget decor guides push straight to art and plants, but in a small rental,
 - Walmart Canada stackable bins — ~$12–$20 CAD
 - [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) — free or under $10 CAD baskets and small shelves during move-out season
 
-If you're tight for cash and already have a bit more room in the budget, our guide to [apartment organization under $100 CAD](/blog/small-apartment-organization-ideas-on-a-budget) covers the fuller storage system this shelf-and-basket combo is a starter version of.
+If you're tight for cash and already have a bit more room in the budget, our guide to [apartment organization under $100 CAD](/blog/small-apartment-organization) covers the fuller storage system this shelf-and-basket combo is a starter version of.
 
 ![Woven storage baskets arranged neatly on a small shelf, hiding clutter in a compact Canadian apartment](/images/budget-storage-baskets-shelf.jpg)
 
@@ -120,6 +120,6 @@ Fifty dollars CAD is a real, workable decorating budget in a Canadian apartment,
 
 The apartment doesn't need to be finished this month. It needs to look a little better than it did last week, and $50 CAD spent in the right order does exactly that.
 
-→ Ready to build on this once you've got a bit more room in the budget? See [apartment organization under $100 CAD](/blog/small-apartment-organization-ideas-on-a-budget) for the next step up in storage and styling, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) if the bathroom needs the same $50-budget treatment.
+→ Ready to build on this once you've got a bit more room in the budget? See [apartment organization under $100 CAD](/blog/small-apartment-organization) for the next step up in storage and styling, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) if the bathroom needs the same $50-budget treatment.
 
 → Want dollar-store-specific picks instead of general budget buys? See [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive).

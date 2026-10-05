@@ -95,7 +95,7 @@ A simple plastic shower caddy with handles from Dollarama or Canadian Tire works
 
 A bare-minimum storage setup for a first apartment costs $60–$90 CAD, while a slightly nicer setup with one or two IKEA furniture pieces runs $180–$250 CAD. Neither budget requires spending everything the first weekend. The itemized breakdown for both is in the table above.
 
-For more ways to stretch a tight setup budget further, see our [budget-friendly organization ideas](/blog/small-apartment-organization-ideas-on-a-budget).
+For more ways to stretch a tight setup budget further, see our [budget-friendly organization ideas](/blog/small-apartment-organization).
 
 ## Where Can You Buy Cheap or Secondhand Apartment Storage?
 

@@ -72,6 +72,10 @@ const hasPublished = isArticle && Boolean(datePublished);
 const hasModified  = isArticle && Boolean(dateModified);
 const modOrPub     = dateModified || datePublished || '';
 
+const heroWebp = !image.startsWith('http')
+  ? image.replace(/\.(jpe?g|png)$/i, '.webp')
+  : null;
+
 const articleJsonLd = isArticle ? JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -84,19 +88,26 @@ const articleJsonLd = isArticle ? JSON.stringify({
     "@type": "Person",
     "@id": `${siteUrl}/about#person`,
     "name": authorName,
-    "url": `${siteUrl}/about`
+    "url": `${siteUrl}/author`,
+    "sameAs": [
+      "https://www.pinterest.com/SmallSpaceHomecad/"
+    ]
   },
   "publisher": {
     "@type": "Organization",
+    "@id": `${siteUrl}/#organization`,
     "name": "SmallSpace Home",
+    "url": siteUrl,
     "logo": {
       "@type": "ImageObject",
-      "url": `${siteUrl}/favicon.svg`
+      "url": `${siteUrl}/images/logo.png`,
+      "width": 500,
+      "height": 500
     },
     "sameAs": [
       "https://www.instagram.com/smallspace_home/",
       "https://www.pinterest.com/SmallSpaceHomecad/",
-      "https://www.facebook.com/people/SmallSpace-Home/61592431767425/",
+      "https://www.facebook.com/people/SmallSpace-Home/61592431767425/"
     ]
   },
   "mainEntityOfPage": {
@@ -181,20 +192,17 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
     var j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
     j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+gtmId+dl;
     f.parentNode.insertBefore(j,f);
-
-    var g=d.createElement(s);
-    g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id='+gaId;
-    f.parentNode.insertBefore(g,f);
     w.gtag('js', new Date());
     w.gtag('config', gaId);
   }
-  // Load unless the visitor has explicitly declined. Consent Mode (above)
-  // keeps EEA/UK visitors cookieless until they accept; everyone else is
-  // measured normally. Clarity below stays strictly opt-in (it sets cookies).
+  function deferStart(){
+    if (w.requestIdleCallback) w.requestIdleCallback(start, {timeout: 3000});
+    else setTimeout(start, 3000);
+  }
   w.__startAnalytics = start;
   if (localStorage.getItem('cookie-consent') !== 'declined') {
-    if (d.readyState === 'complete') start();
-    else w.addEventListener('load', start);
+    if (d.readyState === 'complete') deferStart();
+    else w.addEventListener('load', deferStart);
   }
 })(window,document,'script','dataLayer','GTM-N5MCBQG6','G-8RQLW4BWHR');</script>
 <!-- End Google Tag Manager + gtag.js -->
@@ -219,6 +227,7 @@ const faqJsonLd = faqs.length > 0 ? JSON.stringify({
      rest load normally via fonts.css, still font-display:swap. -->
 <link rel="preload" as="font" type="font/woff2" href="/fonts/playfair-display-400-normal-latin.woff2" crossorigin />
 <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-400-normal-latin.woff2" crossorigin />
+{heroWebp && <link rel="preload" as="image" type="image/webp" href={heroWebp} imagesrcset={`${heroWebp.replace('.webp', '-mobile.webp')} 800w, ${heroWebp} 1400w`} imagesizes="100vw" fetchpriority="high" />}
 <style is:inline set:html={fontCss}></style>
 
 <!-- Primary -->

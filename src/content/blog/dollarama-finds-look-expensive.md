@@ -35,7 +35,7 @@ Dollarama sells glass vases, ceramic planters, and woven baskets for $1 to $5 CA
 
 The mistake most people make is grabbing the item with the most going on, when the boring one is what actually looks expensive.
 
-This one's a single-retailer deep dive, not a general budget guide. For the broader near-$0 approach across other stores too, see [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish).
+This one's a single-retailer deep dive, not a general budget guide. For the broader near-$0 approach across other stores too, see [cheapest ways to make a rental feel stylish](/blog/apartment-decor-ideas-on-a-budget).
 
 **TL;DR:** The Dollarama items that look expensive share three traits — plain shapes, neutral colours, and no visible branding. Glass vases ($1.50–$3), ceramic planters ($2–$4), plastic frames sprayed matte black ($1–$2 each), faux eucalyptus stems ($1.50–$3), and woven baskets ($3–$5) are the strongest picks. Style them in odd-numbered clusters, decant anything labeled, and skip the fully assembled plastic bouquets.
 
@@ -96,7 +96,7 @@ The pre-arranged bouquets, the kind sold already fanned out and tied, are the gi
 
 Woven or rattan-look storage baskets at Dollarama, priced around $3 to $5 CAD, double as both functional storage and open-shelf styling once grouped in two or three different sizes. This is one of the few categories where the item is genuinely doing two jobs for one price.
 
-Open shelving in a small apartment needs a mix of textures to avoid looking cluttered, and a woven basket breaks up an otherwise all-hard-surfaces shelf of books and frames. It's the same layered logic covered in [apartment organization under $100 CAD](/blog/small-apartment-organization-ideas-on-a-budget), where mixed-texture bins do double duty as both storage and visual interest.
+Open shelving in a small apartment needs a mix of textures to avoid looking cluttered, and a woven basket breaks up an otherwise all-hard-surfaces shelf of books and frames. It's the same layered logic covered in [apartment organization under $100 CAD](/blog/small-apartment-organization), where mixed-texture bins do double duty as both storage and visual interest.
 
 Use the largest basket for something bulky like blankets or extra linens, and the smaller ones for loose items like remotes or mail, so the baskets look purposeful rather than decorative-only.
 
@@ -159,4 +159,4 @@ A $20 Dollarama run styled properly beats a $100 haul of random decor every time
 
 → Ready to build out the rest of the room? See [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) for the full priority order on rugs, lighting, and textiles beyond the small stuff, or [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for where cheap finds work in the bathroom.
 
-→ Want more near-zero-cost styling moves beyond Dollarama? See [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish).
+→ Want more near-zero-cost styling moves beyond Dollarama? See [cheapest ways to make a rental feel stylish](/blog/apartment-decor-ideas-on-a-budget).

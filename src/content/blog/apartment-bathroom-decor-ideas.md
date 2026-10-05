@@ -12,7 +12,7 @@ readTime: 8
 relatedPosts:
   - "small-apartment-bathroom-storage"
   - "command-strip-decorating-hacks-renters"
-  - "cheapest-ways-rental-feel-stylish"
+  - "apartment-decor-ideas-on-a-budget"
 faqs:
   - q: "How can I decorate a rental bathroom without drilling?"
     a: "Everything can go up without a screw: a tension rod for the shower and a second one for a plant or towels, adhesive hooks rated for damp rooms (3M Command water-resistant), a leaning ladder shelf, a freestanding bamboo shelf over the toilet, peel-and-stick tile or wallpaper on one wall, and a new shower curtain, bath mat, and hardware set you swap back at move-out. Total for a full refresh is about $120 to $250 CAD."
@@ -118,5 +118,5 @@ For the storage side of a small bathroom — where to actually put toiletries, t
 
 - [Small Apartment Bathroom Storage Ideas](/blog/small-apartment-bathroom-storage)
 - [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters)
-- [Cheapest Ways to Make a Rental Feel Stylish](/blog/cheapest-ways-rental-feel-stylish)
 - [Apartment Decor Ideas on a Budget](/blog/apartment-decor-ideas-on-a-budget)
+- [Small Apartment Beauty & Skincare Storage](/blog/small-apartment-beauty-skincare-storage)

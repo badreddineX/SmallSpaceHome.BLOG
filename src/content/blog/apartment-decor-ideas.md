@@ -11,7 +11,7 @@ category: "Decor"
 readTime: 8
 faqs:
   - q: "How do I decorate an apartment without losing my damage deposit?"
-    a: "Command strips for art and shelves, peel-and-stick wallpaper for feature walls, freestanding furniture for everything else. Document the apartment with photos before you move in and when you leave. Our <a href='/blog/renter-friendly-apartment-decor-ideas'>renter-friendly decor guide</a> covers every no-damage technique in detail."
+    a: "Command strips for art and shelves, peel-and-stick wallpaper for feature walls, freestanding furniture for everything else. Document the apartment with photos before you move in and when you leave — Command Large Picture Hanging Strips hold up to 7.5 kg per pair, and quality removable wallpaper from Tempaper or Chasing Paper peels off cleanly from smooth painted walls."
   - q: "What are the best apartment decor ideas on a budget in Canada?"
     a: "Textiles first — rug, cushions, throw for under $150 CAD. Warm 2700K bulbs ($15–$25 CAD) transform every room's mood overnight. Add a gallery wall with Command strips and IKEA prints. Total under $200 CAD. More detail in our <a href='/blog/apartment-decor-ideas-on-a-budget'>apartment decor ideas on a budget</a> post."
   - q: "How do I make my rental apartment feel like home?"
@@ -20,14 +20,14 @@ faqs:
     a: "Most leases allow small nail holes for art. For anything heavier, Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Always check your lease first — and if you ask your landlord, do it in writing so you have a record of their response."
 relatedPosts:
   - "apartment-decor-ideas-on-a-budget"
-  - "renter-friendly-apartment-decor-ideas"
+  - "command-strip-decorating-hacks-renters"
   - "small-space-living-room-ideas"
 ---
 
 
 Small apartment decorating ideas are everywhere online, but most assume you can paint, drill, and stay for a decade. Decorating a rental in Canada is a different problem — beige walls, a damage deposit on the line, and no permanent changes allowed. CMHC data shows that renters make up roughly one-third of all Canadian households — and most of them are decorating spaces they can't permanently modify. Here's what actually works.
 
-This guide covers the full range, no fixed budget cap. If you're working with a specific ceiling, [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) is the $200 CAD version, [apartment decor under $50](/blog/budget-apartment-decor-under-50) is the tighter cap, and [cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish) covers the near-$0 approach.
+This guide covers the full range, no fixed budget cap. If you're working with a specific ceiling, [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) is the $200 CAD version, [apartment decor under $50](/blog/budget-apartment-decor-under-50) is the tighter cap, and [cheapest ways to make a rental feel stylish](/blog/apartment-decor-ideas-on-a-budget) covers the near-$0 approach.
 
 **TL;DR:** Pick a 3-colour palette before buying anything. Textiles (rug, cushions, throw) deliver the biggest visual impact for under $150 CAD. Warm 2700K bulbs transform the mood of every room for $15–$25 CAD. Command strips make gallery walls and floating shelves fully renter-friendly.
 
@@ -233,7 +233,7 @@ Generic decor makes a space look like a showroom. Personal objects make it feel 
 
 ---
 
-If your budget is tight, start with the free and under-$50 moves in our guide to [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) before buying anything. And if you want specifically renter-focused ideas, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) goes deeper on deposit-safe upgrades.
+If your budget is tight, start with the free and under-$50 moves in our guide to [apartment decor ideas on a budget](/blog/apartment-decor-ideas-on-a-budget) before buying anything.
 
 A cohesive, decorated apartment takes time — but you don't have to do it all at once. Start with the colour palette (free), add textiles (under $150 CAD), then fix the lighting. Everything else builds from there. Once those three foundations are in place, even the smallest Toronto or Vancouver apartment feels intentional and genuinely livable.
 
@@ -257,4 +257,27 @@ Do these first for the fastest transformation:
 
 → Working from home in your apartment? [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) applies the same colour-and-layout thinking to a desk corner.
 
-→ Want the absolute cheapest version of this list? [Cheapest ways to make a rental feel stylish](/blog/cheapest-ways-rental-feel-stylish) and [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) cover the same ground on close to a $0 budget.
+→ Want the absolute cheapest version of this list? [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) covers the same ground on close to a $0 budget.
+
+→ Have pets? [Pet-friendly small apartment ideas](/blog/pet-friendly-small-apartment-ideas) covers how to decorate around dogs and cats without sacrificing style.
+
+→ Going for a moody, aesthetic vibe? [Vibey apartment living room ideas](/blog/vibey-apartment-living-room-ideas) takes these principles in a darker, moodier direction.
+
+## Province-Specific Tips for Canadian Renters
+
+**Ontario (Toronto, Ottawa):** Lease law is clear — tenants can make minor alterations that don't cause damage. Command strips and removable wallpaper are universally acceptable. Some older Toronto buildings have textured walls — test removable wallpaper on a hidden corner first.
+
+**British Columbia (Vancouver):** BC residential tenancy agreements typically define "damage" as permanent changes. All ideas in this guide fall outside that definition. Vancouver apartments tend to have larger windows — invest in quality curtains hung high for maximum light.
+
+**Quebec (Montreal):** Montreal leases often reference the Civil Code of Quebec on alterations. Removable solutions are not alterations — no issue. Montreal apartments frequently have exposed brick walls; focus decor on freestanding and floor-level pieces rather than wall treatments on brick.
+
+**Alberta (Calgary, Edmonton):** Dry climate means removable wallpaper adhesive may grip more firmly — peel slowly and at a steeper angle than recommended. Add a light mist of water if resistance increases during removal.
+
+## How Do You Remove Everything Cleanly When Moving Out?
+
+Command strips remove most easily above 15°C, and Goo Gone (about $8 CAD at Canadian Tire) clears any leftover adhesive residue.
+
+1. **Remove Command strips and hooks** — pull the tab slowly downward at a low angle, never outward. Room temperature above 15°C makes removal significantly easier.
+2. **Peel removable wallpaper** — start at a corner, pull slowly at a 45-degree angle. If it has been up for more than 18 months, warm slightly with a hair dryer on low.
+3. **Clean adhesive residue** — Goo Gone (~$8 CAD at Canadian Tire) removes any adhesive trace without damaging paint.
+4. **Patch anything** — conduct a walk-through with your landlord before the final inspection to address any edge cases.

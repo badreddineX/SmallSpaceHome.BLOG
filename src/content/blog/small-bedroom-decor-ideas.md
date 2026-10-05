@@ -138,7 +138,7 @@ When floor space is limited, walls become the main design canvas. Floating shelv
 - A wall-mounted reading light instead of a bedside lamp (frees nightstand space)
 - A tall piece of art rather than a wide one
 
-If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) prioritizes the highest-impact moves first. And if you're renting and want deposit-safe upgrades beyond just the bedroom, [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) covers the whole apartment.
+If storage is the main challenge in your bedroom, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) covers every available inch — under the bed, over the door, and inside the closet. For a budget-focused version, [small bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) prioritizes the highest-impact moves first. And if you're renting and want deposit-safe upgrades beyond just the bedroom, [renter-friendly apartment decor ideas](/blog/apartment-decor-ideas) covers the whole apartment.
 
 ## 10. One Plant, Deliberately Placed
 

@@ -232,7 +232,7 @@ Two IKEA RÅSKOG rolling carts (~$30 CAD each, $60 CAD total) give a shared bath
 
 Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves much of the clutter problem in a small Canadian apartment bathroom.
 
-→ For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget).
+→ For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/small-apartment-organization).
 
 → For bedroom-specific storage solutions using the same no-drill principles, see [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas).
 

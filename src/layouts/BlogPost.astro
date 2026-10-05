@@ -107,10 +107,12 @@ if (!image.startsWith('http')) {
         )}
         <img
           src={image.replace(/\.(jpe?g|png)$/i, '.webp')}
+          srcset={`${image.replace(/\.(jpe?g|png)$/i, '-mobile.webp')} 800w, ${image.replace(/\.(jpe?g|png)$/i, '.webp')} 1400w`}
+          sizes="100vw"
           alt={title}
           class="post-hero-img"
-          width="1600"
-          height="700"
+          width="1400"
+          height="933"
           loading="eager"
           fetchpriority="high"
           onerror="this.parentElement.classList.add('hero-fallback')"

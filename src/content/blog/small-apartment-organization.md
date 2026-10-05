@@ -11,7 +11,7 @@ category: "Organization"
 readTime: 9
 faqs:
   - q: "How do I organize a small apartment when I have too much stuff?"
-    a: "Declutter before you organize — this is the step most renters skip. Sort into keep, donate, and trash. Once the excess is gone, organization becomes simpler and far cheaper. For a full room-by-room plan, our <a href='/blog/small-apartment-organization-ideas-on-a-budget'>17 organization ideas guide</a> covers exactly this approach."
+    a: "Declutter before you organize — this is the step most renters skip. Sort into keep, donate, and trash. Once the excess is gone, organization becomes simpler and far cheaper. This guide covers the full room-by-room plan — entryway, kitchen, closet, bedroom, and bathroom."
   - q: "What are the best organization products for small apartments in Canada?"
     a: "Slim velvet hangers (~$18 CAD, Amazon.ca) free 30–40% more closet space fast. IKEA SKUBB under-bed bags (~$14 CAD) tap unused bedroom storage. Stackable clear pantry bins ($5–$8 CAD each) transform kitchen cabinets. Command hooks add storage anywhere. Most renters can solve core problems for under $100 CAD."
   - q: "How do I stay organized in a small apartment long-term?"
@@ -19,9 +19,9 @@ faqs:
   - q: "How do I organize a small apartment bedroom with no closet?"
     a: "A rolling garment rack with a fabric cover (~$65–$100 CAD total) handles hanging clothes. A tall dresser takes folded items. Under-bed IKEA SKUBB bags store seasonal gear. Over-door organizers on the bedroom door manage shoes and accessories. Full details in our <a href='/blog/small-apartment-bedroom-storage-ideas'>small apartment bedroom storage guide</a>."
 relatedPosts:
-  - "small-apartment-organization-ideas-on-a-budget"
   - "spring-cleaning-organization-tips"
   - "small-closet-organization-rental-apartment"
+  - "fridge-pantry-organization-small-apartment"
 ---
 
 
@@ -33,7 +33,7 @@ Organization in a small apartment is not about buying more storage bins. It is a
 > - Give every item a home and keep a simple maintenance routine.
 > - Follow the priority order at the end of the guide.
 
-This guide is about the system and the habits, decluttering, zoning, maintenance, not a shopping list. For the room-by-room product roundup, see [storage ideas for small places](/blog/storage-ideas-for-small-places), or for the same ideas capped at $100 CAD, [apartment organization under $100](/blog/small-apartment-organization-ideas-on-a-budget).
+This guide is about the system and the habits, decluttering, zoning, maintenance, not a shopping list. For the room-by-room product roundup, see [storage ideas for small places](/blog/storage-ideas-for-small-places).
 
 **TL;DR:** Declutter before buying a single bin — it's the step that makes everything else work. Slim velvet hangers (Amazon.ca, ~$18 CAD) free noticeably more closet space immediately. Zone the kitchen by task (prep, cook, pantry, clean) and stop losing things at the back of cabinets. The 10-minute evening reset is the habit that keeps the whole system running.
 
@@ -110,7 +110,7 @@ The bedroom serves two purposes: sleep and storage. Slim velvet hangers cost abo
 - Second tension rod below the existing one for shirts and jackets
 - [Over-door organizer](https://amzn.to/4ADoqoH) on the closet door for shoes and accessories (~$25–$35 CAD)
 
-If you're working with a tight budget, [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the highest-impact moves for under $50 CAD total.
+If you're working with a tight budget, start with slim velvet hangers (~$18 CAD) and an over-door organizer (~$25 CAD) — those two moves alone transform a closet for under $50 CAD total.
 
 **Under the bed:**
 The biggest untapped storage in the bedroom. Flat lidded bins for seasonal clothes, extra bedding, and shoes. IKEA SKUBB under-bed bags ~$14 CAD for a 2-pack. Bed risers add clearance if needed (~$25 CAD).
@@ -175,10 +175,12 @@ One room at a time. Finish it completely before moving to the next.
 
 Organization in a small apartment is a system, not a one-time project. Get the declutter done, install the basics (hangers, bins, hooks), and build the three daily habits — one in one out, 10-minute reset, weekly zone check. Everything else is maintenance.
 
-→ Working with a tight budget? [Small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) covers the most impactful changes for under $100 CAD total. Starting the year fresh? Our [January reset guide](/blog/january-reset-organization-ideas) applies this same priority order as a focused one-weekend project. Doing it in spring instead? [Spring cleaning organization tips](/blog/spring-cleaning-organization-tips) covers the same system with a room-by-room checklist.
+→ Starting the year fresh? Our [January reset guide](/blog/january-reset-organization-ideas) applies this same priority order as a focused one-weekend project. Doing it in spring instead? [Spring cleaning organization tips](/blog/spring-cleaning-organization-tips) covers the same system with a room-by-room checklist.
 
 → Three rooms this system applies to directly: [seasonal storage for off-season clothes and gear](/blog/seasonal-storage-off-season-clothes-gear) for the closet swap-out, [small closet organization for rental apartments](/blog/small-closet-organization-rental-apartment) for the storage zone itself, and [small apartment laundry storage ideas](/blog/small-apartment-laundry-storage-ideas) if your laundry setup is part of the same room. Moving apartments entirely? [Quebec moving day storage guide](/blog/quebec-moving-day-storage-guide) covers the province's unique lease-turnover timeline, and [under-bed storage ideas](/blog/under-bed-storage-ideas-small-apartment) is usually the fastest win once you're settled.
 
 → Working from home in the same small space? [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) applies this same zone-based system to carving out a dedicated work corner.
+
+→ Got pets? [Pet-friendly small apartment ideas](/blog/pet-friendly-small-apartment-ideas) covers how to organize around dogs and cats — feeding stations, litter, toy storage — without giving up floor space.
 
 **Related reading:** [Small Bedroom Organization Ideas: A System, Not a Shopping List](/blog/small-bedroom-organization-ideas)

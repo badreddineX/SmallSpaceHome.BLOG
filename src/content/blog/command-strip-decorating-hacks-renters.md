@@ -9,7 +9,7 @@ tags: ["Command strips", "no-drill decorating", "renter-friendly decor", "Canada
 featured: false
 category: "Decor"
 relatedPosts:
-  - "renter-friendly-apartment-decor-ideas"
+  - "apartment-decor-ideas"
   - "renter-friendly-gallery-wall-ideas"
 readTime: 8
 faqs:

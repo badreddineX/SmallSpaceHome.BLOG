@@ -13,9 +13,14 @@
     { "source": "/blog/budget-apartment-decor-under-100", "destination": "/blog/apartment-decor-ideas-on-a-budget", "permanent": true },
     { "source": "/blog/how-to-organize-studio-apartment", "destination": "/blog/small-apartment-organization", "permanent": true },
     { "source": "/blog/ikea-kallax-hacks-small-spaces", "destination": "/blog/ikea-small-space-hacks", "permanent": true },
-    { "source": "/blog/small-apartment-organization-ideas-budget", "destination": "/blog/small-apartment-organization-ideas-on-a-budget", "permanent": true },
+    { "source": "/blog/small-apartment-organization-ideas-budget", "destination": "/blog/small-apartment-organization", "permanent": true },
     { "source": "/blog/small-apartment-storage-ideas-canada", "destination": "/blog/storage-ideas-for-small-places", "permanent": true },
-    { "source": "/blog/small-bedroom-storage-ideas", "destination": "/blog/small-bedroom-organization-ideas", "permanent": true }
+    { "source": "/blog/small-bedroom-storage-ideas", "destination": "/blog/small-bedroom-organization-ideas", "permanent": true },
+    { "source": "/blog/renter-friendly-apartment-decor-ideas", "destination": "/blog/apartment-decor-ideas", "permanent": true },
+    { "source": "/blog/cheapest-ways-rental-feel-stylish", "destination": "/blog/apartment-decor-ideas-on-a-budget", "permanent": true },
+    { "source": "/blog/free-cheap-apartment-decor-diy-vs-buy", "destination": "/blog/apartment-decor-ideas-on-a-budget", "permanent": true },
+    { "source": "/blog/small-apartment-organization-ideas-on-a-budget", "destination": "/blog/small-apartment-organization", "permanent": true },
+    { "source": "/blog/small-apartment-pantry-organization-budget", "destination": "/blog/fridge-pantry-organization-small-apartment", "permanent": true }
   ],
   "headers": [
     {

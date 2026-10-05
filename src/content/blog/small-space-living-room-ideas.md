@@ -75,7 +75,7 @@ In a small living room, your walls are more valuable real estate than your floor
 
 A floor-to-ceiling KALLAX or BILLY bookcase along one wall gives you massive storage without narrowing the walkable area.
 
-→ We go deep on this in our guide to [small apartment organization ideas on a budget](/blog/small-apartment-organization-ideas-on-a-budget) — covers every room including the living area.
+→ We go deep on this in our guide to [small apartment organization ideas on a budget](/blog/small-apartment-organization) — covers every room including the living area.
 
 ## 5. How Do You Use Mirrors Strategically?
 
@@ -111,7 +111,7 @@ Apply it to the wall behind your sofa. Keep the other three walls neutral. One s
 
 **Cost:** Removable wallpaper from Amazon.ca or Wayfair Canada, ~$30–$60 CAD per roll. A 180 sq ft living room accent wall needs roughly 2–3 rolls (under $180 CAD total).
 
-→ See our full breakdown of [renter-friendly apartment decor ideas](/blog/renter-friendly-apartment-decor-ideas) for more no-damage options that actually look good.
+→ See our full breakdown of [renter-friendly apartment decor ideas](/blog/apartment-decor-ideas) for more no-damage options that actually look good.
 
 ## 10. Curtains Floor to Ceiling, Wall to Wall
 
