@@ -15,6 +15,7 @@ public/images/*/
 !public/images/thumb/
 !public/images/featured/
 !public/images/feat-side/
+!public/images/pins/
 
 # WebP siblings of public/images/*.jpg|png -- regenerated at every build by
 # the `prebuild` script (scripts/to-webp.mjs), not source, not worth ~32MB
