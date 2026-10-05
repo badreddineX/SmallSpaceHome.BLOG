@@ -10,7 +10,7 @@ featured: false
 category: "Budget Tips"
 relatedPosts:
   - "apartment-decor-ideas-on-a-budget"
-  - "budget-apartment-decor-under-50"
+  - "apartment-decor-ideas"
 readTime: 8
 faqs:
   - q: "What Dollarama items look expensive in an apartment?"

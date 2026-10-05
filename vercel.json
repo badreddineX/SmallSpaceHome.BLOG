@@ -20,7 +20,8 @@
     { "source": "/blog/cheapest-ways-rental-feel-stylish", "destination": "/blog/apartment-decor-ideas-on-a-budget", "permanent": true },
     { "source": "/blog/free-cheap-apartment-decor-diy-vs-buy", "destination": "/blog/apartment-decor-ideas-on-a-budget", "permanent": true },
     { "source": "/blog/small-apartment-organization-ideas-on-a-budget", "destination": "/blog/small-apartment-organization", "permanent": true },
-    { "source": "/blog/small-apartment-pantry-organization-budget", "destination": "/blog/fridge-pantry-organization-small-apartment", "permanent": true }
+    { "source": "/blog/small-apartment-pantry-organization-budget", "destination": "/blog/fridge-pantry-organization-small-apartment", "permanent": true },
+    { "source": "/blog/budget-apartment-decor-under-50", "destination": "/blog/apartment-decor-ideas-on-a-budget", "permanent": true }
   ],
   "headers": [
     {

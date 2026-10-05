@@ -1,17 +1,17 @@
 ---
-title: "Budget Apartment Decor: Under $200 CAD"
-description: "Transform your rental for under $200 CAD — budget decor ideas for Canadian renters. What to buy first, what to DIY, and what makes the biggest difference."
+title: "Cute Cheap Apartment Ideas: Decorate for Under $200 CAD"
+description: "Cute cheap apartment ideas for Canadian renters — the exact $50 and $200 CAD priority order. What to buy first, where to shop, and what makes the biggest difference."
 image: "/images/cozy-corner-lamp-mirror.jpg"
 datePublished: "2026-03-01"
 dateModified: "2026-08-06"
 author: "Badreddine Br"
-tags: ["budget decor", "cute cheap apartment ideas", "affordable apartment decor", "apartment decor", "Canada", "under $200", "renter-friendly"]
+tags: ["budget decor", "cute cheap apartment ideas", "affordable apartment decor", "apartment decor", "Canada", "under $200", "under $50", "budget apartment decor", "renter-friendly"]
 featured: false
 category: "Budget Tips"
 relatedPosts:
-  - "budget-apartment-decor-under-50"
   - "dollarama-finds-look-expensive"
   - "facebook-marketplace-furnishing-budget"
+  - "apartment-decor-ideas"
 readTime: 7
 faqs:
   - q: "How do I decorate my apartment cheaply in Canada?"
@@ -31,7 +31,7 @@ Decorating a Canadian rental apartment on a tight budget is entirely possible. T
 
 Here's how to transform a rental apartment for under $200 CAD.
 
-This is specifically the $200 CAD whole-apartment version. If $200 is more than you want to spend, [apartment decor under $50](/blog/budget-apartment-decor-under-50) covers a single tighter problem instead of the whole apartment.
+This is the full priority system — from a $50 CAD quick start (scroll to the bottom) to the $200 CAD whole-apartment transformation.
 
 **TL;DR:** Spend in this order — rug first ($59–$80 CAD), then warm lighting ($15–$25 CAD), then textiles (cushions + throw, $40–$60 CAD), then art and plants ($20–$40 CAD). This sequence builds on itself: the rug anchors the room, lighting sets the mood, textiles add warmth, art adds personality. Total under $200 CAD at IKEA, Canadian Tire, and Dollarama.
 
@@ -150,8 +150,26 @@ Before spending anything, do these changes that cost nothing:
 
 Under $200 CAD, completely renter-friendly, and the apartment looks like someone who cares lives there. For deposit-safe ways to go beyond the basics, [apartment decor ideas](/blog/apartment-decor-ideas) covers peel-and-stick wallpaper, gallery walls, and the full no-drill toolkit.
 
+## Only Have $50 CAD? Start Here
+
+Fifty dollars sounds like nothing, but it covers three upgrades that genuinely change a room:
+
+| Item | Cost (CAD) | Store |
+|------|-----------|-------|
+| Warm LED bulbs (4-pack) | $12–$15 | Canadian Tire |
+| IKEA LACK floating shelf | $20–$25 | IKEA |
+| Small plant (pothos) | $5–$10 | Grocery store |
+| 2 Dollarama frames | $4–$8 | Dollarama |
+| **Total** | **$41–$58** | |
+
+**The $50 priority order:** lighting first (warm 2700K bulbs fix the entire mood), then one storage piece (a shelf or basket set removes visible clutter), then one small styling item (plant, vase, or frame). Pick one room or one problem — don't spread $50 across the whole apartment.
+
+**What to skip at $50:** large wall art and full-size rugs. A too-small rug or a curling poster looks worse than an empty floor or wall. Wait until you can put together $150+ before tackling either.
+
+**Where to find decor under $10 CAD:** [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) covers frames, vases, baskets, and candles at $1.50–$5 CAD each. [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) has free or under-$10 decor during university move-out season (April and August).
+
+---
+
 The apartment you want is achievable on a Canadian budget. Start with the free changes, then follow the priority order above. One purchase at a time beats a chaotic haul every time.
 
 → Ready to take the next step beyond $200? See [apartment decor ideas](/blog/apartment-decor-ideas) for the full range of deposit-safe upgrades available to Canadian renters.
-
-→ Working with an even tighter budget? [Apartment decor under $50](/blog/budget-apartment-decor-under-50) breaks the same priorities down further.

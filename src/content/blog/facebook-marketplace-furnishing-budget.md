@@ -1,6 +1,6 @@
 ---
-title: "How to Furnish a Small Apartment on Facebook Marketplace"
-description: "How to furnish a small Canadian apartment with Facebook Marketplace: what to search, how to spot good deals, pickup safety rules and real CAD price ranges."
+title: "FB Marketplace Furniture: How to Furnish a Small Apartment Cheap"
+description: "How to find quality FB Marketplace furniture for a small Canadian apartment — what to search, red flags to avoid, pickup safety, and real CAD prices."
 image: "/images/eclectic-vintage-apartment-furniture.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-09-30"

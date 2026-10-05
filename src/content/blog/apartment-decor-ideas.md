@@ -27,7 +27,7 @@ relatedPosts:
 
 Small apartment decorating ideas are everywhere online, but most assume you can paint, drill, and stay for a decade. Decorating a rental in Canada is a different problem — beige walls, a damage deposit on the line, and no permanent changes allowed. CMHC data shows that renters make up roughly one-third of all Canadian households — and most of them are decorating spaces they can't permanently modify. Here's what actually works.
 
-This guide covers the full range, no fixed budget cap. If you're working with a specific ceiling, [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) is the $200 CAD version, [apartment decor under $50](/blog/budget-apartment-decor-under-50) is the tighter cap, and [cheapest ways to make a rental feel stylish](/blog/apartment-decor-ideas-on-a-budget) covers the near-$0 approach.
+This guide covers the full range, no fixed budget cap. If you're working with a specific ceiling, [apartment decor on a budget](/blog/apartment-decor-ideas-on-a-budget) covers both the $50 quick start and the $200 CAD whole-apartment plan.
 
 **TL;DR:** Pick a 3-colour palette before buying anything. Textiles (rug, cushions, throw) deliver the biggest visual impact for under $150 CAD. Warm 2700K bulbs transform the mood of every room for $15–$25 CAD. Command strips make gallery walls and floating shelves fully renter-friendly.
 
