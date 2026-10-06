@@ -4,6 +4,7 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { satteri } from '@astrojs/markdown-satteri';
 import rehypeAffiliateLinks from './src/plugins/rehype-affiliate-links.mjs';
+import rehypeImageDimensions from './src/plugins/rehype-image-dimensions.mjs';
 
 // Read each post's dateModified straight from frontmatter (no astro:content
 // access is available here in the config file) so the sitemap can carry a
@@ -32,7 +33,7 @@ export default defineConfig({
   build: { inlineStylesheets: 'always' },
   markdown: {
     processor: satteri({
-      hastPlugins: [rehypeAffiliateLinks],
+      hastPlugins: [rehypeAffiliateLinks, rehypeImageDimensions],
     }),
   },
   integrations: [
