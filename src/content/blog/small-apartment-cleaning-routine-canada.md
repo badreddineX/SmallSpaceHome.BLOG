@@ -1,10 +1,10 @@
 ---
-title: "The 15-Minute Small Apartment Cleaning Routine (Daily, Weekly, Monthly)"
-description: "A systematic cleaning routine optimised for apartments under 60 square metres, with daily, weekly, and monthly schedules plus Canadian-specific tips for salt stains, hard water, and winter maintenance."
-image: "/images/clean-small-apartment-kitchen.jpg"
+title: "15-Minute Apartment Cleaning Routine (2026)"
+description: "Daily, weekly, and monthly cleaning schedule for small Canadian apartments. Time estimates, CAD product picks, and tips for studios."
+image: "/images/living-room-cozy.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
-author: "Badreddine"
+author: "Badreddine Br"
 tags: ["cleaning", "routine", "small-apartment", "organization", "canada"]
 category: "Organization"
 featured: false
@@ -203,6 +203,6 @@ Always communicate maintenance issues in writing (email) so there is a record.
 A clean apartment is not about perfection. It is about systems. Five minutes of daily attention and 15 minutes of focused weekly cleaning will keep a small apartment consistently presentable, comfortable, and healthy. Follow the system for three weeks, and it will stop feeling like a chore and start feeling like just another part of your day.
 
 **Related reading:**
-- [Condo Storage Ideas Toronto Vancouver](/blog/condo-storage-ideas-toronto-vancouver/)
-- [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada/)
-- [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters/)
+- [Condo Storage Ideas Toronto Vancouver](/blog/condo-storage-ideas-toronto-vancouver)
+- [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada)
+- [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters)

@@ -1,10 +1,10 @@
 ---
-title: "The Canadian Renter's No-Damage Decor Guide: 20 Changes Your Landlord Can't Complain About"
-description: "20 specific, no-damage decor changes for Canadian renters, with product recommendations, approximate costs in CAD, and notes on provincial lease law."
-image: "/images/renter-friendly-wall-gallery.jpg"
+title: "20 No-Damage Decor Changes for Canadian Renters"
+description: "20 renter-friendly, no-damage decor changes with CAD costs, difficulty ratings, and provincial lease law notes. Every change is fully reversible."
+image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
-author: "Badreddine"
+author: "Badreddine Br"
 tags: ["renter-friendly", "no-damage", "decor", "landlord", "lease", "canada"]
 category: "Decor"
 featured: false
@@ -204,6 +204,6 @@ The entire reversal process for all 20 changes should take three to four hours f
 The idea that renting means living in a bland, impersonal space is outdated. The key principle is simple: if you can remove it completely and leave the surface in its original condition, it is not damage, it is not a lease violation, and your landlord has no grounds for complaint. Make your rental feel like home, because it is.
 
 **Related reading:**
-- [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters/)
-- [Apartment Decor Ideas on a Budget](/blog/apartment-decor-ideas-on-a-budget/)
-- [Condo Storage Ideas Toronto Vancouver](/blog/condo-storage-ideas-toronto-vancouver/)
+- [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters)
+- [Apartment Decor Ideas on a Budget](/blog/apartment-decor-ideas-on-a-budget)
+- [Condo Storage Ideas Toronto Vancouver](/blog/condo-storage-ideas-toronto-vancouver)

@@ -1,10 +1,10 @@
 ---
-title: "Winter Condensation & Humidity in Canadian Apartments: The Complete Guide"
-description: "A comprehensive guide to managing condensation, humidity, and moisture problems in Canadian apartments during winter, including practical solutions for both too-humid and too-dry conditions."
-image: "/images/cozy-winter-apartment-window.jpg"
+title: "Winter Condensation in Canadian Apartments: Fix It"
+description: "Fix winter condensation and humidity in Canadian apartments. Ideal humidity ranges, daily habits, equipment options, and mould prevention."
+image: "/images/cozy-corner-lamp-mirror.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
-author: "Badreddine"
+author: "Badreddine Br"
 tags: ["winter", "condensation", "humidity", "apartment-maintenance", "canada"]
 category: "Organization"
 featured: false
@@ -178,6 +178,6 @@ Managing humidity in a Canadian apartment during winter is an ongoing balancing 
 If your building has systemic ventilation problems, failed window seals, or poor insulation, those are your landlord's responsibility. Document issues, communicate in writing, and know your provincial tenant rights. But for the everyday moisture management that comes with living in one of the coldest countries on earth, the power is largely in your hands.
 
 **Related reading:**
-- [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada/)
-- [Cozy Winter Apartment Decor](/blog/cozy-winter-apartment-decor/)
-- [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters/)
+- [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada)
+- [Cozy Winter Apartment Decor](/blog/cozy-winter-apartment-decor)
+- [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters)

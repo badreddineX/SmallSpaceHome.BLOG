@@ -1,10 +1,10 @@
 ---
-title: "How Much Does It Cost to Furnish a Studio Apartment in Canada? (2026 City Comparison)"
-description: "A detailed cost breakdown comparing the price of furnishing a studio apartment in Toronto, Vancouver, Montreal, and Calgary, with budget tiers from bare minimum to fully styled."
-image: "/images/small-apartment-living-room-budget.jpg"
+title: "Studio Apartment Furnishing Cost in Canada (2026)"
+description: "2026 studio apartment furnishing costs across Toronto, Vancouver, Montreal, and Calgary. Budget, mid-range, and styled options with real CAD prices."
+image: "/images/modern-studio-apartment-kitchen.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
-author: "Badreddine"
+author: "Badreddine Br"
 tags: ["studio-apartment", "furnishing-costs", "budget", "toronto", "vancouver", "montreal", "calgary"]
 category: "Budget Tips"
 featured: false
@@ -199,6 +199,6 @@ Resist the urge to furnish everything at once. Move in with the essentials (matt
 Furnishing a studio apartment in Canada is entirely achievable on a modest budget. The combination of IKEA's standardized pricing, a robust secondhand market, and a few strategic Dollarama runs can have you comfortably settled for well under $1,500 in any city.
 
 **Related reading:**
-- [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada/)
-- [Facebook Marketplace Furnishing on a Budget](/blog/facebook-marketplace-furnishing-budget/)
-- [Apartment Decor Ideas on a Budget](/blog/apartment-decor-ideas-on-a-budget/)
+- [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada)
+- [Facebook Marketplace Furnishing on a Budget](/blog/facebook-marketplace-furnishing-budget)
+- [Apartment Decor Ideas on a Budget](/blog/apartment-decor-ideas-on-a-budget)
