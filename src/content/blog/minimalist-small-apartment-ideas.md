@@ -75,7 +75,7 @@ This is the entire method. It works in every room. It just takes time and decisi
 
 ## Step 2: What Is the Surfaces Rule?
 
-The single habit that separates minimalist apartments from regular ones is surface discipline. In a minimalist apartment, surfaces are either empty or deliberately styled — never used as landing zones for random objects.
+The single habit that separates minimalist apartments from regular ones is surface discipline. Every counter, shelf, and nightstand has an assigned purpose — anything that lands there without one gets dealt with immediately.
 
 **Surface rules:**
 - Kitchen counter: coffee maker, knife block, and one plant. Nothing else stored out

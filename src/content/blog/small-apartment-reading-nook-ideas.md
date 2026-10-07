@@ -38,7 +38,7 @@ Reading nooks have become one of the most requested small-space decor ideas, and
 You don't need four walls for a reading nook — you need one corner that isn't doing anything else. A reading nook needs at least 70 cm × 70 cm of clear floor space for the chair — smaller than that, and even a compact accent chair won't fit without blocking a walkway. The most common candidates in a Canadian apartment: a window corner in the living room, the awkward gap beside a bookcase, or the dead zone at the end of a hallway.
 
 **What makes a corner work:**
-- At least 70 cm × 70 cm of clear floor space for the chair
+- Enough room that the chair doesn't block a walkway (see the measurement above)
 - Access to natural light or an outlet for a lamp
 - Not a walkway — if people have to step around it daily, it won't stay a nook for long
 

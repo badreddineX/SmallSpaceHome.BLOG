@@ -62,7 +62,7 @@ The entryway sets the tone for the whole apartment. If it is chaotic when you wa
 - A small tray or bin — for keys, transit cards, and anything that needs to leave with you
 - Nothing else — the entryway is a transition zone, not storage
 
-The test: can you grab your keys, put on shoes, and be out the door in 60 seconds? If not, the entryway needs work.
+If any of those steps takes longer than it should, the entryway needs work.
 
 ![A minimal apartment entryway system with hooks, shoe rack, and a tray for daily essentials](/images/storage-wicker-shelf.jpg)
 

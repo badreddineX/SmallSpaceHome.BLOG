@@ -217,7 +217,7 @@ A set of six shelf dividers costs about $18–$26 CAD on Amazon.ca and keeps eac
 
 In a studio apartment, a tall, slim bookshelf placed perpendicular to a wall creates a visual divide between the sleeping and living areas — and adds two sides of storage at the same time. See [studio apartment ideas](/blog/small-space-furniture) for more zoning tricks that work in a one-room space.
 
-A narrow IKEA BILLY bookcase costs about $79–$99 CAD and, placed perpendicular to a wall, creates a visual divide between sleeping and living zones while adding two full sides of shelf storage.
+A narrow IKEA BILLY bookcase (~$79–$99 CAD) works well for this — tall enough to feel like a boundary, open enough that the studio still reads as one space.
 
 **Cost:** IKEA BILLY bookcase (narrow) ~$79–$99 CAD.
 

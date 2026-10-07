@@ -106,7 +106,7 @@ Tension rods also work well as a vertical divider, mounted top to bottom instead
 
 Clear, stackable bins with visible labels let you find items at a glance instead of digging through an opaque pile, which is the main reason closet systems fail over time. Clear bins run $5–$8 CAD each at Amazon.ca, cheap enough to buy six or eight and still stay under $50 CAD total, which is why they scale well even for a full closet overhaul. Group items by category: seasonal accessories, off-season shoes, extra bedding, and label every bin so the system survives contact with real life.
 
-Amazon.ca sells clear stackable bins in the $5–8 CAD range per bin, which is affordable enough to buy six or eight and still stay under $50 CAD total. Stick to two or three consistent sizes so the stacks sit flush and don't wobble on the closet shelf.
+Stick to two or three consistent sizes so the stacks sit flush and don't wobble on the closet shelf.
 
 A basic label maker (Brother P-Touch, ~$28–40 CAD from Amazon.ca or Staples) makes labeling fast, though painter's tape and a marker works just as well for free. The label matters more than the tool used to make it.
 

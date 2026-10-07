@@ -123,7 +123,7 @@ Yes, a $20–$28 CAD set from Amazon.ca or Canadian Tire adds roughly 12–15 cm
 Vacuum bags compress bulky items like duvets and coats to a quarter of their size, best under 15 cm of clearance. Flat lidded bins protect shape-sensitive items like shoes and are easier to slide in and out.
 
 **What should you never store under a bed?**
-Skip books, leather, unsealed fabric, and solid wood. Under-bed space traps moisture with little airflow, which raises mold and mildew risk even in a dry apartment.
+Skip books, leather, unsealed fabric, and solid wood — see the full breakdown above.
 
 **How much clearance do I need for under-bed storage bins?**
 Standard flat bins need about 15 cm. Measure your bed's actual gap first; many platform frames only clear 8–10 cm before risers.

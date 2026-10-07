@@ -35,7 +35,7 @@ The secret to good fall apartment decorating is restraint: a few well-placed sea
 
 ## 1. What's the Fastest Way to Shift a Room From Summer to Fall?
 
-The fastest way to shift a room from summer to fall is a textile swap. Replace light summer cushion covers with heavier, deeper-toned ones. Add a chunky throw in a warm autumn colour.
+A textile swap does the heavy lifting. Replace light summer cushion covers with heavier, deeper-toned ones. Add a chunky throw in a warm autumn colour.
 
 IKEA GURLI cushion covers run about $6 each, so swapping 2-3 of them for rust or amber tones is one of the cheapest single changes that shifts a whole room's mood from summer to fall.
 

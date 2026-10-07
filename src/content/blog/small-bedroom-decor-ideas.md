@@ -163,7 +163,7 @@ This is a decor tip, not a lifestyle lecture. An unmade bed is the biggest sourc
 
 In a small bedroom, the bed is the largest visual element, which is why making it every morning has more impact on how tidy the whole room looks than almost any other single habit.
 
-In a small bedroom, the bed is the largest visual element. Make it and the whole room improves.
+A 30-second habit with outsized returns — try it for a week and you'll notice the difference immediately.
 
 ---
 

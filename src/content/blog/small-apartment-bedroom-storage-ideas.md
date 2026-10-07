@@ -68,7 +68,7 @@ The back of the bedroom closet door is typically empty. A 24-pocket over-door or
 
 IKEA NORDLI bed frame with built-in drawers (~$399–$699 CAD, Queen) has two large drawers on each side — enough to replace a full dresser in most small bedrooms. Removing the dresser frees significant floor space and makes the room feel larger.
 
-This is the most impactful single furniture purchase for a small bedroom.
+No other single piece of furniture frees as much floor space in a small bedroom.
 
 ## 6. Can Floating Shelves Replace a Nightstand?
 
