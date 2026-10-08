@@ -3,7 +3,7 @@ title: "Studio Apartment Layout Ideas That Actually Work"
 description: "Studio apartment layout ideas for Canadian renters: how to zone one room into sleep, work and living areas without walls, with CAD prices."
 image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-08-30"
-dateModified: "2026-09-25"
+dateModified: "2026-10-08"
 author: "Badreddine Br"
 tags: ["studio apartment layout ideas", "studio apartment layout", "small bedroom layout ideas", "studio apartment ideas", "renter-friendly", "Canada"]
 featured: false
@@ -122,6 +122,16 @@ A [storage bed](/blog/under-bed-storage-ideas-small-apartment) does the most wor
 Every studio layout that works has one thing in common: a clear line of empty floor you can see across the room. It doesn't matter how small the apartment is — if you can stand at the door and see an unbroken stretch of floor to the far wall, the room feels calm. If furniture interrupts that line, it feels full no matter how little you own.
 
 Draw the walking path, zone the bed into a corner, block the sightline with one piece, and leave two walls mostly bare. That's the whole system, and it costs nothing but an afternoon with a tape measure.
+
+## How to Handle Guests in a Studio Apartment
+
+The biggest social limitation of a studio is that guests are sitting in your bedroom. A few layout choices reduce that awkwardness without requiring extra furniture.
+
+**Screen the bed before guests arrive.** If your divider is a curtain, close it. If it is a bookcase, make sure the bed side is tidy. The goal is not to hide that you sleep here — everyone knows — but to keep the sleeping zone visually separate so the conversation does not feel like it is happening on your mattress.
+
+**Create a defined seating area.** Even a small sofa and a single chair angled toward each other, with a coffee table or ottoman between them, reads as a living room. Without that arrangement, guests default to sitting on the bed, which makes the space feel like a dorm room.
+
+**Use the drop-leaf table for dining.** A table extended for two with proper place settings transforms the studio into a dining space for the evening. Fold it back after and the floor opens up again. This single piece does more for hosting in a studio than any other furniture purchase.
 
 → For the furniture that fits these layouts, see [small-space furniture](/blog/small-space-furniture) and the [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment). For styling the living zone once the layout's set, [small-space living room ideas](/blog/small-living-room-storage-solutions).
 

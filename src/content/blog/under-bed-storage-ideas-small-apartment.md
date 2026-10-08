@@ -3,7 +3,7 @@ title: "Under-Bed Storage Ideas for Small Apartments"
 description: "Under bed storage ideas for small apartments in Canada — bed risers, lidded bins vs. vacuum bags, rolling drawers, and what never to store under a bed."
 image: "/images/baskets-laundry-by-bed.jpg"
 datePublished: "2026-07-09"
-dateModified: "2026-09-26"
+dateModified: "2026-10-08"
 author: "Badreddine Br"
 tags: ["under bed storage", "under bed storage ideas", "bed risers", "small apartment", "Canada", "renter-friendly"]
 featured: false
@@ -113,6 +113,18 @@ Write the number down before you shop. Most flat bins need about 15 cm, IKEA SKU
 Is it worth the ten minutes? Every time. A returned bin that doesn't clear the frame costs more in hassle than the measurement ever would.
 
 ---
+
+## How to Set Up a Seasonal Rotation System
+
+The biggest payoff from under-bed storage in a Canadian apartment comes from rotating items seasonally rather than treating it as permanent overflow. A twice-yearly swap, once in October and once in April, keeps the most relevant gear accessible and the off-season bulk out of your closet.
+
+**October swap (winter prep):** Move summer bedding (lightweight duvet, cotton sheets, thin blankets) into vacuum bags under the bed. Pull winter boots and heavy layers out of under-bed bins and back into the closet. Store sandals and summer shoes in a lidded bin under the bed.
+
+**April swap (summer prep):** Reverse the process. Winter coats and boots go into vacuum bags or sealed bins under the bed. Summer bedding comes back out. This single swap typically frees 30-40% of closet rod and shelf space, which is noticeable in a standard Canadian apartment closet that measures roughly 120-150 cm wide.
+
+**Label everything.** A strip of painter's tape with a marker note on each bin or bag saves you from pulling out and opening every container when you need one specific item. It takes two minutes during the swap and prevents the slow drift back to chaos that makes most storage systems fail within a few months.
+
+The rotation works best when paired with a seasonal clothing audit. Each swap is a natural checkpoint to pull out anything you did not wear in the last six months and donate it. Canadian Goodwill and Value Village locations accept year-round.
 
 ## Frequently Asked Questions
 

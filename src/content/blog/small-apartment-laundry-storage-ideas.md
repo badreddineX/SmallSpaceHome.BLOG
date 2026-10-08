@@ -3,7 +3,7 @@ title: "Small Laundry Room Ideas for Apartments"
 description: "Small laundry room ideas for apartments and rentals: organize a tight in-suite closet or shared building laundry, no-drill, with real Canadian prices."
 image: "/images/blog-09-img2.jpg"
 datePublished: "2026-05-22"
-dateModified: "2026-09-05"
+dateModified: "2026-10-08"
 author: "Badreddine Br"
 tags: ["small laundry room ideas", "laundry room organization ideas", "laundry closet organization", "small apartment laundry", "renter-friendly", "in suite laundry", "Canada"]
 featured: false
@@ -123,6 +123,18 @@ A laundry closet is one of the fastest spaces in an apartment to backslide, sinc
 Doing this on the same day each week, right before or after a laundry load, takes less time than reorganizing the whole closet later once it's fully cluttered again. Pair it with the caddy system above if you're using a shared building laundry room, so supplies never end up scattered across two locations.
 
 ---
+
+## How to Handle Laundry Day in a Building Without Elevators
+
+Many older Canadian apartment buildings, especially walk-ups in Montreal and Toronto, have the shared laundry room in the basement with no elevator. Carrying a full hamper down three or four flights of stairs is the reason many renters put off laundry day until the pile becomes unmanageable.
+
+**Use a backpack-style laundry bag** ($15-$25 CAD, Amazon.ca) instead of a traditional hamper. It frees both hands for the stairwell and holds a full load without dragging on the steps. A drawstring top keeps items from falling out mid-flight.
+
+**Split loads by weight, not by colour.** In a walk-up, a lighter load you can carry comfortably is worth the extra trip. Two manageable loads are better than one oversized bag that makes three flights of stairs dangerous.
+
+**Pre-measure detergent at home.** Fill a small travel container with exactly the amount you need for one load before you leave the apartment. This eliminates carrying the full jug and reduces the weight of your supply caddy by over a kilogram.
+
+**Time your trips.** Shared laundry rooms in walk-ups are busiest on weekends between 10am and 2pm. Going early on a weekday evening, around 6-7pm, means shorter waits and available machines. Some buildings post usage schedules on the laundry room door — check before committing to a time.
 
 Laundry storage doesn't need a renovation, just a shelf, a rack, and a place for everything to sit off the floor. Whether you're working with a stacked in-suite closet or hauling supplies down the hall to a shared laundry room, these fixes are all reversible and landlord-safe. Start with the space above your machines, it's the highest-value square footage in the whole closet.
 

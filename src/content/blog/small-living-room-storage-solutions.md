@@ -3,7 +3,7 @@ title: "Small Living Room Storage: Furniture That Hides Clutter"
 description: "Small living room storage ideas that use furniture, not walls — storage ottomans, coffee tables with shelves, and TV consoles that hide the clutter."
 image: "/images/blog-19-img3.jpg"
 datePublished: "2026-06-30"
-dateModified: "2026-09-05"
+dateModified: "2026-10-08"
 author: "Badreddine Br"
 tags: ["small living room storage ideas apartment", "living room storage ideas", "hidden storage furniture small apartment", "ottoman storage small living room", "renter-friendly", "Canada"]
 featured: false
@@ -112,6 +112,18 @@ That range assumes mid-range IKEA or Amazon.ca pieces rather than premium brands
 
 
 ---
+
+## How to Hide Cables and Chargers in a Small Living Room
+
+Visible cables are the one mess that storage furniture alone does not solve. A TV console with a cable cutout handles what goes behind the screen, but the phone chargers, laptop cables, and extension cords scattered around the sofa need their own fix.
+
+**Cable box** ($15-$30 CAD, Amazon.ca or IKEA): A cable management box sits on the floor or behind a console and holds an entire power bar plus its tangle of cords inside a single enclosed unit. One box behind the TV console and one beside the sofa covers most living room cable mess.
+
+**Adhesive cable clips** ($8-$12 CAD for a 20-pack, Amazon.ca): Run charging cables along the back edge of a side table or the underside of a coffee table shelf so they stay within reach but out of sight. These peel off cleanly, which matters in a rental.
+
+**Charging station on a side table** ($25-$45 CAD): A single multi-port charging station replaces three or four individual chargers and their separate cables. Place it on or inside a side table with a drawer so the station itself is hidden.
+
+Cable management is the difference between a living room that looks tidy at first glance and one that stays tidy when you actually use the space. Most people buy storage furniture first and wonder why the room still looks cluttered — it is usually the cables.
 
 ## Which Piece Should You Replace First?
 
