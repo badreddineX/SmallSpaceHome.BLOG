@@ -11,7 +11,7 @@ category: "Decor"
 readTime: 9
 relatedPosts:
   - "studio-apartment-layout-ideas"
-  - "small-space-living-room-ideas"
+  - "small-living-room-storage-solutions"
   - "small-space-furniture"
   - "small-apartment-home-office-ideas"
 faqs:
@@ -167,4 +167,4 @@ Retailers such as IKEA, Structube and Wayfair Canada sell apartment-size furnitu
 
 ## Final Thoughts
 
-A good small apartment layout is about proportion and flow: furniture scaled to the room, a clear main walkway and zones that make each part of the space feel like it has a job. Measure first, test with tape, and change the layout before you change anything else. For more ideas for the living room itself, see our guide to [small space living room ideas](/blog/small-space-living-room-ideas).
+A good small apartment layout is about proportion and flow: furniture scaled to the room, a clear main walkway and zones that make each part of the space feel like it has a job. Measure first, test with tape, and change the layout before you change anything else. For more ideas for the living room itself, see our guide to [small space living room ideas](/blog/small-living-room-storage-solutions).

@@ -10,9 +10,9 @@ featured: false
 category: "Decor"
 readTime: 9
 relatedPosts:
-  - "storage-bed-buying-guide-small-studio"
+  - "under-bed-storage-ideas-small-apartment"
   - "small-space-furniture"
-  - "small-space-living-room-ideas"
+  - "small-living-room-storage-solutions"
   - "small-apartment-layout-ideas"
 faqs:
   - q: "How do you divide a studio apartment without building a wall?"
@@ -104,7 +104,7 @@ If your studio has a defined sleeping alcove — a lot of older Canadian buildin
 - Keep one clear side to get in and out, minimum 55–60cm.
 - A single wall light or clip light instead of a lamp on furniture you don't have.
 
-A [storage bed](/blog/storage-bed-buying-guide-small-studio) does the most work here — the drawers or lift-up base replace a dresser entirely. If you're weighing one up, the [storage bed buying guide for small studios](/blog/storage-bed-buying-guide-small-studio) covers what's worth the money.
+A [storage bed](/blog/under-bed-storage-ideas-small-apartment) does the most work here — the drawers or lift-up base replace a dresser entirely. If you're weighing one up, the [storage bed buying guide for small studios](/blog/under-bed-storage-ideas-small-apartment) covers what's worth the money.
 
 ## Studio Layout by Apartment Size: A Quick Guide
 
@@ -123,6 +123,6 @@ Every studio layout that works has one thing in common: a clear line of empty fl
 
 Draw the walking path, zone the bed into a corner, block the sightline with one piece, and leave two walls mostly bare. That's the whole system, and it costs nothing but an afternoon with a tape measure.
 
-→ For the furniture that fits these layouts, see [small-space furniture](/blog/small-space-furniture) and the [storage bed buying guide](/blog/storage-bed-buying-guide-small-studio). For styling the living zone once the layout's set, [small-space living room ideas](/blog/small-space-living-room-ideas).
+→ For the furniture that fits these layouts, see [small-space furniture](/blog/small-space-furniture) and the [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment). For styling the living zone once the layout's set, [small-space living room ideas](/blog/small-living-room-storage-solutions).
 
-**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/small-space-renting-toronto-guide)
+**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/condo-storage-ideas-toronto-vancouver)

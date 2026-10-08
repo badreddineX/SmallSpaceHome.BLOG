@@ -200,5 +200,5 @@ Furnishing a studio apartment in Canada is entirely achievable on a modest budge
 
 **Related reading:**
 - [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada)
-- [Facebook Marketplace Furnishing on a Budget](/blog/facebook-marketplace-furnishing-budget)
-- [Apartment Decor Ideas on a Budget](/blog/apartment-decor-ideas-on-a-budget)
+- [Facebook Marketplace Furnishing on a Budget](/blog/studio-apartment-furnishing-cost-canada)
+- [Apartment Decor Ideas on a Budget](/blog/storage-ideas-for-small-places)

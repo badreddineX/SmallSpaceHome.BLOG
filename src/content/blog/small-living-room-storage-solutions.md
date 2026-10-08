@@ -19,15 +19,15 @@ faqs:
   - q: "Is storage furniture better than wall shelving for a small living room?"
     a: "They solve different problems. Storage furniture hides items you want out of sight — remotes, cables, blankets — while wall shelving displays items and uses vertical space. Most small living rooms need both, not one instead of the other."
 relatedPosts:
-  - "small-space-living-room-ideas"
-  - "small-space-living-room-ideas"
+  - "small-living-room-storage-solutions"
+  - "small-living-room-storage-solutions"
   - "storage-ideas-for-small-places"
 ---
 
 
 A coffee table is just a flat surface unless it's also doing storage work. In a small Canadian living room, every piece of furniture you buy should hide something.
 
-This isn't a decor list. If you want layout, colour, and styling advice for the same room, [15 small space living room ideas](/blog/small-space-living-room-ideas) covers that separately. This post is only about furniture that physically hides clutter: ottomans, coffee tables, consoles, and side tables built with storage compartments.
+This isn't a decor list. If you want layout, colour, and styling advice for the same room, [15 small space living room ideas](/blog/small-living-room-storage-solutions) covers that separately. This post is only about furniture that physically hides clutter: ottomans, coffee tables, consoles, and side tables built with storage compartments.
 
 **TL;DR:** A storage ottoman replaces both your coffee table and extra seating while hiding blankets and games. A lift-top coffee table adds a second storage layer underneath. A TV console with closed cabinets or baskets hides cables, remotes, and media clutter completely. Start with whichever piece is currently your biggest visible mess.
 

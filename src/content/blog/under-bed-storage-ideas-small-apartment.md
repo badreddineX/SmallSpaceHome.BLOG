@@ -19,7 +19,7 @@ faqs:
   - q: "How much clearance do I need for under-bed storage bins?"
     a: "Standard flat storage bins need about 15 cm (6 inches) of clearance. Measure your bed's actual gap with a tape measure before buying — many platform and low-profile frames only clear 8–10 cm without risers."
 relatedPosts:
-  - "storage-bed-buying-guide-small-studio"
+  - "under-bed-storage-ideas-small-apartment"
   - "small-apartment-bedroom-storage-ideas"
   - "storage-ideas-for-small-places"
 ---
@@ -96,7 +96,7 @@ Books absorb humidity from the floor and can develop mildew spots you won't noti
 
 The fix isn't complicated: store only what's fully sealed. A vacuum bag or a bin with a tight lid blocks the moisture exposure that causes the problem in the first place. Loose fabric bins with open weaves don't offer the same protection.
 
-**What's safe:** sealed bins of [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear), zipped bags of extra bedding, shoes in a closed container, board games in their original boxes.
+**What's safe:** sealed bins of [off-season clothes](/blog/small-closet-organization-rental-apartment), zipped bags of extra bedding, shoes in a closed container, board games in their original boxes.
 
 **What's not:** books, leather bags or shoes without a dust cover, untreated wood boxes, anything already slightly damp when it goes under.
 
@@ -130,4 +130,4 @@ Standard flat bins need about 15 cm. Measure your bed's actual gap first; many p
 
 ---
 
-Under-bed storage is one of the few upgrades in a small apartment that costs almost nothing and adds real capacity. Start by measuring your clearance, then buy risers if you're short, and pick bins or vacuum bags based on what you're actually storing. It's a twenty-minute project that can free up an entire closet's worth of space. For the rest of the bedroom, our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide covers closets, hangers, and furniture in full, and our [complete small apartment storage roundup](/blog/storage-ideas-for-small-places) covers every room in the unit. For more ways to stretch a tight setup budget, see our [budget organization ideas](/blog/small-apartment-organization), and for the bathroom see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage). If risers alone aren't enough clearance, our [storage bed buying guide](/blog/storage-bed-buying-guide-small-studio) covers frames built with the storage already underneath.
+Under-bed storage is one of the few upgrades in a small apartment that costs almost nothing and adds real capacity. Start by measuring your clearance, then buy risers if you're short, and pick bins or vacuum bags based on what you're actually storing. It's a twenty-minute project that can free up an entire closet's worth of space. For the rest of the bedroom, our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide covers closets, hangers, and furniture in full, and our [complete small apartment storage roundup](/blog/storage-ideas-for-small-places) covers every room in the unit. For more ways to stretch a tight setup budget, see our [budget organization ideas](/blog/storage-ideas-for-small-places), and for the bathroom see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage). If risers alone aren't enough clearance, our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment) covers frames built with the storage already underneath.

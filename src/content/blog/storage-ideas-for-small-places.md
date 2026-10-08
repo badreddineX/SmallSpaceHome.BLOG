@@ -13,17 +13,17 @@ faqs:
   - q: "What is the best storage solution for a small apartment in Canada?"
     a: "Go vertical first — wall shelves, tall wardrobes, and over-door organizers add serious capacity without eating floor space. For furniture, the IKEA KALLAX (~$79 CAD) and PAX are the most flexible options. Our <a href='/blog/ikea-small-space-hacks'>IKEA small space hacks</a> guide covers the most flexible picks in detail."
   - q: "How do I add storage to an apartment without drilling?"
-    a: "Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Freestanding shelving, tension rods, over-door organizers, and furniture with built-in storage are all drill-free and landlord-approved. See more no-drill ideas in our <a href='/blog/apartment-decor-ideas'>renter-friendly apartment decor guide</a>."
+    a: "Command Large Picture Hanging Strips hold up to 7.5 kg and peel off cleanly. Freestanding shelving, tension rods, over-door organizers, and furniture with built-in storage are all drill-free and landlord-approved. See more no-drill ideas in our <a href='/blog/storage-ideas-for-small-places'>renter-friendly apartment decor guide</a>."
   - q: "What are the best stores for apartment storage solutions in Canada?"
     a: "IKEA leads for price and flexibility. Amazon.ca is best for specific organizers like drawer dividers and over-door racks. HomeSense and Canadian Tire carry solid mid-range options. For basic bins and baskets, Dollarama at $2–$4 each gives surprisingly good value."
   - q: "How much does it cost to organize a small apartment in Canada?"
-    a: "A focused overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one area at a time keeps costs manageable. If budget is tight, our <a href='/blog/small-apartment-organization'>budget organization ideas</a> post covers 15 solutions, all under $100 CAD total."
+    a: "A focused overhaul typically runs $100–$300 CAD depending on how many rooms you tackle. Prioritizing one area at a time keeps costs manageable. If budget is tight, our <a href='/blog/storage-ideas-for-small-places'>budget organization ideas</a> post covers 15 solutions, all under $100 CAD total."
   - q: "What are the best small apartment storage ideas that don't require a bigger place?"
     a: "The 23 storage ideas on this page are grouped by the four highest-impact moves: going vertical (wall shelves, over-door organizers), claiming under-bed space, upgrading closet hangers, and choosing furniture that stores as well as it seats or sleeps. Together they're the most complete set of storage solutions for small spaces available for a Canadian rental without any drilling."
 relatedPosts:
   - "vertical-storage-ideas-small-apartment"
   - "under-bed-storage-ideas-small-apartment"
-  - "small-apartment-organization"
+  - "storage-ideas-for-small-places"
 ---
 
 
@@ -36,7 +36,7 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 > - Floating nightstands free up floor space.
 
 
-This is the full room-by-room storage roundup, no budget cap. For the declutter-first system and habits behind it, see [small apartment organization](/blog/small-apartment-organization); for the same ideas kept under $100 CAD total, see [apartment organization under $100](/blog/small-apartment-organization).
+This is the full room-by-room storage roundup, no budget cap. For the declutter-first system and habits behind it, see [small apartment organization](/blog/storage-ideas-for-small-places); for the same ideas kept under $100 CAD total, see [apartment organization under $100](/blog/storage-ideas-for-small-places).
 
 Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (noticeably more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
 
@@ -72,7 +72,7 @@ IKEA PAX wardrobe frames start at around $179 CAD, and at just 50 cm deep, take 
 
 ## Under-Bed Storage Is Non-Negotiable
 
-The space under your bed is the biggest untapped storage area in most apartments. Flat, lidded bins work for [off-season clothes](/blog/seasonal-storage-off-season-clothes-gear), extra linens, or shoes. If your bed frame sits too low, bed risers add 15 cm of clearance for about $25 CAD.
+The space under your bed is the biggest untapped storage area in most apartments. Flat, lidded bins work for [off-season clothes](/blog/small-closet-organization-rental-apartment), extra linens, or shoes. If your bed frame sits too low, bed risers add 15 cm of clearance for about $25 CAD.
 
 [Bed risers](https://amzn.to/46J0kuR) add 15 cm of clearance for about $25 CAD, and IKEA SKUBB under-bed bags (~$14 CAD for two) are the cheapest way to turn that reclaimed space into zipped, dust-free storage.
 
@@ -189,7 +189,7 @@ A storage ottoman does three things: it's seating, a coffee table, and a storage
 
 ## How Many Pairs of Shoes Fit in an Entry Shoe Bench?
 
-Shoes piled at the door are a small apartment's fastest path to visual chaos. A slim entry bench with [shoe storage](/blog/small-apartment-shoe-storage-ideas) underneath keeps up to 8–10 pairs accessible and creates the feeling of a defined entryway.
+Shoes piled at the door are a small apartment's fastest path to visual chaos. A slim entry bench with [shoe storage](/blog/small-entryway-hallway-storage-ideas) underneath keeps up to 8–10 pairs accessible and creates the feeling of a defined entryway.
 
 The IKEA TJUSIG bench with shoe storage costs about $59 CAD and holds 8 to 10 pairs of shoes underneath, which is usually enough to stop shoes from piling up at a small apartment's front door.
 
@@ -255,7 +255,7 @@ A rolling garment rack costs about $35–$55 CAD and a fabric cover adds another
 
 ---
 
-For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/small-apartment-organization) covers the highest-impact moves for under $100 CAD.
+For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places) covers the highest-impact moves for under $100 CAD.
 
 ## Storage Guides for Every Room
 
@@ -269,33 +269,33 @@ This is the complete map — every room-specific and situation-specific storage 
 - [Small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas)
 - [Living room storage solutions for small apartments](/blog/small-living-room-storage-solutions)
 - [Small kitchen organization ideas](/blog/small-space-kitchen-organization)
-- [Fridge and pantry organization for small kitchens](/blog/fridge-pantry-organization-small-apartment)
-- [Small apartment pantry organization on a budget](/blog/fridge-pantry-organization-small-apartment)
+- [Fridge and pantry organization for small kitchens](/blog/small-space-kitchen-organization)
+- [Small apartment pantry organization on a budget](/blog/small-space-kitchen-organization)
 - [Laundry storage ideas for small apartments](/blog/small-apartment-laundry-storage-ideas)
-- [Balcony and patio storage ideas](/blog/small-apartment-balcony-storage-ideas)
+- [Balcony and patio storage ideas](/blog/condo-storage-ideas-toronto-vancouver)
 
 **By category:**
-- [Small apartment shoe storage ideas](/blog/small-apartment-shoe-storage-ideas)
-- [Small apartment storage bins and baskets guide](/blog/small-apartment-storage-bins-baskets-guide)
-- [Small apartment beauty and skincare storage ideas](/blog/small-apartment-beauty-skincare-storage)
-- [Small apartment paperwork and mail organization](/blog/small-apartment-paperwork-mail-organization)
-- [Small apartment pet supply organization ideas](/blog/small-apartment-pet-supply-organization)
-- [Small apartment home gym storage ideas](/blog/small-apartment-home-gym-storage-setup)
-- [Coffee and cafe corner ideas for small apartments](/blog/small-apartment-coffee-corner-ideas)
-- [Plant corner ideas for small Canadian apartments](/blog/small-apartment-plant-corner-ideas)
-- [Renter-friendly bike storage ideas](/blog/renter-friendly-bike-storage-small-apartments)
+- [Small apartment shoe storage ideas](/blog/small-entryway-hallway-storage-ideas)
+- [Small apartment storage bins and baskets guide](/blog/storage-ideas-for-small-places)
+- [Small apartment beauty and skincare storage ideas](/blog/small-apartment-bathroom-storage)
+- [Small apartment paperwork and mail organization](/blog/storage-ideas-for-small-places)
+- [Small apartment pet supply organization ideas](/blog/storage-ideas-for-small-places)
+- [Small apartment home gym storage ideas](/blog/storage-ideas-for-small-places)
+- [Coffee and cafe corner ideas for small apartments](/blog/small-apartment-layout-ideas)
+- [Plant corner ideas for small Canadian apartments](/blog/small-apartment-layout-ideas)
+- [Renter-friendly bike storage ideas](/blog/condo-storage-ideas-toronto-vancouver)
 - [Condo storage ideas for Toronto and Vancouver renters](/blog/condo-storage-ideas-toronto-vancouver)
 
 **By season or life event:**
-- [Seasonal storage: rotating off-season clothes and gear](/blog/seasonal-storage-off-season-clothes-gear)
-- [September student move-in storage guide](/blog/september-student-move-in-storage-guide)
-- [Quebec Moving Day (July 1) storage and packing guide](/blog/quebec-moving-day-storage-guide)
-- [Spring cleaning tips for apartments](/blog/spring-cleaning-organization-tips)
-- [January reset: apartment organization](/blog/january-reset-organization-ideas)
+- [Seasonal storage: rotating off-season clothes and gear](/blog/small-closet-organization-rental-apartment)
+- [September student move-in storage guide](/blog/first-apartment-essentials-checklist-canada)
+- [Quebec Moving Day (July 1) storage and packing guide](/blog/first-apartment-essentials-checklist-canada)
+- [Spring cleaning tips for apartments](/blog/storage-ideas-for-small-places)
+- [January reset: apartment organization](/blog/storage-ideas-for-small-places)
 
 **Full organization systems:**
-- [Small apartment organization guide](/blog/small-apartment-organization)
-- [Apartment organization under $100 CAD](/blog/small-apartment-organization)
+- [Small apartment organization guide](/blog/storage-ideas-for-small-places)
+- [Apartment organization under $100 CAD](/blog/storage-ideas-for-small-places)
 
 ## The Storage Priority Order for Canadian Renters
 
@@ -311,8 +311,8 @@ These 23 ideas work in any Canadian rental — and every single one is reversibl
 
 → For bedroom-specific storage with exact product picks, check out [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas). And for the room this list covers least — the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for no-drill solutions sized for tiny Canadian bathrooms.
 
-→ Moving into a new place in Quebec? [Quebec moving day storage guide](/blog/quebec-moving-day-storage-guide) covers the province's unique July 1 lease-turnover crunch. And if your entryway is the first thing that gets cluttered, [small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) has the fix.
+→ Moving into a new place in Quebec? [Quebec moving day storage guide](/blog/first-apartment-essentials-checklist-canada) covers the province's unique July 1 lease-turnover crunch. And if your entryway is the first thing that gets cluttered, [small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) has the fix.
 
-→ Starting university and moving into your first place? [September student move-in storage guide](/blog/september-student-move-in-storage-guide) covers the dorm-to-apartment transition specifically. Got outdoor space? [Small apartment balcony storage ideas](/blog/small-apartment-balcony-storage-ideas) applies the same space-scaling rules to the one outdoor room most apartments have.
+→ Starting university and moving into your first place? [September student move-in storage guide](/blog/first-apartment-essentials-checklist-canada) covers the dorm-to-apartment transition specifically. Got outdoor space? [Small apartment balcony storage ideas](/blog/condo-storage-ideas-toronto-vancouver) applies the same space-scaling rules to the one outdoor room most apartments have.
 
-→ Not sure which retailers actually carry small-space storage furniture? See [where to buy small-space storage furniture](/blog/where-to-buy-small-space-storage-furniture).
+→ Not sure which retailers actually carry small-space storage furniture? See [where to buy small-space storage furniture](/blog/small-space-furniture).

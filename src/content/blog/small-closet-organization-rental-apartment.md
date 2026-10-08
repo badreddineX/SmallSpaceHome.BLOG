@@ -19,9 +19,9 @@ faqs:
   - q: "Do IKEA closet systems work in a small rental closet?"
     a: "Yes, if the closet is deep enough for KOMPLEMENT inserts or you use a freestanding PAX-adjacent setup. For most standard rental reach-in closets, though, SKUBB boxes and BUMERANG hangers give you 80% of the benefit without any wardrobe frame at all."
 relatedPosts:
-  - "small-bedroom-organization-ideas"
-  - "small-apartment-organization"
-  - "seasonal-storage-off-season-clothes-gear"
+  - "small-apartment-bedroom-storage-ideas"
+  - "storage-ideas-for-small-places"
+  - "small-closet-organization-rental-apartment"
 ---
 
 
@@ -78,7 +78,7 @@ Don't limit this trick to the closet door itself. If your bedroom closet is smal
 
 > Over-door organizers add storage capacity to a closet without drilling, screws, or wall damage, since they hang directly on a standard door frame ([Command Brand](https://www.command.com/), 2026). For renters, that means full functionality with zero risk to a damage deposit.
 
-For more no-drill tricks that work throughout a rental, see our [renter-friendly apartment decor guide](/blog/apartment-decor-ideas).
+For more no-drill tricks that work throughout a rental, see our [renter-friendly apartment decor guide](/blog/storage-ideas-for-small-places).
 
 ## Do Slim Velvet Hangers Really Free Up That Much Space?
 
@@ -123,7 +123,7 @@ A cheaper option is a rolling garment rack with a fabric cover, which runs $35�
 
 **What to buy:** IKEA PAX wardrobe frame (~$179 CAD+) or Amazon.ca rolling rack + cover (~$65–100 CAD combined).
 
-**A closet [reading nook](/blog/small-apartment-reading-nook-ideas), if you have the space to spare.** If a closet is unusually deep or a second closet in the apartment sits mostly empty, a small chair, a clip lamp, and a shelf turn it into a genuine reading nook instead of dead storage space — a trend worth considering before defaulting to more shelving in every closet.
+**A closet [reading nook](/blog/small-apartment-layout-ideas), if you have the space to spare.** If a closet is unusually deep or a second closet in the apartment sits mostly empty, a small chair, a clip lamp, and a shelf turn it into a genuine reading nook instead of dead storage space — a trend worth considering before defaulting to more shelving in every closet.
 
 ---
 

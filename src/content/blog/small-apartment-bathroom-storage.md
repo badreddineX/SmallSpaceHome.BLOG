@@ -21,9 +21,9 @@ faqs:
   - q: "Can I replace the medicine cabinet in a rental apartment bathroom?"
     a: "You can swap a surface-mounted medicine cabinet without any damage to walls or plumbing. Surface-mounted units typically have two to four screws. Remove the old cabinet, patch the screw holes with renter-safe wall filler when you leave, and install the new one. This is distinct from recessed cabinets (built into the wall), which you should leave untouched in a rental."
 relatedPosts:
-  - "apartment-bathroom-decor-ideas"
+  - "small-apartment-bathroom-storage"
   - "vertical-storage-ideas-small-apartment"
-  - "small-apartment-organization"
+  - "storage-ideas-for-small-places"
 ---
 
 
@@ -232,7 +232,7 @@ Two IKEA RÅSKOG rolling carts (~$30 CAD each, $60 CAD total) give a shared bath
 
 Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves much of the clutter problem in a small Canadian apartment bathroom.
 
-→ For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/small-apartment-organization).
+→ For the full apartment approach — bedroom, kitchen, and living room storage included — see [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places).
 
 → For bedroom-specific storage solutions using the same no-drill principles, see [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas).
 
@@ -243,4 +243,4 @@ Complete steps 1 through 3 of the priority order before purchasing anything else
 - [Vertical Storage Ideas](/blog/vertical-storage-ideas-small-apartment)
 - [Small Closet Organization for Renters](/blog/small-closet-organization-rental-apartment)
 - [Small Apartment Laundry Storage](/blog/small-apartment-laundry-storage-ideas)
-- [Storage Bins & Baskets Guide](/blog/small-apartment-storage-bins-baskets-guide)
+- [Storage Bins & Baskets Guide](/blog/storage-ideas-for-small-places)

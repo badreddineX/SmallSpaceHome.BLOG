@@ -65,7 +65,7 @@ Most Toronto and Vancouver condo buildings offer a locker as an optional add-on,
 
 The multi-function rule applies here exactly as it does in any small apartment — every piece should do at least two jobs. The condo-specific step most guides miss: **measure your building's elevator and hallway before ordering anything large.** Many downtown towers built in the last 15 years have service elevators sized for moving boxes, not furniture, and a sofa that doesn't fit is an expensive return.
 
-- **IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio)** (~$399–$699 CAD) — drawers replace a dresser, critical in a smaller condo bedroom
+- **IKEA NORDLI [storage bed](/blog/under-bed-storage-ideas-small-apartment)** (~$399–$699 CAD) — drawers replace a dresser, critical in a smaller condo bedroom
 - **IKEA KALLAX** (~$130–$159 CAD) — works as a room divider in open-concept condo layouts
 - **Apartment-size sofa under 200 cm** (IKEA VIMLE or ÄPPLARYD) — confirm it clears your elevator door width, not just your unit door
 
@@ -76,8 +76,8 @@ For the full furniture breakdown with more picks and prices, see our <a href="/b
 Condos rarely have garage or shed space, so bikes and bulky seasonal gear need a different answer than a house would.
 
 - **Wall-mount bike rack, tension or freestanding** (~$25–$40 CAD, Canadian Tire or Amazon.ca) — keeps a bike vertical in an entryway corner without drilling
-- **Weatherproof deck box** for balcony gear, if your board allows [balcony storage](/blog/small-apartment-balcony-storage-ideas) (varies — check your condo's specific bylaws)
-- **Seasonal rotation system** for winter tires and off-season clothes — our <a href="/blog/seasonal-storage-off-season-clothes-gear">seasonal storage guide</a> covers the [vacuum-bag](https://amzn.to/4hkxQfL) and bin system that works in tight closets
+- **Weatherproof deck box** for balcony gear, if your board allows [balcony storage](/blog/condo-storage-ideas-toronto-vancouver) (varies — check your condo's specific bylaws)
+- **Seasonal rotation system** for winter tires and off-season clothes — our <a href="/blog/small-closet-organization-rental-apartment">seasonal storage guide</a> covers the [vacuum-bag](https://amzn.to/4hkxQfL) and bin system that works in tight closets
 
 ## 5. What Storage Rules Are Different for Condos vs. Rental Apartments?
 
@@ -91,6 +91,6 @@ Always check your specific building's bylaws before installing anything in a sha
 
 ---
 
-Want the full room-by-room system this is built on? See our <a href="/blog/small-apartment-organization">complete apartment organization guide</a>, or grab the free <a href="/free-storage-checklist">23-Point Storage Checklist</a> to work through your whole condo one room at a time.
+Want the full room-by-room system this is built on? See our <a href="/blog/storage-ideas-for-small-places">complete apartment organization guide</a>, or grab the free <a href="/free-storage-checklist">23-Point Storage Checklist</a> to work through your whole condo one room at a time.
 
-**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/small-space-renting-toronto-guide)
+**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/condo-storage-ideas-toronto-vancouver)

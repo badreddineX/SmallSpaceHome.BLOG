@@ -204,6 +204,6 @@ The entire reversal process for all 20 changes should take three to four hours f
 The idea that renting means living in a bland, impersonal space is outdated. The key principle is simple: if you can remove it completely and leave the surface in its original condition, it is not damage, it is not a lease violation, and your landlord has no grounds for complaint. Make your rental feel like home, because it is.
 
 **Related reading:**
-- [Command Strip Decorating Hacks for Renters](/blog/command-strip-decorating-hacks-renters)
-- [Apartment Decor Ideas on a Budget](/blog/apartment-decor-ideas-on-a-budget)
+- [Command Strip Decorating Hacks for Renters](/blog/renters-no-damage-decor-guide-canada)
+- [Apartment Decor Ideas on a Budget](/blog/storage-ideas-for-small-places)
 - [Condo Storage Ideas Toronto Vancouver](/blog/condo-storage-ideas-toronto-vancouver)

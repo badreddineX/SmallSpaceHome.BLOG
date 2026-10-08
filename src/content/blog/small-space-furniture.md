@@ -23,8 +23,8 @@ faqs:
   - q: "How do I choose apartment-size furniture that fits a small Canadian apartment?"
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
 relatedPosts:
-  - "where-to-buy-small-space-storage-furniture"
-  - "storage-bed-buying-guide-small-studio"
+  - "small-space-furniture"
+  - "under-bed-storage-ideas-small-apartment"
   - "ikea-small-space-hacks"
 ---
 
@@ -32,7 +32,7 @@ relatedPosts:
 
 Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
-**TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI [storage bed](/blog/storage-bed-buying-guide-small-studio) replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
+**TL;DR:** Every piece of furniture in a small apartment should do at least two things. The IKEA NORDLI [storage bed](/blog/under-bed-storage-ideas-small-apartment) replaces a dresser. A storage ottoman replaces both coffee table and linen storage. The FRIHETEN sofa bed handles guests. Never buy a king bed in a bedroom under 12 sq m — you'll have no walkway.
 
 ---
 
@@ -44,7 +44,7 @@ In a small space, every major piece of furniture should do at least two things. 
 - Ottoman → seating + coffee table + storage
 - Bed → sleeping + storage underneath
 - Bookcase → storage + room divider
-- Bench → seating + [shoe storage](/blog/small-apartment-shoe-storage-ideas)
+- Bench → seating + [shoe storage](/blog/small-entryway-hallway-storage-ideas)
 
 When you shop with this principle in mind, your choices narrow considerably — and the space works much better.
 
@@ -213,7 +213,7 @@ When furnishing a small apartment from scratch:
 5. **Desk** — if working from home
 6. **Dining** — often the last priority; kitchen counter + stools works in very small apartments
 
-For how to make the living room side of this work, see [small space living room ideas](/blog/small-space-living-room-ideas) — sofa sizing, rug placement, and layout tips for compact Canadian living rooms. For help deciding where each piece actually goes, [small apartment layout ideas](/blog/small-apartment-layout-ideas) covers clearances, walkways and room-by-room placement. And if you want a minimalist approach to furniture choices, [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas) covers the "fewer, better pieces" philosophy in detail.
+For how to make the living room side of this work, see [small space living room ideas](/blog/small-living-room-storage-solutions) — sofa sizing, rug placement, and layout tips for compact Canadian living rooms. For help deciding where each piece actually goes, [small apartment layout ideas](/blog/small-apartment-layout-ideas) covers clearances, walkways and room-by-room placement. And if you want a minimalist approach to furniture choices, [minimalist small apartment ideas](/blog/small-apartment-layout-ideas) covers the "fewer, better pieces" philosophy in detail.
 
 ## What to Avoid
 
@@ -242,7 +242,7 @@ If you're setting up a desk in any of these rooms, see [small apartment home off
 
 Living in a Toronto or Vancouver condo specifically? [Condo storage ideas](/blog/condo-storage-ideas-toronto-vancouver) covers the building-specific constraints — elevator sizing, locker math — that apartment buying guides usually skip.
 
-→ For inspiration on how to style the furniture you choose, [small space living room ideas](/blog/small-space-living-room-ideas) shows how layout and decor choices work together.
+→ For inspiration on how to style the furniture you choose, [small space living room ideas](/blog/small-living-room-storage-solutions) shows how layout and decor choices work together.
 
 ## Quick-Pick Product Summary
 
@@ -256,4 +256,4 @@ Living in a Toronto or Vancouver condo specifically? [Condo storage ideas](/blog
 | Accent chair | [Swivel accent chair](https://link.amazon/A05bs1kiw) | $180–$280 | [Amazon.ca](https://link.amazon/A05bs1kiw) |
 | Fold-down desk | [Wall-mounted fold-down](https://link.amazon/A00su1IzG) | $80–$150 | [Amazon.ca](https://link.amazon/A00su1IzG) |
 
-→ Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) covers that route on a budget. Not sure where to buy small-space pieces at all? See [where to buy small-space storage furniture](/blog/where-to-buy-small-space-storage-furniture). And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/storage-bed-buying-guide-small-studio).
+→ Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) covers that route on a budget. Not sure where to buy small-space pieces at all? See [where to buy small-space storage furniture](/blog/small-space-furniture). And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment).

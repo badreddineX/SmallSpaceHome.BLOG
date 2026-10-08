@@ -21,7 +21,7 @@ faqs:
 relatedPosts:
   - "small-space-furniture"
   - "storage-ideas-for-small-places"
-  - "small-apartment-organization"
+  - "storage-ideas-for-small-places"
 ---
 
 
@@ -152,7 +152,7 @@ If combined with NORDLI or MALM bed risers, you can add even more under-bed clea
 
 ## TJUSIG Bench + Hooks as a Complete Entry System
 
-The TJUSIG bench (~$59 CAD) with [shoe storage](/blog/small-apartment-shoe-storage-ideas) underneath, combined with TJUSIG or ENUDDEN wall hooks above (~$15–$25 CAD), creates a functional entry station for a fraction of a custom mudroom.
+The TJUSIG bench (~$59 CAD) with [shoe storage](/blog/small-entryway-hallway-storage-ideas) underneath, combined with TJUSIG or ENUDDEN wall hooks above (~$15–$25 CAD), creates a functional entry station for a fraction of a custom mudroom.
 
 A TJUSIG bench costs about $59 CAD, and adding wall hooks for another $15 to $25 CAD creates a full entry station for well under $100 CAD total.
 
@@ -164,7 +164,7 @@ A full JONAXEL wardrobe configuration runs $150 to $250 CAD depending on setup, 
 
 **Cost:** JONAXEL frame + hanging rod + shelf ~$150–$250 CAD depending on configuration.
 
-For a more specific look at budget-conscious organization, [small apartment organization ideas on a budget](/blog/small-apartment-organization) pairs well with this list — it covers what to buy first when you're starting from scratch.
+For a more specific look at budget-conscious organization, [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places) pairs well with this list — it covers what to buy first when you're starting from scratch.
 
 ---
 

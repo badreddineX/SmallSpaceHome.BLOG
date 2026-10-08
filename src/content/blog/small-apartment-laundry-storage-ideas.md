@@ -19,7 +19,7 @@ faqs:
   - q: "How much does it cost to set up laundry storage in a small apartment?"
     a: "A full in-suite laundry closet system, shelf, door rack, and rolling cart, runs about $90–$140 CAD total. If you're limited to shared building laundry, a caddy and a rolling hamper cover the essentials for under $50 CAD."
 relatedPosts:
-  - "small-apartment-organization"
+  - "storage-ideas-for-small-places"
   - "vertical-storage-ideas-small-apartment"
   - "storage-ideas-for-small-places"
 ---
@@ -103,7 +103,7 @@ If your building laundry room still runs on coins, a small labelled jar by your 
 
 Sorting laundry without a mudroom or laundry room means using stackable bins or a divided hamper that lives in a closet or bedroom corner. A three-section hamper stand like IKEA's JÄLL costs about $40 CAD and sorts darks, lights, and delicates automatically, turning a weekly chore into a passive habit instead of a pile that needs re-sorting on wash day.
 
-Place the hamper inside a closet on a slim shelf, using the same vertical-storage logic covered in our <a href="/blog/small-apartment-organization">small apartment organization guide</a>, so it doesn't eat floor space in the bedroom itself.
+Place the hamper inside a closet on a slim shelf, using the same vertical-storage logic covered in our <a href="/blog/storage-ideas-for-small-places">small apartment organization guide</a>, so it doesn't eat floor space in the bedroom itself.
 
 **Cost:** IKEA JÄLL 3-section laundry bag stand, ~$40 CAD.
 
@@ -135,4 +135,4 @@ For more no-drill storage across the rest of the apartment, see our full <a href
 - [Vertical Storage Ideas](/blog/vertical-storage-ideas-small-apartment)
 - [Small Closet Organization for Renters](/blog/small-closet-organization-rental-apartment)
 - [Small Apartment Bathroom Storage](/blog/small-apartment-bathroom-storage)
-- [Storage Bins & Baskets Guide](/blog/small-apartment-storage-bins-baskets-guide)
+- [Storage Bins & Baskets Guide](/blog/storage-ideas-for-small-places)

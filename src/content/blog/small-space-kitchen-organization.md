@@ -11,7 +11,7 @@ category: "Organization"
 readTime: 7
 faqs:
   - q: "How do I organize a small apartment kitchen in Canada?"
-    a: "Zone the kitchen first — prep, cooking, pantry, and cleaning zones — so everything lives where it's used. Then go vertical with pegboard and floating shelves. Clear every counter of non-daily items. The single biggest improvement for most Canadian renters is clear pantry bins and drawer dividers. See our <a href='/blog/spring-cleaning-organization-tips'>spring cleaning organization guide</a> for a full kitchen reset checklist."
+    a: "Zone the kitchen first — prep, cooking, pantry, and cleaning zones — so everything lives where it's used. Then go vertical with pegboard and floating shelves. Clear every counter of non-daily items. The single biggest improvement for most Canadian renters is clear pantry bins and drawer dividers. See our <a href='/blog/storage-ideas-for-small-places'>spring cleaning organization guide</a> for a full kitchen reset checklist."
   - q: "How do I create more counter space in a small kitchen?"
     a: "Move everything off the counter that isn't used daily. Use an IKEA SKADIS pegboard (~$15 CAD) for knives and utensils on the wall. An IKEA RASKOG rolling cart (~$39 CAD) acts as extra counter space during cooking and rolls away when not needed. Under-cabinet hooks for mugs free an entire shelf."
   - q: "What are the best kitchen organization products for small apartments in Canada?"
@@ -21,9 +21,9 @@ faqs:
   - q: "How do I organize my fridge in a small apartment?"
     a: "Group items into clear bins by category — dairy, produce, leftovers, condiments — so nothing gets lost at the back. Add a small lazy Susan for jars and condiments, and stackable clear organizers on the door shelving to use vertical space the fixed shelves waste. A full bin-and-organizer set runs ~$20–$35 CAD on Amazon.ca."
 relatedPosts:
-  - "fridge-pantry-organization-small-apartment"
-  - "fridge-pantry-organization-small-apartment"
-  - "small-apartment-organization"
+  - "small-space-kitchen-organization"
+  - "small-space-kitchen-organization"
+  - "storage-ideas-for-small-places"
 ---
 
 
@@ -169,6 +169,6 @@ This combination tackles pantry shelves, kitchen drawers, wall storage, cabinet 
 
 Zone first, buy second. A zoned kitchen where everything lives near where it's used is more functional than a perfectly organized one where tools are all in the wrong place. For the full apartment storage picture — including how the kitchen fits into a room-by-room system — see [storage solutions for small apartments](/blog/storage-ideas-for-small-places).
 
-→ For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/small-apartment-organization) — it covers the kitchen alongside every other room. The same zone-first approach works just as well in the smallest room in the apartment — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage).
+→ For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places) — it covers the kitchen alongside every other room. The same zone-first approach works just as well in the smallest room in the apartment — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage).
 
 → If your laundry lives in a kitchen closet or a shared building room, [small apartment laundry storage ideas](/blog/small-apartment-laundry-storage-ideas) covers both setups with no-drill options.

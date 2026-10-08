@@ -10,7 +10,7 @@ featured: false
 category: "Decor"
 relatedPosts:
   - "small-space-furniture"
-  - "small-space-living-room-ideas"
+  - "small-living-room-storage-solutions"
 readTime: 9
 faqs:
   - q: "How do I set up a home office in a small apartment?"
@@ -20,7 +20,7 @@ faqs:
   - q: "How do I work from home without a separate office room?"
     a: "Carve out a dedicated zone even if it's just a corner. A small desk against one wall, a rug to define the area, and a folding screen or bookshelf as a divider all signal 'work happens here.' The key is a consistent spot you can leave set up — packing a laptop away each day makes it harder to start. See our <a href='/blog/small-space-furniture'>small space furniture guide</a> for furnishing a single-room layout."
   - q: "How can I make a small home office feel less cramped?"
-    a: "Go vertical — floating shelves above the desk free the surface and draw the eye up. Keep the desktop clear except for what you use daily, choose a desk with visible legs, and position it to face or catch a window. Light walls and a mirror nearby bounce daylight around. Our <a href='/blog/small-space-living-room-ideas'>small space living room ideas</a> post has the full list of tricks."
+    a: "Go vertical — floating shelves above the desk free the surface and draw the eye up. Keep the desktop clear except for what you use daily, choose a desk with visible legs, and position it to face or catch a window. Light walls and a mirror nearby bounce daylight around. Our <a href='/blog/small-living-room-storage-solutions'>small space living room ideas</a> post has the full list of tricks."
   - q: "Is it worth buying a proper office chair for a small apartment?"
     a: "Yes — if you work full days from home, the chair matters more than the desk. A dining chair wrecks your back over months. You don't need a $1,500 Herman Miller; a supportive mid-range chair (~$200–$400 CAD from Wayfair Canada or Structube) is the single best investment for a home office. Pick one that tucks fully under the desk to save floor space."
   - q: "How do I set up an apartment home office when I don't have a spare room?"
@@ -140,7 +140,7 @@ The easiest ways to divide a work zone in a small apartment:
 - **A folding screen** (~$80–$150 CAD, Wayfair Canada or Structube) — folds away entirely when you want the room back
 - **A curtain on a ceiling track** — draws across to hide the desk after hours, disappears during the day
 
-For a single-room layout, our [small space furniture guide](/blog/small-space-furniture) covers furnishing a single-room layout, and [small space living room ideas](/blog/small-space-living-room-ideas) covers the light-and-mirror tricks that keep a divided room from feeling chopped up.
+For a single-room layout, our [small space furniture guide](/blog/small-space-furniture) covers furnishing a single-room layout, and [small space living room ideas](/blog/small-living-room-storage-solutions) covers the light-and-mirror tricks that keep a divided room from feeling chopped up.
 
 ## Make It Feel Like a Space You Want to Be In
 
@@ -153,13 +153,13 @@ What works in a small workspace without adding clutter:
 - **A warm desk lamp** — kinder than overhead light on video calls, and it makes the corner feel like a room, not a workstation
 - **A consistent colour** — matching your storage boxes and accessories to two or three tones keeps a busy tech corner looking intentional
 
-If you lean minimal, our [minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas) post covers the "fewer, better things" approach that suits a small office especially well — less on the desk means less visual noise while you work.
+If you lean minimal, our [minimalist small apartment ideas](/blog/small-apartment-layout-ideas) post covers the "fewer, better things" approach that suits a small office especially well — less on the desk means less visual noise while you work.
 
 ---
 
 ## Where to Buy Home Office Pieces in Canada
 
-[Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) and Kijiji list second-hand desks and chairs often at a steep discount to retail, making them worth checking before paying full price at IKEA or Wayfair Canada.
+[Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) and Kijiji list second-hand desks and chairs often at a steep discount to retail, making them worth checking before paying full price at IKEA or Wayfair Canada.
 
 | Store | Best For | Price Range |
 |-------|----------|-------------|
@@ -172,8 +172,8 @@ If you lean minimal, our [minimalist small apartment ideas](/blog/minimalist-sma
 
 Start with the desk and the chair — those two decide whether the space works. Add storage and decor once you know how you actually use the corner. And when in doubt on desk size, go smaller: a compact desk in a clear corner beats a big one crammed against the bed.
 
-→ Setting up the rest of the room too? Our [small space living room ideas](/blog/small-space-living-room-ideas) and [renter-friendly apartment decor ideas](/blog/apartment-decor-ideas) cover how to make a work corner blend into the space it shares.
+→ Setting up the rest of the room too? Our [small space living room ideas](/blog/small-living-room-storage-solutions) and [renter-friendly apartment decor ideas](/blog/storage-ideas-for-small-places) cover how to make a work corner blend into the space it shares.
 
 → Need a break-room reset? [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the room right next to most home offices.
 
-→ Drowning in paperwork? [Small apartment paperwork and mail organization](/blog/small-apartment-paperwork-mail-organization) covers the filing system that keeps a home office desk clear.
+→ Drowning in paperwork? [Small apartment paperwork and mail organization](/blog/storage-ideas-for-small-places) covers the filing system that keeps a home office desk clear.

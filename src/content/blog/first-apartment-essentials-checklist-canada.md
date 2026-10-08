@@ -21,9 +21,9 @@ faqs:
   - q: "Where is the cheapest place to furnish an apartment in Canada?"
     a: "Facebook Marketplace is the cheapest source for furniture — desks, dressers, and sofas regularly list at 40–60% off retail in Canadian cities. IKEA is the best value for new basics (textiles, kitchen, storage). Dollarama covers small essentials (dish rack, hangers, cleaning supplies) for $1–$5 CAD each. Canadian Tire fills gaps on cleaning supplies and lighting."
 relatedPosts:
-  - "small-apartment-organization"
-  - "facebook-marketplace-furnishing-budget"
-  - "apartment-decor-ideas-on-a-budget"
+  - "storage-ideas-for-small-places"
+  - "studio-apartment-furnishing-cost-canada"
+  - "storage-ideas-for-small-places"
 ---
 
 
@@ -67,7 +67,7 @@ The mattress is the single most expensive purchase and the one most worth spendi
 | Duvet + cover | $50–$80 | IKEA |
 | **Total** | **$355–$570** | |
 
-**Canadian-specific tip:** IKEA Canada's VESTERÖY mattress (~$349 CAD for a queen) is the best-value boxed mattress available in-store. Amazon.ca bed-in-a-box options (Zinus, Linenspa) start around $250 CAD. Skip the bed frame for now — the mattress goes on the floor until you find a frame on [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) for $50–$100 CAD.
+**Canadian-specific tip:** IKEA Canada's VESTERÖY mattress (~$349 CAD for a queen) is the best-value boxed mattress available in-store. Amazon.ca bed-in-a-box options (Zinus, Linenspa) start around $250 CAD. Skip the bed frame for now — the mattress goes on the floor until you find a frame on [Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) for $50–$100 CAD.
 
 For long-term bedroom storage, a bed frame with built-in drawers (IKEA NORDLI, $399–$699 CAD) replaces the need for a dresser entirely — see our [small bedroom storage guide](/blog/small-apartment-bedroom-storage-ideas) for the full system.
 
@@ -104,7 +104,7 @@ You don't need a full kitchen setup on day one. You need to be able to boil wate
 
 **Skip for now:** a toaster, blender, microwave (check if your apartment includes one — most Canadian rentals do), specialty gadgets, a full knife set. Add those once you've cooked in the space for a month and know what you actually use.
 
-Once the kitchen is functional, [small space kitchen organization](/blog/small-space-kitchen-organization) covers the zone-based system that keeps a tiny kitchen workable, and [fridge and pantry organization](/blog/fridge-pantry-organization-small-apartment) handles the food storage side.
+Once the kitchen is functional, [small space kitchen organization](/blog/small-space-kitchen-organization) covers the zone-based system that keeps a tiny kitchen workable, and [fridge and pantry organization](/blog/small-space-kitchen-organization) handles the food storage side.
 
 ## 4. Cleaning Supplies (~$25–$40 CAD)
 
@@ -145,7 +145,7 @@ This is where most first-apartment renters overspend. The rule: buy only what yo
 | Small dresser or KALLAX | $79–$150 | IKEA, Facebook Marketplace |
 | **Total** | **$429–$950** | |
 
-**The Facebook Marketplace rule:** Check Marketplace before buying anything new that costs over $50 CAD. In Toronto, Vancouver, Montreal, Ottawa, and Calgary, quality secondhand furniture regularly lists at 40–60% off retail — especially during university move-out season in April and August. Our [Facebook Marketplace furnishing guide](/blog/facebook-marketplace-furnishing-budget) covers what to search, red flags to avoid, and pickup safety.
+**The Facebook Marketplace rule:** Check Marketplace before buying anything new that costs over $50 CAD. In Toronto, Vancouver, Montreal, Ottawa, and Calgary, quality secondhand furniture regularly lists at 40–60% off retail — especially during university move-out season in April and August. Our [Facebook Marketplace furnishing guide](/blog/studio-apartment-furnishing-cost-canada) covers what to search, red flags to avoid, and pickup safety.
 
 For choosing the right furniture sizes, [small space furniture](/blog/small-space-furniture) covers the measurements that actually matter in a Canadian apartment — the pieces that fit through standard apartment doorways and don't overwhelm a 500 sq ft space.
 
@@ -157,7 +157,7 @@ Decor is the fun part, but it's the last priority. An apartment with good lighti
 
 **The only day-one decor purchase:** warm 2700K LED bulbs (~$15 CAD for a 4-pack at Canadian Tire). Swap every bulb in the apartment — it transforms how the whole space feels in five minutes.
 
-Everything else — rugs, art, plants, cushions — can wait. When you're ready, follow the priority order in our [budget apartment decor guide](/blog/apartment-decor-ideas-on-a-budget) (covers both $50 and $200 CAD tiers) or go the dollar-store route with [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive).
+Everything else — rugs, art, plants, cushions — can wait. When you're ready, follow the priority order in our [budget apartment decor guide](/blog/storage-ideas-for-small-places) (covers both $50 and $200 CAD tiers) or go the dollar-store route with [Dollarama finds that look expensive](/blog/first-apartment-essentials-checklist-canada).
 
 ## The Complete First Apartment Budget
 
@@ -188,7 +188,7 @@ These are the items every "essentials list" includes that first-apartment renter
 
 After the first month, the apartment has stuff in it — and it's probably starting to feel cluttered. That's when organization matters.
 
-The system is simple: declutter first, then give every item a home, then maintain with a 10-minute daily reset. Our [small apartment organization guide](/blog/small-apartment-organization) covers the full room-by-room system, and [storage ideas for small places](/blog/storage-ideas-for-small-places) covers the specific products (bins, baskets, shelves) that work best in Canadian apartments.
+The system is simple: declutter first, then give every item a home, then maintain with a 10-minute daily reset. Our [small apartment organization guide](/blog/storage-ideas-for-small-places) covers the full room-by-room system, and [storage ideas for small places](/blog/storage-ideas-for-small-places) covers the specific products (bins, baskets, shelves) that work best in Canadian apartments.
 
 **The five highest-impact organization purchases for a first apartment:**
 
@@ -212,16 +212,16 @@ Total: ~$77–$93 CAD for an organization foundation that covers every room.
 
 **Week 2:** First furniture — a small table and chair, or a desk if you work from home (see our [small apartment home office guide](/blog/small-apartment-home-office-ideas)).
 
-**Week 3–4:** Add the sofa and any remaining furniture. Check [Facebook Marketplace](/blog/facebook-marketplace-furnishing-budget) before buying new.
+**Week 3–4:** Add the sofa and any remaining furniture. Check [Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) before buying new.
 
-**Month 2:** Start the [organization system](/blog/small-apartment-organization). Add decor [on a budget](/blog/apartment-decor-ideas-on-a-budget).
+**Month 2:** Start the [organization system](/blog/storage-ideas-for-small-places). Add decor [on a budget](/blog/storage-ideas-for-small-places).
 
 The apartment doesn't need to be finished in a weekend. It needs to be liveable on day one, comfortable by week two, and organized by month two. Everything else is gradual.
 
-→ Moving to Quebec specifically? [Quebec moving day storage guide](/blog/quebec-moving-day-storage-guide) covers the province's unique July 1 lease-turnover timeline.
+→ Moving to Quebec specifically? [Quebec moving day storage guide](/blog/first-apartment-essentials-checklist-canada) covers the province's unique July 1 lease-turnover timeline.
 
-→ Starting university? [September student move-in storage guide](/blog/september-student-move-in-storage-guide) covers the tighter timeline and budget.
+→ Starting university? [September student move-in storage guide](/blog/first-apartment-essentials-checklist-canada) covers the tighter timeline and budget.
 
-→ Need the full decor plan once the basics are sorted? [Apartment decor ideas](/blog/apartment-decor-ideas) covers the complete no-damage decorating system for Canadian renters.
+→ Need the full decor plan once the basics are sorted? [Apartment decor ideas](/blog/storage-ideas-for-small-places) covers the complete no-damage decorating system for Canadian renters.
 
-→ Want the apartment to feel minimal from the start? [Minimalist small apartment ideas](/blog/minimalist-small-apartment-ideas) covers the less-is-more approach that works especially well in a first apartment.
+→ Want the apartment to feel minimal from the start? [Minimalist small apartment ideas](/blog/small-apartment-layout-ideas) covers the less-is-more approach that works especially well in a first apartment.

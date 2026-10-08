@@ -10,7 +10,7 @@ featured: false
 category: "Storage"
 relatedPosts:
   - "storage-ideas-for-small-places"
-  - "small-apartment-storage-bins-baskets-guide"
+  - "storage-ideas-for-small-places"
 readTime: 8
 faqs:
   - q: "Can I use Command strips for heavy shelves in a rental apartment?"
