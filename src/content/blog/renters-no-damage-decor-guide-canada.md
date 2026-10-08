@@ -203,6 +203,16 @@ The entire reversal process for all 20 changes should take three to four hours f
 
 ---
 
+## What to Do If a Command Strip Damages the Wall
+
+Even with proper technique, Command strips occasionally pull paint, especially on older walls with multiple paint layers or soft plaster common in pre-war Montreal and Toronto apartments. Knowing how to fix it keeps your deposit safe.
+
+**Small paint chips** (under 2cm): Fill with lightweight spackle ($5-$8 CAD, Canadian Tire or Home Depot) using a putty knife, let it dry for an hour, then sand smooth with fine-grit sandpaper. Touch up with matching paint if you have it. Most landlords will not notice a properly filled chip during a move-out inspection.
+
+**Larger paint pulls** (2-5cm): Same spackle process, but you will likely need touch-up paint. Ask your landlord or property manager for the paint colour code before you move in — many will provide it, and some buildings use the same colour in every unit. A small sample pot ($8-$12 CAD, Home Depot) covers dozens of touch-ups.
+
+**Prevention:** Always remove Command strips by pulling the tab straight down along the wall, never outward. Pulling outward is what tears paint. If the tab breaks, use a hair dryer on low heat for 30 seconds to soften the adhesive before gently peeling the strip off with dental floss slid behind it.
+
 The idea that renting means living in a bland, impersonal space is outdated. The key principle is simple: if you can remove it completely and leave the surface in its original condition, it is not damage, it is not a lease violation, and your landlord has no grounds for complaint. Make your rental feel like home, because it is.
 
 **Related reading:**

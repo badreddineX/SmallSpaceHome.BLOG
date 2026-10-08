@@ -114,6 +114,16 @@ For the full approach to managing humidity and condensation that wet winter gear
 
 ---
 
+## How to Keep a Small Entryway Clean in Mud Season
+
+Canadian spring brings weeks of slush, mud, and salt residue that gets tracked into the apartment every time you walk through the door. A small entryway without a system for this becomes a mess within days.
+
+**A washable entry mat** ($15-$30 CAD, Canadian Tire or HomeSense) placed inside the door catches most of the dirt before it reaches the rest of the apartment. Choose a low-pile, rubber-backed mat that you can shake out or machine wash. Replace it annually — a mat that looks clean but has absorbed a winter of salt stops actually trapping dirt.
+
+**A second boot tray** ($10-$20 CAD) beside the first handles the overflow when two or more people are coming and going. In a household of two, one tray is not enough during mud season. Stack the trays when not in use from May through October.
+
+**Wipe shoes at the door, not later.** A small pack of recycled paper towels or a dedicated shoe-wiping cloth hung from a hook beside the door makes it a one-step habit rather than a chore you put off until the floor is visibly dirty.
+
 **Related reading:**
 - [Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places) — the full room-by-room system
 - [Vertical Storage Ideas for Small Apartments](/blog/vertical-storage-ideas-small-apartment)

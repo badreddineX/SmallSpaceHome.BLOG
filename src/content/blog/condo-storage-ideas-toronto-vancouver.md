@@ -114,6 +114,18 @@ Our [small apartment bathroom storage guide](/blog/small-apartment-bathroom-stor
 
 ---
 
+## How to Use Your Condo Locker Effectively
+
+Most Toronto and Vancouver condos include a storage locker in the basement or parking level, yet many owners and renters barely use theirs or treat it as a disorganized dumping ground. A well-organized locker extends your apartment's storage capacity by the equivalent of an extra closet.
+
+**Shelving inside the locker** ($40-$80 CAD, Canadian Tire or IKEA) transforms a wire-cage locker from a pile on the floor into usable vertical storage. A freestanding wire shelf unit sized to the locker's width holds labelled bins on every tier.
+
+**Store seasonal items here, not in the apartment.** Winter tires (if applicable), holiday decorations, camping gear, extra luggage, and off-season sports equipment all belong in the locker rather than taking up closet or under-bed space upstairs. Rotate items between the locker and the apartment twice a year, in spring and fall.
+
+**Use waterproof bins** ($10-$20 CAD each, Canadian Tire), not cardboard boxes. Condo basement lockers are subject to humidity, occasional flooding from sprinkler tests or pipe leaks, and temperature swings. Cardboard absorbs moisture and collapses. Sealed plastic bins protect contents and stack cleanly.
+
+**Label every bin on two sides** so you can identify contents without pulling bins out. A label maker ($15-$25 CAD, Staples or Amazon.ca) pays for itself the first time you find what you need without unpacking three containers.
+
 **Related reading:**
 - [Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places) — the full room-by-room system
 - [Small Closet Organization for Rental Apartments](/blog/small-closet-organization-rental-apartment)
