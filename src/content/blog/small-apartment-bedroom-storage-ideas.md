@@ -25,6 +25,8 @@ relatedPosts:
 ---
 
 
+Before tackling storage, make sure the bed and dresser are in the right spots — our [small apartment layout ideas guide](/blog/small-apartment-layout-ideas) covers bedroom placement rules including clearances and closet door swings.
+
 Most small bedroom organization ideas assume you have furniture to work with. In a small Canadian apartment the room has to do double duty — sleep and storage — and most do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. Here is the complete approach to bedroom storage, in the order that makes the most difference.
 
 **TL;DR:** Start with under-bed storage (IKEA SKUBB bags, ~$14 CAD) and slim velvet hangers (~$18 CAD, Amazon.ca) — together these two changes can transform a small bedroom for under $35 CAD. Add a tension rod for double hanging ($15 CAD) and an over-door closet organizer ($28–$35 CAD). The IKEA NORDLI [storage bed](/blog/under-bed-storage-ideas-small-apartment) ($399–$699 CAD) replaces the dresser entirely and is the most impactful single furniture purchase for a small bedroom.

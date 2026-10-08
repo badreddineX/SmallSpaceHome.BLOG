@@ -3,7 +3,7 @@ title: "Toronto & Vancouver Condo Storage Ideas"
 description: "Condo storage ideas for small Toronto and Vancouver units — no-drill solutions, locker alternatives, and real CAD prices from Amazon.ca and IKEA."
 image: "/images/storage-ottoman.jpg"
 datePublished: "2026-08-06"
-dateModified: "2026-09-25"
+dateModified: "2026-10-08"
 author: "Badreddine Br"
 tags: ["condo storage", "condo storage ideas", "small condo furniture", "condo storage toronto", "condo storage vancouver", "apartment size furniture canada", "renter-friendly", "Canada", "no-drill"]
 featured: false
@@ -28,7 +28,7 @@ faqs:
 ---
 
 
-Condo living in Toronto or Vancouver means a unique storage problem: the unit is often smaller than a comparable rental apartment, but the building rules are usually stricter about what you can attach to a wall. No drilling into shared walls, balcony restrictions that vary by board, and elevators that weren't built with furniture deliveries in mind. Here's what actually works — tested against those exact constraints, not generic small-space advice.
+Condo living in Toronto or Vancouver means a unique storage problem: the unit is often smaller than a comparable rental apartment, but the building rules are usually stricter about what you can attach to a wall. No drilling into shared walls, balcony restrictions that vary by board, and elevators that weren't built with furniture deliveries in mind. Our [complete storage guide for small apartments](/blog/storage-ideas-for-small-places) covers the room-by-room system — this post focuses specifically on what's different for condo owners and renters in Canada's two most space-constrained cities.
 
 **TL;DR:**
 - **Go vertical first** — floating shelves and over-door storage add capacity without touching a wall stud
@@ -91,6 +91,32 @@ Always check your specific building's bylaws before installing anything in a sha
 
 ---
 
-Want the full room-by-room system this is built on? See our <a href="/blog/storage-ideas-for-small-places">complete apartment organization guide</a>, or grab the free <a href="/free-storage-checklist">23-Point Storage Checklist</a> to work through your whole condo one room at a time.
+## How Do You Organize a Condo Kitchen With Minimal Counter Space?
 
-**Related reading:** [Small-Space Renting in Toronto: The Complete Guide](/blog/condo-storage-ideas-toronto-vancouver)
+Condo kitchens in Toronto and Vancouver are notoriously small — many downtown units have 1.5 to 2 metres of counter space total, shared between prep, appliances, and the dish rack. The fix is getting things off the counter and onto vertical surfaces.
+
+- **A magnetic knife strip** ($15–$25 CAD, Amazon.ca) replaces a knife block and frees up 15–20 cm of counter. Mount it on the backsplash with adhesive if drilling isn't an option.
+- **An over-sink cutting board** ($20–$35 CAD) creates a temporary prep surface that disappears after use. Look for one with a built-in colander for rinsing vegetables.
+- **Stackable shelf inserts inside cabinets** ($12–$18 CAD for a set of two) double the usable height inside standard condo kitchen cupboards, which are often half-empty above the first row of plates.
+- **A narrow rolling cart** (IKEA RÅSKOG, $35 CAD) fits in the gap between the fridge and the wall — a spot that exists in almost every condo kitchen and usually holds nothing.
+
+For the full kitchen storage system, see our [small space kitchen organization guide](/blog/small-space-kitchen-organization).
+
+## What About the Condo Bathroom?
+
+Condo bathrooms are where the no-drill constraint hits hardest, because the walls are often tile or glass that won't hold adhesive hooks well. Three solutions that work:
+
+- **An over-toilet shelving unit** ($45–$79 CAD, Amazon.ca or IKEA) — the single biggest storage gain in a condo bathroom, no wall contact required.
+- **Suction-cup corner shelves** ($15–$25 CAD) for inside the shower — they hold shampoo and soap without adhesive on tile.
+- **A tension-rod shower caddy** ($20–$35 CAD) — wedges between floor and ceiling in the shower corner and holds far more than a suction shelf.
+
+Our [small apartment bathroom storage guide](/blog/small-apartment-bathroom-storage) covers the full setup with more product picks and CAD prices.
+
+---
+
+**Related reading:**
+- [Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places) — the full room-by-room system
+- [Small Closet Organization for Rental Apartments](/blog/small-closet-organization-rental-apartment)
+- [Under-Bed Storage Ideas](/blog/under-bed-storage-ideas-small-apartment)
+- [Vertical Storage Ideas for Small Apartments](/blog/vertical-storage-ideas-small-apartment)
+- [IKEA Small Space Hacks](/blog/ikea-small-space-hacks)

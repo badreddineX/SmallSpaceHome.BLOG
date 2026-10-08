@@ -26,6 +26,8 @@ faqs:
     a: "A mattress (buy new), basic kitchen kit (pot, pan, plates, kettle — $100-$200), and at least one lamp. Many Canadian apartments have no ceiling lights in the living area. Everything else can wait a few weeks while you learn how you actually use the space."
 ---
 
+For layout planning before you buy furniture, our [small apartment layout ideas guide](/blog/small-apartment-layout-ideas) covers how to arrange a studio so every piece earns its footprint.
+
 Moving into an empty studio apartment is exciting until you realize that the space is completely bare and everything from a mattress to a spatula needs to be acquired. Whether you are a student arriving for your first semester, a newcomer to Canada setting up your first home, or someone starting fresh after a major life change, knowing what to expect in terms of furnishing costs can help you budget realistically and avoid both overspending and uncomfortable shortcuts.
 
 This guide breaks down the cost of furnishing a studio apartment across four major Canadian cities: Toronto, Vancouver, Montreal, and Calgary. All prices are in Canadian dollars and reflect 2026 market conditions, drawing from current retail pricing at popular stores and typical secondhand market listings.

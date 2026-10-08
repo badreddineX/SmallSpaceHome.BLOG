@@ -19,9 +19,9 @@ faqs:
   - q: "How much clearance do I need for under-bed storage bins?"
     a: "Standard flat storage bins need about 15 cm (6 inches) of clearance. Measure your bed's actual gap with a tape measure before buying — many platform and low-profile frames only clear 8–10 cm without risers."
 relatedPosts:
-  - "under-bed-storage-ideas-small-apartment"
-  - "small-apartment-bedroom-storage-ideas"
   - "storage-ideas-for-small-places"
+  - "small-apartment-bedroom-storage-ideas"
+  - "small-closet-organization-rental-apartment"
 ---
 
 

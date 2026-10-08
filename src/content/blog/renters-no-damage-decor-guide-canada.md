@@ -26,6 +26,8 @@ faqs:
     a: "You should not change hardwired light fixtures without permission. Instead, use plug-in pendant lights that hang from a Command ceiling hook and plug into a wall outlet — same visual impact, zero electrical work, fully removable."
 ---
 
+For layout and furniture placement ideas before decorating, our [small apartment layout ideas guide](/blog/small-apartment-layout-ideas) covers how to plan around Canadian apartment constraints like baseboard heaters and narrow rooms.
+
 Renting in Canada often means living with builder-beige walls, fluorescent overhead lighting, and the persistent feeling that you are not allowed to make the space your own. Many renters assume that any meaningful decor change requires landlord permission or risks losing part of the damage deposit. The good news is that dozens of impactful changes exist that leave absolutely no trace when you move out.
 
 This guide covers 20 specific, tested decor changes grouped by area of your apartment. Each entry includes the type of product, approximate cost in Canadian dollars, and a difficulty rating. Everything listed here is fully removable and should not trigger any concern from a reasonable landlord or property manager.

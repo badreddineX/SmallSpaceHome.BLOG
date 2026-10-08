@@ -26,6 +26,8 @@ faqs:
     a: "Squeegee condensation off windows every morning before it pools on the sill. Keep humidity in the recommended range. Clean existing mould with one part white vinegar to one part water. If mould persists despite good habits, report it to your landlord — it may indicate a ventilation or insulation problem."
 ---
 
+Condensation also affects how you arrange furniture — keeping pieces away from exterior walls matters. Our [small apartment layout ideas guide](/blog/small-apartment-layout-ideas) covers placement rules for Canadian apartments, including heater clearances.
+
 If you have ever woken up on a January morning to find your apartment windows dripping with water, ice forming along the bottom pane, or mysterious dark spots creeping into the corners of your walls, you are not alone. Condensation and humidity problems are among the most common complaints from Canadian apartment dwellers during winter. Understanding why these issues happen and how to manage them can save you from property damage, health problems, and ongoing frustration.
 
 This guide covers everything you need to know: the science behind winter condensation, ideal humidity ranges, practical daily habits, equipment options, and a full troubleshooting reference.
