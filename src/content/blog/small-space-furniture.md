@@ -1,9 +1,9 @@
 ---
-title: "Small Space Furniture: What to Buy in Canada"
-description: "Small space furniture for Canadian apartments: apartment-size sofas, beds, tables and storage with real CAD prices, plus what to skip."
+title: "Small Space Furniture Canada: What to Buy (& Where)"
+description: "Best small space furniture in Canada from $35–$999 CAD: apartment-size sofas, storage beds, nesting tables, plus Facebook Marketplace and Kijiji secondhand tips."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
-dateModified: "2026-09-30"
+dateModified: "2026-10-08"
 author: "Badreddine Br"
 tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false
