@@ -10,6 +10,10 @@ category: "Budget Tips"
 featured: false
 readTime: 11
 excerpt: "Furnishing a studio apartment in Canada costs $500-$800 bare minimum (mostly used), $1,500-$2,800 comfortable, or $3,000-$5,500 fully styled — with significant city-to-city differences."
+relatedPosts:
+  - "structube-vs-ikea-small-space"
+  - "small-space-furniture"
+  - "small-apartment-layout-ideas"
 tldr:
   - "A bare-minimum studio setup costs $400-$1,000 depending on city, buying mostly used furniture from Facebook Marketplace and Kijiji."
   - "A comfortable mix of new and used runs $1,400-$2,800, with Montreal and Calgary significantly cheaper than Toronto and Vancouver."

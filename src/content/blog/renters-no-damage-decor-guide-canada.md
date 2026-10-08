@@ -10,6 +10,10 @@ category: "Decor"
 featured: false
 readTime: 10
 excerpt: "20 fully reversible decor changes for Canadian renters — from Command strip gallery walls to peel-and-stick backsplash tiles — with CAD costs, difficulty ratings, and provincial lease law notes."
+relatedPosts:
+  - "condo-board-rules-decorating-canada"
+  - "noise-reduction-apartment-canada"
+  - "small-apartment-layout-ideas"
 tldr:
   - "Every change in this guide is fully removable with no wall, floor, or fixture damage — your deposit is safe."
   - "A minimal refresh (5 changes) costs $100-$250 and takes under an hour. A full transformation (all 20) runs $500-$1,500."

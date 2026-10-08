@@ -22,6 +22,7 @@ relatedPosts:
   - "storage-ideas-for-small-places"
   - "small-apartment-bedroom-storage-ideas"
   - "ikea-small-space-hacks"
+  - "baseboard-heater-furniture-placement-condo"
 ---
 
 

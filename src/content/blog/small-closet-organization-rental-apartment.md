@@ -21,7 +21,7 @@ faqs:
 relatedPosts:
   - "small-apartment-bedroom-storage-ideas"
   - "storage-ideas-for-small-places"
-  - "small-closet-organization-rental-apartment"
+  - "noise-reduction-apartment-canada"
 ---
 
 

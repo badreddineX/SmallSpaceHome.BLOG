@@ -13,7 +13,8 @@ relatedPosts:
   - "studio-apartment-layout-ideas"
   - "small-living-room-storage-solutions"
   - "small-space-furniture"
-  - "small-apartment-home-office-ideas"
+  - "condo-board-rules-decorating-canada"
+  - "structube-vs-ikea-small-space"
 faqs:
   - q: "How do you arrange furniture in a small apartment?"
     a: "Start with the biggest piece, usually the sofa or the bed, and place it first. Leave a main walkway of roughly 75 to 90cm (30 to 36 inches), then add smaller pieces around it. Pull the sofa a little off the wall if the room allows, use a rug to define the seating area, and choose furniture with legs so you can see the floor underneath."
@@ -100,7 +101,7 @@ A squarer room gives you more options, and the trap is placing everything around
 
 ## 6. Layout Idea: Open-Plan Condo With a Kitchen
 
-In open-plan condos, the trick is to separate the zones without building anything.
+In open-plan condos, the trick is to separate the zones without building anything. If you own your unit, keep in mind that some changes — even cosmetic ones on balconies — may need board approval. Our [condo board decorating rules guide](/blog/condo-board-rules-decorating-canada) explains what you can do freely and what requires permission in Ontario, Quebec, and BC.
 
 - **Use the sofa back** as a soft boundary between living and dining space.
 - **Change the flooring feel** with a rug under each zone.
@@ -111,7 +112,7 @@ In open-plan condos, the trick is to separate the zones without building anythin
 
 Many Canadian apartments have baseboard heaters under the windows, which makes furniture placement less flexible.
 
-- **Keep furniture and long curtains clear of baseboard heaters** and follow the manufacturer's clearance guidance. Blocked heaters are inefficient and can be a safety hazard.
+- **Keep furniture and long curtains clear of baseboard heaters** and follow the manufacturer's clearance guidance. Blocked heaters are inefficient and can be a safety hazard. Our [baseboard heater furniture placement guide](/blog/baseboard-heater-furniture-placement-condo) covers exact clearance distances and which materials warp near heat.
 - **Choose low, leggy furniture** for the window wall, or leave the wall clear.
 - **Hang curtains so they stop above the heater** or use a curtain style that doesn't hang over it.
 
@@ -231,7 +232,7 @@ Rearranging furniture costs nothing. But if the layout reveals you need differen
 
 | Item | Budget option | Mid-range |
 |---|---|---|
-| Apartment-size sofa | $400–$600 CAD (IKEA, Structube) | $800–$1,200 CAD (Article, EQ3) |
+| Apartment-size sofa | $400–$600 CAD (IKEA, Structube) — see our [Structube vs IKEA comparison](/blog/structube-vs-ikea-small-space) for a category-by-category breakdown | $800–$1,200 CAD (Article, EQ3) |
 | Round coffee/nesting table | $50–$100 CAD (IKEA, Wayfair) | $150–$300 CAD |
 | Drop-leaf desk | $80–$150 CAD (IKEA) | $200–$400 CAD |
 | Boot tray + coat hooks | $25–$50 CAD | $50–$80 CAD |

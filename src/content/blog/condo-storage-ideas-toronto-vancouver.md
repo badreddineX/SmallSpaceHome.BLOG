@@ -11,6 +11,8 @@ category: "Storage"
 relatedPosts:
   - "storage-ideas-for-small-places"
   - "small-closet-organization-rental-apartment"
+  - "baseboard-heater-furniture-placement-condo"
+  - "noise-reduction-apartment-canada"
 readTime: 8
 faqs:
   - q: "How do I maximize storage in a Toronto home?"

@@ -21,7 +21,7 @@ faqs:
 relatedPosts:
   - "small-space-furniture"
   - "storage-ideas-for-small-places"
-  - "storage-ideas-for-small-places"
+  - "structube-vs-ikea-small-space"
 ---
 
 

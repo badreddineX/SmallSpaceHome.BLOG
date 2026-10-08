@@ -23,7 +23,7 @@ faqs:
 relatedPosts:
   - "storage-ideas-for-small-places"
   - "studio-apartment-furnishing-cost-canada"
-  - "storage-ideas-for-small-places"
+  - "condo-board-rules-decorating-canada"
 ---
 
 

@@ -23,7 +23,9 @@ faqs:
 relatedPosts:
   - "vertical-storage-ideas-small-apartment"
   - "under-bed-storage-ideas-small-apartment"
-  - "storage-ideas-for-small-places"
+  - "baseboard-heater-furniture-placement-condo"
+  - "noise-reduction-apartment-canada"
+  - "condo-storage-ideas-toronto-vancouver"
 ---
 
 
@@ -82,7 +84,7 @@ The space under your bed is the biggest untapped storage area in most apartments
 
 No single piece of apartment furniture is more versatile than the KALLAX. Use it as a room divider between the living and sleeping areas, a media console, a wardrobe base, or entryway storage. The 4-cube unit fits almost anywhere.
 
-A KALLAX 4-cube unit costs about $79 CAD, and adding fabric drawer inserts at roughly $6 each brings a fully closed, hidden storage system to about $90 CAD total.
+A KALLAX 4-cube unit costs about $79 CAD, and adding fabric drawer inserts at roughly $6 each brings a fully closed, hidden storage system to about $90 CAD total. If your condo has baseboard heaters along the wall, check our [baseboard heater furniture placement guide](/blog/baseboard-heater-furniture-placement-condo) for the clearance distances you need before positioning any shelving unit.
 
 Add fabric drawer inserts to close off the cubes completely — now you have a clean, hidden storage system for $90 CAD total.
 
@@ -189,7 +191,7 @@ A storage ottoman does three things: it's seating, a coffee table, and a storage
 
 ## How Many Pairs of Shoes Fit in an Entry Shoe Bench?
 
-Shoes piled at the door are a small apartment's fastest path to visual chaos. A slim entry bench with [shoe storage](/blog/small-entryway-hallway-storage-ideas) underneath keeps up to 8–10 pairs accessible and creates the feeling of a defined entryway.
+Shoes piled at the door are a small apartment's fastest path to visual chaos. A slim entry bench with [shoe storage](/blog/small-entryway-hallway-storage-ideas) underneath keeps up to 8–10 pairs accessible and creates the feeling of a defined entryway. If outside noise is an issue at the door, a thick rug and weatherstripping can help — our [noise reduction guide for Canadian apartments](/blog/noise-reduction-apartment-canada) covers renter-friendly soundproofing that doubles as decor.
 
 The IKEA TJUSIG bench with shoe storage costs about $59 CAD and holds 8 to 10 pairs of shoes underneath, which is usually enough to stop shoes from piling up at a small apartment's front door.
 
