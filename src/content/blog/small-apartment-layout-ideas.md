@@ -3,7 +3,7 @@ title: "Small Apartment Layout Ideas That Save Space (Canada)"
 description: "Small apartment layout ideas for Canadian renters: clearances to plan around, layouts for narrow, square and open-plan units, plus heater tips."
 image: "/images/small-apartment-layout-ideas.jpg"
 datePublished: "2026-09-18"
-dateModified: "2026-09-25"
+dateModified: "2026-10-08"
 author: "Badreddine Br"
 tags: ["small apartment layout ideas", "small apartment layout", "apartment layout ideas canada", "small living room layout ideas", "one bedroom apartment layout", "renter-friendly"]
 featured: false
@@ -267,3 +267,6 @@ Every layout works better when storage is handled. Start with our [complete stor
 - [Small apartment home office ideas](/blog/small-apartment-home-office-ideas) — work-from-home in a condo
 - [IKEA small space hacks](/blog/ikea-small-space-hacks) — the specific products that fit tight layouts
 - [First apartment essentials checklist](/blog/first-apartment-essentials-checklist-canada) — what to buy first
+- [Baseboard Heater Furniture Placement](/blog/baseboard-heater-furniture-placement-condo) — clearance distances that affect every layout
+- [Noise Reduction for Canadian Apartments](/blog/noise-reduction-apartment-canada) — soundproofing that works for renters
+- [Structube vs IKEA for Small Spaces](/blog/structube-vs-ikea-small-space) — category-by-category comparison with CAD prices

@@ -316,3 +316,5 @@ These 23 ideas work in any Canadian rental — and every single one is reversibl
 → Starting university and moving into your first place? [September student move-in storage guide](/blog/first-apartment-essentials-checklist-canada) covers the dorm-to-apartment transition specifically. Got outdoor space? [Small apartment balcony storage ideas](/blog/condo-storage-ideas-toronto-vancouver) applies the same space-scaling rules to the one outdoor room most apartments have.
 
 → Not sure which retailers actually carry small-space storage furniture? See [where to buy small-space storage furniture](/blog/small-space-furniture).
+
+→ Living in a condo? [Condo Board Rules for Decorating in Canada](/blog/condo-board-rules-decorating-canada) covers what your board will and won't allow before you start any project.
