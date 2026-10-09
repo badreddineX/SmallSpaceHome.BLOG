@@ -28,7 +28,7 @@ relatedPosts:
   - "ikea-small-space-hacks"
 ---
 
-> **Our top pick:** The [IKEA NORDLI storage bed](https://link.amazon/B09wCqsby) ($399–$699 CAD) replaces both your bed frame and your dresser in one footprint — the single highest-impact furniture buy for a small Canadian apartment.
+> **Our top pick:** This [upholstered platform bed with 2 storage drawers](https://www.amazon.ca/dp/B0DZ2ZDXKM?tag=smallspace06f-20) (~$240 CAD on Amazon.ca, LED headboard and charging station included) replaces both your bed frame and your dresser in one footprint. Prefer to shop in-store? IKEA's NORDLI storage bed ($399–$699 CAD) does the same job with a plainer, more minimalist look.
 
 Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
@@ -54,7 +54,7 @@ The best small space furniture earns its footprint by doing more than one job. P
 
 ### Sofas
 
-**[IKEA FRIHETEN sofa bed](https://link.amazon/B09wCqsby)** — ~$999 CAD
+**[Compact 3-in-1 convertible sofa bed](https://www.amazon.ca/dp/B0GFCZRXDC?tag=smallspace06f-20)** — ~$123 CAD on Amazon.ca (IKEA's FRIHETEN, ~$999 CAD, is the step-up pick if you want proper sofa-grade seating that also converts)
 The best sofa bed for a small apartment. It has a large storage chaise, converts to a full-size bed, and doesn't look like a sofa bed. Compact proportions work in most apartment living rooms.
 
 **IKEA HOLMSUND sofa bed** — ~$799 CAD
@@ -248,8 +248,8 @@ Living in a Toronto or Vancouver condo specifically? [Condo storage ideas](/blog
 
 | Category | Our Pick | Price (CAD) | Buy |
 |----------|----------|-------------|-----|
-| Bed | IKEA NORDLI storage bed | $399–$699 | [Amazon.ca](https://link.amazon/B09wCqsby) |
-| Sofa | [IKEA FRIHETEN sofa bed](https://link.amazon/B09wCqsby) | ~$999 | [Amazon.ca](https://link.amazon/B09wCqsby) |
+| Bed | Platform bed, 2 storage drawers | ~$240 | [Amazon.ca](https://www.amazon.ca/dp/B0DZ2ZDXKM?tag=smallspace06f-20) |
+| Sofa | Compact 3-in-1 convertible sofa bed | ~$123 | [Amazon.ca](https://www.amazon.ca/dp/B0GFCZRXDC?tag=smallspace06f-20) |
 | Coffee table | [Storage ottoman](https://amzn.to/3VehY7d) | $89–$150 | [Amazon.ca](https://amzn.to/3VehY7d) |
 | Desk | IKEA MICKE | ~$99 | IKEA.ca |
 | Side table | IKEA LACK | ~$19 | IKEA.ca |
