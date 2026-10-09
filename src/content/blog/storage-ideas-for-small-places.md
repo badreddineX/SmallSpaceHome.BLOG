@@ -1,9 +1,9 @@
 ---
-title: "23 Small Apartment Storage Ideas"
-description: "Out of storage in your Canadian apartment? These 23 renter-friendly storage ideas use vertical space, hidden nooks, and smart furniture — no drilling."
+title: "23 Small Apartment Storage & Organization Ideas"
+description: "Out of storage in your Canadian apartment? 23 renter-friendly storage and organization ideas — vertical space, hidden nooks, smart furniture, and the declutter system that makes it stick. No drilling."
 image: "/images/closet-organizer-shelving.jpg"
 datePublished: "2025-11-02"
-dateModified: "2026-08-16"
+dateModified: "2026-10-09"
 author: "Badreddine Br"
 tags: ["small apartment storage", "small apartment storage ideas", "storage solutions for small spaces", "renter-friendly", "Canada", "storage solutions", "IKEA"]
 featured: true

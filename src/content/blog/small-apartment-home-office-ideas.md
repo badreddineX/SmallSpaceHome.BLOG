@@ -1,9 +1,9 @@
 ---
-title: "Small Apartment Home Office Ideas"
+title: "8 Home Office Ideas for a Small Apartment (No Spare Room Needed)"
 description: "No spare room? 8 renter-friendly home office setups for small Canadian apartments — desk placement, storage, and separating work from living."
 image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-04-08"
-dateModified: "2026-09-30"
+dateModified: "2026-10-09"
 author: "Badreddine Br"
 tags: ["small apartment home office", "apartment home office", "home office ideas", "small home office", "home workspace", "work from home", "small space desk", "Canada"]
 featured: false
