@@ -36,7 +36,7 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 > - Floating nightstands free up floor space.
 
 
-This is the full room-by-room storage roundup, no budget cap. For the declutter-first system and habits behind it, see [small apartment organization](/blog/storage-ideas-for-small-places); for the same ideas kept under $100 CAD total, see [apartment organization under $100](/blog/storage-ideas-for-small-places).
+This is the full room-by-room storage roundup, no budget cap — covering both the declutter-first system and habits behind it, and the same ideas kept under $100 CAD total.
 
 Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (noticeably more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
 
@@ -255,7 +255,7 @@ A rolling garment rack costs about $35–$55 CAD and a fabric cover adds another
 
 ---
 
-For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places) covers the highest-impact moves for under $100 CAD.
+For a deeper look at kitchen storage specifically, see [small space kitchen organization ideas](/blog/small-space-kitchen-organization). And if the bedroom closet is your biggest pain point, the under-$100 CAD priority order above covers the highest-impact moves.
 
 ## Storage Guides for Every Room
 
@@ -276,11 +276,7 @@ This is the complete map — every room-specific and situation-specific storage 
 
 **By category:**
 - [Small apartment shoe storage ideas](/blog/small-entryway-hallway-storage-ideas)
-- [Small apartment storage bins and baskets guide](/blog/storage-ideas-for-small-places)
 - [Small apartment beauty and skincare storage ideas](/blog/small-apartment-bathroom-storage)
-- [Small apartment paperwork and mail organization](/blog/storage-ideas-for-small-places)
-- [Small apartment pet supply organization ideas](/blog/storage-ideas-for-small-places)
-- [Small apartment home gym storage ideas](/blog/storage-ideas-for-small-places)
 - [Coffee and cafe corner ideas for small apartments](/blog/small-apartment-layout-ideas)
 - [Plant corner ideas for small Canadian apartments](/blog/small-apartment-layout-ideas)
 - [Renter-friendly bike storage ideas](/blog/condo-storage-ideas-toronto-vancouver)
@@ -290,12 +286,6 @@ This is the complete map — every room-specific and situation-specific storage 
 - [Seasonal storage: rotating off-season clothes and gear](/blog/small-closet-organization-rental-apartment)
 - [September student move-in storage guide](/blog/first-apartment-essentials-checklist-canada)
 - [Quebec Moving Day (July 1) storage and packing guide](/blog/first-apartment-essentials-checklist-canada)
-- [Spring cleaning tips for apartments](/blog/storage-ideas-for-small-places)
-- [January reset: apartment organization](/blog/storage-ideas-for-small-places)
-
-**Full organization systems:**
-- [Small apartment organization guide](/blog/storage-ideas-for-small-places)
-- [Apartment organization under $100 CAD](/blog/storage-ideas-for-small-places)
 
 ## The Storage Priority Order for Canadian Renters
 

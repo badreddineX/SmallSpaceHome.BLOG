@@ -171,8 +171,6 @@ Canadian winters require seasonal storage management that doesn't apply in warme
 
 Complete the first five steps of the priority order before considering larger purchases.
 
-→ Once storage is sorted, [small bedroom decor ideas](/blog/small-apartment-bedroom-storage-ideas) covers the visual side — colour, lighting, and layout for a bedroom that feels calm, not just organized.
-
 → For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places).
 
 → Same no-drill principles apply in the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for renter-friendly options under $180 CAD.
@@ -182,5 +180,3 @@ Complete the first five steps of the priority order before considering larger pu
 → For the closet specifically, [small closet organization ideas for rental apartments](/blog/small-closet-organization-rental-apartment) goes deeper on slim hangers, over-door racks, and stackable bins.
 
 → Working out at home? [Small apartment home gym storage setup](/blog/storage-ideas-for-small-places) covers where to stash dumbbells, mats, and bands without losing floor space.
-
-**Related reading:** [Small Bedroom Organization Ideas: A System, Not a Shopping List](/blog/small-apartment-bedroom-storage-ideas)

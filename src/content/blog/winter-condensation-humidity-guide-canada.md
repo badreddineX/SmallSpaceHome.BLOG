@@ -181,5 +181,4 @@ If your building has systemic ventilation problems, failed window seals, or poor
 
 **Related reading:**
 - [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada)
-- [Cozy Winter Apartment Decor](/blog/winter-condensation-humidity-guide-canada)
 - [Command Strip Decorating Hacks for Renters](/blog/renters-no-damage-decor-guide-canada)

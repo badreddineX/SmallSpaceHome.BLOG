@@ -157,7 +157,7 @@ Decor is the fun part, but it's the last priority. An apartment with good lighti
 
 **The only day-one decor purchase:** warm 2700K LED bulbs (~$15 CAD for a 4-pack at Canadian Tire). Swap every bulb in the apartment — it transforms how the whole space feels in five minutes.
 
-Everything else — rugs, art, plants, cushions — can wait. When you're ready, follow the priority order in our [budget apartment decor guide](/blog/storage-ideas-for-small-places) (covers both $50 and $200 CAD tiers) or go the dollar-store route with [Dollarama finds that look expensive](/blog/first-apartment-essentials-checklist-canada).
+Everything else — rugs, art, plants, cushions — can wait. When you're ready, follow the priority order in our [budget apartment decor guide](/blog/storage-ideas-for-small-places), which covers both $50 and $200 CAD tiers.
 
 ## The Complete First Apartment Budget
 
@@ -217,10 +217,6 @@ Total: ~$77–$93 CAD for an organization foundation that covers every room.
 **Month 2:** Start the [organization system](/blog/storage-ideas-for-small-places). Add decor [on a budget](/blog/storage-ideas-for-small-places).
 
 The apartment doesn't need to be finished in a weekend. It needs to be liveable on day one, comfortable by week two, and organized by month two. Everything else is gradual.
-
-→ Moving to Quebec specifically? [Quebec moving day storage guide](/blog/first-apartment-essentials-checklist-canada) covers the province's unique July 1 lease-turnover timeline.
-
-→ Starting university? [September student move-in storage guide](/blog/first-apartment-essentials-checklist-canada) covers the tighter timeline and budget.
 
 → Need the full decor plan once the basics are sorted? [Apartment decor ideas](/blog/storage-ideas-for-small-places) covers the complete no-damage decorating system for Canadian renters.
 

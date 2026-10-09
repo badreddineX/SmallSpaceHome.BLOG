@@ -256,4 +256,4 @@ Living in a Toronto or Vancouver condo specifically? [Condo storage ideas](/blog
 | Accent chair | [Swivel accent chair](https://link.amazon/A05bs1kiw) | $180–$280 | [Amazon.ca](https://link.amazon/A05bs1kiw) |
 | Fold-down desk | [Wall-mounted fold-down](https://link.amazon/A00su1IzG) | $80–$150 | [Amazon.ca](https://link.amazon/A00su1IzG) |
 
-→ Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) covers that route on a budget. Not sure where to buy small-space pieces at all? See [where to buy small-space storage furniture](/blog/small-space-furniture). And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment).
+→ Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) covers that route on a budget. And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment).
