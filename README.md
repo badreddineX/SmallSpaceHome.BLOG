@@ -22,7 +22,7 @@ src/
 public/             # Static assets served as-is
 scripts/            # Build/maintenance scripts (e.g. image compression)
 pin-generator/       # Pinterest pin / Instagram asset generation (Playwright + HTML templates)
-digital-products/   # Content specs for the linked Fourthwall store products
+digital-products/   # Free lead-magnet PDF, linked from the newsletter signup
 ```
 
 ## Development
@@ -37,7 +37,7 @@ npm run compress-images   # optimize images via sharp
 
 ## Content workflow
 
-Blog posts are written as Markdown in `src/content/blog/`. Each post targets a specific Fourthwall store product per the site's article-to-product matching strategy — new posts should be paired with a relevant product, not published standalone.
+Blog posts are written as Markdown in `src/content/blog/`. Product recommendations link to real Amazon.ca listings tagged with the site's Associates ID (see `CLAUDE.md`) — never fabricate a product link.
 
 ## Deployment
 

@@ -76,7 +76,7 @@ For the full furniture breakdown with more picks and prices, see our <a href="/b
 Condos rarely have garage or shed space, so bikes and bulky seasonal gear need a different answer than a house would.
 
 - **Wall-mount bike rack, tension or freestanding** (~$25–$40 CAD, Canadian Tire or Amazon.ca) — keeps a bike vertical in an entryway corner without drilling
-- **Weatherproof deck box** for balcony gear, if your board allows [balcony storage](/blog/condo-storage-ideas-toronto-vancouver) (varies — check your condo's specific bylaws)
+- **Weatherproof deck box** for balcony gear, if your board allows balcony storage (varies — check your condo's specific bylaws)
 - **Seasonal rotation system** for winter tires and off-season clothes — our <a href="/blog/small-closet-organization-rental-apartment">seasonal storage guide</a> covers the [vacuum-bag](https://amzn.to/4hkxQfL) and bin system that works in tight closets
 
 ## 5. What Storage Rules Are Different for Condos vs. Rental Apartments?

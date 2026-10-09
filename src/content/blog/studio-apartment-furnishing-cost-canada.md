@@ -1,11 +1,11 @@
 ---
-title: "Studio Apartment Furnishing Cost in Canada (2026)"
-description: "2026 studio apartment furnishing costs across Toronto, Vancouver, Montreal, and Calgary. Budget, mid-range, and styled options with real CAD prices."
+title: "Facebook Marketplace Furniture Prices: Studio Furnishing Costs in Canada (2026)"
+description: "What Facebook Marketplace furniture actually costs in Toronto, Vancouver, Montreal & Calgary — plus full studio apartment furnishing budgets, bare-minimum to styled, in real CAD prices."
 image: "/images/modern-studio-apartment-kitchen.jpg"
 datePublished: "2026-10-07"
-dateModified: "2026-10-07"
+dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: ["studio-apartment", "furnishing-costs", "budget", "toronto", "vancouver", "montreal", "calgary"]
+tags: ["facebook marketplace furniture", "fb marketplace furniture", "studio-apartment", "furnishing-costs", "budget", "toronto", "vancouver", "montreal", "calgary"]
 category: "Budget Tips"
 featured: false
 readTime: 11
@@ -30,7 +30,7 @@ For layout planning before you buy furniture, our [small apartment layout ideas 
 
 Moving into an empty studio apartment is exciting until you realize that the space is completely bare and everything from a mattress to a spatula needs to be acquired. Whether you are a student arriving for your first semester, a newcomer to Canada setting up your first home, or someone starting fresh after a major life change, knowing what to expect in terms of furnishing costs can help you budget realistically and avoid both overspending and uncomfortable shortcuts.
 
-This guide breaks down the cost of furnishing a studio apartment across four major Canadian cities: Toronto, Vancouver, Montreal, and Calgary. All prices are in Canadian dollars and reflect 2026 market conditions, drawing from current retail pricing at popular stores and typical secondhand market listings.
+This guide breaks down the cost of furnishing a studio apartment across four major Canadian cities: Toronto, Vancouver, Montreal, and Calgary — including what Facebook Marketplace furniture actually sells for in each city, since secondhand Marketplace listings are where most budget-conscious Canadians fill in the gaps. All prices are in Canadian dollars and reflect 2026 market conditions, drawing from current retail pricing at popular stores and typical secondhand market listings.
 
 ## Why Costs Vary by City
 
@@ -202,5 +202,4 @@ Furnishing a studio apartment in Canada is entirely achievable on a modest budge
 
 **Related reading:**
 - [First Apartment Essentials Checklist Canada](/blog/first-apartment-essentials-checklist-canada)
-- [Facebook Marketplace Furnishing on a Budget](/blog/studio-apartment-furnishing-cost-canada)
 - [Apartment Decor Ideas on a Budget](/blog/storage-ideas-for-small-places)

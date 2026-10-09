@@ -23,12 +23,11 @@ faqs:
   - q: "How do I choose apartment-size furniture that fits a small Canadian apartment?"
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
 relatedPosts:
-  - "small-space-furniture"
   - "under-bed-storage-ideas-small-apartment"
   - "ikea-small-space-hacks"
 ---
 
-> **Our top pick:** The [IKEA NORDLI storage bed](https://link.amazon/B09wCqsby) ($399–$699 CAD) replaces both your bed frame and your dresser in one footprint — the single highest-impact furniture buy for a small Canadian apartment.
+> **Our top pick:** This [upholstered platform bed with 2 storage drawers](https://www.amazon.ca/dp/B0DZ2ZDXKM?tag=smallspace06f-20) (~$240 CAD on Amazon.ca, LED headboard and charging station included) replaces both your bed frame and your dresser in one footprint — the single highest-impact furniture buy for a small Canadian apartment.
 
 Buying small space furniture for a Canadian apartment is a decision-making exercise disguised as a shopping trip — the wrong piece makes the space genuinely harder to live in, and the right one quietly solves storage and function problems at the same time. For current prices, always check IKEA Canada and Wayfair Canada directly, as pricing changes seasonally.
 
@@ -54,7 +53,7 @@ The best small space furniture earns its footprint by doing more than one job. P
 
 ### Sofas
 
-**[IKEA FRIHETEN sofa bed](https://link.amazon/B09wCqsby)** — ~$999 CAD
+**[Compact 3-in-1 convertible sofa bed](https://www.amazon.ca/dp/B0GFCZRXDC?tag=smallspace06f-20)** — ~$123 CAD on Amazon.ca
 The best sofa bed for a small apartment. It has a large storage chaise, converts to a full-size bed, and doesn't look like a sofa bed. Compact proportions work in most apartment living rooms.
 
 **IKEA HOLMSUND sofa bed** — ~$799 CAD
@@ -109,7 +108,7 @@ The best coffee table option in a small apartment. Stores extra blankets, games,
 **IKEA LACK side table** — ~$19 CAD
 The most-purchased IKEA item for good reason. Clean, simple, and works as a nightstand, side table, or coffee table in a small space.
 
-**[Nesting tables](https://link.amazon/B0ctatKX8)** — ~$70–$120 CAD (IKEA or Amazon.ca)
+**[Nesting tables, set of 2](https://www.amazon.ca/dp/B0H4L5TPP8?tag=smallspace06f-20)** — ~$70–$120 CAD (Amazon.ca)
 Two or three tables that stack together when not in use. Pull one out for extra surface, tuck them away when done.
 
 ### A Comfortable Reading Chair for Small Spaces
@@ -122,7 +121,7 @@ The small-space reading chair standard for a reason: a slim bentwood frame that 
 **Slipper chair (armless)** — ~$120–$200 CAD (Wayfair Canada)
 No arms means it tucks into a corner other chairs can't fit into, while still giving a real place to sit and read instead of perching on the sofa arm.
 
-**[Swivel accent chair](https://link.amazon/A05bs1kiw)** — ~$180–$280 CAD (Amazon.ca or Wayfair)
+**[Swivel accent chair with hidden storage](https://www.amazon.ca/dp/B0GKLNT5P9?tag=smallspace06f-20)** — ~$280 CAD (Amazon.ca)
 Worth the extra cost if the chair needs to do double duty — facing the room for conversation, then swiveling toward a window or reading lamp.
 
 ### Desks
@@ -133,7 +132,7 @@ The small-apartment desk standard. 73 × 50 cm footprint, built-in cable managem
 **IKEA KALLAX 1×4 + LINNMON tabletop** — ~$79 + $39 CAD
 For anyone who needs more desk space, this creates a desk-plus-storage combination that's worth the slightly larger footprint.
 
-**[Wall-mounted fold-down desk](https://link.amazon/A00su1IzG)** — ~$80–$150 CAD (Amazon.ca)
+**[Wall-mounted fold-down desk](https://www.amazon.ca/dp/B0D78FBSWK?tag=smallspace06f-20)** — ~$80–$150 CAD (Amazon.ca)
 The best option if you need a desk but rarely use it. Completely disappears when folded up.
 
 ![A compact desk setup in a small apartment — MICKE desk with KALLAX storage beside it](/images/blog-07-img4.jpg)
@@ -248,12 +247,12 @@ Living in a Toronto or Vancouver condo specifically? [Condo storage ideas](/blog
 
 | Category | Our Pick | Price (CAD) | Buy |
 |----------|----------|-------------|-----|
-| Bed | IKEA NORDLI storage bed | $399–$699 | [Amazon.ca](https://link.amazon/B09wCqsby) |
-| Sofa | [IKEA FRIHETEN sofa bed](https://link.amazon/B09wCqsby) | ~$999 | [Amazon.ca](https://link.amazon/B09wCqsby) |
+| Bed | Platform bed, 2 storage drawers | ~$240 | [Amazon.ca](https://www.amazon.ca/dp/B0DZ2ZDXKM?tag=smallspace06f-20) |
+| Sofa | Compact 3-in-1 convertible sofa bed | ~$123 | [Amazon.ca](https://www.amazon.ca/dp/B0GFCZRXDC?tag=smallspace06f-20) |
 | Coffee table | [Storage ottoman](https://amzn.to/3VehY7d) | $89–$150 | [Amazon.ca](https://amzn.to/3VehY7d) |
 | Desk | IKEA MICKE | ~$99 | IKEA.ca |
 | Side table | IKEA LACK | ~$19 | IKEA.ca |
-| Accent chair | [Swivel accent chair](https://link.amazon/A05bs1kiw) | $180–$280 | [Amazon.ca](https://link.amazon/A05bs1kiw) |
-| Fold-down desk | [Wall-mounted fold-down](https://link.amazon/A00su1IzG) | $80–$150 | [Amazon.ca](https://link.amazon/A00su1IzG) |
+| Accent chair | Swivel accent chair with storage | ~$280 | [Amazon.ca](https://www.amazon.ca/dp/B0GKLNT5P9?tag=smallspace06f-20) |
+| Fold-down desk | Wall-mounted fold-down desk | $80–$150 | [Amazon.ca](https://www.amazon.ca/dp/B0D78FBSWK?tag=smallspace06f-20) |
 
-→ Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) covers that route on a budget. Not sure where to buy small-space pieces at all? See [where to buy small-space storage furniture](/blog/small-space-furniture). And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment).
+→ Shopping secondhand instead of new? [Furnishing an apartment on Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) covers that route on a budget. And for a bed-adjacent storage upgrade specifically, see our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment).
