@@ -5,6 +5,10 @@ import { loadPosts } from './posts-auto.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const SITE = 'https://smallspacehome.ca';
+// Pin images are served straight from the repo (same pattern as social/queue-sheet.csv
+// for Instagram) rather than from the live site, since pinterest-pins/ isn't under
+// public/ and Astro never serves it at smallspacehome.ca.
+const RAW = 'https://raw.githubusercontent.com/badreddineX/SmallSpaceHome.BLOG/main';
 const START = new Date('2026-10-01T00:00:00');
 const SLOTS = ['09:30:00', '13:30:00', '21:00:00'];
 const POSTS = loadPosts(ROOT);
@@ -26,7 +30,7 @@ for (const [design, code] of DESIGNS) {
     const kws = [...new Set([...p.broad, ...tags])].slice(0, 10);
     const d = new Date(START.getTime() + Math.floor(i / SLOTS.length) * 86400000);
     const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}T${SLOTS[i % SLOTS.length]}`;
-    rows.push([title.slice(0, 100), `${SITE}/pinterest-pins/${p.slug}-${design}.png`, p.board,
+    rows.push([title.slice(0, 100), `${RAW}/pinterest-pins/${p.slug}-${design}.png`, p.board,
       '', `${cut(desc, 340)} Save this pin for later.`,
       `${SITE}/blog/${p.post}?utm_source=pinterest&utm_medium=social&utm_campaign=cad_${code}`, date, kws.join(', ')].map(q));
     i++;
