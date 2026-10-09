@@ -1,9 +1,9 @@
 ---
-title: "Small Space Furniture Canada: What to Buy (& Where)"
-description: "Best small space furniture in Canada ($35–$999 CAD): apartment-size sofas, storage beds, nesting tables, plus Facebook Marketplace and Kijiji tips."
+title: "Small Space Furniture Canada: IKEA Combos & Best Picks"
+description: "Best small space furniture in Canada: IKEA combinations for studios ($317–$1,100 CAD), apartment-size sofas, storage beds, nesting tables, Marketplace tips."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
-dateModified: "2026-10-08"
+dateModified: "2026-10-09"
 author: "Badreddine Br"
 tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
 featured: false
@@ -200,6 +200,62 @@ In a studio or any apartment where the living room doubles as a bedroom or offic
 - **Curtain on a ceiling track** — the most flexible divider, since it pulls open or closed depending on the moment (~$50–$80 CAD for curtain + track at IKEA Canada)
 - **Two rugs instead of one** — a rug under the sofa and coffee table anchors the living zone; a separate, smaller rug beside the bed anchors the sleeping zone. Two rugs effectively make two rooms out of one open space
 - **Zone-specific lighting** — a floor lamp for the living zone, a bedside lamp for the sleeping zone, a desk lamp for the working zone, so each area reads as distinct even without a wall between them
+
+## Affordable IKEA Furniture Combinations for a Small Studio Apartment
+
+The most common question on Canadian apartment forums: which IKEA pieces work together in a studio under 500 sq ft? These three combinations cover the main scenarios by budget and priority.
+
+### Combination 1: Bare-Minimum Studio (~$346 CAD)
+For a first apartment on a tight budget, or a furnished rental where you only need a few pieces.
+
+| Piece | IKEA Product | Price (CAD) |
+|---|---|---|
+| Bed frame | FJELLSE Queen | ~$149 |
+| Living storage | KALLAX 2×2 | ~$79 |
+| Side table | LACK | ~$19 |
+| Desk | MICKE | ~$99 |
+| **Total** | | **~$346** |
+
+Add under-bed storage bins (~$20–$40) to compensate for the FJELLSE having no built-in drawers.
+
+### Combination 2: Storage-First Studio (~$917–$978 CAD)
+For a studio where no closet or an undersized closet is the main problem.
+
+| Piece | IKEA Product | Price (CAD) |
+|---|---|---|
+| Storage bed | NORDLI Queen | ~$499 |
+| Wardrobe | PAX 100cm frame + doors | ~$329 |
+| Seating + storage | Storage ottoman | ~$89–$150 |
+| **Total** | | **~$917–$978** |
+
+The NORDLI's built-in drawers replace a dresser entirely. The PAX gives you a full wardrobe at a price below most standalone dressers.
+
+### Combination 3: Two-Zone Open-Plan Studio (~$1,103 CAD)
+For a studio that needs to read as separate living and sleeping areas.
+
+| Piece | IKEA Product | Price (CAD) |
+|---|---|---|
+| Sofa bed | HOLMSUND | ~$799 |
+| Zone divider | KALLAX 4×2 (placed behind sofa) | ~$159 |
+| Living rug | STOENSE 160×230cm | ~$110 |
+| Bedside rug | VONSBÄK 80×150cm | ~$35 |
+| **Total** | | **~$1,103** |
+
+The KALLAX placed behind the sofa back creates a visual wall between living and sleeping zones without blocking light. The two rugs reinforce the separation without physical dividers.
+
+### Combination 4: Work-From-Home Studio (~$573 CAD)
+For a studio that needs a permanent desk setup as part of the floor plan.
+
+| Piece | IKEA Product | Price (CAD) |
+|---|---|---|
+| Wide desk | LINNMON 150cm + ALEX drawers | ~$165 |
+| Office chair | ALEFJÄLL | ~$329 |
+| Desk shelving | BILLY 40cm narrow | ~$79 |
+| **Total** | | **~$573** |
+
+The LINNMON + ALEX gives a proper work surface with real drawer storage in one footprint — more practical than the MICKE for anyone working full days from home.
+
+---
 
 ## The Furniture Priority Order
 
