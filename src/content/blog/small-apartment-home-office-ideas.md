@@ -32,7 +32,7 @@ faqs:
 ---
 
 
-> **Best desk for a small apartment:** The IKEA MICKE (~$99 CAD) — 73 cm wide with built-in cable management. If floor space is tighter, a [wall-mounted fold-down desk](https://link.amazon/A00su1IzG) ($80–$150 CAD) disappears when you're done.
+> **Best desk for a small apartment:** The IKEA MICKE (~$99 CAD) — 73 cm wide with built-in cable management. If floor space is tighter, a [wall-mounted fold-down desk](https://www.amazon.ca/dp/B0D78FBSWK?tag=smallspace06f-20) ($80–$150 CAD) disappears when you're done.
 
 Working from home in a 510 sq ft apartment means your office is also your living room, or your bedroom, or the corner by the window. There's no spare room to convert.
 
@@ -96,7 +96,7 @@ A LINNMON top (~$40) on an ALEX drawer unit (~$100) gives you a wide desk *and* 
 
 ### When floor space is truly tight
 
-**[Wall-mounted fold-down desk](https://link.amazon/A00su1IzG)** — ~$80–$150 CAD (Amazon.ca)
+**[Wall-mounted fold-down desk](https://www.amazon.ca/dp/B0D78FBSWK?tag=smallspace06f-20)** — ~$80–$150 CAD (Amazon.ca)
 Folds flat against the wall when you're done, freeing the floor completely. Ideal if you only work a few hours a day or need the space to double as something else.
 
 **Narrow wall-mount shelf desk** — ~$60–$120 CAD
@@ -122,8 +122,8 @@ Build storage *up*, not out. In a small home office, the wall above your desk is
 
 - **Two floating shelves above the desk** (~$25–$40 CAD each, IKEA LACK or similar) — books, a plant, a charging tray
 - **A rolling drawer unit under or beside the desk** (IKEA ALEX, ~$100 CAD) — hides everything you don't want on show, and rolls out of the way
-- **A [pegboard on the wall](https://link.amazon/A0iHkvIAV)** (~$30–$50 CAD, Amazon.ca) — headphones, cables, sticky notes, all off the surface
-- **A [monitor riser with storage underneath](https://link.amazon/A0bNfb9FA)** (~$30–$60 CAD) — lifts the screen to eye level and reclaims the space beneath it
+- **A [pegboard wall organizer kit](https://www.amazon.ca/dp/B0GLN15MC3?tag=smallspace06f-20)** (~$30–$50 CAD, Amazon.ca) — headphones, cables, sticky notes, all off the surface
+- **A [monitor riser with storage drawer](https://www.amazon.ca/dp/B0BN159WKY?tag=smallspace06f-20)** (~$30–$60 CAD) — lifts the screen to eye level and reclaims the space beneath it
 
 The rule: if it's on the desktop and you don't use it every day, it belongs on the wall or in a drawer. A clear surface is what makes a small workspace feel calm instead of chaotic.
 
