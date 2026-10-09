@@ -1,6 +1,6 @@
 ---
 title: "Baseboard Heater Furniture Placement in Canadian Condos"
-description: "How to place furniture around baseboard heaters in Canadian condos. Clearance distances, fire safety, materials that warp near heat, and renter-friendly layout solutions."
+description: "Furniture placement around baseboard heaters in Canadian condos — safe clearance distances, materials to avoid, and renter-friendly layout tips."
 image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"

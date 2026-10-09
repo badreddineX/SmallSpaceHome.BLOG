@@ -1,6 +1,6 @@
 ---
 title: "First Apartment Essentials Checklist (Canada, Real Prices)"
-description: "The complete first apartment essentials checklist for Canadian renters — what to buy first, what to skip, real CAD prices from IKEA, Canadian Tire and Amazon.ca."
+description: "First apartment essentials checklist for Canadian renters — what to buy first, what to skip, real CAD prices from IKEA, Canadian Tire and Amazon.ca."
 image: "/images/modern-open-plan-apartment.jpg"
 datePublished: "2026-10-04"
 dateModified: "2026-10-04"
@@ -214,7 +214,7 @@ Total: ~$77–$93 CAD for an organization foundation that covers every room.
 
 **Week 3–4:** Add the sofa and any remaining furniture. Check [Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) before buying new.
 
-**Month 2:** Start the [organization system](/blog/storage-ideas-for-small-places). Add decor [on a budget](/blog/storage-ideas-for-small-places).
+**Month 2:** Start the [organization system](/blog/storage-ideas-for-small-places). For the decor layer, [Dollarama finds that actually look expensive](/blog/dollarama-finds-look-expensive) is the fastest way to style surfaces for under $60 CAD.
 
 The apartment doesn't need to be finished in a weekend. It needs to be liveable on day one, comfortable by week two, and organized by month two. Everything else is gradual.
 

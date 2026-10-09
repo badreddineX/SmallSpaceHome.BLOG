@@ -1,6 +1,6 @@
 ---
 title: "Small Space Furniture Canada: What to Buy (& Where)"
-description: "Best small space furniture in Canada from $35–$999 CAD: apartment-size sofas, storage beds, nesting tables, plus Facebook Marketplace and Kijiji secondhand tips."
+description: "Best small space furniture in Canada ($35–$999 CAD): apartment-size sofas, storage beds, nesting tables, plus Facebook Marketplace and Kijiji tips."
 image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
 dateModified: "2026-10-08"

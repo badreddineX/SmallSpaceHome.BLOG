@@ -1,6 +1,6 @@
 ---
 title: "Noise Reduction Ideas for Canadian Apartments"
-description: "Practical noise reduction ideas for Canadian apartment renters: acoustic panels, rugs, curtains, weatherstripping, door sweeps, and furniture placement tips that don't damage walls."
+description: "Noise reduction ideas for Canadian apartment renters: acoustic panels, rugs, curtains, weatherstripping, and furniture placement tips that won't damage walls."
 image: "/images/cozy-living-room-diy-touches.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"

@@ -1,6 +1,6 @@
 ---
 title: "23 Small Apartment Storage & Organization Ideas"
-description: "Out of storage in your Canadian apartment? 23 renter-friendly storage and organization ideas — vertical space, hidden nooks, smart furniture, and the declutter system that makes it stick. No drilling."
+description: "Out of storage in your Canadian apartment? 23 renter-friendly ideas — vertical space, hidden nooks, smart furniture, and a declutter system that sticks. No drilling."
 image: "/images/closet-organizer-shelving.jpg"
 datePublished: "2025-11-02"
 dateModified: "2026-10-09"
@@ -35,7 +35,7 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 > - Floating nightstands free up floor space.
 
 
-This is the full room-by-room storage roundup, no budget cap — covering both the declutter-first system and habits behind it, and the same ideas kept under $100 CAD total.
+This is the full room-by-room storage roundup, no budget cap — covering both the declutter-first system and habits behind it, and the same ideas kept under $100 CAD total. For the styling layer once storage is sorted, see [Dollarama finds that actually look expensive](/blog/dollarama-finds-look-expensive) — the ceramic and glass pieces in particular are the cheapest way to make open shelving look finished.
 
 Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (noticeably more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
 

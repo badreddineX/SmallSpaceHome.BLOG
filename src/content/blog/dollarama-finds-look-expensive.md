@@ -139,6 +139,21 @@ Picking the right individual items only gets you halfway — how they're arrange
 
 **Leave empty space.** The instinct with cheap decor is to buy more and fill every surface. A shelf with three well-chosen pieces and visible negative space around them looks more expensive than the same shelf crammed with ten items, regardless of what any individual piece cost.
 
+## Dollarama vs. Dollar Tree vs. Miniso: Which Is Worth It for Decor?
+
+If you have access to more than one budget store, here's how they actually compare for the categories above:
+
+| Category | Dollarama | Dollar Tree | Miniso |
+|---|---|---|---|
+| Ceramic vases | ✅ Best option — matte ceramic quality is genuine | ❌ Mostly glossy plastic | ✅ Good but 2–3x the price |
+| Terracotta planters | ✅ Best value | ❌ Rarely stocked | ✅ Available, pricier |
+| Picture frames | ✅ Plain styles work well | ⚠️ Fewer plain options | ✅ Clean minimal frames |
+| Faux greenery | ⚠️ 2–3 good options only | ❌ Mostly look fake | ⚠️ Better quality but $4–$8 |
+| Woven baskets | ✅ Good texture at $3–$5 | ⚠️ Hit or miss | ✅ Better range, higher price |
+| Candle holders | ✅ Plain glass options work | ⚠️ Limited | ✅ Good minimalist options |
+
+**Bottom line:** Dollarama wins on ceramic vases and terracotta planters specifically — those two categories outperform what you'll find at Dollar Tree and match Miniso at a fraction of the price. Miniso pulls ahead on faux greenery quality and frames. If you only have Dollarama access, the categories above are where to focus.
+
 ## Three Categories to Skip Entirely for Decor
 
 A few categories are worth avoiding altogether for styling purposes, even though they're fine for their intended use elsewhere in the apartment:

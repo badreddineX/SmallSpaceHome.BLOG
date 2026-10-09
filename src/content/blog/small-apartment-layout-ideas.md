@@ -270,3 +270,4 @@ Every layout works better when storage is handled. Start with our [complete stor
 - [Baseboard Heater Furniture Placement](/blog/baseboard-heater-furniture-placement-condo) — clearance distances that affect every layout
 - [Noise Reduction for Canadian Apartments](/blog/noise-reduction-apartment-canada) — soundproofing that works for renters
 - [Structube vs IKEA for Small Spaces](/blog/structube-vs-ikea-small-space) — category-by-category comparison with CAD prices
+- [Dollarama finds that look expensive](/blog/dollarama-finds-look-expensive) — the decor layer: vases, planters and frames under $5 CAD

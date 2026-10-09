@@ -1,6 +1,6 @@
 ---
-title: "Condo Board Rules for Decorating in Canada: What You Can and Can't Do"
-description: "A practical guide to condo board decorating rules in Canada. Learn what needs approval, what you can do freely, and how Ontario, Quebec, and BC laws affect your unit."
+title: "Condo Board Decorating Rules in Canada: What's Allowed"
+description: "What condo board rules actually let you do in Canada — what needs approval, what's free rein, and how Ontario, Quebec and BC laws apply."
 image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
