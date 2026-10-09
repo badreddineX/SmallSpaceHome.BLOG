@@ -281,6 +281,7 @@ This is the complete map — every room-specific and situation-specific storage 
 - [Plant corner ideas for small Canadian apartments](/blog/small-apartment-layout-ideas)
 - [Renter-friendly bike storage ideas](/blog/condo-storage-ideas-toronto-vancouver)
 - [Condo storage ideas for Toronto and Vancouver renters](/blog/condo-storage-ideas-toronto-vancouver)
+- [Dollarama finds that actually look expensive](/blog/dollarama-finds-look-expensive)
 
 **By season or life event:**
 - [Seasonal storage: rotating off-season clothes and gear](/blog/small-closet-organization-rental-apartment)
