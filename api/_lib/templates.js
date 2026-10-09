@@ -150,10 +150,15 @@ export function confirmEmail({ confirmUrl }) {
 }
 
 export function welcomeEmail({ unsubUrl }) {
-  const subject = `You're in — welcome to ${BRAND}`;
+  const subject = `Your free guide is here — welcome to ${BRAND}`;
+  const guideUrl = `${SITE}/digital-products/02-no-damage-renters-toolkit.pdf`;
   const html = shell(`
     <h1 style="margin:0 0 16px;font-family:Georgia,'Times New Roman',serif;font-size:22px;color:#1C1917">You're on the list</h1>
-    <p style="margin:0 0 16px;font-size:15px">Thanks for confirming. Every week you'll get one small, doable idea for making a small Canadian apartment work better — no drilling, real prices, no spam.</p>
+    <p style="margin:0 0 20px;font-size:15px">Thanks for confirming. As promised, here's your free copy of <strong>The No-Damage Renter's Toolkit</strong> — everything you need to decorate and hang things in a rental without risking your deposit.</p>
+    <p style="margin:0 0 24px">
+      <a href="${guideUrl}" style="display:inline-block;background:#8B6F47;color:#ffffff;text-decoration:none;padding:12px 22px;font-size:14px;font-weight:600">Download the PDF</a>
+    </p>
+    <p style="margin:0 0 16px;font-size:15px">Every week you'll also get one small, doable idea for making a small Canadian apartment work better — no drilling, real prices, no spam.</p>
     <p style="margin:0 0 16px;font-size:15px">While you wait for the first issue, a few reader favourites:</p>
     <ul style="margin:0 0 20px;padding-left:20px;font-size:15px">
       <li style="margin-bottom:6px"><a href="${SITE}/blog/storage-ideas-for-small-places" style="color:#8B6F47">No-drill storage ideas for small places</a></li>
@@ -164,6 +169,9 @@ export function welcomeEmail({ unsubUrl }) {
   `, { unsubUrl });
   const text = [
     `You're on the list — welcome to ${BRAND}.`,
+    ``,
+    `As promised, here's your free copy of The No-Damage Renter's Toolkit:`,
+    guideUrl,
     ``,
     `Every week: one small, doable idea for a small Canadian apartment. Real prices, no spam.`,
     ``,
