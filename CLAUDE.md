@@ -32,6 +32,16 @@
 - Fixed Oct 9: title/meta CTR mismatches on `studio-apartment-furnishing-cost-canada` (ranked top-5 for "fb marketplace furniture" at 0% CTR because the title never mentioned it) and two others; ~18 dead self-referencing internal links left over from the Oct 8 consolidation; a broken featured image (`noise-reduction-apartment-canada`).
 - Thin `/blog/category/*` pages (0 clicks, bad positions) flagged as a possible `noindex` candidate — not yet acted on, needs owner sign-off since it changes what Google indexes.
 
+## The winning article format (evidence-based, not a style guess)
+
+Before writing new content, check this against what's actually proven to work rather than defaulting to generic listicle structure:
+
+- **Question-phrased H2s throughout the body, not just a bottom FAQ block.** `dollarama-finds-look-expensive`'s original version got Google to generate deep sitelinks straight to individual H2 sections ("Which Dollarama Vases Actually Look Expensive?", "Do Dollarama Ceramic Planters Look High-End?") — confirmed via the URL fragments GSC reported impressions/clicks against. A plain "## Vases" heading doesn't get this treatment; a natural-language question heading does. Use this pattern for any post whose sub-topics map to real search queries, which the `faqs[]` frontmatter array is a good source for — mirror a few of those Q&As as actual in-body H2s, not just JSON-LD.
+- **Narrow, specific sub-topic beats broad topic.** The pages that convert (Facebook Marketplace furniture prices, Dollarama vases specifically, bathroom storage "that works in a rented flat") all answer one concrete, specific thing. The broad head-term pages (`small-space-furniture`, generic "small apartment ideas") sit at position 40-50 regardless of word count — they're competing on terms with real competition, and no amount of on-page work fixes that without backlinks.
+- **Title must match the query actually driving impressions, not just the page's nominal topic.** Check GSC's query list before finalizing a title — a page can rank well for a query its title never mentions (this happened twice: Facebook Marketplace furniture, "how to organize small spaces"), and that's a 0%-CTR bug hiding in plain sight.
+- **Before deleting/merging a post during any future consolidation, check its GSC performance first.** `dollarama-finds-look-expensive` was deleted as part of the "thin content" cleanup despite being the single best-performing page on the site by raw clicks. A post's apparent thinness or topical overlap with another post is not evidence it should be merged — check clicks/impressions/position in GSC first, every time.
+- **Recovering lost keyword demand after a consolidation:** cross-reference GSC's Queries.csv against `vercel.json`'s redirect list. A query cluster that still pulls real impressions/clicks at a decent position (dig for position <20) pointing at a redirected URL whose destination doesn't actually cover that query's topic is a content gap worth recreating, not a lost cause — this is exactly how `dollarama-finds-look-expensive` got rebuilt Oct 9 (confirmed ~140 impressions across "dollarama vase(s)" query variants at positions 6-18 for content that no longer existed anywhere on the site).
+
 ## Don't redo
 
 - Phase 1 consolidation (175→20-24 posts, redirects, hub expansion) — done.
@@ -39,3 +49,5 @@
 - Phase 3 gap articles (baseboard-heater, condo-board-rules, noise-reduction, structube-vs-ikea) — done, wired into hubs.
 - SEO tech cleanup (robots.txt, llms.txt, duplicate sentences) — done.
 - Oct 9 fixes above (CTR, self-links, affiliate links, lead magnet) — done, see git log for commit-level detail.
+- Oct 9 GEO/keyword pass: rewrote `llms.txt` (was entirely pre-consolidation), regenerated the Pinterest pin schedule + 21 missing pin images, regenerated the Instagram `social/queue.json` (61→16, dropped dead-slug entries), recreated `dollarama-finds-look-expensive` with real recovered keyword demand — see "winning article format" above.
+- Still open: 6 current posts have no Instagram image (`social-posts/ig-2026-09/<slug>-ig.jpg` missing) because the generator script referenced in `build-queue.mjs`'s own comment (`pin-generator/build-pins-p.mjs --ig`) doesn't exist in the repo — needs that script built or the images made another way before those posts can join the Instagram queue.
