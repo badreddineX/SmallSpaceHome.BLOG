@@ -7,7 +7,7 @@
  * without editing 60+ files by hand, and every future post inherits it.
  */
 
-const AFFILIATE_HOSTS = ['amzn.to', 'link.amazon', 'amazon.ca', 'www.amazon.ca'];
+const AFFILIATE_HOSTS = ['amzn.to', 'link.amazon'];
 
 /** @type {import('satteri').HastPluginDefinition} */
 const affiliateLinksPlugin = {

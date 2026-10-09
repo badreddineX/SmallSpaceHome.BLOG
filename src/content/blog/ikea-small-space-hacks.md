@@ -52,7 +52,7 @@ Many older Toronto and Montreal apartments have tiny wardrobes or hall closets t
 
 A PAX wardrobe frame starts around $179 CAD, but a full configuration with doors and interior organizers typically runs $400 to $800 CAD — still often cheaper than a custom closet build-out in an older Toronto or Montreal rental.
 
-Add internal organizers: a [sliding wire pull-out basket](https://www.amazon.ca/dp/B000JF8LMK?tag=smallspace06f-20) (or IKEA's own KOMPLEMENT trays if you're already buying into a PAX system), JONAXEL shelf units, and a mirror door to make the bedroom feel significantly larger.
+Add internal organizers: [KOMPLEMENT pull-out trays](https://link.amazon/A0fiRlft2), JONAXEL shelf units, and a mirror door to make the bedroom feel significantly larger.
 
 **Cost:** PAX frame starts at ~$179 CAD. Full configuration with doors and interior organizers: ~$400–$800 CAD.
 
@@ -130,7 +130,7 @@ IVAR sections start around $35 CAD each, with a full wardrobe configuration typi
 
 ## Does the HOVET Mirror Really Expand a Small Bedroom?
 
-The [Umbra Bellwood leaning mirror](https://www.amazon.ca/dp/B0FF464B54?tag=smallspace06f-20) (~$225 CAD; IKEA's HOVET at ~$279 CAD is the IKEA equivalent) leans against the wall (no installation) and immediately makes any small bedroom feel significantly larger. It reflects light from the window and creates the illusion of a second doorway.
+The [HOVET full-length mirror](https://link.amazon/A0f118hwQ) (~$279 CAD) leans against the wall (no installation) and immediately makes any small bedroom feel significantly larger. It reflects light from the window and creates the illusion of a second doorway.
 
 The HOVET mirror costs about $279 CAD and needs no installation, since it simply leans against the wall while still creating the illusion of a second doorway.
 
