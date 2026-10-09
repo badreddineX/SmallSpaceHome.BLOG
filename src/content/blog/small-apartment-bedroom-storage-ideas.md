@@ -19,7 +19,6 @@ faqs:
   - q: "Is a storage bed worth it in a small apartment?"
     a: "Yes — the IKEA NORDLI ($399–$699 CAD) has enough drawer space to replace a full dresser. Removing the dresser from a small bedroom frees significant floor space and makes the room feel noticeably larger. It's one of the most impactful single furniture purchases for a Canadian renter."
 relatedPosts:
-  - "small-apartment-bedroom-storage-ideas"
   - "under-bed-storage-ideas-small-apartment"
   - "small-closet-organization-rental-apartment"
 ---

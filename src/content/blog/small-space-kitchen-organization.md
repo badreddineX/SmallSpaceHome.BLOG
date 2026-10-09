@@ -21,9 +21,8 @@ faqs:
   - q: "How do I organize my fridge in a small apartment?"
     a: "Group items into clear bins by category — dairy, produce, leftovers, condiments — so nothing gets lost at the back. Add a small lazy Susan for jars and condiments, and stackable clear organizers on the door shelving to use vertical space the fixed shelves waste. A full bin-and-organizer set runs ~$20–$35 CAD on Amazon.ca."
 relatedPosts:
-  - "small-space-kitchen-organization"
-  - "small-space-kitchen-organization"
   - "storage-ideas-for-small-places"
+  - "vertical-storage-ideas-small-apartment"
 ---
 
 

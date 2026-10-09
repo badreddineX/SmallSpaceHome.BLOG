@@ -23,7 +23,6 @@ faqs:
   - q: "How do I choose apartment-size furniture that fits a small Canadian apartment?"
     a: "Measure your room first, then shop by footprint, not by style. Apartment-size furniture generally means: sofas under 180 cm wide, dining tables that seat 2–4 (not 6+), and beds no larger than queen in bedrooms under 12 sq m. IKEA and Wayfair Canada both filter by dimensions, which makes apartment-size shopping easier than in a big-box furniture store."
 relatedPosts:
-  - "small-space-furniture"
   - "under-bed-storage-ideas-small-apartment"
   - "ikea-small-space-hacks"
 ---

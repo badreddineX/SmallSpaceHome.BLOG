@@ -21,7 +21,6 @@ faqs:
   - q: "Can I replace the medicine cabinet in a rental apartment bathroom?"
     a: "You can swap a surface-mounted medicine cabinet without any damage to walls or plumbing. Surface-mounted units typically have two to four screws. Remove the old cabinet, patch the screw holes with renter-safe wall filler when you leave, and install the new one. This is distinct from recessed cabinets (built into the wall), which you should leave untouched in a rental."
 relatedPosts:
-  - "small-apartment-bathroom-storage"
   - "vertical-storage-ideas-small-apartment"
   - "storage-ideas-for-small-places"
 ---
