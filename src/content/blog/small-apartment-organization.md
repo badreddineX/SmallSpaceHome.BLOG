@@ -1,5 +1,5 @@
 ---
-title: "Small Apartment Organization Ideas (Canada, Real Prices)"
+title: "How to Organize Small Spaces: 23 Ideas for Canadian Apartments"
 description: "Cheap ways to organize a small Canadian apartment: room-by-room system, renter-friendly organizers under $50 CAD, and a declutter method that actually sticks."
 image: "/images/closet-organizer-shelving.jpg"
 datePublished: "2026-10-09"

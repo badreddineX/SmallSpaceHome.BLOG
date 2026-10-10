@@ -1,5 +1,5 @@
 ---
-title: "Studio Apartment Furnishing Costs in Canada (2026)"
+title: "Facebook Marketplace Furniture for Studio Apartments: Full Cost Guide Canada (2026)"
 description: "What Facebook Marketplace furniture costs in Toronto, Vancouver, Montreal & Calgary — full studio furnishing budgets from bare-minimum to styled in real CAD prices."
 image: "/images/modern-studio-apartment-kitchen.jpg"
 datePublished: "2026-10-07"
