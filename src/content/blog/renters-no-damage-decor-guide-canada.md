@@ -15,7 +15,7 @@ relatedPosts:
 excerpt: "20 fully reversible decor changes for Canadian renters — from Command strip gallery walls to peel-and-stick backsplash tiles — with CAD costs, difficulty ratings, and provincial lease law notes."
 tldr:
   - "Every change in this guide is fully removable with no wall, floor, or fixture damage — your deposit is safe."
-  - "A minimal refresh (5 changes) costs $100-$250 and takes under an hour. A full transformation (all 20) runs $500-$1,500."
+  - "A minimal refresh (5 changes) costs $100-$250 and takes under an hour. A moderate refresh (10 changes) runs $150-$500. A full transformation (all 20) runs $500-$1,500."
   - "Canadian tenancy law varies by province, but removable modifications that leave no trace are not damage by any definition."
   - "The move-out reversal process for all 20 changes takes three to four hours for a studio or one-bedroom."
 faqs:
@@ -39,11 +39,13 @@ This guide covers 20 specific, tested decor changes grouped by area of your apar
 
 Canadian tenancy law varies by province, and the rules around what you can and cannot do to a rental unit differ:
 
-**Ontario:** Under the Residential Tenancies Act (RTA), tenants are expected to maintain the unit in a reasonable state of cleanliness and repair. Painting walls generally requires landlord consent, but hanging pictures with small nails is widely considered normal wear and tear.
+**Ontario:** Under the [Residential Tenancies Act, 2006](https://www.ontario.ca/laws/statute/06r17), tenants are expected to maintain the unit in a reasonable state of cleanliness and repair. Painting walls generally requires landlord consent, but hanging pictures with small nails is widely considered normal wear and tear. The [Landlord and Tenant Board](https://tribunalsontario.ca/ltb/) hears disputes over what counts as damage versus wear and tear.
 
-**Quebec:** The Civil Code of Quebec requires tenants to use the property "with prudence and diligence." Painting requires landlord authorization. However, removable modifications that leave no damage are generally not addressed because they do not alter the property.
+**Quebec:** The [Civil Code of Québec](https://www.legisquebec.gouv.qc.ca/en/document/cs/ccq-1991) requires tenants to use the property "with prudence and diligence." Painting requires landlord authorization. However, removable modifications that leave no damage are generally not addressed because they do not alter the property.
 
-**British Columbia, Alberta, and other provinces:** Similar principles apply. Damage deposits can be claimed only for damage beyond normal wear and tear.
+**British Columbia, Alberta, and other provinces:** Similar principles apply under each province's own residential tenancy legislation (BC's [Residential Tenancy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/02078_01), Alberta's [Residential Tenancies Act](https://www.alberta.ca/residential-tenancies-act)). Damage deposits can be claimed only for damage beyond normal wear and tear.
+
+This is general information, not legal advice — check your specific lease and your province's tenancy board if you're unsure about a planned change.
 
 The general rule across all provinces: if you can remove it completely and leave the wall, floor, or fixture in its original condition, it is not a lease issue.
 
@@ -184,7 +186,7 @@ Mount a magnetic strip on the side of the fridge (it holds magnetically, no adhe
 
 A large area rug, throw pillows, string lights, an over-door organizer, and a tension rod for the closet.
 
-### Moderate Refresh (10 changes): $250 to $600
+### Moderate Refresh (10 changes): $150 to $500
 
 Add a gallery wall with Command strips, a floor lamp, curtains, LED strip lights, a shower caddy, and contact paper on the kitchen counter.
 

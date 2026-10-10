@@ -97,7 +97,7 @@ The complete closet system. A 100 cm wide, 201 cm tall PAX stores more than most
 
 Small apartment bathrooms have unique storage challenges: most rental bathrooms have zero undersink cabinet space, limited wall space, and the constraint of no permanent installation (no drilling). 
 
-IKEA storage solutions work differently in bathrooms than in living rooms or bedrooms. Over-toilet shelves (freestanding, ~$20–$70 CAD depending on material) and corner units are the main furniture options, but the real game-changer is how you combine them with no-drill solutions.
+IKEA storage solutions work differently in bathrooms than in living rooms or bedrooms. Over-toilet shelves (freestanding, ~$20–$70 CAD depending on material) and corner units are the main furniture options, but the real gain is combining them with no-drill solutions.
 
 [For a complete no-drill bathroom storage system with Canadian retailer options and exact product recommendations, see our bathroom storage guide](/blog/bathroom-storage-small-apartment-canada).
 

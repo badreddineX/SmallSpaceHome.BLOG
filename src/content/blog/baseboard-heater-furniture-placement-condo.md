@@ -61,7 +61,7 @@ These are conservative guidelines. Some newer electric baseboard heaters run at 
 
 Three things, none of them good. First, the heater works harder and runs longer because warm air cannot circulate into the room. The thermostat reads a lower temperature than the room should be at, so the heater stays on. In a condo where you pay your own hydro, this shows up directly on your winter bill.
 
-Second, trapped heat builds up behind the obstruction. Upholstered furniture, curtains, and bedding near a heater that cannot dissipate heat properly become a fire risk. The Electrical Safety Authority of Ontario lists blocked baseboard heaters among the common causes of residential electrical fires.
+Second, trapped heat builds up behind the obstruction. Upholstered furniture, curtains, and bedding blocking a heater that can't dissipate heat properly is a recognized fire risk — it's why most baseboard heater manuals specify a minimum clearance and why building insurers flag it during inspections.
 
 Third, concentrated heat damages the furniture itself. Wood dries out unevenly and cracks. MDF swells at the edges. Vinyl softens. Fabric fades and degrades faster. A $400 sofa pushed against a heater for one winter can come out looking five years older.
 

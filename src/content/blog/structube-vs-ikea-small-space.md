@@ -134,7 +134,7 @@ Structube ships from their warehouses, with delivery fees typically running $99â
 
 Both brands sell primarily flat-pack, self-assembly furniture. IKEA's assembly instructions are famously wordless and generally well-designed â€” most people can build a BILLY bookcase in 30 minutes. Structube's instructions are adequate but less polished. Assembly difficulty is comparable between the two brands for similar piece types.
 
-Both offer paid assembly services through third-party partners. IKEA's TaskRabbit integration is more seamless; Structube partners with local delivery crews who offer assembly as an add-on.
+Both offer paid assembly services through third-party partners. IKEA's TaskRabbit integration books directly at checkout; Structube partners with local delivery crews who offer assembly as an add-on.
 
 ---
 

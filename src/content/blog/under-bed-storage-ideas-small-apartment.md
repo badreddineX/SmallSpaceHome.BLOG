@@ -27,7 +27,7 @@ relatedPosts:
 
 The space under your bed can hold two full storage bins per side, yet most Canadian renters use it for a stray sock and a suitcase. A $22 CAD set of risers fixed that in ten minutes.
 
-This post is a deep dive on that one zone specifically. For the full-room approach, see our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide, and for storage across the whole apartment, check our [small apartment storage ideas](/blog/storage-ideas-for-small-places) roundup.
+This post focuses on that one zone specifically. For the full-room approach, see our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide, and for storage across the whole apartment, check our [small apartment storage ideas](/blog/storage-ideas-for-small-places) roundup.
 
 > **Key Takeaways**
 > - Bed risers (~$25 CAD) add roughly 15 cm of clearance and are usually the single best first purchase for this zone.
