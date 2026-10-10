@@ -5,7 +5,7 @@ image: "/images/storage-ottoman.jpg"
 datePublished: "2026-08-06"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: []
+tags: ["wall shelving ideas", "wall mounted shelves"]
 featured: false
 category: "Storage"
 relatedPosts:

@@ -5,7 +5,7 @@ image: "/images/cozy-living-room-diy-touches.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: []
+tags: ["soundproof apartment", "soundproofing apartment"]
 featured: false
 category: "Decor"
 readTime: 10

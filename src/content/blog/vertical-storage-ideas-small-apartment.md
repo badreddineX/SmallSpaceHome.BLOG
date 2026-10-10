@@ -5,7 +5,7 @@ image: "/images/kitchen-open-shelves.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: []
+tags: ["floating shelves", "wall mounted shelves", "wall shelving ideas"]
 featured: false
 category: "Storage"
 relatedPosts:

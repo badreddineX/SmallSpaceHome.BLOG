@@ -5,7 +5,7 @@ image: "/images/cozy-corner-lamp-mirror.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine Br"
-tags: []
+tags: ["condensation on windows", "window condensation", "dehumidifier for apartment"]
 category: "Organization"
 featured: false
 readTime: 12

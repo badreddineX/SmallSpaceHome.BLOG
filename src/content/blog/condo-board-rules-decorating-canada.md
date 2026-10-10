@@ -5,7 +5,7 @@ image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: []
+tags: ["condo decorating ideas"]
 category: "Decor"
 featured: false
 readTime: 11
