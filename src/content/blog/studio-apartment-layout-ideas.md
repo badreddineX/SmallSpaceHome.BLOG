@@ -5,7 +5,7 @@ image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-08-30"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["studio apartment layout ideas", "studio apartment layout", "small bedroom layout ideas", "studio apartment ideas", "renter-friendly", "Canada"]
+tags: ["studio apartment layout ideas", "studio apartment ideas"]
 featured: false
 category: "Decor"
 readTime: 9

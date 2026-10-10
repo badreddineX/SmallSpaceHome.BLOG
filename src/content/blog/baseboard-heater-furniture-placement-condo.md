@@ -5,7 +5,7 @@ image: "/images/studio-apartment-cozy-living-room.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["baseboard heater furniture placement", "baseboard heater", "condo furniture layout", "heating safety", "canadian condo", "renter-friendly"]
+tags: ["baseboard heater furniture placement", "condo furniture layout"]
 category: "Decor"
 featured: false
 readTime: 11

@@ -5,7 +5,7 @@ image: "/images/blog-19-img3.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["Structube vs IKEA small space", "Structube", "IKEA", "small apartment furniture", "Canada", "apartment furniture comparison", "small space furniture"]
+tags: ["Structube vs IKEA small space", "small apartment furniture", "small space furniture"]
 featured: false
 category: "Decor"
 readTime: 10

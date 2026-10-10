@@ -5,7 +5,7 @@ image: "/images/scandinavian-minimalist-furniture.jpg"
 datePublished: "2026-01-25"
 dateModified: "2026-09-30"
 author: "Badreddine Br"
-tags: ["IKEA hacks", "IKEA small apartment", "IKEA apartment hacks", "small space", "Canada", "apartment ideas", "IKEA"]
+tags: ["IKEA hacks", "IKEA small apartment", "IKEA apartment hacks"]
 featured: false
 category: "Organization"
 readTime: 8

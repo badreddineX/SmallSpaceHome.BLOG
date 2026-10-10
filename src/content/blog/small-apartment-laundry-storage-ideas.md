@@ -5,7 +5,7 @@ image: "/images/blog-09-img2.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["small laundry room ideas", "laundry room organization ideas", "laundry closet organization", "small apartment laundry", "renter-friendly", "in suite laundry", "Canada"]
+tags: ["small laundry room ideas", "laundry room organization ideas", "laundry closet organization", "small apartment laundry"]
 featured: false
 category: "Storage"
 readTime: 7

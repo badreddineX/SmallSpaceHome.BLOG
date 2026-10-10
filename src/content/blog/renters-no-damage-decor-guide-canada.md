@@ -5,7 +5,7 @@ image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine Br"
-tags: ["renter-friendly", "no-damage", "decor", "landlord", "lease", "canada"]
+tags: ["renter friendly decor", "no damage wall decor apartment", "renter friendly apartment decor", "command strip decorating ideas", "removable wallpaper ideas apartment"]
 category: "Decor"
 featured: false
 readTime: 10

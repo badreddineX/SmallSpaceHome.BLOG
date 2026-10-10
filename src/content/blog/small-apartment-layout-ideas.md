@@ -5,7 +5,7 @@ image: "/images/small-apartment-layout-ideas.jpg"
 datePublished: "2026-09-18"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["small apartment layout ideas", "small apartment layout", "apartment layout ideas canada", "small living room layout ideas", "one bedroom apartment layout", "renter-friendly"]
+tags: ["small apartment layout ideas", "apartment layout ideas canada", "small living room layout ideas", "one bedroom apartment layout"]
 featured: false
 category: "Decor"
 readTime: 9

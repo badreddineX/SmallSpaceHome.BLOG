@@ -5,7 +5,7 @@ image: "/images/baskets-laundry-by-bed.jpg"
 datePublished: "2026-07-09"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["under bed storage", "under bed storage ideas", "bed risers", "small apartment", "Canada", "renter-friendly"]
+tags: ["under bed storage ideas", "under bed storage small apartment", "bed storage solutions", "storage under bed", "platform bed with storage"]
 featured: false
 category: "Storage"
 readTime: 7

@@ -5,7 +5,7 @@ image: "/images/kitchen-open-shelves.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["vertical storage", "vertical storage ideas", "wall storage small apartment", "renter-friendly", "Canada", "small space", "wall-mounted"]
+tags: ["vertical storage ideas", "wall storage small apartment", "tall storage units small apartment", "floor to ceiling shelving apartment", "vertical space storage ideas"]
 featured: false
 category: "Storage"
 relatedPosts:

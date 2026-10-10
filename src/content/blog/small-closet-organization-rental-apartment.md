@@ -5,7 +5,7 @@ image: "/images/blog-09-img1.jpg"
 datePublished: "2026-05-29"
 dateModified: "2026-08-29"
 author: "Badreddine Br"
-tags: ["very small closet organization ideas", "small closet organization ideas", "how to organize a small closet with lots of clothes", "closet without doors ideas", "renter-friendly", "Canada", "no-drill storage"]
+tags: ["small closet organization ideas", "how to organize a small closet with lots of clothes", "closet without doors ideas", "no-drill storage"]
 featured: false
 category: "Storage"
 readTime: 8

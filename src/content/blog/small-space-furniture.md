@@ -5,7 +5,7 @@ image: "/images/blog-05-img2.jpg"
 datePublished: "2025-11-29"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: ["small space furniture", "space saving furniture", "apartment size furniture", "furniture for small spaces", "apartment furniture", "Canada", "IKEA", "small apartment"]
+tags: ["small space furniture", "space saving furniture", "furniture for small spaces"]
 featured: false
 category: "Decor"
 readTime: 8

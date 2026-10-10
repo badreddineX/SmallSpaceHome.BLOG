@@ -5,7 +5,7 @@ image: "/images/modern-open-plan-apartment.jpg"
 datePublished: "2026-10-04"
 dateModified: "2026-10-04"
 author: "Badreddine Br"
-tags: ["first apartment essentials", "first apartment checklist", "apartment essentials canada", "new apartment", "renter-friendly", "Canada", "apartment setup"]
+tags: ["first apartment essentials", "first apartment checklist", "apartment essentials canada"]
 featured: true
 category: "Organization"
 readTime: 11
