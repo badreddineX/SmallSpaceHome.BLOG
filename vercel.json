@@ -23,7 +23,6 @@
     { "source": "/blog/small-apartment-pantry-organization-budget", "destination": "/blog/small-space-kitchen-organization", "permanent": true },
     { "source": "/blog/budget-apartment-decor-under-50", "destination": "/blog/storage-ideas-for-small-places", "permanent": true },
 
-    { "source": "/blog/small-apartment-organization", "destination": "/blog/storage-ideas-for-small-places", "permanent": true },
     { "source": "/blog/command-strip-decorating-hacks-renters", "destination": "/blog/renters-no-damage-decor-guide-canada", "permanent": true },
     { "source": "/blog/small-bedroom-organization-ideas", "destination": "/blog/small-apartment-bedroom-storage-ideas", "permanent": true },
     { "source": "/blog/apartment-decor-ideas", "destination": "/blog/storage-ideas-for-small-places", "permanent": true },

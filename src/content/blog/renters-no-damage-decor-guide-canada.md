@@ -9,6 +9,10 @@ tags: ["renter-friendly", "no-damage", "decor", "landlord", "lease", "canada"]
 category: "Decor"
 featured: false
 readTime: 10
+relatedPosts:
+  - "condo-board-rules-decorating-canada"
+  - "small-closet-organization-rental-apartment"
+  - "storage-ideas-for-small-places"
 excerpt: "20 fully reversible decor changes for Canadian renters — from Command strip gallery walls to peel-and-stick backsplash tiles — with CAD costs, difficulty ratings, and provincial lease law notes."
 tldr:
   - "Every change in this guide is fully removable with no wall, floor, or fixture damage — your deposit is safe."

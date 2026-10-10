@@ -9,6 +9,10 @@ tags: ["winter", "condensation", "humidity", "apartment-maintenance", "canada"]
 category: "Organization"
 featured: false
 readTime: 12
+relatedPosts:
+  - "baseboard-heater-furniture-placement-condo"
+  - "noise-reduction-apartment-canada"
+  - "small-apartment-layout-ideas"
 excerpt: "Canadian apartment windows dripping every winter morning? This guide covers the science, ideal humidity ranges by outdoor temperature, equipment options, and daily habits that actually fix the problem."
 tldr:
   - "Condensation forms when warm indoor air hits cold window glass — it is physics, not a building defect, but indoor humidity controls how bad it gets."

@@ -9,6 +9,10 @@ tags: ["facebook marketplace furniture", "fb marketplace furniture", "studio-apa
 category: "Budget Tips"
 featured: false
 readTime: 11
+relatedPosts:
+  - "structube-vs-ikea-small-space"
+  - "small-space-furniture"
+  - "studio-apartment-layout-ideas"
 excerpt: "Furnishing a studio apartment in Canada costs $500-$800 bare minimum (mostly used), $1,500-$2,800 comfortable, or $3,000-$5,500 fully styled — with significant city-to-city differences."
 tldr:
   - "A bare-minimum studio setup costs $400-$1,000 depending on city, buying mostly used furniture from Facebook Marketplace and Kijiji."

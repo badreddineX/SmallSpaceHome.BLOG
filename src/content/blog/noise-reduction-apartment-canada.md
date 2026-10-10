@@ -18,7 +18,7 @@ tldr:
 relatedPosts:
   - "small-apartment-layout-ideas"
   - "renters-no-damage-decor-guide-canada"
-  - "condo-storage-ideas-toronto-vancouver"
+  - "baseboard-heater-furniture-placement-condo"
 faqs:
   - q: "Do acoustic panels actually block noise from neighbours?"
     a: "Acoustic panels reduce echo and reverberation inside your own room, which makes everything sound quieter. They do not block noise passing through a shared wall. For that, you need mass — a heavy bookshelf filled with books against the wall does more to block transmitted sound than foam panels alone."

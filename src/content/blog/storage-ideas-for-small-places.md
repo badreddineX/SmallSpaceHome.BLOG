@@ -23,6 +23,7 @@ faqs:
 relatedPosts:
   - "vertical-storage-ideas-small-apartment"
   - "under-bed-storage-ideas-small-apartment"
+  - "small-apartment-organization"
 ---
 
 

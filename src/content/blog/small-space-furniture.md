@@ -25,6 +25,7 @@ faqs:
 relatedPosts:
   - "under-bed-storage-ideas-small-apartment"
   - "ikea-small-space-hacks"
+  - "structube-vs-ikea-small-space"
 ---
 
 > **Our top pick:** This [upholstered platform bed with 2 storage drawers](https://www.amazon.ca/dp/B0DZ2ZDXKM?tag=smallspace06f-20) (~$240 CAD on Amazon.ca, LED headboard and charging station included) replaces both your bed frame and your dresser in one footprint — the single highest-impact furniture buy for a small Canadian apartment.

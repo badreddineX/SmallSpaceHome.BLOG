@@ -11,6 +11,7 @@ category: "Storage"
 relatedPosts:
   - "storage-ideas-for-small-places"
   - "small-closet-organization-rental-apartment"
+  - "condo-board-rules-decorating-canada"
 readTime: 8
 faqs:
   - q: "How do I maximize storage in a Toronto home?"
