@@ -105,7 +105,7 @@ Working from home in a studio requires a desk that does not take over the room. 
 **Desk options for a studio:**
 - IKEA MICKE (73 × 50 cm, ~$100): Compact, built-in storage, fits most studio corners
 - IKEA LINNMON + ADILS legs (~$60–$80 for a 100 × 60 cm top + 4 legs): Customizable depth and width, very affordable
-- Floating wall desk (Amazon.ca, ~$80–$150): Mounts to the wall, folds flat when not needed — best for studios where floor space is extremely tight
+- [Floating wall desk](https://www.amazon.ca/dp/B0D78FBSWK?tag=smallspace06f-20) (Amazon.ca, ~$80–$150 CAD): Mounts to the wall, folds flat when not needed — best for studios where floor space is extremely tight
 
 ---
 

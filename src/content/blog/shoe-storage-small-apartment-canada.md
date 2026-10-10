@@ -56,7 +56,7 @@ A freestanding shoe rack beside the front door is the standard solution. The key
 - **IKEA TJUSIG** (~$25): Bench-style shoe rack, holds 4–6 pairs on two levels, 52 cm wide × 22 cm deep. Clean white or black finish. One of the most space-efficient options at this price.
 - **IKEA HEMNES shoe cabinet** (~$150–$200): Enclosed cabinet with flip-down doors, holds 8 pairs, 89 cm wide × 30 cm deep. Looks like a sideboard rather than a shoe rack — better for apartments where the entryway is visible from the living room.
 - **Stackable shoe shelves** (Amazon.ca, ~$20–$35 for 3 tiers): Metal or plastic, hold 2 pairs per tier, stackable to any height. Good value, no assembly required.
-- **SONGMICS slim shoe rack** (Amazon.ca, ~$30–$50): 3–5 tiers, 25 cm deep, available in white and black. Consistently well-reviewed by Canadian buyers for build quality at the price.
+- **[SONGMICS slim shoe rack](https://www.amazon.ca/dp/B08MJMN4Q9?tag=smallspace06f-20)** (Amazon.ca, ~$30–$50): 3–5 tiers, 25 cm deep, available in white and black. The most-reviewed shoe rack on Amazon.ca Canada (19,000+ ratings) — consistently recommended by Canadian buyers for build quality at the price.
 
 ### Entryway bench with shoe storage
 

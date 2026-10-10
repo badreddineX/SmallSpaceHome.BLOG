@@ -164,7 +164,7 @@ If drilling is not an option, see the [floating shelves guide](/blog/floating-sh
 | IKEA | EKBY STÖDIS shelf | Various | $10–$20 |
 | Home Depot Canada | Pine board (custom cut) | Any length, 20–30 cm deep | $8–$20/linear m |
 | RONA | Melamine shelf board | Standard widths | $10–$25 |
-| Amazon.ca | Rustic wood floating shelf | 60–120 cm | $25–$60 |
+| [Amazon.ca — Love-KANKEI set of 3](https://www.amazon.ca/dp/B077GQ87NP?tag=smallspace06f-20) | Solid wood floating shelf set | Set of 3 mixed sizes | $25–$35 |
 
 For shelves holding heavy items — books, plants in ceramic pots, kitchen appliances — use solid pine or MDF boards at least 18 mm thick. Thinner boards bow under sustained load.
 

@@ -107,7 +107,7 @@ The visual effect is close to wall-mounted shelving — shelves appear to float 
 
 **IKEA LERBERG** (~$50): Bare ladder shelf, industrial/metal look, fits small corners well. Light (8 kg), so it tips if loaded unevenly — place heavier items on the lower rungs.
 
-**Amazon Basics 5-Shelf Bookcase** (~$70): Wide, stable base, available at Amazon.ca with fast shipping. Neutral finish works in most apartment aesthetics.
+**Amazon Basics 5-Shelf Bookcase** (~$70): Wide, stable base, available at Amazon.ca with fast shipping. Neutral finish works in most apartment aesthetics. For wall-mounted floating shelves specifically, this [Love-KANKEI solid wood set of 3](https://www.amazon.ca/dp/B077GQ87NP?tag=smallspace06f-20) (~$25–$35 CAD) is the most-reviewed option on Amazon.ca Canada — 51,000+ ratings, solid wood with metal bracket.
 
 **Winners / HomeSense**: Carry solid wood and bamboo ladder shelf styles seasonally, typically $80–$150. Worth checking before buying online — quality variation is high, so seeing it in person matters.
 

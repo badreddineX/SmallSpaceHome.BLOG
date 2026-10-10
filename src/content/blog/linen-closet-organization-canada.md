@@ -74,7 +74,7 @@ A half-shelf insert sits on the existing shelf and creates a second level in the
 
 Group small items in bins so they do not scatter when you retrieve something nearby. A small bin for face cloths, a bin for pillowcases, a bin for cleaning supplies — each bin pulls out as a unit.
 
-**Cost:** $5–$12 per bin at Amazon.ca, HomeSense, or Dollarama.
+**Cost:** $5–$12 per bin at Amazon.ca, HomeSense, or Dollarama. A [12-pack of foldable fabric organizer bins](https://www.amazon.ca/dp/B07X7F4YZN?tag=smallspace06f-20) (~$20–$25 CAD) covers an entire linen closet at once — 6 medium and 6 small bins that stack and fold flat when not in use.
 
 ### Labels
 

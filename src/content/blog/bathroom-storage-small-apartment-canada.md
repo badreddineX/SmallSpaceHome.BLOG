@@ -56,7 +56,7 @@ The most practical bathroom addition for renters. The unit straddles the toilet 
 **Canadian options:**
 
 - **Wayfair Canada** carries the widest selection: $60–$130 CAD for a 3-tier unit. Look for units with legs that spread at least 35 cm to straddle a standard toilet tank. Frame finish options include chrome, matte black, and brushed nickel — matte black and brushed nickel resist water spots better than chrome in humid environments.
-- **Amazon.ca** ($50–$90 for similar quality): Brands like Honey-Can-Do, SONGMICS, and Zenna Home all ship from Canadian warehouses. Read the leg width specifications carefully — some units are designed for American toilets that are slightly wider than the standard Canadian rough-in.
+- **[Amazon.ca 3-tier freestanding over-toilet shelf](https://www.amazon.ca/dp/B0GY4MXZ7Y?tag=smallspace06f-20)** ($50–$90): Metal frame with anti-tip kit and towel hooks, no mounting required. Read the leg width specifications carefully — some units are designed for American toilets that are slightly wider than the standard Canadian rough-in.
 - **IKEA** does not carry a traditional over-toilet etagere; the closest option is the LILLÅNGEN wall cabinet, but that requires mounting.
 
 **Weight limit:** Most freestanding over-toilet units hold 15–25 kg total across all shelves. Don't overload the top shelf — the unit tips if top-heavy.
@@ -101,7 +101,7 @@ A tension shower caddy uses two poles that press between the shower floor and ce
 Holds shampoo, conditioner, body wash, razors, loofah, and bath accessories on multiple levels. No suction cups, no wall contact.
 
 **Canadian options:**
-- **MDESIGN Tension Shower Caddy** (Amazon.ca, ~$50–$80): 3–4 shelves, adjustable height, holds 15+ kg
+- **[Lilyvane 4-tier tension corner caddy](https://www.amazon.ca/dp/B0BG848QRP?tag=smallspace06f-20)** (Amazon.ca, ~$70–$90 CAD): 4 shelves, 125-inch adjustable height, rustproof — the most-reviewed tension caddy for Canadian apartment shower sizes
 - **ZENNA HOME** (Amazon.ca, ~$60–$90): Good reviews specifically for Canadian shower sizes
 - **InterDesign Forma** series (Amazon.ca, ~$40–$70): More budget-friendly, lighter build
 

@@ -75,7 +75,7 @@ Once the zones are established, bins prevent the "lost at the back of the shelf"
 
 ### What bins to use
 
-**Clear stackable bins** (~$5–$10 each at Amazon.ca): Group similar items — one bin for cheese and deli items, one for snacks and grab-and-go items, one for small condiment jars that don't fit in the door. Slide the bin out to access the back rather than moving individual items.
+**[Clear stackable fridge bins](https://www.amazon.ca/dp/B014Q8AZRO?tag=smallspace06f-20)** (~$5–$10 each at Amazon.ca): Group similar items — one bin for cheese and deli items, one for snacks and grab-and-go items, one for small condiment jars that don't fit in the door. Slide the bin out to access the back rather than moving individual items.
 
 **Lazy Susan (turntable)** (~$10–$15, Amazon.ca or Canadian Tire): Place in the back corner of the top or middle shelf for condiments, sauces, and small jars. Spin to access anything without reaching.
 

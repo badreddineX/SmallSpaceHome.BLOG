@@ -54,7 +54,7 @@ The solution is to work around the pipe rather than trying to fit storage under 
 
 | Product | Where | Price CAD |
 |---|---|---|
-| mDesign 2-piece under-sink set (shelf + pull-out) | Amazon.ca | $30–$45 |
+| [DEKAVA 2-pack sliding basket organizer](https://www.amazon.ca/dp/B0B3JJYJSS?tag=smallspace06f-20) | Amazon.ca | $30–$40 |
 | Bambüsi 3-tier bamboo organizer | Amazon.ca | $35–$55 |
 | Expandable under-sink shelf (adjustable width) | Amazon.ca | $20–$35 |
 | Lazy Susan turntable (25 cm) | Amazon.ca, Canadian Tire | $12–$20 |

@@ -51,7 +51,7 @@ The space above a stacked washer/dryer (or a front-load pair) is almost always w
 
 ### Add a hanging rod for air-dry items
 
-A tension rod mounted just above the machines (or above the shelf if the closet is tall) lets you hang shirts straight from the dryer — reducing ironing significantly. A retractable wall-mounted hanger (IKEA GRUNDTAL, ~$15, or similar on Amazon.ca) folds flat when not in use and holds 3–5 garments.
+A tension rod mounted just above the machines (or above the shelf if the closet is tall) lets you hang shirts straight from the dryer — reducing ironing significantly. A [retractable wall-mounted drying rack](https://www.amazon.ca/dp/B08PVCBDHZ?tag=smallspace06f-20) (Amazon.ca, ~$40–$60 CAD) folds flat against the wall when not in use, holds up to 30 kg, and extends for full loads — a permanent laundry-room fixture that replaces a floor-standing rack entirely.
 
 ### Use the door back
 

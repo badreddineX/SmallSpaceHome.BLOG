@@ -159,7 +159,7 @@ In Ontario, persistent mould that a landlord refuses to address can be brought t
 |---|---|---|
 | Condensation on all windows every morning | Indoor humidity too high for outdoor temperature | Reduce humidity sources, increase ventilation, consider a dehumidifier |
 | Condensation only on bedroom windows | Bedroom door kept closed at night, trapping moisture from breathing | Sleep with the door open or at least ajar |
-| Condensation only on one window | That window may have a failed seal (fogging between panes) or face wind | Report to landlord if between panes (seal failure); use window insulation film if single-pane |
+| Condensation only on one window | That window may have a failed seal (fogging between panes) or face wind | Report to landlord if between panes (seal failure); use [3M window insulation film](https://www.amazon.ca/dp/B00002NCJI?tag=smallspace06f-20) (~$26 CAD, covers 5 windows) if single-pane |
 | Ice forming on inside of windows | Extremely cold outside and humidity is too high, or window seal has failed | Lower humidity to below 25% during extreme cold; report ice between panes to landlord |
 | Water pooling on window sills | Condensation running down and collecting | Squeegee daily; place a folded towel on the sill to absorb and wring out daily |
 | Mould on window frames or sills | Persistent moisture not being wiped away | Clean with vinegar solution, squeegee daily, address humidity |

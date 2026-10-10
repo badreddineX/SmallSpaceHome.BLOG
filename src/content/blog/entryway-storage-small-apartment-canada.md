@@ -61,7 +61,7 @@ Zero wall installation. A freestanding coat tree holds 6–8 coats and bags on r
 
 **Trade-off:** Takes more floor space than a wall rail (a coat tree footprint is roughly 40 × 40 cm at the base), and tips if overloaded on one side. Best for apartments where wall mounting is not possible.
 
-**Cost:** $30–$70 at Amazon.ca, Canadian Tire, or HomeSense.
+**Cost:** $30–$70 at Amazon.ca, Canadian Tire, or HomeSense. For a narrow hallway table that also anchors the space, this [slim console table](https://www.amazon.ca/dp/B0H5K12TW3?tag=smallspace06f-20) (~$80–$100 CAD, 34 cm deep × 120 cm wide) fits most Canadian apartment entryways without blocking the path.
 
 ### Over-door hooks
 
