@@ -5,7 +5,7 @@ image: "/images/apartment-tv-console-vase.jpg"
 datePublished: "2025-10-15"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: []
+tags: ["dollar store vases"]
 category: "Decor"
 featured: true
 readTime: 9
