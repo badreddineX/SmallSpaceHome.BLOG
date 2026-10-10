@@ -3,7 +3,7 @@ title: "Dollarama Bud Vases & Finds That Look Expensive: Planters, Frames & More
 description: "Which Dollarama vases, planters, frames, and faux greenery actually look expensive (and which don't) — real $1.50–$5 CAD picks for Canadian renters."
 image: "/images/apartment-tv-console-vase.jpg"
 datePublished: "2025-10-15"
-dateModified: "2026-10-09"
+dateModified: "2026-10-10"
 author: "Badreddine Br"
 tags: ["dollar store vases"]
 category: "Decor"
@@ -53,16 +53,22 @@ Before the category-by-category picks, the pattern is worth understanding becaus
 
 **Simple beats ornate.** Dollarama's plainest version of anything (a flat frame, an unadorned vase, a solid-colour tray) usually looks better than their "fancier" version with trim, pattern, or embellishment, because the embellishment is where the low cost always shows.
 
-## Which Dollarama Vases Actually Look Expensive?
+## Dollarama Vases: Which Ones Actually Look Expensive?
 
-Vases are the single best category in the store for this exercise, because the gap between the best and worst options is enormous for the same $1.50–$4 CAD price range.
+Dollarama vases are the single best category in the store for this exercise, because the gap between the best and worst options is enormous for the same $1.50–$4 CAD price range.
 
-**Buy these:**
-- **Ribbed or fluted matte ceramic bud vases** ($2.50–$4 CAD) in white, sand, or sage green. The texture does most of the work — it catches light unevenly, the way a handmade piece would, and reads as considered rather than mass-produced.
-- **Clear glass bud vases with a slightly irregular silhouette** ($2–$3 CAD) — not perfectly uniform cylinders, but ones with a gentle curve or asymmetry. Group three or five together at different heights for the best effect; a single one looks sparse.
-- **Small matte stoneware-style vases in muted earth tones** ($3–$4 CAD) — these mix well with the ceramic planters below for a cohesive look across a console table or shelf.
+### Dollarama Bud Vase — Best Styles to Buy
 
-**Skip these:**
+The Dollarama bud vase section changes seasonally, but a few styles consistently return and consistently look good:
+
+- **Ribbed or fluted matte ceramic bud vase** ($2.50–$4 CAD) in white, sand, or sage green. The ribbed texture does most of the work — it catches light unevenly, the way a handmade piece would, and reads as considered rather than mass-produced. This is the single best buy in the whole store for decor.
+- **Clear glass bud vase with a slightly irregular silhouette** ($2–$3 CAD) — not a perfectly uniform cylinder, but one with a gentle curve or asymmetry. Group three or five Dollarama bud vases together at different heights for the best effect; a single one looks sparse.
+- **Small matte stoneware-style bud vase in muted earth tones** ($3–$4 CAD) — these mix well with the ceramic planters below for a cohesive look across a console table or shelf.
+
+**What makes a Dollarama bud vase look expensive:** the size (small = intentional, not undersized), the finish (matte always beats glossy), and grouping (three odd-numbered at different heights reads as styled, not random). A single Dollarama bud vase on an empty shelf looks sparse — the same vase in a group of three looks like a design choice.
+
+### Dollarama Vases to Skip
+
 - Glossy plastic vases in any colour, including ones made to look like coloured glass. The sheen is the giveaway from across the room.
 - Vases with printed patterns (florals, geometric prints) — the printing process itself has a flatness that doesn't read as decorative glass or ceramic.
 - Anything with faceted, "crystal-look" plastic sides — this is one of the most common cheap-looking finishes in the whole store.
