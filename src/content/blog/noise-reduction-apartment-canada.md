@@ -5,7 +5,7 @@ image: "/images/cozy-living-room-diy-touches.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["noise reduction apartment canada", "soundproofing apartment renter", "acoustic panels apartment"]
+tags: []
 featured: false
 category: "Decor"
 readTime: 10

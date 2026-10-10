@@ -5,7 +5,7 @@ image: "/images/storage-ottoman.jpg"
 datePublished: "2026-08-06"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["condo storage ideas", "condo storage toronto", "condo storage vancouver"]
+tags: []
 featured: false
 category: "Storage"
 relatedPosts:

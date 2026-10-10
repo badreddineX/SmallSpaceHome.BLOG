@@ -5,7 +5,7 @@ image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["condo decorating rules canada", "condo board decoration approval", "what can i change in my condo", "condo renovation rules canada", "decorating"]
+tags: []
 category: "Decor"
 featured: false
 readTime: 11

@@ -5,7 +5,7 @@ image: "/images/entryway-hallway-console.jpg"
 datePublished: "2026-06-03"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["entryway storage", "entryway organization", "small hallway storage", "hallway storage"]
+tags: ["entryway storage", "hallway storage"]
 featured: false
 category: "Storage"
 readTime: 7

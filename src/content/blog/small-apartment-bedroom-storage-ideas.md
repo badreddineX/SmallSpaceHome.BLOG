@@ -5,7 +5,7 @@ image: "/images/bedroom-storage-closet.jpg"
 datePublished: "2026-03-27"
 dateModified: "2026-09-05"
 author: "Badreddine Br"
-tags: ["small bedroom organization ideas", "small bedroom storage", "storage for small bedroom", "under-bed storage", "closet organization", "apartment storage"]
+tags: ["small bedroom organization ideas", "small bedroom storage", "under-bed storage", "closet organization"]
 featured: false
 category: "Storage"
 readTime: 7

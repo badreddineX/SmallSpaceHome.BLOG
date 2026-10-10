@@ -5,7 +5,7 @@ image: "/images/cozy-corner-lamp-mirror.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine Br"
-tags: ["winter condensation apartment windows", "apartment humidity control canada", "condensation on windows apartment", "how to reduce condensation apartment", "winter apartment tips canada"]
+tags: []
 category: "Organization"
 featured: false
 readTime: 12

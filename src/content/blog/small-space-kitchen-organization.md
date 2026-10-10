@@ -5,7 +5,7 @@ image: "/images/small-kitchen-organized.jpg"
 datePublished: "2026-03-22"
 dateModified: "2026-08-06"
 author: "Badreddine Br"
-tags: ["small kitchen storage ideas", "small kitchen storage solutions", "fridge organization"]
+tags: ["small kitchen storage ideas", "fridge organization"]
 featured: false
 category: "Organization"
 readTime: 7

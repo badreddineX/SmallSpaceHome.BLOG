@@ -5,7 +5,7 @@ image: "/images/modern-studio-apartment-kitchen.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: ["facebook marketplace furniture", "fb marketplace furniture", "studio apartment furnishing cost canada", "how much to furnish a studio apartment canada", "cheapest way to furnish apartment canada"]
+tags: ["facebook marketplace furniture"]
 category: "Budget Tips"
 featured: false
 readTime: 11

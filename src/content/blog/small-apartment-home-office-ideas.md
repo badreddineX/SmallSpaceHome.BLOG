@@ -5,7 +5,7 @@ image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-04-08"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: ["small apartment home office", "small home office", "small space desk"]
+tags: ["small home office", "small space desk"]
 featured: false
 category: "Decor"
 relatedPosts:

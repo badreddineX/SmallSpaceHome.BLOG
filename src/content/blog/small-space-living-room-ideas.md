@@ -5,7 +5,7 @@ image: "/images/small-studio-living-room-bright.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["small living room ideas", "small space living room ideas", "tiny apartment storage ideas", "small living room decor", "small living room layout", "apartment living room ideas canada"]
+tags: ["small living room ideas", "small space living room ideas", "tiny apartment storage ideas", "small living room decor", "small living room layout"]
 featured: false
 category: "Decor"
 readTime: 9
