@@ -5,7 +5,7 @@ image: "/images/closet-organizer-shelving.jpg"
 datePublished: "2025-11-02"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: ["small apartment storage ideas", "storage solutions for small spaces"]
+tags: ["storage solutions for small spaces"]
 featured: true
 category: "Storage"
 readTime: 9

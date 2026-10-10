@@ -5,7 +5,7 @@ image: "/images/apartment-tv-console-vase.jpg"
 datePublished: "2025-10-15"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: ["dollarama finds", "dollarama vases", "dollarama planters", "dollarama frames"]
+tags: []
 category: "Decor"
 featured: true
 readTime: 9
