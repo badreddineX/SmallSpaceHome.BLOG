@@ -3,7 +3,7 @@ title: "Home Office Ideas for a Small Apartment (No Spare Room)"
 description: "No spare room? 8 renter-friendly home office setups for small Canadian apartments — desk placement, storage, and separating work from living."
 image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-04-08"
-dateModified: "2026-10-09"
+dateModified: "2026-10-10"
 author: "Badreddine Br"
 tags: ["small home office", "small space desk"]
 featured: false
@@ -154,6 +154,41 @@ What works in a small workspace without adding clutter:
 - **A consistent colour** — matching your storage boxes and accessories to two or three tones keeps a busy tech corner looking intentional
 
 If you lean minimal, our [minimalist small apartment ideas](/blog/small-apartment-layout-ideas) post covers the "fewer, better things" approach that suits a small office especially well — less on the desk means less visual noise while you work.
+
+---
+
+## Can You Claim a Home Office on Your Canadian Taxes?
+
+If you work from home as an employee, the Canada Revenue Agency (CRA) lets you deduct eligible home office expenses on your T1 return — including a portion of your rent, internet, and electricity. This applies specifically to Canadian renters with a dedicated work space, which makes setting one up even more worthwhile financially.
+
+### The Two Methods (2026)
+
+**1. Flat-rate method — $2/day, no T2200 needed**
+The CRA's simplified flat-rate method lets you claim $2 per day you worked from home, up to a maximum of $500 for the year (250 days). No receipts required, no T2200 form from your employer. Fastest option for part-time WFH.
+
+**2. Detailed method — T2200 + actual expenses**
+The detailed method lets you claim a percentage of your actual home expenses:
+- Rent
+- Electricity and heat
+- Internet (work portion only)
+- Maintenance and minor repairs
+
+The percentage is calculated as: *work space square footage ÷ total home square footage*.
+
+**Example for a 510 sq ft apartment with a 50 sq ft desk corner:**
+- Work space: 50 ÷ 510 = 9.8% of the apartment
+- Monthly rent $1,800 × 9.8% = $176/month claimable
+- Over 12 months: ~$2,112 in deductible rent expenses
+
+You need a completed **T2200** (Declaration of Conditions of Employment) from your employer and must use the space *primarily* for work — meaning you can't count a corner that doubles as the dining table.
+
+### What Does Not Qualify
+- Home office furniture, desks, or chairs (capital expenses, not eligible on the T777)
+- Your own WIFI router (but monthly internet bills split by usage are fine)
+- A space you only use for work occasionally (must be your principal place of work, or exclusively used for work and meeting clients/customers)
+
+### Where to File
+Claim home office expenses on **Form T777 (Statement of Employment Expenses)**, attached to your T1. The CRA's [My Account portal](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html) lets you file online. If your employer hasn't given you a T2200 yet, ask HR — they're required to provide one if you worked from home at their direction.
 
 ---
 
