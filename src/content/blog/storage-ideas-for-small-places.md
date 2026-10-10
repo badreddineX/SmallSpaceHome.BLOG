@@ -1,7 +1,7 @@
 ---
 title: "23 Small Apartment Storage & Organization Ideas"
 description: "Out of storage in your Canadian apartment? 23 renter-friendly ideas — vertical space, hidden nooks, smart furniture, and a declutter system that sticks. No drilling."
-image: "/images/closet-organizer-shelving.jpg"
+image: "/images/storage-wicker-shelf.jpg"
 datePublished: "2025-11-02"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
@@ -272,6 +272,7 @@ This is the complete map — every room-specific and situation-specific storage 
 - [Fridge and pantry organization for small kitchens](/blog/small-space-kitchen-organization)
 - [Small apartment pantry organization on a budget](/blog/small-space-kitchen-organization)
 - [Laundry storage ideas for small apartments](/blog/small-apartment-laundry-storage-ideas)
+- [Small laundry room ideas for Canadian apartments](/blog/small-laundry-room-ideas-canada)
 - [Balcony and patio storage ideas](/blog/condo-storage-ideas-toronto-vancouver)
 
 **By category:**

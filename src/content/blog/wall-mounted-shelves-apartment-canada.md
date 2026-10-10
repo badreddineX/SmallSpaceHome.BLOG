@@ -1,7 +1,7 @@
 ---
 title: "Wall Mounted Shelves for Apartments: How to Install Them Right in Canada"
 description: "How to install wall mounted shelves in a Canadian apartment — studs, toggle bolts, no-drill options, and the best shelf brackets available at Canadian stores."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/living-room-storage-shelving.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"

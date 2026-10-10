@@ -1,7 +1,7 @@
 ---
 title: "Winter Condensation in Canadian Apartments: Fix It"
 description: "Fix winter condensation and humidity in Canadian apartments. Ideal humidity ranges, daily habits, equipment options, and mould prevention."
-image: "/images/cozy-corner-lamp-mirror.jpg"
+image: "/images/living-room-cozy.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine Br"

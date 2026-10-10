@@ -1,7 +1,7 @@
 ---
 title: "Facebook Marketplace Furniture in Canada: How to Buy Smart (2026)"
 description: "How to find, evaluate, and safely buy used furniture on Facebook Marketplace in Canada. What to inspect, how to negotiate, red flags to skip, and what categories are worth it."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/eclectic-vintage-apartment-furniture.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"

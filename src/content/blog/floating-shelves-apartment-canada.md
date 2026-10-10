@@ -1,7 +1,7 @@
 ---
 title: "Floating Shelves for Apartments: Renter-Friendly Options in Canada"
 description: "How to add floating shelves in a Canadian rental apartment — adhesive, tension, and freestanding options that don't damage walls, plus proper installation for those who can drill."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/decor-floating-shelves.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"

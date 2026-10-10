@@ -1,7 +1,7 @@
 ---
 title: "20 No-Damage Decor Changes for Canadian Renters"
 description: "20 renter-friendly, no-damage decor changes with CAD costs, difficulty ratings, and provincial lease law notes. Every change is fully reversible."
-image: "/images/gallery-wall-frames-plant.jpg"
+image: "/images/styled-corner-shelf-decor.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine Br"

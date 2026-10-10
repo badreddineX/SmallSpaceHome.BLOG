@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartment Ideas for Canadian Renters: Layout, Storage & Decor"
 description: "Studio apartment ideas that work in Canadian rentals — how to zone a single room, maximize storage, pick the right furniture, and make a studio feel like a real home."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/modern-studio-apartment-kitchen.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"

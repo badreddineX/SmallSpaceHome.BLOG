@@ -1,7 +1,7 @@
 ---
 title: "Linen Closet Organization: How to Set Up a Small Apartment Linen Closet"
 description: "How to organize a small linen closet in a Canadian apartment — shelf layout, folding methods, what to store elsewhere, and products with real CAD prices."
-image: "/images/cozy-corner-lamp-mirror.jpg"
+image: "/images/closet-wardrobe-open.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"

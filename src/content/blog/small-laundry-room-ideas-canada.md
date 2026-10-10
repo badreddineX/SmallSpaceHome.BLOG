@@ -1,7 +1,7 @@
 ---
 title: "Small Laundry Room Ideas for Canadian Apartments (2026)"
 description: "Small laundry room ideas that work in Canadian rentals — laundry closets, stackable setups, shared laundry hacks, and storage solutions with real CAD prices."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/baskets-laundry-by-bed.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"

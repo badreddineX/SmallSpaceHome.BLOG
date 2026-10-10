@@ -1,7 +1,7 @@
 ---
 title: "Fridge Organization for Small Apartments: How to Set It Up Right"
 description: "How to organize a small apartment fridge in Canada — zone system, best bins and containers, what to stop storing in the fridge, and how to reduce food waste."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/pantry-jars-cabinet-organized.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
@@ -128,4 +128,4 @@ Clearing these items can free up an entire shelf in a compact apartment fridge.
 
 A full fridge organization kit — 4 bins, a lazy Susan, and produce containers — runs $40–$65 at Amazon.ca. Most people find they need only 3–4 bins to transform the shelf organisation.
 
-For kitchen storage beyond the fridge, [small space kitchen organization](/blog/small-space-kitchen-organization) covers cabinets, counters, and pantry in a small Canadian apartment kitchen.
+For kitchen storage beyond the fridge, [small space kitchen organization](/blog/small-space-kitchen-organization) covers cabinets, counters, and pantry in a small Canadian apartment kitchen. If you're tackling a broader apartment organisation project, our guide to [storage ideas for small places](/blog/storage-ideas-for-small-places) covers every room.

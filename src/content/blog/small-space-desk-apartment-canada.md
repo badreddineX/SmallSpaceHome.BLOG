@@ -1,7 +1,7 @@
 ---
 title: "Small Space Desk Ideas for Canadian Apartments: WFH Without a Home Office"
 description: "Best small space desk setups for Canadian apartments — compact desks, wall-mounted options, closet office conversions, and how to work from home without a dedicated room."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/hanging-desk-organizer-notes.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
@@ -64,7 +64,7 @@ A sit-stand desk with a manual crank mechanism. In a Canadian apartment where yo
 
 Best for: Full-time remote workers with space for a larger desk who want sit-stand capability without a motorized (expensive) frame.
 
-### Wall-mounted folding desk (Amazon.ca, ~$80–$150)
+### [Wall-mounted folding desk](https://www.amazon.ca/dp/B0D78FBSWK?tag=smallspace06f-20) (Amazon.ca, ~$80–$150)
 
 A desk that folds flat against the wall when not in use. Takes up zero floor space when closed — the wall profile is 10–15 cm. Open, it provides a 60–90 cm wide surface supported by fold-down legs.
 
@@ -122,9 +122,9 @@ Where you put the desk matters as much as which desk you choose.
 
 A desk in a small apartment needs built-in storage — loose items have nowhere else to go.
 
-**Monitor arm:** Mounts the monitor to the wall or desk back, clearing the entire desk surface. Makes a 100 cm desk feel like a 120 cm desk. Amazon.ca, ~$30–$60 for a single arm.
+**Monitor riser:** A [monitor riser with storage drawer](https://www.amazon.ca/dp/B0BN159WKY?tag=smallspace06f-20) (~$30–$60 CAD) lifts the screen to eye level and reclaims the space beneath it for a keyboard or small items.
 
-**Pegboard above the desk:** An IKEA SKÅDIS pegboard (56 × 56 cm, ~$20) mounts above the desk and holds accessories, tools, sticky notes, and small containers on hooks. Requires 4 screws, patchable at move-out.
+**Pegboard above the desk:** A [pegboard wall organizer kit](https://www.amazon.ca/dp/B0GLN15MC3?tag=smallspace06f-20) (~$30–$50 CAD) mounts above the desk and holds accessories, headphones, cables, and sticky notes on hooks. Requires 4 screws, patchable at move-out.
 
 **Under-desk drawer unit:** IKEA ALEX drawer unit on wheels ($120–$160) rolls under the desk and provides 5 drawers for files, office supplies, and cables.
 
@@ -145,4 +145,4 @@ A desk in a small apartment needs built-in storage — loose items have nowhere 
 | Monitor arm (single) | Amazon.ca | $30–$60 |
 | IKEA SKÅDIS pegboard | IKEA Canada | ~$20 |
 
-For a full studio apartment setup guide that includes the desk zone alongside every other room function, see [studio apartment ideas for Canadian renters](/blog/studio-apartment-ideas-canada).
+For a full studio apartment setup guide that includes the desk zone alongside every other room function, see [studio apartment ideas for Canadian renters](/blog/studio-apartment-ideas-canada). If you're using the closet as your office space, [small apartment home office ideas](/blog/small-apartment-home-office-ideas) covers the full cloffice setup with Canadian tax deduction context.

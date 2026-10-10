@@ -1,7 +1,7 @@
 ---
 title: "Closet Organization for Small Apartments: 20 Ideas That Work in Canada"
 description: "How to organize a small apartment closet in Canada — maximize vertical space, add shelving without drilling, and fix the common layouts that waste half your storage."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/closet-walkin.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
@@ -145,7 +145,7 @@ The PAX system is a freestanding wardrobe — it replaces the closet rather than
 
 BOAXEL is IKEA's current wall-mounted closet system (replacing the older ALGOT). It mounts to the wall with brackets — 4 screws per bracket, patchable at move-out. Unlike PAX, it does not have side panels — everything is visible, open-shelf style.
 
-**Best use:** A reach-in closet with drywall walls where wall mounting is acceptable and you want to customise rail heights and shelf positions precisely.
+**Best use:** A reach-in closet with drywall walls where wall mounting is acceptable and you want to customise rail heights and shelf positions precisely. Pair it with a [sliding wire pull-out basket](https://www.amazon.ca/dp/B000JF8LMK?tag=smallspace06f-20) (~$30–$50) on the lower rail for folded items or accessories.
 
 **Cost:** ~$30–$50 per linear metre for rails and brackets, plus $15–$30 per shelf. A full closet redesign with 2 rails and 3 shelves runs $100–$200 in parts.
 
@@ -186,4 +186,4 @@ That five-piece combination — slim hangers, a doubler rod, a hanging organiser
 
 ---
 
-For a full bedroom storage system beyond just the closet, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) covers under-bed storage, dresser alternatives, and vertical storage options. And for organising the rest of the apartment with the same no-drill approach, [storage ideas for small places](/blog/storage-ideas-for-small-places) has every room covered.
+For a full bedroom storage system beyond just the closet, [small apartment bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) covers under-bed storage, dresser alternatives, and vertical storage options. If your linen closet also needs attention, our [linen closet organization guide](/blog/linen-closet-organization-canada) applies the same system to towels, bedding, and bathroom supplies. And for organising the rest of the apartment with the same no-drill approach, [storage ideas for small places](/blog/storage-ideas-for-small-places) has every room covered.

@@ -1,7 +1,7 @@
 ---
 title: "Entryway Storage for Small Apartments: Ideas That Work in Canada"
 description: "Entryway storage ideas for small Canadian apartments with no mudroom — hooks, benches, shoe racks, and key organizers that fit tight spaces without drilling."
-image: "/images/small-studio-living-room-bright.jpg"
+image: "/images/entryway-hallway-console.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"

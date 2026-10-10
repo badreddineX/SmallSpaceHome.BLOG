@@ -1,7 +1,7 @@
 ---
 title: "Bathroom Storage for Small Apartments: 18 Ideas That Work in Canada"
 description: "Bathroom storage solutions for small Canadian rental apartments — over-toilet shelves, under-sink organizers, door racks, and shower storage with real CAD prices."
-image: "/images/cozy-corner-lamp-mirror.jpg"
+image: "/images/bathroom-storage-shelves.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
@@ -150,6 +150,8 @@ Treat the space as two independent half-width zones on either side of the pipe:
 - **mDesign Under Sink Organizer Set** (Amazon.ca, ~$25–$40): 2-piece set with a stackable shelf and pull-out drawer tray. Designed for the pipe obstacle.
 - **Bambüsi 3-Tier Organizer** (Amazon.ca, ~$30–$50): Bamboo finish, 3 shelves, side-open design works around the pipe.
 - **IKEA GODMORGON box series** (~$8–$15 per box): Shallow rectangular boxes sit in rows and pull out like drawers on a flat shelf surface. Works best if the cabinet floor is flat and wide enough for a shelf board underneath them.
+
+For a dedicated deep-dive on the under-sink cabinet, see our full [under-sink organizer guide for apartments](/blog/under-sink-organizer-apartment-canada) — it covers every pipe layout variation and the exact $25–$40 product stack that works.
 
 ---
 

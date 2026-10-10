@@ -1,7 +1,7 @@
 ---
 title: "Structube vs IKEA for Small Canadian Apartments"
 description: "Structube vs IKEA compared for small Canadian apartments: prices, quality, small-space pieces, delivery, assembly, and return policies side by side."
-image: "/images/blog-19-img3.jpg"
+image: "/images/scandinavian-minimalist-furniture.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"

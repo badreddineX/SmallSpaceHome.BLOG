@@ -1,7 +1,7 @@
 ---
 title: "Platform Bed With Storage: Best Options for Canadian Apartments (2026)"
 description: "Platform beds with built-in storage for small Canadian apartments — drawer beds, hydraulic lift beds, and what each holds. Real CAD prices from IKEA, Wayfair, and Amazon.ca."
-image: "/images/cozy-corner-lamp-mirror.jpg"
+image: "/images/bedroom-minimalist.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
@@ -91,6 +91,8 @@ Best for: Anyone who wants to use the storage bed as a dresser replacement, elim
 **Price:** ~$400–$600 CAD (queen, Amazon.ca)
 **Storage:** 2 or 4 drawers depending on model
 **Height:** 45–50 cm
+
+> **Our top pick:** This [upholstered platform bed with 2 storage drawers](https://www.amazon.ca/dp/B0DZ2ZDXKM?tag=smallspace06f-20) (~$240 CAD) is the most-reviewed storage bed on Amazon.ca Canada — fabric upholstered, easy assembly, 2 side drawers.
 
 Zinus is one of the most reviewed mattress and bed frame brands on Amazon.ca. Their storage beds are available in queen and king, upholstered in light grey, beige, or dark grey fabric. Assembly is straightforward. The drawers are side-slide with a stopper (no full extension). Build quality is good for the price — the frame is heavy engineered wood over a steel grid, which is more rigid than pure MDF construction.
 

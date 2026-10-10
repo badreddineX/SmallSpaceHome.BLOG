@@ -131,7 +131,7 @@ This is the "fridge organization aesthetic" people are searching for lately — 
 
 A full set of 4–6 clear fridge bins plus a door organizer runs about $20–$35 CAD on Amazon.ca, replacing the wasted vertical gaps in fixed door shelving with stackable, labeled space.
 
-**Where to buy:** Amazon.ca clear fridge bin sets, ~$20–$35 CAD for a full set of 4–6 bins plus a door organizer.
+**Where to buy:** Amazon.ca clear fridge bin sets, ~$20–$35 CAD for a full set of 4–6 bins plus a door organizer. For a complete system including zone setup and what not to store in the fridge, see our full [fridge organization guide for small apartments](/blog/fridge-organization-apartment-canada).
 
 ## 12. A Fruit Basket Instead of a Fruit Bowl
 

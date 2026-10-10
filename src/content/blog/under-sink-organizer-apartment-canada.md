@@ -1,7 +1,7 @@
 ---
 title: "Under Sink Organizer Ideas for Small Apartments in Canada (2026)"
 description: "How to organize the space under your bathroom and kitchen sink in a Canadian apartment — products that work around drain pipes, with real CAD prices."
-image: "/images/cozy-corner-lamp-mirror.jpg"
+image: "/images/bathroom-wooden-organizer-cart.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
@@ -119,4 +119,4 @@ If you want a fast, low-cost improvement without buying a full organizer system:
 
 Total cost: $25–$40. Time: 20 minutes. Result: the cabinet is usable without digging.
 
-For more bathroom storage beyond the under-sink cabinet, [bathroom storage for small apartments](/blog/bathroom-storage-small-apartment-canada) covers every zone including over-toilet, door back, and shower storage.
+For more bathroom storage beyond the under-sink cabinet, [bathroom storage for small apartments](/blog/bathroom-storage-small-apartment-canada) covers every zone including over-toilet, door back, and shower storage. For a full small-space storage system across your entire apartment, see our [storage ideas guide for small places](/blog/storage-ideas-for-small-places).
