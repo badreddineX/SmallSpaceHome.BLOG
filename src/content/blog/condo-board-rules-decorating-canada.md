@@ -5,7 +5,7 @@ image: "/images/gallery-wall-frames-plant.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["condo decorating ideas"]
+tags: ["wall shelving ideas", "storage solutions for small spaces"]
 category: "Decor"
 featured: false
 readTime: 11
