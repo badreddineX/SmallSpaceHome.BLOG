@@ -1,6 +1,6 @@
 ---
-title: "Facebook Marketplace Furniture in Canada: How to Buy Smart (2026)"
-description: "How to find, evaluate, and safely buy used furniture on Facebook Marketplace in Canada. What to inspect, how to negotiate, red flags to skip, and what categories are worth it."
+title: "Facebook Marketplace Furniture: Buy Smart in Canada"
+description: "How to find and safely buy used furniture on Facebook Marketplace in Canada — what to inspect, how to negotiate, and red flags to skip."
 image: "/images/eclectic-vintage-apartment-furniture.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
@@ -10,7 +10,6 @@ featured: false
 category: "Decor"
 readTime: 10
 relatedPosts:
-  - "studio-apartment-furnishing-cost-canada"
   - "small-space-furniture"
   - "storage-ideas-for-small-places"
 faqs:
@@ -191,4 +190,4 @@ Most Canadian condo and apartment buildings require you to book the elevator for
 
 ---
 
-## For a full cost breakdown of furnishing a Canadian apartment using Marketplace and new items together, see our [studio apartment furnishing cost guide](/blog/studio-apartment-furnishing-cost-canada). And if you need ideas for arranging what you find, [small space furniture](/blog/small-space-furniture) covers layout and scale for small Canadian apartments.
+## For ideas on arranging what you find, [small space furniture](/blog/small-space-furniture) covers layout and scale for small Canadian apartments.

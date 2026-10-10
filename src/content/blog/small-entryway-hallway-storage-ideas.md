@@ -20,7 +20,6 @@ faqs:
     a: "A drop zone is a fixed spot near your door for keys, wallet, and mail so you're not searching for them every morning. A single small tray or wall pocket organizer ($8–$20 CAD) is enough. It's the cheapest habit-forming fix on this list."
 relatedPosts:
   - "storage-ideas-for-small-places"
-  - "vertical-storage-ideas-small-apartment"
   - "small-closet-organization-rental-apartment"
 ---
 
@@ -97,7 +96,7 @@ Start with whichever piece solves your biggest daily friction point, then layer 
 3. **Tension-rod or over-door coat storage** ($12–$35 CAD) — replaces a missing closet
 4. **Slim console table** ($60–$120 CAD) — adds a surface once the basics are handled
 
-Every option here is reversible, which matters if you move as often as most renters do. For more general apartment storage, [storage ideas for small apartments](/blog/storage-ideas-for-small-places) covers the rest of the unit room by room, and if you're furnishing the whole entry on a renter's budget, [renter-friendly apartment decor ideas](/blog/storage-ideas-for-small-places) has more no-drill styling tricks that pair well with these pieces. Start with a $4 tray and a $59 bench, and the daily chaos at your door mostly disappears. For the room right off the hallway, [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) uses the same no-drill approach.
+Every option here is reversible, which matters if you move as often as most renters do. For more general apartment storage, [storage ideas for small apartments](/blog/storage-ideas-for-small-places) covers the rest of the unit room by room, and if you're furnishing the whole entry on a renter's budget, [renter-friendly apartment decor ideas](/blog/storage-ideas-for-small-places) has more no-drill styling tricks that pair well with these pieces. Start with a $4 tray and a $59 bench, and the daily chaos at your door mostly disappears. For the room right off the hallway, [small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada) uses the same no-drill approach.
 
 ## How Do You Handle the Canadian Winter Gear Problem?
 
@@ -126,7 +125,6 @@ Canadian spring brings weeks of slush, mud, and salt residue that gets tracked i
 
 **Related reading:**
 - [Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places) — the full room-by-room system
-- [Vertical Storage Ideas for Small Apartments](/blog/vertical-storage-ideas-small-apartment)
 - [Small Apartment Laundry Storage Ideas](/blog/small-apartment-laundry-storage-ideas)
-- [Small Apartment Bathroom Storage](/blog/small-apartment-bathroom-storage)
+- [Small Apartment Bathroom Storage](/blog/bathroom-storage-small-apartment-canada)
 - [No-Damage Decor Guide for Canadian Renters](/blog/renters-no-damage-decor-guide-canada)

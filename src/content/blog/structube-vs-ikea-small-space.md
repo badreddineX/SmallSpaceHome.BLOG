@@ -5,7 +5,7 @@ image: "/images/scandinavian-minimalist-furniture.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["small apartment furniture", "small space furniture"]
+tags: ["small apartment furniture", "structube vs ikea"]
 featured: false
 category: "Decor"
 readTime: 10
@@ -154,7 +154,7 @@ IKEA's aesthetic is Scandinavian-functional: clean lines, neutral tones, minimal
 
 Structube leans into mid-century modern, industrial, and contemporary design trends. Their pieces have more character — tapered legs, textured upholstery, brass hardware, walnut-tone finishes. In a small apartment where every piece is visible from every angle, a few well-chosen Structube items can make the entire space feel more intentional and designed.
 
-**The practical approach:** Use IKEA for the infrastructure — storage systems, bed frame with drawers, kitchen organization, [bathroom storage](/blog/small-apartment-bathroom-storage). Then add one or two Structube pieces in the most visible spots — the sofa, the dining table, a statement shelf — where the style upgrade has the most visual return per dollar.
+**The practical approach:** Use IKEA for the infrastructure — storage systems, bed frame with drawers, kitchen organization, [bathroom storage](/blog/bathroom-storage-small-apartment-canada). Then add one or two Structube pieces in the most visible spots — the sofa, the dining table, a statement shelf — where the style upgrade has the most visual return per dollar.
 
 ---
 

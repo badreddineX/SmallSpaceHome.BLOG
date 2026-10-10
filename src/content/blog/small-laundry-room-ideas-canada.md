@@ -5,7 +5,7 @@ image: "/images/baskets-laundry-by-bed.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["small laundry room ideas", "small space storage ideas", "laundry room organization ideas"]
+tags: ["small laundry room ideas", "laundry room ideas canada"]
 featured: false
 category: "Organization"
 readTime: 9

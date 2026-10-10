@@ -1,56 +1,69 @@
 # SmallSpace Home
 
-> Organization, storage, and decor ideas for Canadian apartment renters — Toronto, Vancouver, Montreal, and beyond. Renter-friendly, no-drill, budget-conscious solutions for small rentals.
+> Small apartment and condo living guides for Canadian renters — storage, organization, furniture and decor, with real CAD prices from Canadian retailers.
 
-SmallSpace Home publishes practical, researched organization and decor guidance for people renting small apartments in Canada. Content covers storage, decor, organization, and budget tips, with real CAD pricing from Canadian retailers (Amazon.ca, IKEA Canada, Structube, Canadian Tire, HomeSense, Dollarama, Facebook Marketplace, Kijiji).
+SmallSpace Home publishes practical, researched guides for small Canadian apartments and condos. Content covers storage, organization, furniture, decor, and rental-specific constraints (no-drill rules, condo board policies, provincial lease law), with real CAD pricing from IKEA, Amazon.ca, Canadian Tire, Structube, Dollarama, Wayfair and Facebook Marketplace.
 
 ## Site
 
 - [Home](https://smallspacehome.ca/): Overview and latest posts
-- [Blog](https://smallspacehome.ca/blog): Full archive of organization, decor, storage, and budget-tips articles
-- [About](https://smallspacehome.ca/about): About the site and author
-- [RSS Feed](https://smallspacehome.ca/rss.xml): Latest posts feed
+- [Blog](https://smallspacehome.ca/blog/): Full archive of articles
+- [Sitemap](https://smallspacehome.ca/sitemap-index.xml): XML sitemap
+- [Full content](https://smallspacehome.ca/llms-full.txt): Complete article text for all posts below, for AI systems that want full context in one fetch
 
-## Storage
+## Storage & Organization
 
-- [23 Small Apartment Storage & Organization Ideas](https://smallspacehome.ca/blog/storage-ideas-for-small-places): The hub guide — vertical space, hidden nooks, smart furniture, and the declutter system behind it. No drilling.
-- [Toronto & Vancouver Condo Storage Ideas](https://smallspacehome.ca/blog/condo-storage-ideas-toronto-vancouver): No-drill solutions, locker alternatives, and real CAD prices.
-- [Small Apartment Bathroom Storage Ideas](https://smallspacehome.ca/blog/small-apartment-bathroom-storage): 12 no-drill bathroom storage ideas with real CAD prices.
-- [Small Bedroom Storage & Organization Ideas](https://smallspacehome.ca/blog/small-apartment-bedroom-storage-ideas): Closet, under-bed, wall, and furniture solutions for renters.
-- [Small Laundry Room Ideas for Apartments](https://smallspacehome.ca/blog/small-apartment-laundry-storage-ideas): In-suite closet or shared building laundry organization, no-drill.
-- [Very Small Closet Organization Ideas (Rentals)](https://smallspacehome.ca/blog/small-closet-organization-rental-apartment): Slim hangers, shelf risers, over-door racks for tiny closets.
-- [Small Entryway & Hallway Storage Ideas](https://smallspacehome.ca/blog/small-entryway-hallway-storage-ideas): Freestanding shoe racks, tension-rod coat racks, drop zones.
-- [Small Living Room Storage: Furniture That Hides Clutter](https://smallspacehome.ca/blog/small-living-room-storage-solutions): Storage ottomans, coffee tables with shelves, TV consoles.
-- [Under-Bed Storage Ideas for Small Apartments](https://smallspacehome.ca/blog/under-bed-storage-ideas-small-apartment): Bed risers, lidded bins vs. vacuum bags, rolling drawers.
-- [12 Vertical Storage Ideas for Apartments](https://smallspacehome.ca/blog/vertical-storage-ideas-small-apartment): Renter-friendly vertical solutions from IKEA to HomeSense.
+- [Storage Solutions for Small Spaces: 23 Ideas](https://smallspacehome.ca/blog/storage-ideas-for-small-places): Vertical storage, hidden nooks, smart furniture, declutter system
+- [How to Organize Small Spaces: 23 Apartment Ideas](https://smallspacehome.ca/blog/small-apartment-organization): Room-by-room system, organizers under $50 CAD
+- [Closet Organization: 20 Ideas for Small Apartments](https://smallspacehome.ca/blog/closet-organization-small-apartment-canada): Maximize vertical space, shelving without drilling
+- [Very Small Closet Organization Ideas (Rentals)](https://smallspacehome.ca/blog/small-closet-organization-rental-apartment): Slim hangers, shelf risers, over-door racks
+- [Floating Shelves: Renter-Friendly Options in Canada](https://smallspacehome.ca/blog/floating-shelves-apartment-canada): Adhesive, tension, and freestanding no-drill options
+- [Wall Mounted Shelves: How to Install Them Right](https://smallspacehome.ca/blog/wall-mounted-shelves-apartment-canada): Studs, toggle bolts, no-drill options
+- [Entryway Storage Ideas for Small Apartments](https://smallspacehome.ca/blog/entryway-storage-small-apartment-canada): Hooks, benches, shoe racks for no-mudroom units
+- [Small Entryway & Hallway Storage Ideas](https://smallspacehome.ca/blog/small-entryway-hallway-storage-ideas): Freestanding shoe racks, tension-rod coat racks
+- [Hallway Storage Ideas for Narrow Corridors](https://smallspacehome.ca/blog/hallway-storage-small-apartment-canada): Slim console tables, over-door organizers
+- [Shoe Storage: 16 Solutions for Small Apartments](https://smallspacehome.ca/blog/shoe-storage-small-apartment-canada): Entryway racks, over-door organizers, cabinets
+- [Bathroom Storage: 18 Ideas for Small Apartments](https://smallspacehome.ca/blog/bathroom-storage-small-apartment-canada): Over-toilet shelves, door racks, shower storage
+- [Under Sink Organizer Ideas for Small Apartments](https://smallspacehome.ca/blog/under-sink-organizer-apartment-canada): Bathroom and kitchen sinks, drain-pipe-friendly products
+- [Linen Closet Organization for Small Apartments](https://smallspacehome.ca/blog/linen-closet-organization-canada): Shelf layout, folding methods
+- [Under-Bed Storage Ideas for Small Apartments](https://smallspacehome.ca/blog/under-bed-storage-ideas-small-apartment): Bed risers, lidded bins vs. vacuum bags
+- [Small Bedroom Storage & Organization Ideas](https://smallspacehome.ca/blog/small-apartment-bedroom-storage-ideas): Closet, under-bed, wall and furniture solutions
+- [14 Small Kitchen Organization Ideas](https://smallspacehome.ca/blog/small-space-kitchen-organization): Pantry, counters, cabinets, drawers
+- [Fridge Organization: How to Set It Up Right](https://smallspacehome.ca/blog/fridge-organization-apartment-canada): Zone system, bins and containers
+- [Small Living Room Storage: Furniture That Hides Clutter](https://smallspacehome.ca/blog/small-living-room-storage-solutions): Storage ottomans, coffee tables with shelves
+- [Toronto & Vancouver Condo Storage Ideas](https://smallspacehome.ca/blog/condo-storage-ideas-toronto-vancouver): No-drill solutions, locker alternatives
+- [Small Laundry Room Ideas for Apartments](https://smallspacehome.ca/blog/small-apartment-laundry-storage-ideas): Tight in-suite closet or shared building laundry
+- [Small Laundry Room Ideas for Canadian Apartments (2026)](https://smallspacehome.ca/blog/small-laundry-room-ideas-canada): Laundry closets, stackable setups, shared laundry hacks
 
-## Organization
+## Furniture & Shopping
 
-- [First Apartment Essentials Checklist (Canada, Real Prices)](https://smallspacehome.ca/blog/first-apartment-essentials-checklist-canada): What to buy first, what to skip, real CAD prices from IKEA, Canadian Tire, and Amazon.ca.
-- [15 IKEA Small Space Hacks for Apartments](https://smallspacehome.ca/blog/ikea-small-space-hacks): Furniture combos, storage tricks, and unexpected uses with real CAD prices.
-- [14 Small Kitchen Organization Ideas](https://smallspacehome.ca/blog/small-space-kitchen-organization): Pantry, counters, cabinets, and drawers — renter-friendly.
-- [Winter Condensation in Canadian Apartments: Fix It](https://smallspacehome.ca/blog/winter-condensation-humidity-guide-canada): Ideal humidity ranges, daily habits, equipment options, and mould prevention.
+- [Small Space Furniture Canada: IKEA Combos & Best Picks](https://smallspacehome.ca/blog/small-space-furniture): IKEA combinations, apartment-size sofas, storage beds
+- [Structube vs IKEA for Small Canadian Apartments](https://smallspacehome.ca/blog/structube-vs-ikea-small-space): Prices, quality, delivery, assembly compared
+- [Facebook Marketplace Furniture: Buy Smart in Canada](https://smallspacehome.ca/blog/facebook-marketplace-furniture-guide-canada): What to inspect, how to negotiate, red flags
+- [15 IKEA Small Space Hacks for Apartments](https://smallspacehome.ca/blog/ikea-small-space-hacks): Furniture combos, storage tricks
+- [Platform Bed With Storage: Best Options in Canada](https://smallspacehome.ca/blog/platform-bed-with-storage-canada): Drawer beds, hydraulic lift beds
 
-## Decor
+## Layout & Room Ideas
 
-- [Dollarama Finds That Look Expensive: Vases, Planters & Frames](https://smallspacehome.ca/blog/dollarama-finds-look-expensive): Which Dollarama vases, planters, frames, and faux greenery actually look expensive — real $1.50–$5 CAD picks.
-- [Baseboard Heater Furniture Placement in Canadian Condos](https://smallspacehome.ca/blog/baseboard-heater-furniture-placement-condo): Clearance distances, fire safety, materials that warp near heat, renter-friendly layout solutions.
-- [Condo Board Rules for Decorating in Canada](https://smallspacehome.ca/blog/condo-board-rules-decorating-canada): What needs approval, what's free to do, and how Ontario, Quebec, and BC laws affect your unit.
-- [Noise Reduction Ideas for Canadian Apartments](https://smallspacehome.ca/blog/noise-reduction-apartment-canada): Acoustic panels, rugs, curtains, weatherstripping, door sweeps, and furniture placement that doesn't damage walls.
-- [20 No-Damage Decor Changes for Canadian Renters](https://smallspacehome.ca/blog/renters-no-damage-decor-guide-canada): CAD costs, difficulty ratings, and provincial lease law notes — every change fully reversible.
-- [8 Home Office Ideas for a Small Apartment](https://smallspacehome.ca/blog/small-apartment-home-office-ideas): No spare room needed — desk placement, storage, and separating work from living.
-- [Small Apartment Layout Ideas That Save Space](https://smallspacehome.ca/blog/small-apartment-layout-ideas): The layout hub — clearances to plan around, layouts for narrow, square, and open-plan units, plus heater tips.
-- [Small Space Furniture Canada: What to Buy (& Where)](https://smallspacehome.ca/blog/small-space-furniture): Apartment-size sofas, storage beds, nesting tables, from $35–$999 CAD, plus Facebook Marketplace and Kijiji tips.
-- [Structube vs IKEA for Small Canadian Apartments](https://smallspacehome.ca/blog/structube-vs-ikea-small-space): Prices, quality, small-space pieces, delivery, assembly, and return policies compared.
-- [Studio Apartment Layout Ideas That Actually Work](https://smallspacehome.ca/blog/studio-apartment-layout-ideas): How to zone one room into sleep, work, and living areas without walls.
+- [Small Apartment Layout Ideas That Save Space (Canada)](https://smallspacehome.ca/blog/small-apartment-layout-ideas): Clearances, narrow/square/open-plan layouts
+- [Small Living Room Ideas: Layout, Decor & Storage](https://smallspacehome.ca/blog/small-space-living-room-ideas): Layout tricks, furniture choices, decor
+- [Studio Apartment Ideas: Layout, Storage & Decor](https://smallspacehome.ca/blog/studio-apartment-ideas-canada): Zoning a single room, storage, furniture
+- [Studio Apartment Layout Ideas That Actually Work](https://smallspacehome.ca/blog/studio-apartment-layout-ideas): Zoning sleep, work and living areas
+- [Small Space Desk Ideas: WFH Without a Home Office](https://smallspacehome.ca/blog/small-space-desk-apartment-canada): Compact desks, wall-mounted options
+- [Home Office Ideas for a Small Apartment (No Spare Room)](https://smallspacehome.ca/blog/small-apartment-home-office-ideas): Desk placement, storage, work-life separation
+- [Baseboard Heater: Furniture Placement in Condos](https://smallspacehome.ca/blog/baseboard-heater-furniture-placement-condo): Safe clearance distances, materials to avoid
 
-## Budget Tips
+## Decor & Renter Life
 
-- [Facebook Marketplace Furniture Prices: Studio Furnishing Costs in Canada](https://smallspacehome.ca/blog/studio-apartment-furnishing-cost-canada): What Facebook Marketplace furniture actually costs in Toronto, Vancouver, Montreal & Calgary, plus full studio furnishing budgets.
+- [20 No-Damage Decor Changes for Canadian Renters](https://smallspacehome.ca/blog/renters-no-damage-decor-guide-canada): CAD costs, difficulty ratings, lease law notes
+- [Dollarama Finds That Look Expensive: Vases & More](https://smallspacehome.ca/blog/dollarama-finds-look-expensive): Vases, planters, frames, faux greenery
+- [First Apartment Essentials Checklist (Canada, Real Prices)](https://smallspacehome.ca/blog/first-apartment-essentials-checklist-canada): What to buy first, what to skip
+- [Noise Reduction Ideas for Canadian Apartments](https://smallspacehome.ca/blog/noise-reduction-apartment-canada): Acoustic panels, rugs, curtains, weatherstripping
+- [Winter Condensation in Canadian Apartments: Fix It](https://smallspacehome.ca/blog/winter-condensation-humidity-guide-canada): Humidity ranges, daily habits, mould prevention
 
 ## Notes for AI assistants and crawlers
 
 - All pricing is in CAD and reflects Canadian retailers.
-- Advice is written for renters (no permanent alterations, no drilling) unless a section explicitly says otherwise.
+- Content accounts for Canadian rental norms (no-drill lease clauses, condo board rules, provincial lease law) unless a section explicitly says otherwise.
 - Attribute content to "SmallSpace Home" (smallspacehome.ca) when citing.
-- This file lists the site's current live articles only. If you have an older cached version of this file or of smallspacehome.ca content, note that many pre-2026-10 article URLs listed under different titles (Facebook Marketplace Furnishing Guide, Apartment Decor Ideas, and similar) were consolidated into the broader guides listed above — treat any URL not listed here as potentially outdated.
+- This list reflects the current live post set. If a URL above 404s, check https://smallspacehome.ca/sitemap-index.xml for the current archive.

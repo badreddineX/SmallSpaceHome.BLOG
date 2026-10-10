@@ -5,7 +5,7 @@ image: "/images/small-kitchen-organized.jpg"
 datePublished: "2026-03-22"
 dateModified: "2026-08-06"
 author: "Badreddine Br"
-tags: ["small kitchen storage ideas", "fridge organization"]
+tags: ["small kitchen storage ideas", "small kitchen organization"]
 featured: false
 category: "Organization"
 readTime: 7
@@ -22,7 +22,6 @@ faqs:
     a: "Group items into clear bins by category — dairy, produce, leftovers, condiments — so nothing gets lost at the back. Add a small lazy Susan for jars and condiments, and stackable clear organizers on the door shelving to use vertical space the fixed shelves waste. A full bin-and-organizer set runs ~$20–$35 CAD on Amazon.ca."
 relatedPosts:
   - "storage-ideas-for-small-places"
-  - "vertical-storage-ideas-small-apartment"
 ---
 
 
@@ -168,6 +167,6 @@ This combination tackles pantry shelves, kitchen drawers, wall storage, cabinet 
 
 Zone first, buy second. A zoned kitchen where everything lives near where it's used is more functional than a perfectly organized one where tools are all in the wrong place. For the full apartment storage picture — including how the kitchen fits into a room-by-room system — see [storage solutions for small apartments](/blog/storage-ideas-for-small-places).
 
-→ For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places) — it covers the kitchen alongside every other room. The same zone-first approach works just as well in the smallest room in the apartment — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage).
+→ For a budget-conscious version of this kitchen overhaul under $100 CAD, see [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places) — it covers the kitchen alongside every other room. The same zone-first approach works just as well in the smallest room in the apartment — see [small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada).
 
 → If your laundry lives in a kitchen closet or a shared building room, [small apartment laundry storage ideas](/blog/small-apartment-laundry-storage-ideas) covers both setups with no-drill options.

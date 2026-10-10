@@ -1,11 +1,11 @@
 ---
-title: "Linen Closet Organization: How to Set Up a Small Apartment Linen Closet"
+title: "Linen Closet Organization for Small Apartments"
 description: "How to organize a small linen closet in a Canadian apartment — shelf layout, folding methods, what to store elsewhere, and products with real CAD prices."
 image: "/images/closet-wardrobe-open.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["storage solutions for small spaces", "small space storage ideas"]
+tags: ["linen closet organization", "linen closet ideas"]
 featured: false
 category: "Organization"
 readTime: 7

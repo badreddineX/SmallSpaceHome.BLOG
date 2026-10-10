@@ -22,7 +22,6 @@ faqs:
     a: "Facebook Marketplace is the cheapest source for furniture — desks, dressers, and sofas regularly list at 40–60% off retail in Canadian cities. IKEA is the best value for new basics (textiles, kitchen, storage). Dollarama covers small essentials (dish rack, hangers, cleaning supplies) for $1–$5 CAD each. Canadian Tire fills gaps on cleaning supplies and lighting."
 relatedPosts:
   - "storage-ideas-for-small-places"
-  - "studio-apartment-furnishing-cost-canada"
   - "small-apartment-organization"
 ---
 
@@ -67,7 +66,7 @@ The mattress is the single most expensive purchase and the one most worth spendi
 | Duvet + cover | $50–$80 | IKEA |
 | **Total** | **$355–$570** | |
 
-**Canadian-specific tip:** IKEA Canada's VESTERÖY mattress (~$349 CAD for a queen) is the best-value boxed mattress available in-store. Amazon.ca bed-in-a-box options (Zinus, Linenspa) start around $250 CAD. Skip the bed frame for now — the mattress goes on the floor until you find a frame on [Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) for $50–$100 CAD.
+**Canadian-specific tip:** IKEA Canada's VESTERÖY mattress (~$349 CAD for a queen) is the best-value boxed mattress available in-store. Amazon.ca bed-in-a-box options (Zinus, Linenspa) start around $250 CAD. Skip the bed frame for now — the mattress goes on the floor until you find a frame on Facebook Marketplace for $50–$100 CAD.
 
 For long-term bedroom storage, a bed frame with built-in drawers (IKEA NORDLI, $399–$699 CAD) replaces the need for a dresser entirely — see our [small bedroom storage guide](/blog/small-apartment-bedroom-storage-ideas) for the full system.
 
@@ -85,7 +84,7 @@ You need these on day one — before you unpack a single box, you'll want to sho
 | Toilet brush + plunger | $8–$12 | Dollarama, Canadian Tire |
 | **Total** | **$43–$72** | |
 
-**Skip for now:** a bathroom organizer, matching towel sets, bath accessories. Get the basics working first. When you're ready to organize the bathroom properly, our [small apartment bathroom storage guide](/blog/small-apartment-bathroom-storage) covers the full vertical storage system for under $180 CAD.
+**Skip for now:** a bathroom organizer, matching towel sets, bath accessories. Get the basics working first. When you're ready to organize the bathroom properly, our [small apartment bathroom storage guide](/blog/bathroom-storage-small-apartment-canada) covers the full vertical storage system for under $180 CAD.
 
 ## 3. Kitchen Essentials (~$60–$120 CAD)
 
@@ -145,7 +144,7 @@ This is where most first-apartment renters overspend. The rule: buy only what yo
 | Small dresser or KALLAX | $79–$150 | IKEA, Facebook Marketplace |
 | **Total** | **$429–$950** | |
 
-**The Facebook Marketplace rule:** Check Marketplace before buying anything new that costs over $50 CAD. In Toronto, Vancouver, Montreal, Ottawa, and Calgary, quality secondhand furniture regularly lists at 40–60% off retail — especially during university move-out season in April and August. Our [Facebook Marketplace furnishing guide](/blog/studio-apartment-furnishing-cost-canada) covers what to search, red flags to avoid, and pickup safety.
+**The Facebook Marketplace rule:** Check Marketplace before buying anything new that costs over $50 CAD. In Toronto, Vancouver, Montreal, Ottawa, and Calgary, quality secondhand furniture regularly lists at 40–60% off retail — especially during university move-out season in April and August. Our [Facebook Marketplace furniture guide](/blog/facebook-marketplace-furniture-guide-canada) covers what to search, red flags to avoid, and pickup safety.
 
 For choosing the right furniture sizes, [small space furniture](/blog/small-space-furniture) covers the measurements that actually matter in a Canadian apartment — the pieces that fit through standard apartment doorways and don't overwhelm a 500 sq ft space.
 
@@ -212,7 +211,7 @@ Total: ~$77–$93 CAD for an organization foundation that covers every room.
 
 **Week 2:** First furniture — a small table and chair, or a desk if you work from home (see our [small apartment home office guide](/blog/small-apartment-home-office-ideas)).
 
-**Week 3–4:** Add the sofa and any remaining furniture. Check [Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) before buying new.
+**Week 3–4:** Add the sofa and any remaining furniture. Check Facebook Marketplace before buying new.
 
 **Month 2:** Start the [organization system](/blog/storage-ideas-for-small-places). For the decor layer, [Dollarama finds that actually look expensive](/blog/dollarama-finds-look-expensive) is the fastest way to style surfaces for under $60 CAD.
 

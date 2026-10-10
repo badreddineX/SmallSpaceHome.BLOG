@@ -5,7 +5,7 @@ image: "/images/small-home-office-desk.jpg"
 datePublished: "2026-04-08"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["small home office", "small space desk"]
+tags: ["home office ideas", "small home office"]
 featured: false
 category: "Decor"
 relatedPosts:
@@ -194,7 +194,7 @@ Claim home office expenses on **Form T777 (Statement of Employment Expenses)**, 
 
 ## Where to Buy Home Office Pieces in Canada
 
-[Facebook Marketplace](/blog/studio-apartment-furnishing-cost-canada) and Kijiji list second-hand desks and chairs often at a steep discount to retail, making them worth checking before paying full price at IKEA or Wayfair Canada.
+[Facebook Marketplace](/blog/facebook-marketplace-furniture-guide-canada) and Kijiji list second-hand desks and chairs often at a steep discount to retail, making them worth checking before paying full price at IKEA or Wayfair Canada.
 
 | Store | Best For | Price Range |
 |-------|----------|-------------|
@@ -209,6 +209,6 @@ Start with the desk and the chair — those two decide whether the space works. 
 
 → Setting up the rest of the room too? Our [small space living room ideas](/blog/small-living-room-storage-solutions) and [renter-friendly apartment decor ideas](/blog/storage-ideas-for-small-places) cover how to make a work corner blend into the space it shares.
 
-→ Need a break-room reset? [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) covers the room right next to most home offices.
+→ Need a break-room reset? [Small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada) covers the room right next to most home offices.
 
 → Drowning in paperwork? [Small apartment paperwork and mail organization](/blog/storage-ideas-for-small-places) covers the filing system that keeps a home office desk clear.

@@ -1,6 +1,6 @@
 ---
-title: "Closet Organization for Small Apartments: 20 Ideas That Work in Canada"
-description: "How to organize a small apartment closet in Canada — maximize vertical space, add shelving without drilling, and fix the common layouts that waste half your storage."
+title: "Closet Organization: 20 Ideas for Small Apartments"
+description: "Closet organization for small Canadian apartments — maximize vertical space, add shelving without drilling, fix layouts that waste storage."
 image: "/images/closet-walkin.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"

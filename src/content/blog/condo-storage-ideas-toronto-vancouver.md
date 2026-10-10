@@ -5,13 +5,12 @@ image: "/images/storage-ottoman.jpg"
 datePublished: "2026-08-06"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["wall shelving ideas", "wall mounted shelves"]
+tags: ["condo storage ideas", "toronto condo storage", "vancouver condo storage"]
 featured: false
 category: "Storage"
 relatedPosts:
   - "storage-ideas-for-small-places"
   - "small-closet-organization-rental-apartment"
-  - "condo-board-rules-decorating-canada"
 readTime: 8
 faqs:
   - q: "How do I maximize storage in a Toronto home?"
@@ -58,7 +57,7 @@ Most Toronto and Vancouver condo buildings offer a locker as an optional add-on,
 
 - Under-bed storage with risers (~$15–$25 CAD) — often the single biggest untapped space in a condo bedroom
 - A full closet system overhaul (slim hangers, stackable bins) — under $100 CAD total
-- Over-toilet and over-door bathroom storage — under $130 CAD combined, see our <a href="/blog/small-apartment-bathroom-storage">bathroom storage guide</a>
+- Over-toilet and over-door bathroom storage — under $130 CAD combined, see our <a href="/blog/bathroom-storage-small-apartment-canada">bathroom storage guide</a>
 
 **The math:** a locker costs $600–$1,800 CAD a year. In-suite solutions solving the same problem cost under $300 CAD once. A locker only clears that bar for genuinely bulky items — bikes, winter tires, out-of-season sports gear — that physically cannot compress into a closet.
 
@@ -111,7 +110,7 @@ Condo bathrooms are where the no-drill constraint hits hardest, because the wall
 - **Suction-cup corner shelves** ($15–$25 CAD) for inside the shower — they hold shampoo and soap without adhesive on tile.
 - **A tension-rod shower caddy** ($20–$35 CAD) — wedges between floor and ceiling in the shower corner and holds far more than a suction shelf.
 
-Our [small apartment bathroom storage guide](/blog/small-apartment-bathroom-storage) covers the full setup with more product picks and CAD prices.
+Our [small apartment bathroom storage guide](/blog/bathroom-storage-small-apartment-canada) covers the full setup with more product picks and CAD prices.
 
 ---
 
@@ -131,5 +130,4 @@ Most Toronto and Vancouver condos include a storage locker in the basement or pa
 - [Storage Ideas for Small Apartments](/blog/storage-ideas-for-small-places) — the full room-by-room system
 - [Small Closet Organization for Rental Apartments](/blog/small-closet-organization-rental-apartment)
 - [Under-Bed Storage Ideas](/blog/under-bed-storage-ideas-small-apartment)
-- [Vertical Storage Ideas for Small Apartments](/blog/vertical-storage-ideas-small-apartment)
 - [IKEA Small Space Hacks](/blog/ikea-small-space-hacks)

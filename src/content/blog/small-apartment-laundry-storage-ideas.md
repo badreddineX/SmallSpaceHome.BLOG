@@ -5,7 +5,7 @@ image: "/images/blog-09-img2.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["small laundry room ideas", "laundry room organization ideas"]
+tags: ["laundry room organization ideas", "small apartment laundry storage"]
 featured: false
 category: "Storage"
 readTime: 7
@@ -19,8 +19,6 @@ faqs:
   - q: "How much does it cost to set up laundry storage in a small apartment?"
     a: "A full in-suite laundry closet system, shelf, door rack, and rolling cart, runs about $90–$140 CAD total. If you're limited to shared building laundry, a caddy and a rolling hamper cover the essentials for under $50 CAD."
 relatedPosts:
-  - "storage-ideas-for-small-places"
-  - "vertical-storage-ideas-small-apartment"
   - "storage-ideas-for-small-places"
 ---
 
@@ -138,13 +136,11 @@ Many older Canadian apartment buildings, especially walk-ups in Montreal and Tor
 
 Laundry storage doesn't need a renovation, just a shelf, a rack, and a place for everything to sit off the floor. Whether you're working with a stacked in-suite closet or hauling supplies down the hall to a shared laundry room, these fixes are all reversible and landlord-safe. Start with the space above your machines, it's the highest-value square footage in the whole closet.
 
-For more no-drill storage across the rest of the apartment, see our full <a href="/blog/storage-ideas-for-small-places">small apartment storage ideas</a> guide, or <a href="/blog/small-apartment-bathroom-storage">small apartment bathroom storage ideas</a> for the room next door.
+For more no-drill storage across the rest of the apartment, see our full <a href="/blog/storage-ideas-for-small-places">small apartment storage ideas</a> guide, or <a href="/blog/bathroom-storage-small-apartment-canada">small apartment bathroom storage ideas</a> for the room next door.
 
 **More small-space storage guides:**
 
 - [Storage Ideas for Small Places](/blog/storage-ideas-for-small-places) — the full no-drill overview
 - [Under-Bed Storage Ideas](/blog/under-bed-storage-ideas-small-apartment)
-- [Vertical Storage Ideas](/blog/vertical-storage-ideas-small-apartment)
 - [Small Closet Organization for Renters](/blog/small-closet-organization-rental-apartment)
-- [Small Apartment Bathroom Storage](/blog/small-apartment-bathroom-storage)
-- [Storage Bins & Baskets Guide](/blog/storage-ideas-for-small-places)
+- [Small Apartment Bathroom Storage](/blog/bathroom-storage-small-apartment-canada)

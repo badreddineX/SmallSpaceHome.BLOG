@@ -175,7 +175,7 @@ In a single room, the layout *is* the apartment. Every piece of furniture define
 - **One dining surface that doubles as a desk** — a drop-leaf table pushed against the wall works for both.
 - **Keep the kitchen counter completely clear** of non-kitchen items. In a studio, counter space is premium.
 
-Our [studio apartment layout ideas](/blog/studio-apartment-layout-ideas) guide covers five specific floor plans for studios. For budgeting the furnishing, see [studio apartment furnishing cost in Canada](/blog/studio-apartment-furnishing-cost-canada).
+Our [studio apartment layout ideas](/blog/studio-apartment-layout-ideas) guide covers five specific floor plans for studios.
 
 ### One-Bedroom (45–60 sq m)
 
@@ -237,7 +237,7 @@ Rearranging furniture costs nothing. But if the layout reveals you need differen
 | Boot tray + coat hooks | $25–$50 CAD | $50–$80 CAD |
 | Rug (160×230cm) | $60–$120 CAD (Wayfair, IKEA) | $150–$350 CAD |
 
-Check Facebook Marketplace and Kijiji before buying new — in Toronto, Vancouver, Montreal, Ottawa and Calgary, quality secondhand furniture regularly lists at 40–60% off retail, especially during university move-out season in April and August. For the full budget breakdown, see our [studio apartment furnishing cost guide](/blog/studio-apartment-furnishing-cost-canada).
+Check Facebook Marketplace and Kijiji before buying new — in Toronto, Vancouver, Montreal, Ottawa and Calgary, quality secondhand furniture regularly lists at 40–60% off retail, especially during university move-out season in April and August. For more on buying used, see our [Facebook Marketplace furniture guide](/blog/facebook-marketplace-furniture-guide-canada).
 
 ## Tips for Moving Into a Small Apartment
 

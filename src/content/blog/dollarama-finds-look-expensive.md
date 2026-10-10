@@ -1,11 +1,11 @@
 ---
-title: "Dollarama Bud Vases & Finds That Look Expensive: Planters, Frames & More"
-description: "Which Dollarama vases, planters, frames, and faux greenery actually look expensive (and which don't) — real $1.50–$5 CAD picks for Canadian renters."
+title: "Dollarama Finds That Look Expensive: Vases & More"
+description: "Dollarama finds that actually look expensive — vases, planters, frames and faux greenery, real $1.50-$5 CAD picks for Canadian renters."
 image: "/images/apartment-tv-console-vase.jpg"
 datePublished: "2025-10-15"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["dollar store vases"]
+tags: ["dollarama finds", "dollar store vases", "dollarama decor"]
 category: "Decor"
 featured: true
 readTime: 9

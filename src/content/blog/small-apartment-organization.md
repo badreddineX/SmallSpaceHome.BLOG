@@ -1,6 +1,6 @@
 ---
-title: "How to Organize Small Spaces: 23 Ideas for Canadian Apartments"
-description: "Cheap ways to organize a small Canadian apartment: room-by-room system, renter-friendly organizers under $50 CAD, and a declutter method that actually sticks."
+title: "How to Organize Small Spaces: 23 Apartment Ideas"
+description: "Cheap ways to organize a small Canadian apartment: room-by-room system, organizers under $50 CAD, and a declutter method that sticks."
 image: "/images/closet-organizer-shelving.jpg"
 datePublished: "2026-10-09"
 dateModified: "2026-10-09"
@@ -171,7 +171,6 @@ Start with free. Most apartments are significantly more organized after a real d
 
 **Related:**
 - [23 Small Apartment Storage Ideas](/blog/storage-ideas-for-small-places) — furniture and product guide
-- [Vertical Storage Ideas for Small Apartments](/blog/vertical-storage-ideas-small-apartment) — going up the walls
 - [Small Closet Organization for Renters](/blog/small-closet-organization-rental-apartment) — closet-specific system
 - [Small Space Furniture Canada](/blog/small-space-furniture) — furniture that doubles as storage
 - [First Apartment Essentials Checklist](/blog/first-apartment-essentials-checklist-canada) — what to buy first

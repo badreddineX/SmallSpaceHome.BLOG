@@ -1,16 +1,15 @@
 ---
-title: "Bathroom Storage for Small Apartments: 18 Ideas That Work in Canada"
-description: "Bathroom storage solutions for small Canadian rental apartments — over-toilet shelves, under-sink organizers, door racks, and shower storage with real CAD prices."
+title: "Bathroom Storage: 18 Ideas for Small Apartments"
+description: "Bathroom storage for small Canadian rental apartments — over-toilet shelves, door racks, and shower storage with real CAD prices."
 image: "/images/bathroom-storage-shelves.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["bathroom storage", "small bedroom storage", "storage solutions for small spaces"]
+tags: ["bathroom storage", "small apartment bathroom storage ideas"]
 featured: false
 category: "Organization"
 readTime: 9
 relatedPosts:
-  - "small-apartment-bathroom-storage"
   - "storage-ideas-for-small-places"
   - "renters-no-damage-decor-guide-canada"
 faqs:

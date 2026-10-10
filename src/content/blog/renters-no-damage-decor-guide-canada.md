@@ -5,12 +5,11 @@ image: "/images/styled-corner-shelf-decor.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine Br"
-tags: []
+tags: ["renter friendly decor", "no damage decor canada", "renters decor ideas"]
 category: "Decor"
 featured: false
 readTime: 10
 relatedPosts:
-  - "condo-board-rules-decorating-canada"
   - "small-closet-organization-rental-apartment"
   - "storage-ideas-for-small-places"
 excerpt: "20 fully reversible decor changes for Canadian renters — from Command strip gallery walls to peel-and-stick backsplash tiles — with CAD costs, difficulty ratings, and provincial lease law notes."

@@ -1,11 +1,11 @@
 ---
-title: "23 Small Apartment Storage & Organization Ideas"
-description: "Out of storage in your Canadian apartment? 23 renter-friendly ideas — vertical space, hidden nooks, smart furniture, and a declutter system that sticks. No drilling."
+title: "Storage Solutions for Small Spaces: 23 Ideas"
+description: "Storage solutions for small spaces in a Canadian apartment — vertical storage, hidden nooks, smart furniture, and a declutter system. No drilling."
 image: "/images/storage-wicker-shelf.jpg"
 datePublished: "2025-11-02"
 dateModified: "2026-10-09"
 author: "Badreddine Br"
-tags: ["storage solutions for small spaces"]
+tags: ["storage solutions for small spaces", "small apartment storage"]
 featured: true
 category: "Storage"
 readTime: 9
@@ -21,7 +21,6 @@ faqs:
   - q: "What are the best small apartment storage ideas that don't require a bigger place?"
     a: "The 23 storage ideas on this page are grouped by the four highest-impact moves: going vertical (wall shelves, over-door organizers), claiming under-bed space, upgrading closet hangers, and choosing furniture that stores as well as it seats or sleeps. Together they're the most complete set of storage solutions for small spaces available for a Canadian rental without any drilling."
 relatedPosts:
-  - "vertical-storage-ideas-small-apartment"
   - "under-bed-storage-ideas-small-apartment"
   - "small-apartment-organization"
 ---
@@ -38,7 +37,7 @@ Storage in a small Canadian apartment is always a negotiation. You're working wi
 
 This is the full room-by-room storage roundup, no budget cap — covering both the declutter-first system and habits behind it, and the same ideas kept under $100 CAD total. For the styling layer once storage is sorted, see [Dollarama finds that actually look expensive](/blog/dollarama-finds-look-expensive) — the ceramic and glass pieces in particular are the cheapest way to make open shelving look finished.
 
-Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for the full room-by-room breakdown), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (noticeably more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
+Four moves outperform everything else on this list: go vertical first (walls above eye level are the most underused storage in any apartment), claim the under-bed space (IKEA SKUBB bags, ~$14 CAD — the single highest-gain move), switch to slim velvet hangers (noticeably more closet space for $18 CAD), and hang over-door organizers on every door with zero drilling. The rest of the ideas build on those four.
 
 **Want this whole list on one printable page?** Grab the free [23-Point Storage Checklist](/free-storage-checklist) — print it, stick it on the fridge, check items off as you go.
 
@@ -265,7 +264,7 @@ This is the complete map — every room-specific and situation-specific storage 
 - [Small closet organization ideas for rental apartments](/blog/small-closet-organization-rental-apartment)
 - [Under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment)
 - [Bedroom storage ideas for apartments](/blog/small-apartment-bedroom-storage-ideas)
-- [Small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage)
+- [Small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada)
 - [Small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas)
 - [Living room storage solutions for small apartments](/blog/small-living-room-storage-solutions)
 - [Small kitchen organization ideas](/blog/small-space-kitchen-organization)
@@ -277,7 +276,7 @@ This is the complete map — every room-specific and situation-specific storage 
 
 **By category:**
 - [Small apartment shoe storage ideas](/blog/small-entryway-hallway-storage-ideas)
-- [Small apartment beauty and skincare storage ideas](/blog/small-apartment-bathroom-storage)
+- [Small apartment beauty and skincare storage ideas](/blog/bathroom-storage-small-apartment-canada)
 - [Coffee and cafe corner ideas for small apartments](/blog/small-apartment-layout-ideas)
 - [Plant corner ideas for small Canadian apartments](/blog/small-apartment-layout-ideas)
 - [Renter-friendly bike storage ideas](/blog/condo-storage-ideas-toronto-vancouver)
@@ -301,7 +300,7 @@ If you're starting from zero, tackle this order for maximum impact per dollar:
 
 These 23 ideas work in any Canadian rental — and every single one is reversible. Start with under-bed and vertical wall storage, then layer in the furniture solutions as budget allows. A 510 sq ft apartment with smart storage genuinely feels bigger than a cluttered 700 sq ft one.
 
-→ For bedroom-specific storage with exact product picks, check out [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas). And for the room this list covers least — the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for no-drill solutions sized for tiny Canadian bathrooms.
+→ For bedroom-specific storage with exact product picks, check out [bedroom storage ideas for small apartments](/blog/small-apartment-bedroom-storage-ideas). And for the room this list covers least — the bathroom — see [small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada) for no-drill solutions sized for tiny Canadian bathrooms.
 
 → Moving into a new place in Quebec? [Quebec moving day storage guide](/blog/first-apartment-essentials-checklist-canada) covers the province's unique July 1 lease-turnover crunch. And if your entryway is the first thing that gets cluttered, [small entryway and hallway storage ideas](/blog/small-entryway-hallway-storage-ideas) has the fix.
 
@@ -309,4 +308,4 @@ These 23 ideas work in any Canadian rental — and every single one is reversibl
 
 → Not sure which retailers actually carry small-space storage furniture? See [where to buy small-space storage furniture](/blog/small-space-furniture).
 
-→ Living in a condo? [Condo Board Rules for Decorating in Canada](/blog/condo-board-rules-decorating-canada) covers what your board will and won't allow before you start any project.
+→ Living in a condo? Check your building's bylaws before you start any project — condo boards often restrict flooring changes, balcony storage, and visible exterior modifications.

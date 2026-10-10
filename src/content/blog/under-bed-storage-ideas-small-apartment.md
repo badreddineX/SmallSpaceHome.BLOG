@@ -5,7 +5,7 @@ image: "/images/baskets-laundry-by-bed.jpg"
 datePublished: "2026-07-09"
 dateModified: "2026-10-08"
 author: "Badreddine Br"
-tags: ["storage under bed", "platform bed with storage"]
+tags: ["under bed storage", "storage under bed", "bed risers canada"]
 featured: false
 category: "Storage"
 readTime: 7
@@ -142,4 +142,4 @@ Standard flat bins need about 15 cm. Measure your bed's actual gap first; many p
 
 ---
 
-Under-bed storage is one of the few upgrades in a small apartment that costs almost nothing and adds real capacity. Start by measuring your clearance, then buy risers if you're short, and pick bins or vacuum bags based on what you're actually storing. It's a twenty-minute project that can free up an entire closet's worth of space. For the rest of the bedroom, our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide covers closets, hangers, and furniture in full, and our [complete small apartment storage roundup](/blog/storage-ideas-for-small-places) covers every room in the unit. For more ways to stretch a tight setup budget, see our [budget organization ideas](/blog/storage-ideas-for-small-places), and for the bathroom see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage). If risers alone aren't enough clearance, our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment) covers frames built with the storage already underneath.
+Under-bed storage is one of the few upgrades in a small apartment that costs almost nothing and adds real capacity. Start by measuring your clearance, then buy risers if you're short, and pick bins or vacuum bags based on what you're actually storing. It's a twenty-minute project that can free up an entire closet's worth of space. For the rest of the bedroom, our [bedroom storage ideas](/blog/small-apartment-bedroom-storage-ideas) guide covers closets, hangers, and furniture in full, and our [complete small apartment storage roundup](/blog/storage-ideas-for-small-places) covers every room in the unit. For more ways to stretch a tight setup budget, see our [budget organization ideas](/blog/storage-ideas-for-small-places), and for the bathroom see [small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada). If risers alone aren't enough clearance, our [storage bed buying guide](/blog/under-bed-storage-ideas-small-apartment) covers frames built with the storage already underneath.

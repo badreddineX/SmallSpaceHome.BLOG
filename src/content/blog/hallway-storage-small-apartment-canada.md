@@ -1,11 +1,11 @@
 ---
-title: "Hallway Storage for Small Apartments: Ideas for Narrow Canadian Corridors"
-description: "Hallway storage ideas for small Canadian apartments — slim console tables, over-door organizers, vertical cabinets, and hooks for corridors too narrow for standard furniture."
+title: "Hallway Storage Ideas for Narrow Corridors"
+description: "Hallway storage for small Canadian apartments — slim console tables, over-door organizers, and hooks for corridors too narrow for standard furniture."
 image: "/images/cozy-corner-lamp-mirror.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["entryway storage", "wall shelving ideas", "storage solutions for small spaces"]
+tags: ["hallway storage", "narrow hallway storage"]
 featured: false
 category: "Organization"
 readTime: 7

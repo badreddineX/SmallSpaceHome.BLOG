@@ -1,11 +1,11 @@
 ---
-title: "Under Sink Organizer Ideas for Small Apartments in Canada (2026)"
-description: "How to organize the space under your bathroom and kitchen sink in a Canadian apartment — products that work around drain pipes, with real CAD prices."
+title: "Under Sink Organizer Ideas for Small Apartments"
+description: "Under sink organizer ideas for bathroom and kitchen sinks in a Canadian apartment — products that work around drain pipes, real CAD prices."
 image: "/images/bathroom-wooden-organizer-cart.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["storage solutions for small spaces", "bathroom storage", "small space storage ideas"]
+tags: ["under sink organizer", "under sink storage"]
 featured: false
 category: "Organization"
 readTime: 7

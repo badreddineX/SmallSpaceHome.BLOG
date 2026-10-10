@@ -1,17 +1,16 @@
 ---
-title: "Wall Mounted Shelves for Apartments: How to Install Them Right in Canada"
-description: "How to install wall mounted shelves in a Canadian apartment — studs, toggle bolts, no-drill options, and the best shelf brackets available at Canadian stores."
+title: "Wall Mounted Shelves: How to Install Them Right"
+description: "How to install wall mounted shelves in a Canadian apartment — studs, toggle bolts, no-drill options, and the best shelf brackets at Canadian stores."
 image: "/images/living-room-storage-shelving.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["wall mounted shelves", "floating shelves", "wall shelving ideas"]
+tags: ["wall mounted shelves", "wall shelving ideas"]
 featured: false
 category: "Organization"
 readTime: 9
 relatedPosts:
   - "floating-shelves-apartment-canada"
-  - "vertical-storage-ideas-small-apartment"
   - "condo-storage-ideas-toronto-vancouver"
 faqs:
   - q: "How do I install wall mounted shelves without damaging the wall?"
@@ -170,4 +169,4 @@ For shelves holding heavy items — books, plants in ceramic pots, kitchen appli
 
 ---
 
-For the no-drill version of everything in this guide, [floating shelves for apartments](/blog/floating-shelves-apartment-canada) covers adhesive, tension, and freestanding options in detail. And for the full vertical storage picture — not just shelves but floor-to-ceiling storage systems — [vertical storage ideas for small apartments](/blog/vertical-storage-ideas-small-apartment) covers all the options.
+For the no-drill version of everything in this guide, [floating shelves for apartments](/blog/floating-shelves-apartment-canada) covers adhesive, tension, and freestanding options in detail. And for the full storage picture across every room, [storage ideas for small apartments](/blog/storage-ideas-for-small-places) covers all the options.

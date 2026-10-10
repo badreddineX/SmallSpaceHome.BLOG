@@ -13,7 +13,7 @@ faqs:
   - q: "What IKEA products are best for small apartments in Canada?"
     a: "The KALLAX, PAX wardrobe, NORDLI storage bed, BILLY bookcase, MICKE desk, RASKOG cart, and SKUBB under-bed bags are the core lineup. These consistently show up in the most effective small Canadian apartment setups. For KALLAX-specific ideas, our <a href='/blog/storage-ideas-for-small-places'>IKEA KALLAX hacks guide</a> has 11 configurations."
   - q: "How do I make a small apartment look bigger with IKEA furniture?"
-    a: "PAX wardrobe with mirror doors doubles perceived space immediately. BILLY bookshelves taken floor-to-ceiling draw the eye up. KALLAX as a room divider defines zones without blocking light. The rule: always go vertical — see our <a href='/blog/vertical-storage-ideas-small-apartment'>vertical storage ideas guide</a> for the full room-by-room breakdown. Taller IKEA configurations work far better in small Canadian apartments than wide, low ones."
+    a: "PAX wardrobe with mirror doors doubles perceived space immediately. BILLY bookshelves taken floor-to-ceiling draw the eye up. KALLAX as a room divider defines zones without blocking light. The rule: always go vertical. Taller IKEA configurations work far better in small Canadian apartments than wide, low ones."
   - q: "How can I use KALLAX in a small apartment?"
     a: "Media console, room divider, entryway storage, wardrobe base with hanging rod, home office bookcase, or bedside table — the KALLAX does all of it. Fabric inserts (~$6 CAD each at IKEA Canada) turn open cubes into closed storage. It's genuinely the most flexible piece in IKEA's range."
   - q: "Is IKEA furniture worth it for a rental apartment in Canada?"
@@ -96,7 +96,7 @@ This creates a proper mudroom-style entry in the smallest apartments.
 
 The RASKOG cart costs about $39 CAD and works as a rolling kitchen or bathroom cart, which matters most in apartments where a single room has to serve more than one purpose.
 
-The RASKOG 3-tier cart (~$39 CAD) works beautifully as a kitchen cart that rolls out during cooking for extra counter space, then tucks away. In the bathroom it holds towels, toiletries, and a small plant — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for more no-drill options in the same price range. If you can't find the RASKOG in stock, Amazon.ca carries several nearly identical rolling carts at the same price point, and Wayfair Canada has a wider selection of kitchen carts if you want something with a more finished look.
+The RASKOG 3-tier cart (~$39 CAD) works beautifully as a kitchen cart that rolls out during cooking for extra counter space, then tucks away. In the bathroom it holds towels, toiletries, and a small plant — see [small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada) for more no-drill options in the same price range. If you can't find the RASKOG in stock, Amazon.ca carries several nearly identical rolling carts at the same price point, and Wayfair Canada has a wider selection of kitchen carts if you want something with a more finished look.
 
 In a small apartment where rooms serve multiple purposes, the rollability is actually the feature.
 

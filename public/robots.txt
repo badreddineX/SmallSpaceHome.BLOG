@@ -52,4 +52,9 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
+# IETF Content Signals draft (contentsignals.org) — explicit machine-readable
+# preference for AI use, separate from and in addition to the per-bot allows
+# above.
+Content-Signal: ai-train=yes, search=yes, ai-personalization=no, ai-retrieval=yes
+
 Sitemap: https://smallspacehome.ca/sitemap-index.xml

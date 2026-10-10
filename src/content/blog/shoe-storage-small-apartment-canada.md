@@ -1,11 +1,11 @@
 ---
-title: "Shoe Storage for Small Apartments: 16 Solutions That Work in Canada"
-description: "Best shoe storage ideas for small Canadian apartments — entryway racks, over-door organizers, under-bed options, and cabinet solutions with real CAD prices."
+title: "Shoe Storage: 16 Solutions for Small Apartments"
+description: "Best shoe storage ideas for small Canadian apartments — entryway racks, over-door organizers, and cabinet solutions with real CAD prices."
 image: "/images/seasonal-clothes-wardrobe.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["shoe storage", "entryway storage", "small space storage ideas"]
+tags: ["shoe storage", "shoe storage ideas"]
 featured: false
 category: "Organization"
 readTime: 9

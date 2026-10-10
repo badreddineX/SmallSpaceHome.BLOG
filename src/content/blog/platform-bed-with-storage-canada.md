@@ -1,11 +1,11 @@
 ---
-title: "Platform Bed With Storage: Best Options for Canadian Apartments (2026)"
-description: "Platform beds with built-in storage for small Canadian apartments — drawer beds, hydraulic lift beds, and what each holds. Real CAD prices from IKEA, Wayfair, and Amazon.ca."
+title: "Platform Bed With Storage: Best Options in Canada"
+description: "Platform beds with built-in storage for small Canadian apartments — drawer beds, hydraulic lift beds, and what each holds, with real CAD prices."
 image: "/images/bedroom-minimalist.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["platform bed with storage", "storage under bed", "small bedroom storage"]
+tags: ["platform bed with storage", "drawer bed canada"]
 featured: false
 category: "Organization"
 readTime: 9

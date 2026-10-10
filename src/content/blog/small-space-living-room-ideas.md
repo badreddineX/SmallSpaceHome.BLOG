@@ -1,6 +1,6 @@
 ---
-title: "Small Living Room Ideas for Canadian Apartments (Layout, Decor & Storage)"
-description: "Small living room ideas that actually work in Canadian rental apartments — layout tricks, furniture choices, decor, and storage that make the room look and feel bigger."
+title: "Small Living Room Ideas: Layout, Decor & Storage"
+description: "Small living room ideas that work in Canadian rentals — layout tricks, furniture choices, decor, and storage that make the room feel bigger."
 image: "/images/small-studio-living-room-bright.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"

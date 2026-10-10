@@ -1,18 +1,17 @@
 ---
-title: "Small Space Desk Ideas for Canadian Apartments: WFH Without a Home Office"
-description: "Best small space desk setups for Canadian apartments — compact desks, wall-mounted options, closet office conversions, and how to work from home without a dedicated room."
+title: "Small Space Desk Ideas: WFH Without a Home Office"
+description: "Best small space desk setups for Canadian apartments — compact desks, wall-mounted options, and closet office conversions for working from home."
 image: "/images/hanging-desk-organizer-notes.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["small space storage ideas", "studio apartment ideas", "small apartment layout ideas"]
+tags: ["small space desk", "wfh small apartment"]
 featured: false
 category: "Organization"
 readTime: 8
 relatedPosts:
   - "studio-apartment-ideas-canada"
   - "small-apartment-layout-ideas"
-  - "vertical-storage-ideas-small-apartment"
 faqs:
   - q: "What is the smallest desk that works for a home office?"
     a: "The minimum practical desk size for a laptop-based home office is 80 × 45 cm — enough for a laptop, a small notebook, and a coffee. For a desktop monitor setup, 100 × 50 cm is the realistic minimum. Anything narrower than 40 cm depth makes a monitor feel uncomfortably close. A 60 × 40 cm wall-mounted folding desk is workable for occasional use but feels cramped for daily 8-hour work sessions."

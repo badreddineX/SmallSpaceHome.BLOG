@@ -1,11 +1,11 @@
 ---
-title: "Fridge Organization for Small Apartments: How to Set It Up Right"
-description: "How to organize a small apartment fridge in Canada — zone system, best bins and containers, what to stop storing in the fridge, and how to reduce food waste."
+title: "Fridge Organization: How to Set It Up Right"
+description: "Fridge organization for small Canadian apartments — zone system, best bins and containers, and how to reduce food waste."
 image: "/images/pantry-jars-cabinet-organized.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["fridge organization", "small space storage ideas"]
+tags: ["fridge organization", "fridge organization ideas"]
 featured: false
 category: "Organization"
 readTime: 7

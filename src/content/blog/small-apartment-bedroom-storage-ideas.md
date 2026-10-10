@@ -5,7 +5,7 @@ image: "/images/bedroom-storage-closet.jpg"
 datePublished: "2026-03-27"
 dateModified: "2026-09-05"
 author: "Badreddine Br"
-tags: ["small bedroom storage", "under-bed storage", "closet organization"]
+tags: ["small bedroom storage", "small bedroom organization"]
 featured: false
 category: "Storage"
 readTime: 7
@@ -113,7 +113,7 @@ A 100 cm wide × 201 cm tall PAX with interior organizers stores full wardrobes 
 
 ## 12. A Tall Dresser Instead of a Wide One
 
-If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide one (3–4 drawers across). A tall dresser stores the same drawer count in less floor footprint than a wide 3–4 drawer model, leaving more room for movement. Tall dressers use vertical space, leaving more floor footprint for movement — see our [vertical storage ideas guide](/blog/vertical-storage-ideas-small-apartment) for more ways to apply this beyond the dresser. Wide, low dressers consume floor space without adding much capacity.
+If you keep a dresser, choose a tall one (5–6 drawers high) rather than a wide one (3–4 drawers across). A tall dresser stores the same drawer count in less floor footprint than a wide 3–4 drawer model, leaving more room for movement. Tall dressers use vertical space, leaving more floor footprint for movement. Wide, low dressers consume floor space without adding much capacity.
 
 ## 13. Wicker Baskets on Open Shelves for Accessible Storage
 
@@ -172,7 +172,7 @@ Complete the first five steps of the priority order before considering larger pu
 
 → For the budget-first approach to organizing the whole apartment — including bedroom storage for under $100 CAD — see [small apartment organization ideas on a budget](/blog/storage-ideas-for-small-places).
 
-→ Same no-drill principles apply in the bathroom — see [small apartment bathroom storage ideas](/blog/small-apartment-bathroom-storage) for renter-friendly options under $180 CAD.
+→ Same no-drill principles apply in the bathroom — see [small apartment bathroom storage ideas](/blog/bathroom-storage-small-apartment-canada) for renter-friendly options under $180 CAD.
 
 → Want the under-bed step in more depth? [Under-bed storage ideas for small apartments](/blog/under-bed-storage-ideas-small-apartment) covers risers, lidded bins vs. vacuum bags, and what never to store under a bed.
 

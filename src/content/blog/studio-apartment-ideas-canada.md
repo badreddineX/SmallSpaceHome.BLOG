@@ -1,17 +1,16 @@
 ---
-title: "Studio Apartment Ideas for Canadian Renters: Layout, Storage & Decor"
-description: "Studio apartment ideas that work in Canadian rentals — how to zone a single room, maximize storage, pick the right furniture, and make a studio feel like a real home."
+title: "Studio Apartment Ideas: Layout, Storage & Decor"
+description: "Studio apartment ideas that work in Canadian rentals — how to zone a single room, maximize storage, and pick the right furniture."
 image: "/images/modern-studio-apartment-kitchen.jpg"
 datePublished: "2026-10-10"
 dateModified: "2026-10-10"
 author: "Badreddine Br"
-tags: ["studio apartment ideas", "small apartment layout ideas", "small space storage ideas"]
+tags: ["studio apartment ideas", "studio apartment decor"]
 featured: false
 category: "Decor"
 readTime: 10
 relatedPosts:
   - "small-apartment-layout-ideas"
-  - "studio-apartment-furnishing-cost-canada"
   - "storage-ideas-for-small-places"
 faqs:
   - q: "How do I make a studio apartment feel bigger?"
@@ -136,4 +135,4 @@ The difference between a studio that looks like a furnished room and one that lo
 
 **Plants at different heights:** A floor plant in one corner and a shelf plant at mid-height add life and draw the eye upward without requiring structural changes.
 
-For furnishing cost guidance with specific CAD budgets for setting up a studio apartment from scratch, [studio apartment furnishing costs in Canada](/blog/studio-apartment-furnishing-cost-canada) covers the full breakdown by budget level.
+For buying furniture on a budget when setting up a studio apartment from scratch, our [Facebook Marketplace furniture guide](/blog/facebook-marketplace-furniture-guide-canada) covers where to find deals and what to watch for.
