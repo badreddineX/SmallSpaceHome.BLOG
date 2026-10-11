@@ -198,7 +198,7 @@ White noise is especially helpful for sleep. If you work from home in a noisy ap
 
 ## Provincial Noise Bylaws: What the Law Says
 
-Every Canadian province handles noise complaints differently, and the specifics depend on your municipality. Here's a general overview — always check your own city's bylaw for exact hours and enforcement.
+Every Canadian province handles noise complaints differently, and the specifics depend on your municipality. Bylaws also get revised over time, so treat the table below as a starting point, not the current legal text — always check your own city's bylaw page for exact hours and enforcement.
 
 | Province / City | Typical quiet hours | Who enforces |
 |---|---|---|

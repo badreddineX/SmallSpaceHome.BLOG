@@ -58,7 +58,7 @@ In a small apartment with limited ventilation, these sources add up quickly. The
 
 ## Ideal Indoor Humidity Ranges by Outdoor Temperature
 
-There is no single correct indoor humidity level for Canadian winters. The colder it gets outside, the lower your indoor humidity needs to be to prevent condensation on windows. The following ranges are widely recommended by organizations including the Canada Mortgage and Housing Corporation (CMHC) and HVAC professionals:
+There is no single correct indoor humidity level for Canadian winters. The colder it gets outside, the lower your indoor humidity needs to be to prevent condensation on windows. The following ranges are widely recommended by organizations including the [Canada Mortgage and Housing Corporation (CMHC)](https://www.cmhc-schl.gc.ca/) and HVAC professionals:
 
 | Outdoor Temperature | Recommended Indoor Relative Humidity |
 |---|---|
